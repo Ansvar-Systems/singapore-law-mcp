@@ -1,0 +1,61 @@
+# sources.yml
+schema_version: "1.0"
+mcp_name: "Singapore Law MCP"
+jurisdiction: "SG"
+
+sources:
+  - name: "Singapore Statutes Online (SSO)"
+    authority: "Attorney-General's Chambers of Singapore"
+    official_portal: "https://sso.agc.gov.sg"
+    canonical_identifier: "N/A (Singapore statutes identified by Act title, chapter number, and revised edition year)"
+    retrieval_method: "API"
+    api_documentation: "https://sso.agc.gov.sg/Help/Api"
+    update_frequency: "weekly"
+    last_ingested: "PENDING_FIRST_INGEST"
+    license_or_terms:
+      type: "Government Open Data (Singapore Open Data Licence)"
+      url: "https://sso.agc.gov.sg/Terms-Of-Use"
+      summary: "Singapore Statutes Online provides free public access to all current Singapore legislation; content is published by the Attorney-General's Chambers under the Revised Edition of the Laws Act 1983; open for non-commercial and commercial reuse with attribution"
+    coverage:
+      scope: "All current Acts of Parliament (revised edition), subsidiary legislation, revised editions, Bills, and selected historical versions; includes the Constitution of the Republic of Singapore"
+      limitations: "Historical versions before the current revised edition may be incomplete; certain subsidiary legislation amendments may lag gazette publication; private Acts are not comprehensively covered"
+    languages:
+      - "en"
+
+  - name: "Personal Data Protection Commission (PDPC) Decisions and Guidelines"
+    authority: "Personal Data Protection Commission, Singapore"
+    official_portal: "https://www.pdpc.gov.sg"
+    canonical_identifier: "N/A"
+    retrieval_method: "HTML_SCRAPE"
+    api_documentation: "N/A"
+    update_frequency: "monthly"
+    last_ingested: "PENDING_FIRST_INGEST"
+    license_or_terms:
+      type: "Government Publication"
+      url: "https://www.pdpc.gov.sg/Terms-of-Use"
+      summary: "PDPC enforcement decisions, advisory guidelines, and guidance notes are publicly available; published as official government communications"
+    coverage:
+      scope: "PDPC enforcement decisions, advisory guidelines on the PDPA, guidance notes on data breach notification, and published regulatory guidance"
+      limitations: "Not all advisory opinions are published; internal PDPC deliberations are not available; some older decisions may not be in structured format"
+    languages:
+      - "en"
+
+data_freshness:
+  automated_checks: true
+  check_frequency: "weekly"
+  last_verified: "PENDING_FIRST_INGEST"
+
+# Notes:
+# - Singapore Statutes Online (sso.agc.gov.sg) is the official source for Singapore legislation,
+#   maintained by the Attorney-General's Chambers under the Revised Edition of the Laws Act 1983
+# - Singapore's legal system is based on English common law with significant statutory modification
+# - English is the primary legal language and the language of all legislation
+# - The Personal Data Protection Act 2012 (PDPA) was significantly amended in 2020 to introduce
+#   mandatory data breach notification (effective 1 February 2021) and enhanced enforcement powers
+# - The Personal Data Protection Commission (PDPC) is the regulator responsible for administering
+#   and enforcing the PDPA
+# - Singapore is a leading ASEAN cybersecurity hub; the Cybersecurity Act 2018 establishes the
+#   Cyber Security Agency (CSA) and a framework for CII protection
+# - The Computer Misuse Act (Cap 50A) criminalises unauthorized access and cyberattacks
+# - SSO provides an excellent structured API with JSON responses, making it one of the
+#   highest-quality government legal data sources globally

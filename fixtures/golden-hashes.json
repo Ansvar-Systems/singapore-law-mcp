@@ -1,0 +1,56 @@
+{
+  "$schema": "./golden-hashes.schema.json",
+  "version": "1.0",
+  "mcp_name": "Singapore Law MCP",
+  "jurisdiction": "SG",
+  "provisions": [
+    {
+      "id": "sg-hash-001",
+      "description": "Constitution of the Republic of Singapore, Article 9 -- liberty of the person; fundamental liberty provision protecting against deprivation of life or personal liberty",
+      "upstream_url": "https://sso.agc.gov.sg/Act/CONS1963",
+      "selector_hint": "Article 9 - Liberty of the person",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "No person shall be deprived of his life or personal liberty"
+    },
+    {
+      "id": "sg-hash-002",
+      "description": "Personal Data Protection Act 2012, Section 2 -- interpretation/definitions including personal data, organisation, data intermediary",
+      "upstream_url": "https://sso.agc.gov.sg/Act/PDPA2012",
+      "selector_hint": "Section 2 - Interpretation",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "personal data"
+    },
+    {
+      "id": "sg-hash-003",
+      "description": "Cybersecurity Act 2018, Section 2 -- interpretation and definitions for cybersecurity, critical information infrastructure, and cybersecurity threats",
+      "upstream_url": "https://sso.agc.gov.sg/Act/CSA2018",
+      "selector_hint": "Section 2 - Interpretation",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "cybersecurity"
+    },
+    {
+      "id": "sg-hash-004",
+      "description": "Companies Act 1967, Section 2 -- interpretation and definitions for company types, directors, officers, and corporate governance",
+      "upstream_url": "https://sso.agc.gov.sg/Act/CoA1967",
+      "selector_hint": "Section 2 - Interpretation",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "company"
+    },
+    {
+      "id": "sg-hash-005",
+      "description": "Electronic Transactions Act 2010, Section 2 -- interpretation and definitions for electronic records, electronic signatures, and electronic communications",
+      "upstream_url": "https://sso.agc.gov.sg/Act/ETA2010",
+      "selector_hint": "Section 2 - Interpretation",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "electronic"
+    },
+    {
+      "id": "sg-hash-006",
+      "description": "Computer Misuse Act 1993, Section 2 -- interpretation and definitions for computer, data, program, and unauthorised access",
+      "upstream_url": "https://sso.agc.gov.sg/Act/CMA1993",
+      "selector_hint": "Section 2 - Interpretation",
+      "expected_sha256": "COMPUTE_ON_FIRST_INGEST",
+      "expected_snippet": "computer"
+    }
+  ]
+}
