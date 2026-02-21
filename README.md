@@ -123,6 +123,28 @@ Once connected, just ask naturally:
 
 ---
 
+## Key Legislation Covered
+
+| Act | Year | Significance |
+|-----|------|-------------|
+| **Personal Data Protection Act (PDPA)** | 2012 (amended 2020) | Comprehensive data protection law; mandatory data breach notification since 1 February 2021; significant fines up to S$1 million per breach |
+| **Cybersecurity Act** | 2018 | Framework for protection of Critical Information Infrastructure (CII); establishes the Cyber Security Agency (CSA) |
+| **Computer Misuse Act** | 1993 (amended) | Criminalises unauthorised access to computer material, computer service, and cyberattacks |
+| **Electronic Transactions Act** | 2010 | Legal recognition of electronic records and electronic signatures |
+| **Companies Act** | 1967 (revised) | Corporate governance, registration, directors' duties |
+| **Spam Control Act** | 2007 | Regulation of unsolicited commercial electronic messages |
+| **Constitution of the Republic of Singapore** | 1963 | Supreme law; Article 9 protects liberty of the person |
+
+---
+
+## Deployment Tier
+
+**SMALL** -- Single tier, bundled SQLite database shipped with the npm package.
+
+**Estimated database size:** ~80-150 MB (full corpus of Singapore federal legislation)
+
+---
+
 ## Available Tools (13)
 
 ### Core Legal Research Tools (8)
