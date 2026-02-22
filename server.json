@@ -1,7 +1,7 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "eu.ansvar/singapore-law-mcp",
-  "description": "Singapore law database covering PDPA, Cybersecurity Act, Computer Misuse Act, Electronic Transactions Act, Companies Act, and Spam Control Act with full-text search",
+  "description": "Singapore law database — PDPA, Cybersecurity Act, Computer Misuse Act with full-text search",
   "repository": {
     "url": "https://github.com/Ansvar-Systems/singapore-law-mcp",
     "source": "github"
