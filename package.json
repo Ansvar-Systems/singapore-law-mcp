@@ -1,6 +1,6 @@
 {
   "name": "@ansvar/singapore-law-mcp",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "mcpName": "eu.ansvar/singapore-law-mcp",
   "description": "Singapore law database covering PDPA, Cybersecurity Act, Computer Misuse Act, Electronic Transactions Act, Companies Act, and Spam Control Act with full-text search",
   "author": "Ansvar Systems AB <hello@ansvar.ai>",

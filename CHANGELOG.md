@@ -7,6 +7,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.0] - 2026-02-22
+### Added
+- `data/census.json` — full corpus census (10 laws, 1,722 provisions)
+- `server.json` now includes streamable-http remote endpoint
+
+### Changed
+- Golden contract tests upgraded to in-memory MCP client/server pattern with `skipIf` guards for nightly-only assertions (`upstream_text_hash`, `citation_resolves`)
+- `fixtures/golden-tests.json` parameter names aligned to tool schemas (`document_id`/`section` instead of `law_identifier`/`article`)
+- EU cross-reference tests (sg-009, sg-010) changed to `handles_gracefully` (EU reference tables not yet populated)
+- `server.json` uses dual `packages` format (stdio + streamable-http), no `remotes` key
+
+### Fixed
+- `server.json` version synced with `package.json` and `constants.ts`
+
 ## [1.0.0] - 2026-XX-XX
 ### Added
 - Initial release of Singapore Law MCP
@@ -23,5 +37,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - npm package with stdio transport
 - MCP Registry publishing
 
-[Unreleased]: https://github.com/Ansvar-Systems/singapore-law-mcp/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/Ansvar-Systems/singapore-law-mcp/compare/v1.1.0...HEAD
+[1.1.0]: https://github.com/Ansvar-Systems/singapore-law-mcp/releases/tag/v1.1.0
 [1.0.0]: https://github.com/Ansvar-Systems/singapore-law-mcp/releases/tag/v1.0.0

@@ -1,0 +1,60 @@
+{
+  "schema_version": "1.0",
+  "jurisdiction": "SG",
+  "portal": "sso.agc.gov.sg",
+  "generated": "2026-02-22",
+  "total_laws": 10,
+  "total_provisions": 1722,
+  "laws": [
+    {
+      "id": "ca-2018",
+      "title": "Cybersecurity Act 2018",
+      "provisions": 72
+    },
+    {
+      "id": "cma-1993",
+      "title": "Computer Misuse Act",
+      "provisions": 22
+    },
+    {
+      "id": "coa-1967",
+      "title": "Companies Act 1967",
+      "provisions": 426
+    },
+    {
+      "id": "cons-1963",
+      "title": "Constitution of the Republic of Singapore",
+      "provisions": 236
+    },
+    {
+      "id": "ea-1893",
+      "title": "Evidence Act 1893",
+      "provisions": 181
+    },
+    {
+      "id": "eta-2010",
+      "title": "Electronic Transactions Act",
+      "provisions": 58
+    },
+    {
+      "id": "pc-1871",
+      "title": "Penal Code 1871",
+      "provisions": 524
+    },
+    {
+      "id": "pdpa-2012",
+      "title": "Personal Data Protection Act 2012",
+      "provisions": 86
+    },
+    {
+      "id": "sca-2007",
+      "title": "Spam Control Act 2007",
+      "provisions": 19
+    },
+    {
+      "id": "ta-1999",
+      "title": "Telecommunications Act 1999",
+      "provisions": 98
+    }
+  ]
+}
