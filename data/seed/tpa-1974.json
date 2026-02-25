@@ -1,0 +1,101 @@
+{
+  "id": "tpa-1974",
+  "type": "statute",
+  "title": "Termination of Pregnancy Act 1974",
+  "title_en": "Termination of Pregnancy Act 1974",
+  "short_name": "TPA1974",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/TPA1974",
+  "description": "An Act relating to termination of pregnancy by authorised medical practitioners and for matters connected therewith.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Termination of Pregnancy Act 1974."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. In this Act, unless the context otherwise requires — “approved institution” means any approved permanent premises within the meaning of section 2(1) of the Healthcare Services Act 2020 — ( a ) at which the holder of a licence granted under that Act is approved to provide any one or more of the following licensable healthcare services: (i) an acute hospital service; (ii) an ambulatory surgical centre service; (iii) an outpatient medical service; and ( b ) that is for the time being approved by the Minister for the purposes of this Act; [Act 19 of 2025 wef 05/12/2025] “authorised medical practitioner” means any medical practitioner who is authorised under any regulations made under this Act to carry out treatment to terminate pregnancy; “law relating to abortion” means sections 312, 313, 314, and 315 of the Penal Code 1871; “licensable healthcare service” has the meaning given by section 3(1) of the Healthcare Services Act 2020; [Act 19 of 2025 wef 05/12/2025] “medical practitioner” means any person registered under the Medical Registration Act 1997. [26/2001]"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Medical termination of pregnancy",
+      "content": "3. —(1) Subject to the provisions of this Act, a person shall not be guilty of an offence under the law relating to abortion when a pregnancy is terminated by an authorised medical practitioner acting on the request of a pregnant woman and with her written consent. (2) Except as provided by section 10, every treatment to terminate pregnancy must be carried out by an authorised medical practitioner in an approved institution. [26/2001] (3) No treatment to terminate pregnancy may be carried out by an authorised medical practitioner unless the pregnant woman — ( a ) is a citizen of Singapore or is the wife of a citizen of Singapore; ( b ) is the holder, or is the wife of a holder, of a work pass issued under the Employment of Foreign Manpower Act 1990; or ( c ) has been resident in Singapore for a period of at least 4 months immediately preceding the date on which the treatment is to be carried out, but this subsection does not apply to any treatment to terminate pregnancy which is immediately necessary to save the life of the pregnant woman. [30/2007] (4) Any person who contravenes or fails to comply with this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 3 years or to both."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Treatment to terminate pregnancy not to be carried out if pregnancy is of more than a certain duration unless in special circumstances",
+      "content": "4. —(1) No treatment to terminate pregnancy may be carried out — ( a ) if the pregnancy is of more than 24 weeks’ duration, unless the treatment is immediately necessary to save the life or to prevent grave permanent injury to the physical or mental health of the pregnant woman; or ( b ) if the pregnancy is of more than 16 weeks’ duration but less than 24 weeks’ duration, unless the treatment is carried out by an authorised medical practitioner who — (i) is in possession of the prescribed surgical or obstetric qualifications; or (ii) has acquired special skill in such treatment either in practice or by virtue of holding an appointment in an approved institution over the prescribed period. [26/2001] (2) For the purposes of subsection (1), the duration of the pregnancy is calculated from the first day of the last normal menstruation of the pregnant woman to the end of the 24th week or to the end of any week between the 16th and the 24th week (as the case may be) or the duration of the pregnancy may be ascertained by clinical examination."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Coercion or intimidation",
+      "content": "5. Any person who, by means of coercion or intimidation, compels or induces a pregnant woman against her will to undergo treatment to terminate pregnancy shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 3 years or to both."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Conscientious objection to participate in treatment to terminate pregnancy",
+      "content": "6. —(1) Subject to subsection (3), no person is under any duty, whether by contract or by any statutory or legal requirement, to participate in any treatment to terminate pregnancy authorised by this Act to which the person has a conscientious objection. (2) In any legal proceedings the burden of proof of conscientious objection mentioned in subsection (1) rests on the person claiming to rely on it and that burden may be discharged by that person testifying on oath or affirmation that he or she has a conscientious objection to participating in any treatment to terminate pregnancy. (3) Nothing in subsection (1) affects any duty to participate in any treatment which is immediately necessary to save the life or to prevent grave permanent injury to the physical or mental health of a pregnant woman."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Privilege against disclosure of matters relating to treatment to terminate pregnancy",
+      "content": "7. —(1) A person who — ( a ) is concerned with the keeping of medical records in connection with any treatment to terminate pregnancy; or ( b ) participates in any treatment to terminate pregnancy, must not, unless the pregnant woman expressly consents to the disclosure, disclose any facts or information relating to the treatment except to such persons and for such purposes as may be prescribed. (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Power to inspect approved institutions and examine records, etc.",
+      "content": "8. Any public officer, appointed by the Minister for the purpose, has power to enter any approved institution for the purpose of ensuring that the provisions of this Act, and any regulations made under this Act, are being complied with and may examine and make copies of or take extracts from any records or documents connected with any treatment to terminate pregnancy. 9. [ Repealed by Act 26 of 2001 ]"
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Relief from certain restrictions where treatment consists solely of drugs",
+      "content": "10. Despite anything in this Act, where the treatment to terminate pregnancy consists solely of the use of drugs prescribed by an authorised medical practitioner and does not, therefore, include any surgical operation or procedure, it is not necessary — ( a ) for the authorised medical practitioner to hold the prescribed qualifications or to have acquired skill in the treatment over the prescribed period; and ( b ) for the treatment to be carried out in an approved institution. [26/2001]"
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Regulations",
+      "content": "11. —(1) The Minister may make regulations for, or in respect of, every purpose which the Minister considers necessary for carrying out the provisions of this Act and for prescribing any matter which is authorised or required under this Act to be so prescribed. (2) Without limiting subsection (1), the Minister may make regulations — ( a ) requiring authorised medical practitioners to keep records of termination of pregnancy and to forward the records to the Director‑General of Health together with any information relating to the termination that the Director‑General may require; [Act 11 of 2023 wef 01/05/2023] ( b ) providing for the preservation and disposal of records in respect of the treatment to terminate pregnancy and for the use of the records for statistical or research purposes so long as such use does not disclose the identities of the persons who have received the treatment under this Act; ( c ) providing for the general or limited authorisation of medical practitioners to carry out treatment to terminate pregnancy; ( d ) prescribing the qualifications and experience of medical practitioners for the purpose of being authorised to carry out treatment to terminate pregnancy; and ( e ) prescribing the form of consent to be given by a pregnant woman undergoing treatment to terminate pregnancy."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "approved institution",
+      "definition": "“approved institution” means any approved permanent premises within the meaning of section 2(1) of the Healthcare Services Act 2020 — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorised medical practitioner",
+      "definition": "“authorised medical practitioner” means any medical practitioner who is authorised under any regulations made under this Act to carry out treatment to terminate pregnancy;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "law relating to abortion",
+      "definition": "“law relating to abortion” means sections 312, 313, 314, and 315 of the Penal Code 1871;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensable healthcare service",
+      "definition": "“licensable healthcare service” has the meaning given by section 3(1) of the Healthcare Services Act 2020; [Act 19 of 2025 wef 05/12/2025]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "medical practitioner",
+      "definition": "“medical practitioner” means any person registered under the Medical Registration Act 1997. [26/2001]",
+      "source_provision": "s2"
+    }
+  ]
+}

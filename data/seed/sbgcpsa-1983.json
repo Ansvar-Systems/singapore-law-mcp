@@ -1,0 +1,45 @@
+{
+  "id": "sbgcpsa-1983",
+  "type": "statute",
+  "title": "Statutory Bodies and Government Companies (Protection of Secrecy) Act 1983",
+  "title_en": "Statutory Bodies and Government Companies (Protection of Secrecy) Act 1983",
+  "short_name": "SBGCPSA1983",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/SBGCPSA1983",
+  "description": "An Act to protect the secrecy of information of statutory bodies and Government companies.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Statutory Bodies and Government Companies (Protection of Secrecy) Act 1983."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. In this Act, “specified organisation” means a statutory body or a Government company which is specified in the Schedule."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Protection of secrecy",
+      "content": "3. —(1) A person who is or has been a member or an officer, employee or agent of a specified organisation must not, without authority of that organisation, disclose to any other person any secret or confidential document or information which the person has obtained or to which the person has access by virtue of the person’s position as such member, officer, employee or agent. (2) Subsection (1) does not apply to the disclosure of any document or information — ( a ) for the purpose of the performance of his or her duties or functions by any member, officer, employee or agent of a specified organisation; or ( b ) which is lawfully required or authorised to be disclosed by any court or where required or allowed by the provisions of any written law. [5/2018] (3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Consent for prosecution",
+      "content": "4. A prosecution must not be instituted under this Act except with the written consent of the Public Prosecutor. [15/2010]"
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Amendment of Schedule",
+      "content": "5. The President may, by notification in the Gazette , amend the Schedule."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "recjra-2019",
+  "type": "statute",
+  "title": "Reciprocal Enforcement of Commonwealth Judgments (Repeal) Act 2019",
+  "title_en": "Reciprocal Enforcement of Commonwealth Judgments (Repeal) Act 2019",
+  "short_name": "RECJRA2019",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/RECJRA2019",
+  "description": "An Act to repeal the Reciprocal Enforcement of Commonwealth Judgments Act (Chapter 264 of the 1985 Revised Edition) and to make consequential amendments to certain other Acts.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title and commencement",
+      "content": "1. This Act is the Reciprocal Enforcement of Commonwealth Judgments (Repeal) Act 2019 and comes into operation on a date that the Minister appoints by notification in the Gazette ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Repeal of Reciprocal Enforcement of Commonwealth Judgments Act",
+      "content": "2. —(1) The Reciprocal Enforcement of Commonwealth Judgments Act (called in this Act the repealed Act) is repealed. (2) Despite subsection (1) — ( a ) sections 2A and 3(1) and (2) of the repealed Act as in force immediately before the date of commencement of this Act (called in this Act the appointed date) continue to apply to a judgment obtained before that date — (i) in a superior court of the United Kingdom of Great Britain and Northern Ireland; or (ii) in such court of such part of the Commonwealth as is specified in a notification under section 5 of the repealed Act that was in force immediately before that date; ( b ) sections 2A and 3(3) of the repealed Act as in force immediately before the appointed date continue to apply to a judgment registered under section 3(1) and (2) of the repealed Act, including those provisions as applied by paragraph ( a ); ( c ) sections 2A and 3(5) of the repealed Act as in force immediately before the appointed date continue to apply to a judgment mentioned in paragraph ( a ) registrable under the repealed Act, including by the application of that paragraph; and ( d ) section 4 of the repealed Act as in force immediately before the appointed date continues to apply to a judgment obtained in the General Division of the High Court before that date. [Act 40 of 2019 wef 01/03/2023]"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Repeal of Part II of Reciprocal Enforcement of Foreign Judgments Act",
+      "content": "3. —(1) Part II of the Reciprocal Enforcement of Foreign Judgments Act (Cap. 265, 2001 Ed.) (called in this section the REFJA) is repealed. (2) Despite subsection (1), section 10 of the REFJA as in force immediately before the appointed date continues to apply in relation to an order made under section 3 of the REFJA before that date extending Part I of the REFJA to a part of the Commonwealth to which the repealed Act applied, and that was in force immediately before that date."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Consequential amendment to International Arbitration Act",
+      "content": "4. —(1) Section 33 of the International Arbitration Act (Cap. 143A, 2002 Ed.) is amended by deleting subsection (2). (2) Despite subsection (1), section 33(2) of the International Arbitration Act as in force immediately before the appointed date continues to apply to a foreign award (within the meaning of that Act) made before that date and registrable under the repealed Act, including by the application of section 2(2)."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Additional saving and transitional provisions",
+      "content": "5. For a period of 2 years after the appointed date, the Minister may, by regulations, prescribe such additional provisions of a saving or transitional nature consequent on the enactment of any provision of this Act as the Minister may consider necessary or expedient."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,80 @@
+{
+  "id": "aela-1993",
+  "type": "statute",
+  "title": "Application of English Law Act 1993",
+  "title_en": "Application of English Law Act 1993",
+  "short_name": "AELA1993",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/AELA1993",
+  "description": "An Act to declare the extent to which English law is applicable in Singapore and for purposes connected therewith.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Application of English Law Act 1993."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. In this Act, unless the context otherwise requires — “English enactment” means an enactment of the Parliament of England, the Parliament of Great Britain or the Parliament of the United Kingdom; “local Act” means an Act of the Parliament of Singapore and includes any Ordinance or Act of Singapore or of Malaysia having the force of law in Singapore."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application of common law and equity",
+      "content": "3. —(1) The common law of England (including the principles and rules of equity), so far as it was part of the law of Singapore immediately before 12 November 1993, continues to be part of the law of Singapore. (2) The common law continues to be in force in Singapore, as provided in subsection (1), so far as it is applicable to the circumstances of Singapore and its inhabitants and subject to such modifications as those circumstances may require."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Application of English enactments",
+      "content": "4. —(1) Subject to the provisions of this section and of any other written law, the following English enactments, with the necessary modifications, apply or continue to apply in Singapore: ( a ) the English enactments specified in the second and third columns of the First Schedule to the extent specified in the fourth column thereof; and ( b ) any other English enactment which applies to or is in force in Singapore by virtue of any written law. (2) The English enactments specified in Part 2 of the First Schedule are the enactments as they are in force as at 12 November 1993, subject to the exceptions specified in the fourth column of that Part and to the amendments specified in Part 3 of that Schedule. (3) To the extent to which any of the provisions of any English enactment is inconsistent with the provisions of any local Act in force at or after 12 November 1993, the provisions of the local Act prevail. (4) In relation to any English enactment specified in the First Schedule, unless the context otherwise requires — ( a ) any reference to the United Kingdom is to be read as a reference to Singapore; ( b ) any reference to the High Court is to be read as a reference to the General Division of the High Court in Singapore; ( c ) any reference to a County Court is to be read as a reference to a District Court in Singapore; ( d ) any reference to the holder of an office is to be read as a reference to the holder of the corresponding office in Singapore; ( e ) any reference to a statute or a statutory provision, where applicable, is to be read as a reference to the corresponding statute or statutory provision in Singapore; and ( f ) any reference or provision relating to Scotland or Northern Ireland or to any enactment relating to Scotland or Northern Ireland is to be disregarded. [40/2019]"
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Other enactments not part of law of Singapore",
+      "content": "5. —(1) Except as provided in this Act, no English enactment is part of the law of Singapore. (2) Where any English enactment ceases by virtue of this Act to be part of the law of Singapore, the Interpretation Act 1965 applies as it would apply on the repeal of an Act of the Parliament of Singapore."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Repeal",
+      "content": "6. —(1) Subject to subsection (2), section 5 of the Civil Law Act (Cap. 43, 1988 Revised Edition) is repealed. (2) In respect of any proceedings instituted or any cause of action accruing before 12 November 1993, section 5 of the Civil Law Act (Cap. 43, 1988 Revised Edition) continues to apply as if it had not been repealed by this Act. (3) The Voluntary Conveyances Act (Cap. 346, 1985 Revised Edition) is repealed."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Miscellaneous amendments",
+      "content": "7. The local Acts specified in the Second Schedule are amended in the manner provided in that Schedule."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Modification Orders",
+      "content": "8. The Minister may, on the advice of the Law Revision Commissioners and where the Minister considers it necessary or expedient for the purpose of removing any difficulty arising from local conditions or circumstances in the application of any provision in any English enactment specified in the First Schedule, by order modify or substitute that provision."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Revised edition of English enactments",
+      "content": "9. —(1) The Law Revision Commissioners appointed under the Revised Edition of the Laws Act 1983 may prepare and publish a revised edition of any English enactment specified in the First Schedule so as to bring the enactment into conformity with the local Acts. (2) In preparing a revised edition under subsection (1), the Commissioners have all the powers under section 4 of the Revised Edition of the Laws Act 1983. (3) The Commissioners must transmit to the President a copy of any revised edition of an English enactment published under this section and with effect from such date as the President may specify by order in the Gazette any such revised edition is, in all courts and for all purposes, the sole and only proper law of Singapore in respect of that enactment. (4) Every revised edition of an English enactment must, as soon as possible after the publication of such order, be presented to Parliament. (5) Where a revised edition of any English enactment has been published under this section, the Commissioners may, from time to time if they consider necessary, issue a subsequent revised edition of that enactment. (6) The Commissioners must cause every revised edition of an English enactment to be published in the form of a booklet or in loose‑leaf form. [2/2012] (7) The Commissioners may also cause a revised edition of any English enactment that is or has been published in accordance with subsection (6) to be published in electronic form. [2/2012] (8) Despite subsections (3) and (6), any English enactment published in electronic form under subsection (7) may, in all courts and for all purposes, be taken and accepted as prima facie evidence of the proper law of Singapore in respect of that enactment. [2/2012] (9) Where there is any discrepancy or inconsistency between a revised edition of any English enactment published in the form of a booklet or in loose‑leaf form and the same revised edition of that English enactment published in electronic form, the revised edition published in the form of a booklet or in loose‑leaf form prevails. [2/2012]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "English enactment",
+      "definition": "“English enactment” means an enactment of the Parliament of England, the Parliament of Great Britain or the Parliament of the United Kingdom;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "local Act",
+      "definition": "“local Act” means an Act of the Parliament of Singapore and includes any Ordinance or Act of Singapore or of Malaysia having the force of law in Singapore.",
+      "source_provision": "s2"
+    }
+  ]
+}

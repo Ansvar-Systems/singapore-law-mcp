@@ -1,0 +1,45 @@
+{
+  "id": "mca-1987",
+  "type": "statute",
+  "title": "Minors’ Contracts Act 1987",
+  "title_en": "Minors’ Contracts Act 1987",
+  "short_name": "MCA1987",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/MCA1987",
+  "description": "An Act to amend the law relating to minors’ contracts.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Disapplication of Infants Relief Act 1874",
+      "content": "1. The Infants Relief Act 1874 (which invalidates certain contracts made by minors and prohibits actions to enforce contracts ratified after majority) shall not apply to any contract made by a minor after 9 April 1987."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Guarantees",
+      "content": "2. Where — ( a ) a guarantee is given in respect of an obligation of a party to a contract made after 9 April 1987; and ( b ) the obligation is unenforceable against him (or he repudiates the contract) because he was a minor when the contract was made, the guarantee shall not for that reason alone be unenforceable against the guarantor."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Restitution",
+      "content": "3. —(1) Where — ( a ) a person (the claimant) has after 9 April 1987 entered into a contract with another (the defendant); and ( b ) the contract is unenforceable against the defendant (or he repudiates it) because he was a minor when the contract was made, the court may, if it is just and equitable to do so, require the defendant to transfer to the claimant any property acquired by the defendant under the contract, or any property representing it. [Act 25 of 2021 wef 01/04/2022] (2) Nothing in this section shall be taken to prejudice any other remedy available to the claimant. [Act 25 of 2021 wef 01/04/2022]"
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Contracts before 12 November 1993",
+      "content": "4. Nothing in this Act applies in relation to a contract made after 9 April 1987 and before 12 November 1993 except in so far as it was applicable by virtue of section 5 of the Civil Law Act 1909 in force before 12 November 1993."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Short title",
+      "content": "5. This Act may be cited as the Minors’ Contracts Act 1987."
+    }
+  ],
+  "definitions": []
+}

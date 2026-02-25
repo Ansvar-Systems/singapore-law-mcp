@@ -1,0 +1,49 @@
+{
+  "id": "peoa-1976",
+  "type": "statute",
+  "title": "Pensions (Expatriate Officers) Act",
+  "title_en": "Pensions (Expatriate Officers) Act",
+  "short_name": "PEOA1976",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/PEOA1976",
+  "description": "An Act to give effect to the Public Officers’ Pension (Singapore) Agreement 1976 between the Government of the Republic of Singapore and the Government of the United Kingdom of Great Britain and Northern Ireland.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act may be cited as the Pensions (Expatriate Officers) Act."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. In this Act — “Agreement” means the Public Officers’ Pension (Singapore) Agreement 1976 between the Government of the Republic of Singapore and the Government of the United Kingdom of Great Britain and Northern Ireland signed at Singapore on 26th March 1976; “law relating to pensions” means — ( a ) the Retirement from the Public Service (Compensation) Ordinance 1956; [43/56] ( b ) the Pensions Act [Cap. 225] and the regulations made thereunder; and ( c ) the Widows’ and Orphans’ Pension Act [Cap. 350]; “officer” means an officer to whom the Public Officers Agreement between Her Majesty’s Government in the United Kingdom and the Government of Malaysia in respect of Singapore signed at Kuala Lumpur on 9th July 1964 applies or applied and who was not a citizen of Singapore on 1st April 1971 or who, having retired from the public service or having died in public service after that date, is not or was not a citizen of Singapore at the time of his retirement or death, as the case may be."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Law relating to pensions to cease to apply to officers and other persons falling within Agreement",
+      "content": "3. With effect from 1st January 1978 * , the law relating to pensions shall cease to apply to any officer or to his widow or child or to his legal personal representative in respect of whom the Government of the United Kingdom of Great Britain and Northern Ireland has assumed responsibility for the payment of pension in accordance with the provisions of the Agreement. * The appointed day for the purpose of the Agreement, as mutually arranged between the Government of the United Kingdom and the Government of the Republic of Singapore."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Agreement",
+      "definition": "“Agreement” means the Public Officers’ Pension (Singapore) Agreement 1976 between the Government of the Republic of Singapore and the Government of the United Kingdom of Great Britain and Northern Ireland signed at Singapore on 26th March 1976;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "law relating to pensions",
+      "definition": "“law relating to pensions” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "officer",
+      "definition": "“officer” means an officer to whom the Public Officers Agreement between Her Majesty’s Government in the United Kingdom and the Government of Malaysia in respect of Singapore signed at Kuala Lumpur on 9th July 1964 applies or applied and who was not a citizen of Singapore on 1st April 1971 or who, having retired from the public service or having died in public service after that date, is not or was not a citizen of Singapore at the time of his retirement or death, as the case may be.",
+      "source_provision": "s2"
+    }
+  ]
+}

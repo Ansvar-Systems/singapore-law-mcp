@@ -1,0 +1,51 @@
+{
+  "id": "dfa-1959",
+  "type": "statute",
+  "title": "Development Fund Act 1959",
+  "title_en": "Development Fund Act 1959",
+  "short_name": "DFA1959",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/DFA1959",
+  "description": "An Act to define the purposes of and to regulate the Development Fund and to provide for the payment into the Development Fund of sums raised under any Loan Act.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. —(1) This Act is the Development Fund Act 1959. (2) Nothing in this Act shall be deemed to affect the legality of any expenditure incurred before 14 September 1959."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Development Fund",
+      "content": "2. There shall be in and for Singapore a Development Fund into which, subject to the provisions of any other written law, shall be paid — ( a ) all moneys from time to time appropriated and authorised to be paid into the Development Fund by this Act or by any other written law; ( b ) all sums representing the proceeds of any loan raised by Singapore for the purposes of the Development Fund and appropriated to such purposes by the law authorising the raising of the loan; ( c ) all loans or grants from time to time made to Singapore for the purposes of or properly allocable to the Development Fund; ( d ) all revenues of Singapore allocated to the Development Fund; ( e ) all interest on investments of moneys in the Development Fund authorised to be made by this Act or by any other written law, and all profits arising from the realisation of any such investments; and ( f ) all sums representing repayments of any loans made from the Development Fund, or payments of interest on such loans."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application of moneys in Development Fund",
+      "content": "3. Subject to section 5, the moneys in the Development Fund shall be applied only to the purposes or any one or more thereof specified in the Schedule and in accordance with a Supply or Supplementary Supply law appropriating and directing the expenditure of such moneys. [15/2021]"
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Payment of moneys from Development Fund",
+      "content": "4. —(1) The Minister may, by warrant, authorise the issue of any sum from the Development Fund to meet expenditure appropriated by a Supply or Supplementary Supply law. [Act 3 of 2024 wef 26/02/2024] (2) If it appears to the Minister to be necessary to alter the proportion assigned to any of the subheads of any head of expenditure appropriated by a Supply or Supplementary Supply law, or to create a new subhead, the Minister may, by warrant, authorise the transfer of a further sum out of any surplus arising on any other subhead of the same head, in aid of any subhead which may be deficient or of any new subhead except that the amount appropriated under any head of expenditure by a Supply or Supplementary Supply law shall not be thereby exceeded. [Act 3 of 2024 wef 26/02/2024]"
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Nationally significant infrastructure expenditure",
+      "content": "5. —(1) All sums borrowed under the Significant Infrastructure Government Loan Act 2021 and which are paid into the Development Fund may be applied only to meet nationally significant infrastructure expenditure within the meaning of section 11 of that Act. [15/2021] (2) To avoid doubt, subsection (1) does not prevent authorising the issue of any sum from the Development Fund and applying the money to meet an estimate of any nationally significant infrastructure expenditure within the meaning of section 11 of the Significant Infrastructure Government Loan Act 2021 on a provisional basis. [15/2021]"
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Contingencies Fund",
+      "content": "6. —(1) A Contingencies Fund is hereby created consisting of moneys from time to time appropriated thereto from the Development Fund. (2) The Minister may, if he is satisfied that there has arisen an urgent and unforeseen need for expenditure for which no other provision exists and for which funds cannot be provided under section 4(2), and if the President, acting in his discretion, concurs with the making of an advance for such need, make advances from the Contingencies Fund to meet such need. [Act 3 of 2024 wef 26/02/2024] (2A) An advance under subsection (2) must be authorised by a warrant issued under the authority of the Minister. [Act 19 of 2025 wef 05/12/2025] (3) Where any advance is made by virtue of the authority conferred under subsections (2) and (2A), a supplementary estimate of the sum required to replace the amount so advanced shall, as soon as practicable, be presented to and voted on by Parliament and the sum shall be included in a Supplementary Supply or Final Supply law. [Act 19 of 2025 wef 05/12/2025]"
+    }
+  ],
+  "definitions": []
+}

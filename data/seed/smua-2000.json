@@ -1,0 +1,97 @@
+{
+  "id": "smua-2000",
+  "type": "statute",
+  "title": "Singapore Management University Act 2000",
+  "title_en": "Singapore Management University Act 2000",
+  "short_name": "SMUA2000",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/SMUA2000",
+  "description": "An Act to provide for certain matters relating to the operation of a university known as the Singapore Management University.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Singapore Management University Act 2000."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. In this Act, unless the context otherwise requires — “Board” means the Board of Trustees of the university company mentioned in its constituent documents; “constituent documents”, in relation to the university company, means the memorandum of association and articles of association of the university company; “university company” means the company limited by guarantee incorporated under the Companies Act 1967 on 12 January 2000 under the name “Singapore Management University”."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Function of university company",
+      "content": "3. The function of the university company is to pursue, within the limits of the financial resources available to it, the objects provided by its constituent documents and, in particular, to confer and award degrees, diplomas and certificates, including honorary degrees and other distinctions."
+    },
+    {
+      "provision_ref": "s3A",
+      "section": "3A",
+      "title": "Accountability and evaluation",
+      "content": "3A. —(1) The university company must comply with the accountability framework set out by way of any written agreement between the university company and the Minister or any person authorised by the Minister. (2) The university company must evaluate the performance of its activities in accordance with such quality assurance framework as the Minister may determine. (3) The university company must participate in the evaluation of its activities by any external review panel that the Minister may commission from time to time."
+    },
+    {
+      "provision_ref": "s3B",
+      "section": "3B",
+      "title": "Directions in respect of policies on higher education in Singapore",
+      "content": "3B. —(1) The Minister may, in consultation with the university company, establish any policies on higher education in Singapore that the Minister thinks fit and may direct the university company to implement those policies. (2) The university company must comply with any direction given by the Minister under subsection (1)."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Appointment to Board",
+      "content": "4. —(1) The Board consists of such number of trustees as the Minister may appoint. (2) The Minister may, at any time, remove or replace any trustee, or appoint new or additional trustees to the Board."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Consent of Minister",
+      "content": "5. —(1) The prior written consent of the Minister is required for — ( a ) the admission of any person as a member of the university company and the removal of any such member; ( b ) the disposal of the whole or substantially the whole of the university company’s undertaking or property; ( c ) the voluntary winding up of the university company; ( d ) the addition, deletion or alteration of any provision of the constituent documents of the university company; and ( e ) the removal of any trustee from the Board. (2) The requirements under subsection (1) apply in addition to the requirements prescribed by the Companies Act 1967 and the Insolvency, Restructuring and Dissolution Act 2018 in respect of the matters referred to in subsection (1)( a ) to ( e ). [40/2018] (3) Any act done or agreement made in contravention of subsection (1) has no effect and is unenforceable at law."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Provision of funds",
+      "content": "6. —(1) The Minister must pay to the university company such moneys as Parliament may provide from time to time for the funding of the university company. (2) All moneys paid to the university company under subsection (1) may only be applied or expended by the university company for such objects provided by its constituent documents as the Minister may allow."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Access to accounts and summary of financial statements",
+      "content": "7. —(1) The Minister or a person authorised by the Minister (called in this section an authorised person) is entitled, at all reasonable times, to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the university company. (2) The Minister or an authorised person may require any person to provide him or her with any information in that person’s possession, or to which that person has access, that the Minister or authorised person considers necessary for ascertaining — ( a ) whether moneys paid to the university company under section 6 were applied or expended in accordance with that section; and ( b ) any other matters that the Minister or authorised person considers necessary. (3) The university company must make available to the public, at such frequency and in such manner as the Minister may determine, a summary of the financial statements of the university company which must be in such form and contain such information as the Minister may determine. (4) Any person who, without reasonable excuse, fails to comply with any requirement of the Minister or an authorised person under subsection (2), or who otherwise hinders, obstructs or delays the Minister or an authorised person in the performance of his or her duties or in the exercise of his or her powers under this section, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Application of Societies Act 1966 to student bodies",
+      "content": "8. —(1) Despite anything to the contrary in the Societies Act 1966, the provisions of that Act have effect in relation to any student body constituted pursuant to the provisions of the constituent documents of the university company. (2) The Minister charged with the responsibility for societies may, by order in the Gazette , exempt any student body mentioned in subsection (1) from all or any of the provisions of the Societies Act 1966 subject to any conditions specified in the order."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Act to prevail over constituent documents, etc.",
+      "content": "9. —(1) Any provision of the constituent documents, or any regulation of the university company made under any provision of the constituent documents, that is inconsistent with any provision of this Act is, to the extent of the inconsistency, void. (2) Nothing in this Act is to be construed as excusing or exempting the university company from complying with any written law that, apart from this Act, would apply to the university company."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Board",
+      "definition": "“Board” means the Board of Trustees of the university company mentioned in its constituent documents;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "constituent documents",
+      "definition": "“constituent documents” , in relation to the university company, means the memorandum of association and articles of association of the university company;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "university company",
+      "definition": "“university company” means the company limited by guarantee incorporated under the Companies Act 1967 on 12 January 2000 under the name “Singapore Management University”.",
+      "source_provision": "s2"
+    }
+  ]
+}

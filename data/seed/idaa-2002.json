@@ -1,0 +1,91 @@
+{
+  "id": "idaa-2002",
+  "type": "statute",
+  "title": "International Development Association Act 2002",
+  "title_en": "International Development Association Act 2002",
+  "short_name": "IDAA2002",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/IDAA2002",
+  "description": "An Act to enable Singapore to become a member of the International Development Association by acceptance of the Articles of Agreement of the establishment and operation of the International Development Association.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the International Development Association Act 2002."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. In this Act, unless the context otherwise requires — “Agreement” means the Articles of Agreement opened for signature at Washington on 24 September 1960 providing for the establishment and operation of the international body known as the International Development Association; “Association” means the International Development Association established by the Agreement; “membership resolution” means the resolution adopted by the Board of Governors of the Association specifying the terms and conditions upon which Singapore is admitted to membership of the Association."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Acceptance of Agreement",
+      "content": "3. The President may by instrument under his or her hand empower a person named in the instrument, on behalf of the Government — ( a ) to sign the Agreement and such other instruments required for admission to membership of the Association; and ( b ) to deposit with the International Bank for Reconstruction and Development an instrument of acceptance stating that the Government has — (i) accepted without reservation in accordance with the laws of Singapore the Agreement and the terms and conditions of the membership resolution; and (ii) taken all steps necessary to enable the Government to carry out all its obligations under the Agreement and the membership resolution."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Financial provision for membership subscriptions",
+      "content": "4. —(1) Subject to subsection (2), all sums necessary for the purpose of making all payments of subscriptions on behalf of the Government required to be made to the Association under the Agreement and the membership resolution are charged on and must be paid out of the Consolidated Fund. [10/2004] [Act 34 of 2022 wef 23/12/2022] (2) Subject to subsection (3), the total subscription to the Association must not exceed the sum of one million United States dollars unless increased with the approval of Parliament signified by resolution. [Act 34 of 2022 wef 23/12/2022] (3) Any additional subscription made on any occasion on behalf of the Government to the Association by reason of Singapore’s membership of the Association under the Agreement and the membership resolution must be authorised by, and must not exceed the maximum amount specified in, a resolution of Parliament for that occasion. [Act 34 of 2022 wef 23/12/2022] [Act 34 of 2022 wef 23/12/2022]"
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Issue of non-negotiable notes and creation of other obligations",
+      "content": "5. —(1) To the extent to which the Association is prepared to accept from the Government notes or other obligations that are non-interest bearing and non-negotiable and that are payable at their par value on demand in place of any payment that the Government has made, intends to make or is required to make to the Association under section 4, the Minister may, with the concurrence of the President under Article 144(1) of the Constitution, create and issue to the Association, in such form as the Minister thinks fit and as is acceptable to the Association, any such notes or other obligations. (2) Any sums necessary to redeem any notes or obligations issued under subsection (1) is a charge on the Consolidated Fund."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Power to raise loans",
+      "content": "6. —(1) For the purpose of providing any sums required for making payments to the Association under section 4, the Minister may, with the concurrence of the President under Article 144(1)( b ) of the Constitution, raise loans, on behalf of the Government, by the creation and issue of securities bearing such rates of interest and subject to such conditions as to repayment, redemption or otherwise as the Minister thinks fit. (2) The principal and interest of the securities issued under subsection (1) and any expenses incurred in connection with their creation and issue are charged on and must be paid out of the Consolidated Fund."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Receipts from Association",
+      "content": "7. All sums received by or on behalf of the Government from the Association on account of its subscriptions therein or of supplementary resources provided by it under the Agreement must be paid into the Consolidated Fund."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Certain provisions of Agreement to have force of law",
+      "content": "8. —(1) Despite anything to the contrary in any other written law, the provisions of the Agreement set out in the Schedule have the force of law. (2) Nothing in section 9 of Article VIII of the Agreement is to be construed as — ( a ) entitling the Association to import into Singapore goods free of any duty of customs without any restriction on their subsequent sale in Singapore; or ( b ) conferring on the Association any exemption from taxes or duties which are no more than charges for services rendered. (3) The Minister may, by notification in the Gazette , amend the Schedule in conformity with any amendments to the provisions of the Agreement set out in the Schedule which may subsequently be duly made and adopted."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Companies Act 1967 disapplied",
+      "content": "9. The Association is not to be regarded as a corporation within the meaning of the Companies Act 1967, and the provisions of that Act do not apply to the Association or to the issue by the Association of any shares, debentures, bonds, notes or other securities."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Power to make regulations",
+      "content": "10. —(1) The Minister may make regulations for carrying out or giving effect to the provisions of this Act. (2) All such regulations must be presented to Parliament as soon as possible after publication in the Gazette ."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Agreement",
+      "definition": "“Agreement” means the Articles of Agreement opened for signature at Washington on 24 September 1960 providing for the establishment and operation of the international body known as the International Development Association;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Association",
+      "definition": "“Association” means the International Development Association established by the Agreement;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "membership resolution",
+      "definition": "“membership resolution” means the resolution adopted by the Board of Governors of the Association specifying the terms and conditions upon which Singapore is admitted to membership of the Association.",
+      "source_provision": "s2"
+    }
+  ]
+}

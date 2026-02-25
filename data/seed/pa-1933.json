@@ -1,0 +1,1135 @@
+{
+  "id": "pa-1933",
+  "type": "statute",
+  "title": "Prisons Act 1933",
+  "title_en": "Prisons Act 1933",
+  "short_name": "PA1933",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/PA1933",
+  "description": "An Act relating to prisons.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Prisons Act 1933."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. In this Act, unless the context otherwise requires — “basic condition”, in relation to a remission order, means the basic condition specified in section 50S; “Cluster Commander” means a Cluster Commander of Prisons appointed under section 20; “Commissioner” means the Commissioner of Prisons appointed under section 20; “controlled drug” has the meaning given by section 2 of the Misuse of Drugs Act 1973; [Act 6 of 2022 wef 02/09/2022] “Corporation” means the Singapore Corporation of Rehabilitative Enterprises established under the Singapore Corporation of Rehabilitative Enterprises Act 1975; “default sentence” means a sentence of a term of imprisonment imposed on a person in default of the person paying a fine ordered to be paid by a court; “Deputy Commissioner” means a Deputy Commissioner of Prisons appointed under section 20; [Act 6 of 2022 wef 02/09/2022] “Divisional Director” means a Divisional Director of Prisons appointed under section 20; “employment preparation”, in relation to a prisoner, means the serving by the prisoner of the prisoner’s sentence of imprisonment in the place or places, outside the limits of any prison, specified in the employment preparation order for the purposes of enhancing a prisoner’s employability and facilitating the prisoner’s reintegration into society; [Act 6 of 2022 wef 02/09/2022] “employment preparation order” means an order of the Commissioner under section 59K; [Act 6 of 2022 wef 02/09/2022] “external placement”, in relation to a prisoner, means the serving by the prisoner of the prisoner’s sentence of imprisonment in the place or places, outside the limits of any prison, specified in the external placement order; [Act 6 of 2022 wef 02/09/2022] “external placement order” means an order of the Commissioner under section 59B; [Act 6 of 2022 wef 02/09/2022] “home detention”, in relation to a prisoner, means the serving by the prisoner of the prisoner’s sentence of imprisonment in the place or places, outside the limits of any prison, specified in the home detention order for the purpose of facilitating a prisoner’s rehabilitation and reintegration into society; [Act 6 of 2022 wef 02/09/2022] “home detention order” means an order of the Commissioner under section 52; [Act 6 of 2022 wef 02/09/2022] “infectious disease” means any of the diseases specified in the First Schedule to the Infectious Diseases Act 1976 and includes any other disease — ( a ) that is caused or is suspected to be caused by a micro‑organism or any agent of disease; ( b ) that is capable or is suspected to be capable of transmission by any means to human beings; and ( c ) that a medical officer has reason to believe, if left uninvestigated or unchecked, is likely to result in an epidemic of the disease; [Act 6 of 2022 wef 02/09/2022] “intoxicating substance” has the meaning given by section 2 of the Intoxicating Substances Act 1987; [Act 6 of 2022 wef 02/09/2022] “juvenile” means any person under the age of 18 years, whether convicted or not, under detention in any prison; [Act 6 of 2022 wef 30/12/2025] “lock-up prisoner” means any person, whether convicted or not, who is confined in a lock‑up, or who is transported to, or from, a lock‑up; “medical officer” means a medical officer appointed under section 25; “prison” means any house, building, enclosure or place, or any part thereof, declared to be a prison or reformative training centre under section 3, and includes the grounds and buildings within the prison enclosure and also the airing grounds or other grounds or buildings belonging or attached thereto and used by prisoners; “prison officer” means any prison officer appointed under section 20 and includes the Commissioner, any Deputy Commissioner and any Superintendent; [Act 6 of 2022 wef 02/09/2022] “prisoner” means any person, whether convicted or not, under detention in any prison or reformative training centre or subject to an external placement order, an employment preparation order or a home detention order, but does not include a person released and at large under a remission order; [Act 6 of 2022 wef 02/09/2022] “psychoactive substance” has the meaning given by section 2 of the Misuse of Drugs Act 1973; [Act 12 of 2023 wef 01/06/2024] “registered medical practitioner” means a person registered under the Medical Registration Act 1997; “remission order” means a remission order made under any provision in Part 5B; “Superintendent” means a Superintendent of Prisons appointed under section 20; “unlawfully at large”, in relation to a person released under a remission order, means a person who fails to submit himself or herself to custody or detention after being required to do so under any written law, or who escapes from such custody or detention; “Visiting Justice” means a member of the Board of Visiting Justices appointed under section 79. [33/2004; 15/2010; 1/2014]"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART 2 - CONSTITUTION AND ADMINISTRATION",
+      "section": "3",
+      "title": "Power to declare prisons",
+      "content": "3. The Minister may, by notification in the Gazette — ( a ) declare any house, building, enclosure or place, or any part thereof, to be a prison for the purposes of this Act for the imprisonment or detention of persons lawfully in custody; ( b ) define which prisons may be used for the custody of particular classes of prisoners; ( c ) declare that any prison ceases to be a prison; and on the publication in the Gazette of the declaration, or from and after any later date specified in the declaration, that prison ceases to be a prison; and ( d ) declare any prison, house, building, enclosure or place, or any part thereof, to be a reformative training centre for the detention of persons sentenced to reformative training."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART 2 - CONSTITUTION AND ADMINISTRATION",
+      "section": "4",
+      "title": "Appointment of lock-ups at police stations and court houses as places of detention",
+      "content": "4. —(1) The Minister may, by notification in the Gazette , appoint the lock‑ups at any police stations and court houses to be places for the confinement of persons awaiting trial, remanded, or sentenced to any term of imprisonment, not exceeding one month, that may be specified in each case. (2) A lock-up appointed as a place of confinement under subsection (1) is not to be deemed to be a prison for the purposes of this Act or of the Registration of Criminals Act 1949 and regulations made under section 84 do not apply thereto, but every such lock‑up is deemed to be a prison for the purposes of sections 313 to 332 of the Criminal Procedure Code 2010. [15/2010] (3) The Minister may make regulations with regard to lock‑ups appointed under subsection (1) to provide for all or any of the following matters: ( a ) the inspection and management of the lock‑ups and the officers to be in charge thereof; ( b ) the employment of persons confined in such lock‑ups; ( c ) the diets to be supplied to such persons; ( d ) the maintenance of discipline."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART 2 - CONSTITUTION AND ADMINISTRATION",
+      "section": "5",
+      "title": "Temporary prisons",
+      "content": "5. —(1) Whenever it appears to the Commissioner — ( a ) that the number of prisoners in any prison is greater than can be conveniently kept in the prison, and that it is not convenient to transfer the excess number to some other prison; or ( b ) that, by reason of the outbreak of disease within any prison or for any other reason, it is desirable to provide for the temporary shelter and safe custody of any prisoners, such provision must be made as the Commissioner may, with the approval of the Minister, direct for the shelter and safe custody in temporary prisons of so many of the prisoners as cannot be conveniently or safely kept in the prison. [1/2014] (2) Every temporary prison is a prison for the purposes of this Act."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART 2 - CONSTITUTION AND ADMINISTRATION",
+      "section": "6",
+      "title": "General administration of prisons by Commissioner",
+      "content": "6. —(1) Subject to the orders of the Minister, the general charge and administration of prisons and the control and direction of prison officers throughout Singapore is vested in the Commissioner. [1/2014] (2) The Commissioner may make such transfers, and direct the employment and distribution, of prison officers as the Commissioner may think fit. [1/2014]"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART 2 - CONSTITUTION AND ADMINISTRATION",
+      "section": "7",
+      "title": "Administration of prison by Superintendent",
+      "content": "7. —(1) Subject to the orders of the Commissioner, the administration of each prison is vested in a Superintendent. [1/2014] (2) If the Superintendent of a prison is temporarily absent or temporarily incapacitated, the powers and duties of the Superintendent under this Act or any regulations made under this Act may, during the period of absence or incapacity, be exercised and performed by any prison officer appointed by the Commissioner. [1/2014]"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART 3 - COMMITTEE OF INQUIRY",
+      "section": "8",
+      "title": "Committee of inquiry",
+      "content": "8. —(1) Where it is expedient that the Minister, or any other person that the Minister may appoint to exercise the powers conferred upon the Minister by this Part, should be informed on any matter connected with the discipline, administration or functions of any prison or affecting any prisoner, the Minister or the person appointed by the Minister may convene a committee of inquiry. (2) A committee of inquiry must inquire into and report on the facts relating to any matter referred to it and, if directed by the Minister to do so, express its opinion on any question arising out of any such matter. (3) In this Part, “Minister” includes the person appointed by the Minister under subsection (1) to act on the Minister’s behalf for the purposes of this Part."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART 3 - COMMITTEE OF INQUIRY",
+      "section": "9",
+      "title": "Composition of committee of inquiry",
+      "content": "9. —(1) A committee of inquiry consists of one or more persons who must be appointed by the Minister. (2) Where a committee of inquiry consists of more than one person, the Minister must appoint one of the members to be the chairperson. (3) Where a committee of inquiry consists of one member only, the member is vested with the powers of a chairperson. (4) Every member of a committee of inquiry appointed under this section is deemed to be a public servant within the meaning of the Penal Code 1871."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART 3 - COMMITTEE OF INQUIRY",
+      "section": "10",
+      "title": "Powers of committee of inquiry",
+      "content": "10. A committee of inquiry may — ( a ) summon any person to give evidence on oath or on affirmation, or to produce any document or material, necessary for the purpose of the inquiry; and ( b ) visit any place in order to inquire into any matter which may arise in the course of the inquiry."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART 3 - COMMITTEE OF INQUIRY",
+      "section": "11",
+      "title": "Disobedience to summons an offence",
+      "content": "11. —(1) A person who is summoned to give evidence before a committee of inquiry must not, without lawful excuse, fail to appear in obedience to the summons. (2) A person who is required by a committee of inquiry to produce any document or material for the purpose of the inquiry must not, without lawful excuse, fail to produce the document or material. (3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART 3 - COMMITTEE OF INQUIRY",
+      "section": "12",
+      "title": "Refusal to give evidence an offence",
+      "content": "12. —(1) A person who appears before a committee of inquiry must not, without lawful excuse, refuse to be sworn or to make an affirmation, or to produce any document or material, or to answer any question, which the person is lawfully required to produce or answer. (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART 3 - COMMITTEE OF INQUIRY",
+      "section": "13",
+      "title": "Giving of false evidence an offence",
+      "content": "13. Every person who wilfully gives false evidence when examined on oath or on affirmation before a committee of inquiry shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 7 years or to both."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART 3 - COMMITTEE OF INQUIRY",
+      "section": "14",
+      "title": "Evidence and procedure",
+      "content": "14. Except as otherwise provided in this Act or any regulations made under this Act, a committee of inquiry is not bound by the rules of evidence and may act in such manner as the committee of inquiry thinks most expedient."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART 3 - COMMITTEE OF INQUIRY",
+      "section": "15",
+      "title": "Admissibility of evidence",
+      "content": "15. No statement made in the course of any inquiry and no report of a committee of inquiry is admissible as evidence in any proceedings other than proceedings, whether criminal or disciplinary, for an offence of giving or fabricating false evidence under any written law."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART 3 - COMMITTEE OF INQUIRY",
+      "section": "16",
+      "title": "Proceedings not open to public",
+      "content": "16. —(1) A committee of inquiry must not sit in public. (2) A person is not allowed to attend the proceedings of a committee of inquiry, or address a committee of inquiry, except with the permission of the chairperson or if the Minister so directs."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART 3 - COMMITTEE OF INQUIRY",
+      "section": "17",
+      "title": "Persons who may be affected by findings",
+      "content": "17. —(1) Where it appears to a committee of inquiry that any prison officer or witness may be adversely affected by its findings, the committee is to notify him or her and give him or her an opportunity to be present at the proceedings of the committee of inquiry or at such part thereof as the chairperson may specify. [33/2004] (2) The person notified under subsection (1) is allowed to give evidence and examine any witness."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART 3 - COMMITTEE OF INQUIRY",
+      "section": "18",
+      "title": "Record of proceedings",
+      "content": "18. —(1) The chairperson is to record or cause to be recorded in writing the proceedings of the committee of inquiry. (2) The evidence of each witness before a committee of inquiry must be read over to him or her and be signed by him or her. (3) A record of the proceedings of a committee of inquiry is to be signed by the chairperson and the members of the committee (if any) and forwarded to the Minister. (4) The record of proceedings of a committee of inquiry, or any part thereof, or any information relating thereto must be kept confidential and must not be released to any person, other than a member of the committee, without the written permission of the Minister."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART 3 - COMMITTEE OF INQUIRY",
+      "section": "19",
+      "title": "Offence to influence or attempt to influence committee of inquiry",
+      "content": "19. Every person who, otherwise than in the course of duty, directly or indirectly by himself or herself or by any other person in any manner whatsoever influences or attempts to influence any decision of a committee of inquiry or any member of a committee of inquiry shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART 4 - OFFICERS",
+      "section": "20",
+      "title": "Appointment of Commissioner and other officers",
+      "content": "20. —(1) The Minister may appoint a Commissioner of Prisons, one or more Deputy Commissioners of Prisons, Divisional Directors, Cluster Commanders or Superintendents of Prisons, and such number of prison officers, as may be necessary for the proper administration of this Act. [1/2014] [Act 6 of 2022 wef 02/09/2022] (2) The appointment of the Commissioner and of every Deputy Commissioner, Divisional Director, Cluster Commander and Superintendent must be notified in the Gazette . [1/2014] [Act 6 of 2022 wef 02/09/2022] (3) Every Deputy Commissioner, Divisional Director and Cluster Commander may, subject to any direction that may be given by the Commissioner, exercise and perform all or any of the powers, duties and functions of the Commissioner under any provision of this Act or any other written law; and any reference in the provisions of this Act or any written law to the Commissioner includes a reference to a Deputy Commissioner, a Divisional Director or a Cluster Commander. [Act 6 of 2022 wef 02/09/2022]"
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART 4 - OFFICERS",
+      "section": "21",
+      "title": "Prison Standing Orders",
+      "content": "21. The Commissioner may issue orders, to be called Prison Standing Orders, not inconsistent with the provisions of this Act or of any regulations made under this Act. [1/2014]"
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART 4 - OFFICERS",
+      "section": "22",
+      "title": "Inspection by Commissioner",
+      "content": "22. The Commissioner must periodically visit and inspect, or cause to be visited and inspected, all prisons in Singapore. [1/2014]"
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "PART 4 - OFFICERS",
+      "section": "23",
+      "title": "Commissioner, etc., may exercise powers of Superintendent",
+      "content": "23. —(1) The Commissioner may exercise and perform all or any of the powers, duties and functions of the Superintendent under this Act. [1/2014] (2) In addition, any Deputy Commissioner, Divisional Director or Cluster Commander may, subject to any direction that may be given by the Commissioner, exercise and perform all or any of the powers, duties and functions of the Superintendent under this Act. [1/2014] [Act 6 of 2022 wef 02/09/2022]"
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "PART 4 - OFFICERS",
+      "section": "24",
+      "title": "Duties of Superintendent",
+      "content": "24. Subject to the orders of the Commissioner, a Superintendent must — ( a ) supervise and control all matters in connection with any prison the administration of which is vested in the Superintendent; and ( b ) be responsible to the Commissioner for the conduct and treatment of the prison officers and prisoners under the Superintendent’s control, and for the due observance by prison officers and prisoners of the provisions of this Act and of all other written law relating to prisons or prisoners. [1/2014]"
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "PART 4 - OFFICERS",
+      "section": "25",
+      "title": "Medical officers for prisons",
+      "content": "25. The Commissioner must appoint one or more registered medical practitioners as may be necessary to be medical officers for the prisons. [33/2004; 1/2014]"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "PART 4 - OFFICERS",
+      "section": "26",
+      "title": "Duties of medical officer",
+      "content": "26. Subject to the control of the Commissioner, the medical officer must perform such duties as may be prescribed. [1/2014]"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "PART 4 - OFFICERS",
+      "section": "27",
+      "title": "Duties of prison officers",
+      "content": "27. Prison officers must perform such duties as may be prescribed."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "PART 4 - OFFICERS",
+      "section": "28",
+      "title": "Accoutrements",
+      "content": "28. Every prison officer must be provided with any staves, arms, ammunition and other accoutrements that may be prescribed. [33/2004]"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "PART 4 - OFFICERS",
+      "section": "29",
+      "title": "Observance of laws, regulations and orders",
+      "content": "29. Every prison officer must — ( a ) strictly conform to all laws and regulations relating to prisons, lock‑ups, prisoners and lock‑up prisoners; and ( b ) obey all lawful orders of his or her superior officers, whether given verbally or in writing, or issued in the form of prison or lock‑up regulations or standing orders. [33/2004; 15/2010]"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "PART 4 - OFFICERS",
+      "section": "30",
+      "title": "Prison officers and medical officers deemed public servants",
+      "content": "30. All prison officers and medical officers appointed under this Act or any regulations made under this Act are deemed to be public servants within the meaning of the Penal Code 1871. [33/2004]"
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "PART 4 - OFFICERS",
+      "section": "31",
+      "title": "Use of weapons",
+      "content": "31. —(1) Subject to this section, a prison officer may use any weapon — ( a ) against any prisoner or lock-up prisoner escaping or attempting to escape; ( b ) against any person who does any act or attempts to do any act to facilitate the escape of any prisoner or lock‑up prisoner; or ( c ) against any person engaged in any attempt to damage or force or break open — (i) the outside door or gate or enclosure wall of a prison or lock‑up or any other part of a prison or lock‑up; or (ii) any part of any vehicle in which a prisoner or lock‑up prisoner is conveyed. [33/2004; 15/2010] (2) A prison officer may use any weapon — ( a ) on any prisoner or lock-up prisoner engaged in any combined outbreak; and ( b ) on any person engaged in any attempt to damage or force or break open — (i) the outside door or gate or enclosure wall of a prison or lock‑up or any other part of a prison or lock‑up; or (ii) any part of any vehicle in which a prisoner or lock‑up prisoner is conveyed, and may continue to use the weapon so long as the combined outbreak or attempt is actually being prosecuted. [33/2004; 15/2010] (3) Every prison officer may use weapons against any prisoner or lock‑up prisoner using violence on any prison officer or other person, if the prison officer has reasonable ground to believe that the prison officer or other person is in danger of life or limb, or that other grievous hurt is likely to be caused to the prison officer or other person. [33/2004; 15/2010] (4) A prison officer must not resort to the use of any weapon under subsection (1) unless the prison officer has reasonable ground to believe that he or she cannot otherwise prevent the escape of any prisoner or lock-up prisoner. [33/2004; 15/2010] (5) Before using any firearm against a prisoner or lock‑up prisoner or other person mentioned in subsection (1), the prison officer must give a warning to the prisoner or lock‑up prisoner or that other person (as the case may be) that the prison officer is about to fire on him or her. [33/2004; 15/2010] (6) A prison officer must not, in the presence of his or her superior officer, use any firearm against a prisoner or lock‑up prisoner or other person in the circumstances described in subsection (1) or (2) except under the orders of that superior officer. [15/2010] (7) The use of weapons under this section must be, as far as possible, to disable and not to kill. (8) Every police officer who is for the time being serving in the capacity of an escort, or of a guard in or around any prison or lock‑up, for the purpose of ensuring the safe custody of any one or more prisoners or lock-up prisoners, is deemed to have all the powers and privileges granted to prison officers under this section. [15/2010]"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "PART 4 - OFFICERS",
+      "section": "32",
+      "title": "Prison officer to have powers of police officer",
+      "content": "32. —(1) Every prison officer while acting as such has by virtue of his or her office all the powers, authorities, protection and privileges of a police officer. [33/2004; 15/2010] (2) Every prison officer while acting as such and exercising the powers of a police officer is deemed to be an officer not below the rank of inspector of police. [15/2010]"
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "PART 5 - CUSTODY AND REMOVAL OF PRISONERS",
+      "section": "33",
+      "title": "Prisoners deemed in legal custody",
+      "content": "33. —(1) Every prisoner confined in any prison is deemed to be in the legal custody of the Superintendent of that prison. (2) Every prisoner is subject to the prison discipline and regulations during the whole time of his or her imprisonment, whether or not he or she is within the precincts of any prison."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "PART 5 - CUSTODY AND REMOVAL OF PRISONERS",
+      "section": "34",
+      "title": "Employment of auxiliary police officers as escorts and guards",
+      "content": "34. —(1) For the purpose of assisting the Commissioner in the discharge of his or her duties under this Act, the Commissioner may employ any number of auxiliary police officers that he or she considers fit as escorts or guards to ensure the safe custody of the prisoners who are under his or her custody. [1/2014] (2) A prisoner who is delivered into the custody of an auxiliary police officer under this section is deemed to be in lawful custody. (3) Every auxiliary police officer who is employed as an escort or a guard under subsection (1), in the course of carrying out his or her duties as an escort or a guard — ( a ) has the powers of a prison officer conferred under section 31; and [Act 6 of 2022 wef 02/09/2022] ( b ) be deemed to be a prison officer for the purposes of sections 69, 72 and 73. [Act 6 of 2022 wef 02/09/2022] ( c ) [ Deleted by Act 6 of 2022 wef 02/09/2022 ] (4) Every auxiliary police officer employed under subsection (1) is deemed to be a public servant within the meaning of the Penal Code 1871. (5) In this section, “auxiliary police officer” means a member of an auxiliary police force established under any other written law. [3/2005]"
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "PART 5 - CUSTODY AND REMOVAL OF PRISONERS",
+      "section": "35",
+      "title": "Superintendent to detain persons committed",
+      "content": "35. The Superintendents are authorised and required to keep and detain all persons duly committed to their custody by any court, Judge, Magistrate, Justice of the Peace or other public officer lawfully exercising civil or criminal jurisdiction, according to the exigency of any writ, warrant or order by which the persons have been committed, or until the persons are discharged by due course of law. [14/2010]"
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "PART 5 - CUSTODY AND REMOVAL OF PRISONERS",
+      "section": "36",
+      "title": "Delivery of persons on remand",
+      "content": "36. —(1) Every person remanded to any prison by any court, Judge, Magistrate or Justice of the Peace who is charged with any crime or offence must be delivered to the Superintendent of any prison that the Minister appoints for the custody of such persons, together with a warrant of commitment. [14/2010] (2) The Superintendent must detain a person mentioned in subsection (1) according to the terms of the warrant, and must cause that person to be delivered to such court, Judge, Magistrate or Justice of the Peace, or must discharge that person at the time named in and according to the terms of the warrant. [14/2010]"
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "PART 5 - CUSTODY AND REMOVAL OF PRISONERS",
+      "section": "37",
+      "title": "Delivery of persons arrested on warrant",
+      "content": "37. —(1) Every person arrested pursuant to any writ, warrant or order of any court having civil jurisdiction must be brought without delay before the court by which the writ, warrant or order was issued, awarded or made. (2) If the court mentioned in subsection (1) is not sitting, the person must be delivered to the Superintendent for intermediate custody, and the Superintendent must cause the person to be brought before that court at its next sitting in order that the person may be dealt with according to law."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "PART 5 - CUSTODY AND REMOVAL OF PRISONERS",
+      "section": "38",
+      "title": "Production of persons before court",
+      "content": "38. —(1) Whenever the presence of any person confined in a prison is required in any court of civil or criminal jurisdiction, the court may issue a written order addressed to the Superintendent requiring the production before the court of the person in proper custody at the time and place to be named in the order. (2) The Superintendent must cause the person named in the order to be brought up as directed, and must provide for the person’s safe custody during his or her absence from prison. (3) A court may by endorsement on the order require the person named in the order to be again brought up at any time to which the matter, in which the person is required, may be adjourned. (4) An order under this section may be signed by — ( a ) the Registrar of the Supreme Court, if the order is issued by the Court of Appeal, the Appellate Division of the High Court or the General Division of the High Court; ( b ) the registrar of the Family Justice Courts, if the order is issued by the Family Division of the High Court, a Family Court or a Youth Court; ( c ) the registrar of the State Courts, if the order is issued by a District Court, a Magistrate’s Court, a Coroner’s Court or any other State Court; or ( d ) the District Judge, Magistrate or Coroner who issued the order. (5) An order under this section requiring the production of a person before a court in civil proceedings may be made by — ( a ) the Registrar of the Supreme Court, if the presence of the person is required in the Court of Appeal, the Appellate Division of the High Court or the General Division of the High Court; ( b ) the registrar of the Family Justice Courts, if the presence of the person is required in the Family Division of the High Court or a Family Court; or ( c ) the registrar of the State Courts, if the presence of the person is required in a District Court, a Magistrate’s Court, a Coroner’s Court or any other State Court. [Act 25 of 2021 wef 01/04/2022] [16/2016; 40/2019]"
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "PART 5 - CUSTODY AND REMOVAL OF PRISONERS",
+      "section": "39",
+      "title": "Powers of Commissioner for production of prisoner in certain cases",
+      "content": "39. —(1) The Commissioner may, on proof to his or her satisfaction that the presence of any prisoner at any place is required in the interests of justice, or for the purpose of any public inquiry, by writing under the hand of the Commissioner order that the prisoner be taken to that place. [33/2004; 1/2014] (2) A prisoner taken from a prison pursuant to an order made under this section must, while outside that prison, be kept in any custody that the Commissioner may by writing under the hand of the Commissioner direct, and while in that custody is deemed to be in legal custody. [33/2004; 1/2014]"
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "PART 5 - CUSTODY AND REMOVAL OF PRISONERS",
+      "section": "40",
+      "title": "Powers of Superintendent for production of prisoner in interest of prisoner",
+      "content": "40. —(1) The Superintendent of any prison may, on proof to his or her satisfaction that the presence of a prisoner at any place is required in the interest of the prisoner, by writing under the hand of the Superintendent order that the prisoner be taken to that place. (2) A prisoner taken from a prison under an order made under subsection (1) must, while outside that prison, be kept in any custody that the Superintendent may by writing under the hand of the Superintendent direct, and while in that custody is deemed to be in lawful custody."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "PART 5 - CUSTODY AND REMOVAL OF PRISONERS",
+      "section": "41",
+      "title": "Discharge of prisoners",
+      "content": "41. The Superintendent is responsible for the due discharge of all prisoners immediately upon their becoming entitled to release, whether by the expiry of their terms of sentence, or by pardon, or by commutation, or by remission of sentence."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "PART 5 - CUSTODY AND REMOVAL OF PRISONERS",
+      "section": "42",
+      "title": "Occurrence of infectious disease",
+      "content": "42. —(1) If the Commissioner is satisfied that a case of a contagious or infectious disease has occurred or is likely to occur in any prison, the Commissioner may order the removal of any of the prisoners from the prison to another place although that place may not be a prison under this Act. [33/2004; 1/2014] (2) In a case of emergency and where the Commissioner is absent or unable to make the order for removal under subsection (1), the order may be made by the Superintendent of the prison concerned or any of the Visiting Justices of the prison. [33/2004; 1/2014] (3) A place mentioned in subsection (1) is deemed during the continuance of any prisoner within to be a part of the prison from which the prisoner was so removed. (4) When the disease has ceased, any prisoner so removed from any prison must be taken back to the prison from where he or she was removed, if still liable to be confined in the prison."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "PART 5 - CUSTODY AND REMOVAL OF PRISONERS",
+      "section": "43",
+      "title": "Prisoners who are mentally disordered",
+      "content": "43. —(1) Whenever a prisoner undergoing a sentence of imprisonment appears to the Commissioner on the certificate of a registered medical practitioner to be mentally disordered, the Commissioner may, by written order, setting forth the grounds of belief that the prisoner is mentally disordered, direct the prisoner’s removal from any prison to any mental hospital or other fit place of safe custody within Singapore, there to be kept and treated as the Commissioner directs — ( a ) until the expiry of the term of imprisonment ordered by the sentence; or ( b ) if it is certified by a medical officer that it is necessary for the safety of the prisoner or of others that he or she should be detained under medical care and treatment, until he or she is discharged according to law. [33/2004; 21/2008; 1/2014] (2) When it appears to the Commissioner on the certificate of a registered medical practitioner that such prisoner has ceased to be mentally disordered, the Commissioner must, by a written order, return the prisoner to the prison from where the prisoner was removed if his or her term of imprisonment has not expired, but if the term has expired, must direct him or her to be discharged. [33/2004; 21/2008; 1/2014] (3) Where a person is confined under this section in a psychiatric institution within the meaning of the Mental Health (Care and Treatment) Act 2008, section 15 of that Act applies to such person after the expiry of the term of imprisonment to which the person has been sentenced, and the time during which he or she is so confined is reckoned as part of such term. [21/2008]"
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "PART 5 - CUSTODY AND REMOVAL OF PRISONERS",
+      "section": "44",
+      "title": "Removal of prisoners",
+      "content": "44. —(1) The Commissioner may, by written order, remove all or any prisoners confined in any prison to another prison within Singapore. [1/2014] (2) It is not necessary in the order under subsection (1) to designate any prisoner by name, but it is sufficient to describe the prisoner or prisoners by reference to their nationality or sentence, or by some other like general description. (3) If the Minister is satisfied that a person serving a sentence of imprisonment is under 21 years of age and might with advantage be detained in a reformative training centre, the Minister may, after consultation where practicable with the Judge or District Judge of the court which passed the sentence, authorise the Commissioner to transfer the person to a reformative training centre; and section 305(5) of the Criminal Procedure Code 2010 then applies to the person as if he or she had on the date of the transfer been sentenced to reformative training. [15/2010; 1/2014] (4) If on the date of the transfer under subsection (3), the unexpired term of the person’s sentence is less than 3 years, that subsection applies to the person as if he or she had been sentenced to reformative training 3 years before the expiry of that term. (5) If a person detained in a reformative training centre is reported to the Minister by the Commissioner to be incorrigible, or to be exercising a bad influence on the other inmates of the institution — ( a ) the Minister may commute the unexpired part of the term for which that person is then liable to be detained in a reformative training centre to such term of imprisonment as the Minister may determine, not exceeding the said unexpired part; and ( b ) for the purpose of this Act, that person is to be treated as if the person had been sentenced to imprisonment for that term. [1/2014]"
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "PART 5 - CUSTODY AND REMOVAL OF PRISONERS",
+      "section": "45",
+      "title": "Illness of prisoner",
+      "content": "45. —(1) In case of illness of a prisoner (other than a prisoner mentioned in subsection (2)) confined in a prison in which there is no suitable accommodation for the prisoner, any Superintendent may, on the certificate of a medical officer, make an order for the prisoner’s removal to a hospital. [26/2001; 33/2004] (2) Where a prisoner confined in a prison appears to the Minister on the certificate of a registered medical practitioner to be suffering from an infectious disease, the Minister may, by written order, direct the prisoner’s removal to any hospital or place specified by the Director‑General of Health under section 8(1) of the Infectious Diseases Act 1976, there to be kept and treated until cured of the infectious disease. [33/2004] [Act 6 of 2022 wef 02/09/2022] [Act 11 of 2023 wef 01/05/2023] (3) So long as any prisoner who has been removed to any hospital or place under subsection (2) remains in the hospital or place, the medical officer thereof must, at the end of every month, transmit to the Superintendent of the prison a certificate signed by the medical officer that it is in his or her opinion necessary that the prisoner should remain in the hospital or place."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "PART 5 - CUSTODY AND REMOVAL OF PRISONERS",
+      "section": "46",
+      "title": "Return to prison",
+      "content": "46. —(1) So soon as, in the opinion of the medical officer in charge of any hospital or place specified by the Director‑General of Health under section 8(1) of the Infectious Diseases Act 1976, it is no longer necessary that any prisoner who has been removed to the hospital or place should remain there, the medical officer must transmit to the Superintendent a certificate, stating that such necessity has ceased. [33/2004] [Act 11 of 2023 wef 01/05/2023] (2) Thereupon the Superintendent must forthwith cause the prisoner to be brought back to the prison if the prisoner is still liable to be confined in the prison."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "PART 5 - CUSTODY AND REMOVAL OF PRISONERS",
+      "section": "47",
+      "title": "Liability for escape",
+      "content": "47. If any prisoner escapes during the time that the prisoner is in any hospital, mental hospital or place as aforesaid, no prison officer is to be held answerable for the escape, unless the prisoner has been in the personal custody of that officer."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "PART 5 - CUSTODY AND REMOVAL OF PRISONERS",
+      "section": "48",
+      "title": "Duty to prevent escape",
+      "content": "48. —(1) Every precaution must be taken by the medical officers and other officers of any hospital, mental hospital or place to prevent the escape of prisoners who may at any time be under treatment therein. (2) The officers mentioned in subsection (1) may take any measures for preventing the escape of any prisoner that are necessary. (3) Nothing is to be done under the authority under this section which in the opinion of the medical officers is likely to be prejudicial to the health of those prisoners."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "PART 5 - CUSTODY AND REMOVAL OF PRISONERS",
+      "section": "49",
+      "title": "Special custody in hospital",
+      "content": "49. —(1) Where in any case, from the gravity of the offence for which any prisoner may be in custody or for any other reason, the Superintendent considers it to be desirable to take special measures for the security of the prisoner while under treatment in a hospital, mental hospital or place, the Superintendent may give the prisoner into the charge of at least 2 fit and proper persons, one of whom at the least must always be with the prisoner day and night. (2) Such persons are vested with full power and authority to do all things necessary to prevent the prisoner from escaping, and are answerable for the prisoner’s safe custody until such time that the prisoner is handed over to a prison officer on the prisoner’s discharge from the hospital, mental hospital or place or until such time as his or her sentence expires, whichever may first occur."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "PART 5 - CUSTODY AND REMOVAL OF PRISONERS",
+      "section": "50",
+      "title": "Saving of powers of General Division of High Court",
+      "content": "50. Nothing in this Act lessens or affects the power of the General Division of the High Court to direct persons confined in Singapore to be brought before the General Division of the High Court by an Order for Review of Detention. [42/2005; 40/2019]"
+    },
+    {
+      "provision_ref": "s50A",
+      "chapter": "PART 5A - CUSTODY AND REMOVAL OF LOCK-UP PRISONERS",
+      "section": "50A",
+      "title": "Lock-up prisoners deemed in legal custody",
+      "content": "50A. Every lock-up prisoner who is confined in any lock‑up, or who is transported to, or from, any lock-up, is deemed to be in the legal custody of the Commissioner or any person authorised by the Commissioner. [15/2010; 1/2014]"
+    },
+    {
+      "provision_ref": "s50B",
+      "chapter": "PART 5A - CUSTODY AND REMOVAL OF LOCK-UP PRISONERS",
+      "section": "50B",
+      "title": "Employment of auxiliary police officers as escorts and guards",
+      "content": "50B. —(1) For the purpose of assisting the Commissioner in the discharge of his or her duties under this Act, the Commissioner, or any person authorised by the Commissioner, may employ any number of auxiliary police officers that the Commissioner or the authorised person considers fit as escorts or guards to ensure the safe custody of the lock-up prisoners who are under the custody of the Commissioner or the person authorised by the Commissioner, as the case may be. [15/2010; 1/2014] (2) A lock-up prisoner who is delivered into the custody of an auxiliary police officer under this section is deemed to be in lawful custody. [15/2010] (3) Every auxiliary police officer who is employed as an escort or a guard under subsection (1) has, in the course of carrying out his or her duties as an escort or a guard, the powers of a prison officer conferred under section 31. [15/2010] (4) Every auxiliary police officer employed under subsection (1) is deemed to be a public servant within the meaning of the Penal Code 1871. [15/2010] (5) In this section, “auxiliary police officer” means a member of an auxiliary police force established under any other written law. [15/2010]"
+    },
+    {
+      "provision_ref": "s50C",
+      "chapter": "PART 5A - CUSTODY AND REMOVAL OF LOCK-UP PRISONERS",
+      "section": "50C",
+      "title": "Delivery of persons remanded in lock-up",
+      "content": "50C. —(1) Every person remanded in any lock-up by any court, Judge, Magistrate or Justice of the Peace, charged with any crime or offence, must be delivered to the Commissioner or any person authorised by the Commissioner to take custody of such persons, together with a warrant of commitment. [15/2010; 1/2014] (2) The Commissioner or any person authorised by the Commissioner to take custody of lock-up prisoners must detain a lock‑up prisoner according to the terms of the warrant, and must cause the lock‑up prisoner to be delivered to such court, Judge, Magistrate or Justice of the Peace, or must discharge that person at the time named in and according to the terms of the warrant. [15/2010; 1/2014]"
+    },
+    {
+      "provision_ref": "s50D",
+      "chapter": "PART 5A - CUSTODY AND REMOVAL OF LOCK-UP PRISONERS",
+      "section": "50D",
+      "title": "Extramural custody of lock-up prisoners",
+      "content": "50D. A lock-up prisoner, when being taken to, or from, any lock‑up in which he or she may be lawfully confined, or whenever he or she is outside or is otherwise beyond the limits of any such lock‑up, and is in or under legal custody, is deemed to be in a lock‑up, and is subject to all the same incidents as if he or she were actually in a lock‑up. [15/2010]"
+    },
+    {
+      "provision_ref": "s50E",
+      "chapter": "PART 5B - REMISSION OF SENTENCES",
+      "section": "50E",
+      "title": "Purpose and application",
+      "content": "50E. —(1) This Part makes provision for the remission of sentences for the purpose of — ( a ) encouraging good conduct and industry by prisoners who are serving their sentences; and ( b ) facilitating the rehabilitation of prisoners and their reintegration into society. [1/2014] (2) Nothing in this Part applies to prisoners committed for debt. [1/2014]"
+    },
+    {
+      "provision_ref": "s50F",
+      "chapter": "PART 5B - REMISSION OF SENTENCES",
+      "section": "50F",
+      "title": "Prisoner entitled to be released when remission order made, etc.",
+      "content": "50F. —(1) A prisoner is entitled to be released on the day — ( a ) a remission order is made in respect of the prisoner; or ( b ) the prisoner’s sentence of imprisonment is remitted. [1/2014] (2) A person who is released and at large under a remission order is deemed not to be in the legal custody of the Commissioner. [1/2014] (3) Every remission order has effect starting from the date the remission order is made. [1/2014] Division 2 &#x2014; Remission orders"
+    },
+    {
+      "provision_ref": "s50G",
+      "chapter": "PART 5B - REMISSION OF SENTENCES",
+      "section": "50G",
+      "title": "Application",
+      "content": "50G. This Division applies where a prisoner is sentenced to one or more terms of imprisonment that is not a default sentence, and is not also sentenced to life imprisonment. [1/2014]"
+    },
+    {
+      "provision_ref": "s50H",
+      "chapter": "PART 5B - REMISSION OF SENTENCES",
+      "section": "50H",
+      "title": "Grant of remission",
+      "content": "50H. —(1) Subject to subsections (2) and (3), a prisoner is, upon his or her admission to prison, entitled to have his or her sentence remitted in accordance with and subject to the provisions of this Act. [1/2014] (2) A prisoner who is sentenced to an aggregate term of imprisonment of 14 days or less is not entitled to have his or her sentence remitted. [1/2014] (3) A prisoner is not entitled to have his or her sentence of imprisonment remitted if his or her sentence of imprisonment consists wholly of — ( a ) one or more terms of imprisonment imposed as enhanced sentences under section 50T(1)( a ); ( b ) one or more terms of imprisonment imposed for offences under section 50Y(1); or ( c ) any combination of paragraphs ( a ) and ( b ). [1/2014]"
+    },
+    {
+      "provision_ref": "s50I",
+      "chapter": "PART 5B - REMISSION OF SENTENCES",
+      "section": "50I",
+      "title": "When must remission order be made",
+      "content": "50I. —(1) The Commissioner must make a remission order in respect of a prisoner — ( a ) unless paragraph ( b ) applies, on the day after the day the prisoner has served whichever of the following that ends later: (i) two-thirds of all the consecutive terms of imprisonment to which the prisoner was sentenced; (ii) 14 days of the prisoner’s sentence; and ( b ) where the prisoner is sentenced to any enhanced sentence under section 50T(1)( a ), or for any offence under section 50Y(1), and to any other sentence of imprisonment, on the day after the day the prisoner has served whichever of the following that ends later: (i) the aggregate of — (A) all the terms of imprisonment to which the prisoner was sentenced as enhanced sentence under section 50T(1)( a ), or for any offence under section 50Y(1); and (B) two-thirds of all the other consecutive terms of imprisonment (if any) to which the prisoner was sentenced; (ii) 14 days of the prisoner’s sentence. [1/2014] (2) Despite subsection (1), in determining whether a sentence is served for the purposes of making a remission order under subsection (1), each of the following periods, or if there is more than one such period, the aggregate of those periods, is not reckonable: ( a ) one-third of any time which the prisoner is confined in a punishment cell under this Act; ( b ) one-third of any time spent by the prisoner in a hospital through his or her own fault or malingering; ( c ) any period of remission which is forfeited under this Act, unless the forfeited remission is restored by the Superintendent; ( d ) any period of deferment which is ordered by the President under subsection (4); ( e ) any other periods of time as may be prescribed. [1/2014] (3) The Commissioner may defer making a remission order by not longer than 3 weeks in order to enable the execution of any punishment ordered by the court and which on the date the remission order would have been made under subsection (1) if not for this subsection, has not been executed. [1/2014] [Act 6 of 2022 wef 02/09/2022] (4) When a prisoner commits an offence while serving his or her sentence, the President may order the Commissioner not to make a remission order, or to defer making a remission order by any period that the President may specify, if the President is of the opinion that the offence is a grave offence, having regard to all the following factors: ( a ) the nature of the offence; ( b ) the punishment which the offence attracts; ( c ) the circumstances in which the offence was committed; ( d ) all other relevant circumstances. Illustrations ( a ) A prisoner is sentenced to 2 years’ imprisonment for the offence of theft under section 379 of the Penal Code 1871 and one year’s imprisonment for the offence of cheating under section 417 of the Code. Both sentences are ordered to run consecutively and the aggregate sentence is ordered to take effect from 1 January 2013. The prisoner will have served the requisite portion of his or her sentence (2 years) on 31 December 2014, and the Commissioner will be required to make a remission order on 1 January 2015. ( b ) A prisoner is sentenced to one year’s imprisonment for the offence of theft under section 379 of the Penal Code 1871 and 2 years’ imprisonment as enhanced sentence under section 50T(1)( a ). The prisoner’s sentence is ordered to take effect from 1 January 2013. The prisoner would have served the requisite portion of the sentence (2 years and 8 months) on 31 August 2015, and the Commissioner will be required to make a remission order on 1 September 2015. ( c ) A prisoner is sentenced to one year’s imprisonment for the offence of theft under section 379 of the Penal Code 1871. The sentence is ordered to take effect from 1 January 2013. While serving the sentence, the prisoner spent 3 months in hospital through his or her own fault. The Commissioner will be required to make a remission order on 1 October 2013. [1/2014]"
+    },
+    {
+      "provision_ref": "s50J",
+      "chapter": "PART 5B - REMISSION OF SENTENCES",
+      "section": "50J",
+      "title": "Remission order when prisoner has served 20 years of sentence",
+      "content": "50J. —(1) Where a prisoner has served 20 years of his or her sentence but the Commissioner is not required to make a remission order under section 50I, the Minister must review the prisoner’s case and may, in the Minister’s discretion, direct the Commissioner to make a remission order in respect of the prisoner. [1/2014] (2) Where the Minister has refused to direct the Commissioner to make a remission order in respect of a prisoner under subsection (1), the Minister must, unless the prisoner is earlier released from imprisonment, review the Minister’s decision at intervals not exceeding 12 months each and may, in the Minister’s discretion, direct the Commissioner to make a remission order in respect of the prisoner. Illustration A prisoner is sentenced to a total of 24 years’ imprisonment. The sentence is ordered to take effect from 1 January 2013. After taking into account the various periods of time mentioned in section 50I(2), the Commissioner is required to defer making a remission order until 1 January 2035. However, the Minister must review the prisoner’s case on 1 January 2033 and may direct the Commissioner to make a remission order. If the Minister does not direct the Commissioner to make a remission order, the Minister must review his or her decision no later than 1 January 2034. [1/2014]"
+    },
+    {
+      "provision_ref": "s50K",
+      "chapter": "PART 5B - REMISSION OF SENTENCES",
+      "section": "50K",
+      "title": "Effect of section 50I or 50J remission order on sentence",
+      "content": "50K. —(1) Where a remission order is made in respect of a prisoner under section 50I or 50J — ( a ) the remainder of the prisoner’s sentence, as determined in accordance with subsection (2), (3) or (4) (as the case may be) is suspended; and ( b ) that remainder of the prisoner’s sentence is to be remitted when the remission order expires. [1/2014] (2) If the remission order is made under section 50I and no consecutive sentence is imposed on the prisoner in respect of whom the remission order is made, the remainder of the prisoner’s sentence is the period — ( a ) starting on the date the remission order is made; and ( b ) ending at the end of the day on which the prisoner would have completed serving his or her entire sentence of imprisonment if no remission order had been made. [1/2014] (3) If the remission order is made under section 50I and 2 or more consecutive sentences are imposed on the prisoner in respect of whom the remission order is made, the remainder of the prisoner’s sentence is the period worked out according to the following steps: ( a ) first, apportion the total time (in days) the prisoner has spent serving his or her aggregate sentence among each of the consecutive sentences (including default sentences) as if each sentence is served in the same proportion; ( b ) second, work out the portion (in days) of each of the consecutive sentences (including default sentences) which is not served after taking into account the portion which is deemed under paragraph ( a ) as having been served; ( c ) third, add the portion of each of the consecutive sentences (excluding default sentences) worked out under paragraph ( b ) which is not served. Illustration A prisoner is sentenced to 6 weeks’ imprisonment on 1 January 2013 for the offence of theft under section 379 of the Penal Code 1871, 6 weeks’ imprisonment for the offence of cheating under section 417 of the Code, and a default sentence of 3 weeks for the offence of house‑trespass under section 448 of the Code. All 3 sentences are ordered to run consecutively and the aggregate sentence is imprisonment for a term of 15 weeks (105 days). The Commissioner makes a remission order after the prisoner has served two‑thirds of his or her aggregate sentence, i.e. 70 days. When the remission order is made, the time spent by the prisoner serving his or her aggregate sentence will be divided between the 3 consecutive sentences such that the prisoner has served the same proportion of each sentence, i.e. 28 days in relation to the sentence for theft, 28 days in relation to the sentence for cheating, and 14 days in relation to the sentence for house‑trespass. The portion of the default sentence for house‑trespass which has not been served (7 days) will be remitted. The portions of the sentences for theft and cheating which have not been served (14 days each) will be aggregated and the aggregate (28 days) will be the remainder of the prisoner’s sentence, which will be suspended until the remission order expires, whereupon it will be remitted. [1/2014] (4) If the remission order is made under section 50J, the remainder of the prisoner’s sentence is the period worked out according to the following steps: ( a ) first, work out the portion (in days) of the prisoner’s aggregate sentence which has not been served — (i) starting on the date of the remission order made under section 50J; and (ii) ending at the end of the day immediately before the day on which the Commissioner would have been required to make a remission order under section 50I in respect of the prisoner if the Minister had not directed the Commissioner to make a remission order under section 50J; ( b ) second, work out the portion (in days) of the prisoner’s aggregate sentence which has not been served — (i) starting on the day on which the Commissioner would have been required to make a remission order under section 50I in respect of the prisoner if the Minister had not directed the Commissioner to make a remission order under section 50J; and (ii) ending on the day the prisoner would have been released from prison had no remission order been made in respect of the prisoner; ( c ) third, apportion the portion (in days) of the prisoner’s aggregate sentence worked out under paragraph ( b ) between each consecutive term of imprisonment (including default sentences) to which the prisoner was sentenced such that the same proportion of each sentence has not been served; ( d ) fourth, work out the portion (in days) of all default sentences (if any) which has not been served under paragraph ( c ); ( e ) fifth, subtract the portion of the prisoner’s sentence worked out under paragraph ( d ) from the portion of the prisoner’s unserved sentence worked out under paragraph ( b ); ( f ) sixth, add the portion of the prisoner’s sentence worked out under paragraph ( a ) to the portion of the prisoner’s sentence worked out under paragraph ( e ). Illustration A prisoner is sentenced to a total of 25 years’ imprisonment, of which one year’s imprisonment is a default sentence. The sentence is ordered to take effect from 1 January 2013. The last day of the prisoner’s sentence if no remission order is made would be 31 December 2037. After taking into account the various periods of time mentioned in section 50I(2), the Commissioner is required to defer making a remission order until 1 November 2033. The Minister reviewed the prisoner’s case on 1 January 2033 and directed the Commissioner to make a remission order under section 50J on the same day. The period starting on 1 November 2033 and ending on 31 December 2037 (4 years and 2 months) will be apportioned such that 2 months of the prisoner’s default sentence and 4 years of the prisoner’s other sentences of imprisonment has not been served. The 4 years will be added to the period starting on 1 January 2033 and ending on 31 October 2033 (10 months) and the total (4 years and 10 months) will be the remainder of the prisoner’s sentence. [1/2014] (5) The portion of a default sentence worked out under subsections (3)( b ) and (4)( d ) as not having been served is remitted upon the making of the remission order. [1/2014]"
+    },
+    {
+      "provision_ref": "s50L",
+      "chapter": "PART 5B - REMISSION OF SENTENCES",
+      "section": "50L",
+      "title": "Duration of section 50I or 50J remission order",
+      "content": "50L. Unless extended under section 50M or 50N, a remission order in respect of a prisoner made under section 50I or 50J — ( a ) has effect for a period equal to the remainder of the prisoner’s sentence as determined under section 50K; and ( b ) expires at the end of the period mentioned in paragraph ( a ). [1/2014]"
+    },
+    {
+      "provision_ref": "s50M",
+      "chapter": "PART 5B - REMISSION OF SENTENCES",
+      "section": "50M",
+      "title": "Extension of section 50I or 50J remission order",
+      "content": "50M. —(1) This section applies where — ( a ) a prisoner released on a remission order made under section 50I or 50J (called in this section the first remission order) is subsequently sentenced to one or more terms of imprisonment; ( b ) a second remission order is made in respect of that term or those terms of imprisonment; and ( c ) the first remission order is still in effect when the person is released on the second remission order. [1/2014] (2) Where this section applies — ( a ) the first and second remission orders are merged and deemed to be a single remission order made under section 50I; and ( b ) the merged remission order expires on the day on which the first remission order would have expired, or the day on which the second remission order would have expired, whichever is the later. Illustration A prisoner is sentenced to 6 years’ imprisonment for offence A. The sentence takes effect from 1 January 2013. The Commissioner makes a remission order for the sentence on 1 January 2017. Under section 50L( b ), the remission order will expire at the end of the day on 31 December 2018. On the prisoner’s release, the prisoner commits offence B and is sentenced to 2 years’ imprisonment for offence B. No enhanced sentence is imposed under section 50T. The sentence for offence B takes effect from 1 June 2017. The Commissioner makes a remission order for the sentence for offence B on 1 October 2018. Under section 50L( b ) the remission order for the sentence for offence B will expire at the end of the day on 31 May 2019. Both remission orders will be merged and deemed to be one remission order, and the merged remission order will expire at the end of the day on 31 May 2019. [1/2014]"
+    },
+    {
+      "provision_ref": "s50N",
+      "chapter": "PART 5B - REMISSION OF SENTENCES",
+      "section": "50N",
+      "title": "Extension of section 50I or 50J remission order when person released is unlawfully at large, etc.",
+      "content": "50N. —(1) Where a person who is released under a remission order made under section 50I or 50J is recalled to prison by the Commissioner under section 50X but fails to report at such prison and on such date specified in the notice of recall, that person’s remission order is extended by a period equivalent to the period the person remains unlawfully at large after the date so specified. [1/2014] (2) Where the court issues a warrant of arrest against a person released under a remission order made under section 50I or 50J while the person’s remission order is still in effect, and the person remains at large after the warrant is issued, the person’s remission order is extended by a period equivalent to the period between the date the warrant is issued and the date of his or her arrest. [1/2014] (3) Where a person released under a remission order made under section 50I or 50J is otherwise unlawfully at large while the person’s remission order is still in effect, the person’s remission order is extended by a period equivalent to the period the person is unlawfully at large. Illustration The Commissioner makes a remission order in respect of a prisoner on 1 January 2013. The remission order expires at the end of the day on 31 December 2013. After the prisoner is released, the Commissioner issues a notice of recall to the prisoner under section 50X, requiring the prisoner to report at a specified prison on 15 December 2013. The prisoner remains unlawfully at large and only reports at the specified prison on 14 January 2014, i.e. 30 days later. The duration of the remission order will be extended by 30 days and it will now expire at the end of the day on 30 January 2014. [1/2014] Division 3 &#x2014; Remission orders for prisoners\nsentenced to life imprisonment"
+    },
+    {
+      "provision_ref": "s50O",
+      "chapter": "PART 5B - REMISSION OF SENTENCES",
+      "section": "50O",
+      "title": "Application",
+      "content": "50O. This Division applies to all of the following prisoners: ( a ) a prisoner who is sentenced to life imprisonment, for an offence committed on or after 21 August 1997, whether or not he or she is also sentenced to one or more terms of imprisonment; ( b ) a prisoner whose sentence of death for an offence committed on or after 21 August 1997 is, or has been, commuted to life imprisonment under section 334 of the Criminal Procedure Code 2010 or section 238 of the repealed Criminal Procedure Code (Cap. 68, 1985 Revised Edition); ( c ) a prisoner who is sentenced to be detained during the President’s pleasure under section 213 of the repealed Criminal Procedure Code (Cap. 68, 1985 Revised Edition). [1/2014]"
+    },
+    {
+      "provision_ref": "s50P",
+      "chapter": "PART 5B - REMISSION OF SENTENCES",
+      "section": "50P",
+      "title": "Review of sentences of life imprisonment, etc.",
+      "content": "50P. —(1) Subject to subsection (2), where a prisoner to whom this Division applies has served 20 years of his or her sentence, the Minister must review the prisoner’s case and may, in the Minister’s discretion, direct the Commissioner to make a remission order in respect of the prisoner. [1/2014] (2) Where the Minister has refused to direct the Commissioner to make a remission order in respect of a prisoner under subsection (1), the Minister must, unless the prisoner is earlier released from imprisonment, review the Minister’s decision at intervals not exceeding 12 months each and may, in the Minister’s discretion, direct the Commissioner to make a remission order in respect of the prisoner. [1/2014]"
+    },
+    {
+      "provision_ref": "s50Q",
+      "chapter": "PART 5B - REMISSION OF SENTENCES",
+      "section": "50Q",
+      "title": "Effect of section 50P remission order",
+      "content": "50Q. When a remission order is made under section 50P in respect of a prisoner to whom this Division applies — ( a ) any default sentence to which the prisoner was sentenced is remitted; ( b ) the sentence of life imprisonment and any other sentence of imprisonment imposed on the prisoner is suspended; and ( c ) the sentences mentioned in paragraph ( b ) are remitted when the remission order expires. [1/2014]"
+    },
+    {
+      "provision_ref": "s50R",
+      "chapter": "PART 5B - REMISSION OF SENTENCES",
+      "section": "50R",
+      "title": "Duration of section 50P remission order",
+      "content": "50R. A remission order made under section 50P — ( a ) has effect for a period starting on the date of the remission order and ending at the end of the natural life of the person in respect of whom the remission order is made; and ( b ) expires at the end of the period mentioned in paragraph ( a ). [1/2014] Division 4 &#x2014; Basic condition of remission order"
+    },
+    {
+      "provision_ref": "s50S",
+      "chapter": "PART 5B - REMISSION OF SENTENCES",
+      "section": "50S",
+      "title": "All remission orders subject to basic condition",
+      "content": "50S. —(1) It is the basic condition of every remission order made under Division 2 or 3 that the person released under the remission order — ( a ) must not commit any offence (not including an offence under section 50Y(1)) while the remission order is in effect; and ( b ) must not be convicted of that offence and sentenced to any of the following: (i) a sentence of imprisonment (not including a default sentence); (ii) corrective training; (iii) reformative training; (iv) preventive detention. [1/2014] (2) Where a person commits an offence in breach of the basic condition of his or her remission order, the person is deemed to have breached the basic condition on the date of the commission of the offence. [1/2014]"
+    },
+    {
+      "provision_ref": "s50T",
+      "chapter": "PART 5B - REMISSION OF SENTENCES",
+      "section": "50T",
+      "title": "Breach of basic condition and enhanced sentence",
+      "content": "50T. —(1) When a person commits an offence in breach of the basic condition of the person’s remission order made under Division 2 or 3, the court may, in addition to imposing any sentence on the person for that offence, impose an enhanced sentence for that offence as follows: ( a ) imprisonment for a term not exceeding the remaining duration of the remission order, as determined based on the date of the commission of the offence; or ( b ) imprisonment for any term or for life, if the duration of the remission order is for the person’s natural life. [1/2014] (2) If a person commits 2 or more offences in breach of the basic condition of the person’s remission order made under Division 2 or 3 — ( a ) the court may, in addition to imposing any sentence on the person for those offences, impose an enhanced sentence under subsection (1) for each of those offences; and ( b ) the aggregate length of all the enhanced sentences imposed under subsection (1) must not exceed the remaining duration of the remission order, as determined based on the date of the earliest offence committed. [1/2014] (3) In deciding whether to impose any enhanced sentence under subsection (1) or (2) with respect to any offence, and if so the length of the enhanced sentence, the court is to consider — ( a ) the gravity of the offence; ( b ) whether the offence is of a similar nature to the offence for which the person under a remission order was originally sentenced; ( c ) the length of time for which the person did not commit any offence after being released under that remission order; and ( d ) all other relevant circumstances. [1/2014] (4) For the purpose of this section, any extension of the duration of a remission order after the date of an offence committed in breach of its basic condition is to be disregarded in determining the remaining duration of a person’s remission order based on the date of that offence. [1/2014] (5) Despite any provision in any written law, a term of imprisonment imposed on any person as an enhanced sentence under this section must run consecutively to all other terms of imprisonment imposed on the person. Illustration A person is released under a remission order having effect from 1 June 2013 to 31 December 2013. On 15 July 2013 the remission order is extended for 7 days (i.e. to 7 January 2014) under section 50N(1) because the person failed to report at a prison after being recalled by the Commissioner. On 1 August 2013 the person commits offence A. On 30 September 2013 the remission order is extended for a further 10 days (i.e. to 17 January 2014) under section 50N(1). On 21 October 2013 the person commits offence B. The person is later sentenced to imprisonment for both offences A and B, rendering the person in breach of the basic condition of the person’s remission order on 1 August 2013 and again on 21 October 2013. The person’s enhanced sentence for offence A cannot exceed the length of the period from 1 August 2013 to 7 January 2014. The person’s enhanced sentence for offence B cannot exceed the length of the period from 21 October 2013 to 17 January 2014. The total length of the enhanced sentences for offences A and B cannot exceed the length of the period from 1 August 2013 to 7 January 2014. [1/2014] Division 5 &#x2014; Mandatory aftercare scheme"
+    },
+    {
+      "provision_ref": "s50U",
+      "chapter": "PART 5B - REMISSION OF SENTENCES",
+      "section": "50U",
+      "title": "Application",
+      "content": "50U. —(1) This Division applies where — ( a ) a remission order is made under section 50I or 50J in respect of a prisoner; ( b ) the prisoner’s remission order relates to a sentence (excluding a default sentence) for an offence which is specified in the First Schedule at the time the offence was committed; ( c ) the prisoner’s sentence for the offence, aggregated with any other consecutive term of imprisonment (excluding a default sentence) to which he or she was sentenced, is longer than the minimum sentence (if any) which, at the time the offence was committed, is prescribed in the First Schedule in relation to the offence; ( d ) the prisoner has a relevant antecedent for the offence, if any such antecedent has been prescribed in the First Schedule in relation to the offence at the time the offence was committed; and ( e ) the prisoner is not subject to an order removing him or her from Singapore under the Immigration Act 1959. [1/2014] (2) This Division also applies where — ( a ) a remission order is made under section 50I or 50J in respect of a prisoner — (i) who is not, on the prisoner’s release, subject to an order removing him or her from Singapore under the Immigration Act 1959; and (ii) whose sentence (excluding a default sentence) for any offence, aggregated with any other consecutive term of imprisonment (excluding a default sentence) to which the prisoner was sentenced, is longer than — (A) 15 years; or (B) any other period that may be prescribed in substitution thereof at the time of the commission of the offence or, where 2 or more offences are committed, at the time of the offence earliest committed; or ( b ) a remission order is made under section 50P in respect of a prisoner who is not, on the prisoner’s release, subject to an order removing him or her from Singapore under the Immigration Act 1959. [1/2014] (3) To avoid doubt, where 2 remission orders are merged under section 50M and subsection (1) or (2) applies to any one of the remission orders which are merged, this Division applies to the merged remission order. [1/2014]"
+    },
+    {
+      "provision_ref": "s50V",
+      "chapter": "PART 5B - REMISSION OF SENTENCES",
+      "section": "50V",
+      "title": "Mandatory aftercare conditions and variations, etc.",
+      "content": "50V. —(1) The Commissioner may, in accordance with this section and for the purpose of facilitating a person’s rehabilitation and reintegration into society, require a person to whom this Division applies to comply with mandatory aftercare conditions. [1/2014] (2) The Commissioner may, by written notice, require a person to comply with all or any of the mandatory aftercare conditions specified in subsection (3) — ( a ) at any time while the remission order relating to the person is in effect; and ( b ) for any period not extending beyond the expiry of the remission order. [1/2014] (3) The mandatory aftercare conditions mentioned in subsection (2) are as follows: ( a ) the person subject to a remission order must attend any such counselling, therapy, test, assessment, and other activity for the purpose of facilitating the person’s rehabilitation and reintegration into society as the Commissioner may require, at any time and place that the Commissioner may specify in the notice under subsection (2); ( b ) the person must report to provide a specimen of his or her urine or hair for testing at any time and place that the Commissioner may specify in the notice under subsection (2); ( c ) the person must remain indoors at the person’s place of residence, or at any other place that the Commissioner may specify, at any time that the Commissioner may specify in the notice under subsection (2); ( d ) the person must allow the Superintendent and any person authorised by the Superintendent to enter the person’s place of residence or any other place which the person is required to remain at to determine his or her compliance with any mandatory aftercare condition or for any purpose relating to his or her rehabilitation; ( e ) to enable the electronic monitoring of the person’s whereabouts, the person must — (i) wear any electronic transmitting device issued by the Commissioner on any part of his or her person that the Commissioner may specify in the notice under subsection (2); (ii) allow the Superintendent and any person authorised by the Superintendent to enter the person’s place of residence or any other place the person is required to remain at, to install, maintain, repair or retrieve any electronic monitoring device; (iii) comply with all requirements to ensure the proper functioning of any electronic monitoring device issued to the person or installed at the person’s place of residence or any other place he or she is required to remain at; (iv) comply with all reporting requirements imposed on him or her; and (v) not tamper with any electronic monitoring device issued to the person or installed at the person’s place of residence or any other place he or she is required to remain at, or otherwise prevent or obstruct the electronic monitoring of the person’s whereabouts; ( f ) the person must comply with a notice of recall served on him or her under section 50X; and ( g ) the person must comply with any other conditions for the purpose of facilitating his or her rehabilitation and reintegration into society that the Commissioner may specify in the notice under subsection (2). [1/2014] (4) The Commissioner may, at any time by written notice served on a particular person — ( a ) vary, cancel or add to any mandatory aftercare condition specified in subsection (3); ( b ) extend or reduce the period for which the person is subject to those mandatory aftercare conditions; and in the case of an extension, the extension must not extend beyond the expiry of the remission order; or ( c ) waive, in any particular case, any of the mandatory aftercare conditions specified in subsection (3). (5) The notice mentioned in subsection (4) must be served — ( a ) by delivering it personally to the person; or ( b ) by any other means that may be prescribed. [1/2014] [Act 6 of 2022 wef 02/09/2022]"
+    },
+    {
+      "provision_ref": "s50W",
+      "chapter": "PART 5B - REMISSION OF SENTENCES",
+      "section": "50W",
+      "title": "Compliance not required when person detained, etc.",
+      "content": "50W. A person is not required to comply with any mandatory aftercare condition of the person’s remission order — ( a ) while he or she is admitted to and detained in an approved institution under the Misuse of Drugs Act 1973; ( b ) while he or she is detained under the Criminal Law (Temporary Provisions) Act 1955; ( c ) while he or she is imprisoned or otherwise in custody or detained under any other written law; ( d ) to the extent that such condition is inconsistent with any condition of a supervision order made under the Misuse of Drugs Act 1973 in respect of the person; ( e ) to the extent that such condition is inconsistent with any condition of a supervision order made under the Criminal Law (Temporary Provisions) Act 1955 in respect of the person; or ( f ) in any other situations that may be prescribed. [1/2014]"
+    },
+    {
+      "provision_ref": "s50X",
+      "chapter": "PART 5B - REMISSION OF SENTENCES",
+      "section": "50X",
+      "title": "Minor breaches of mandatory aftercare condition",
+      "content": "50X. —(1) If the Commissioner is satisfied after due inquiry that a person has committed a minor breach of a mandatory aftercare condition of the person’s remission order, the Commissioner may do one or more of the following for the purpose of punishing the person: ( a ) administer a written warning to the person; ( b ) extend the period for which the person is subject to any mandatory aftercare condition, except that the period must not extend beyond the expiry of the remission order; ( c ) vary, cancel or add to the mandatory aftercare conditions of the person’s remission order; ( d ) recall the person to prison for a specified period in accordance with this section. [1/2014] (2) Subject to the limits in subsection (4), the Commissioner may recall a person to prison by serving upon him or her a notice of recall in accordance with subsection (3). [1/2014] (3) The notice of recall in subsection (2) — ( a ) must be served — (i) by delivering it personally to the person; or (ii) by any other means that may be prescribed; ( b ) may be served by a prison officer, a police officer or an auxiliary police officer; and ( c ) must — (i) specify the prison to which the person is to report; (ii) specify the date and time the person is required to report to the specified prison; and (iii) specify, in days, the number of days for which the person is recalled. [1/2014] (4) The Commissioner must not recall a person — ( a ) for a period exceeding 10 days at a time; ( b ) for a cumulative period of more than 30 days; ( c ) after the expiry of the remission order; or ( d ) for a period extending beyond the expiry of the remission order. [1/2014] (5) When the Commissioner recalls a person to prison under this section — ( a ) the person must, before he or she reports to prison, remain subject to the remission order; ( b ) the person must, when he or she reports to prison, be imprisoned for the period of recall and is, while so imprisoned, deemed to be serving his or her sentence; and ( c ) the person must, after he or she has served the period of recall in prison, be released and continue to be subject to his or her remission order to the extent that it continues to have effect. [1/2014] (6) If the person remains unlawfully at large after the time he or she is required to report to a prison by a notice of recall and is subsequently arrested, he or she must immediately be imprisoned for a period equivalent to the period of recall. [1/2014]"
+    },
+    {
+      "provision_ref": "s50Y",
+      "chapter": "PART 5B - REMISSION OF SENTENCES",
+      "section": "50Y",
+      "title": "Offence of serious breach of mandatory aftercare condition",
+      "content": "50Y. —(1) A person who commits a serious breach of a mandatory aftercare condition of his or her remission order shall be guilty of an offence and shall be liable on conviction to — ( a ) imprisonment for a term not exceeding the remaining duration of the remission order, as determined based on the date of the offence; or ( b ) imprisonment for any term or for life, if the duration of the remission order is for life. [1/2014] (2) In deciding the punishment to be imposed for an offence under subsection (1), the court is to consider — ( a ) the gravity of the serious breach; ( b ) the length of time for which the person did not commit any breach of a mandatory aftercare condition after being released under the remission order; ( c ) whether the serious breach evidences a lack of commitment by the person to his or her rehabilitation and reintegration into society; and ( d ) all other relevant circumstances. [1/2014] (3) If a person commits 2 or more offences under subsection (1) — ( a ) the court may sentence the person under subsection (1) for each of those offences; and ( b ) the aggregate length of all the sentences imposed under subsection (1) must not exceed the remaining duration of the remission order, as determined based on the date of commission of the first offence. [1/2014] (4) For the purpose of this section, any extension of the duration of a remission order after the date of commission of an offence under this section is to be disregarded in determining the remaining duration of a person’s remission order based on the date of commission of the offence. [1/2014] (5) Despite any provision in any written law, a term of imprisonment imposed under this section on any person runs consecutively to all other terms of imprisonment imposed on the person. Illustration A prisoner is released under a remission order having effect from 1 June 2013 to 31 December 2013. The remission order is subject to mandatory aftercare conditions for its whole duration. On 15 July 2013 the remission order is extended for 7 days (i.e. to 7 January 2014) under section 50N(1). On 1 August 2013 the prisoner commits a first offence under section 50Y(1). On 30 September 2013, the remission order is extended for a further 10 days (i.e. to 17 January 2014) under section 50N(1). On 21 October 2013 the prisoner commits a second offence under section 50Y(1). The prisoner’s sentence for the first offence cannot exceed the length of the period from 1 August 2013 to 7 January 2014. The prisoner’s sentence for the second offence cannot exceed the length of the period from 21 October 2013 to 17 January 2014. The total sentence for both offences cannot exceed the length of the period from 1 August 2013 to 7 January 2014. [1/2014]"
+    },
+    {
+      "provision_ref": "s50Z",
+      "chapter": "PART 5B - REMISSION OF SENTENCES",
+      "section": "50Z",
+      "title": "Powers of arrest, etc.",
+      "content": "50Z. —(1) The offence of committing a serious breach of a mandatory aftercare condition under section 50Y(1) shall be an arrestable and bailable offence for the purposes of the Criminal Procedure Code 2010. [1/2014] (2) A prison officer may exercise all the powers which a police officer of equivalent rank may exercise under the Criminal Procedure Code 2010 in respect of an offence of committing a serious breach of a mandatory aftercare condition under section 50Y(1). [1/2014] (3) To avoid doubt, where the Commissioner recalls a prisoner to prison under section 50X, the prisoner is not to be admitted to bail. [1/2014] Division 6 &#x2014; Remission of default sentences"
+    },
+    {
+      "provision_ref": "s50ZA",
+      "chapter": "PART 5B - REMISSION OF SENTENCES",
+      "section": "50ZA",
+      "title": "Application",
+      "content": "50ZA. This Division applies to a prisoner whose sentence of imprisonment consists wholly of default sentences for offences committed before, on or after 1 July 2014. [1/2014]"
+    },
+    {
+      "provision_ref": "s50ZB",
+      "chapter": "PART 5B - REMISSION OF SENTENCES",
+      "section": "50ZB",
+      "title": "Remission of default sentences",
+      "content": "50ZB. —(1) A prisoner to whom this Division applies is, upon the prisoner’s admission to prison, entitled to have his or her sentence remitted in accordance with this section. [1/2014] (2) Section 50I applies to a prisoner to whom this Division applies, subject to the following modifications: ( a ) the Commissioner is not required to make a remission order; and ( b ) on the day the Commissioner would have been required to make a remission order under section 50I, the sentence of the prisoner is remitted. [1/2014] Division 7 &#x2014; Transitional provisions"
+    },
+    {
+      "provision_ref": "s50ZC",
+      "chapter": "PART 5B - REMISSION OF SENTENCES",
+      "section": "50ZC",
+      "title": "Application",
+      "content": "50ZC. —(1) This Division applies to a prisoner — ( a ) convicted before, on or after 1 July 2014; ( b ) whose sentence of imprisonment does not include a sentence of life imprisonment for an offence committed on or after 21 August 1997; and ( c ) whose sentence of imprisonment includes a term of imprisonment (not including a default sentence) imposed for an offence committed before 1 July 2014. [1/2014] (2) For the purposes of subsection (1) and this Division, a sentence of life imprisonment imposed for an offence committed before 21 August 1997 is deemed to be a sentence of imprisonment for a term of 20 years. [1/2014]"
+    },
+    {
+      "provision_ref": "s50ZD",
+      "chapter": "PART 5B - REMISSION OF SENTENCES",
+      "section": "50ZD",
+      "title": "Remission of sentences relating to offences committed before 1 July 2014",
+      "content": "50ZD. —(1) This section applies to a prisoner whose sentence of imprisonment (not including any default sentence), consists wholly of terms of imprisonment imposed for an offence or offences all of which were committed before 1 July 2014. [1/2014] (2) Section 50I applies to the prisoner, subject to the following modifications: ( a ) the actual making of a remission order under that section is not required; and ( b ) the sentence of the prisoner which, on 1 July 2014, has yet to be served is remitted on the day the Commissioner would have been required to make a remission order in respect of the prisoner under section 50I. [1/2014] (3) To avoid doubt, Divisions 4 and 5 do not apply when a sentence is remitted under subsection (2)( b ). [1/2014] (4) Where a prisoner to whom this section applies has served 20 years of the prisoner’s sentence and the Commissioner is not required under section 50I to make a remission order in respect of the prisoner, the Minister must review the prisoner’s case in accordance with section 50J and may, in the Minister’s discretion, direct the Commissioner to make a remission order under section 50J. [1/2014] (5) For the purposes of subsection (4), where a prisoner has served 20 years or more of the prisoner’s sentence on 1 July 2014, the Minister must review the prisoner’s case in accordance with section 50J as soon as practicable after 1 July 2014. [1/2014] (6) When the Commissioner is directed by the Minister to make a remission order under section 50J read with subsection (4), Division 2 applies except that the remainder of the prisoner’s sentence is to be worked out as follows instead of in accordance with section 50K(3): ( a ) first, work out the portion (in days) of the prisoner’s sentence that has not been served; ( b ) second, work out the portion (in days) of the prisoner’s sentence — (i) starting on the day on which the Commissioner would have been required to make a remission order under section 50I in respect of the prisoner if the Minister had not directed the Commissioner to make a remission order under section 50J; and (ii) ending on the day the prisoner would have been released from prison if no remission order was made in respect of him or her; ( c ) third, subtract the portion of the prisoner’s sentence worked out under paragraph ( b ) from the portion of the prisoner’s sentence worked out under paragraph ( a ). [1/2014] (7) The portion of the prisoner’s sentence worked out under subsection (6)( b ) is to be remitted upon the making of the remission order. Illustration A prisoner is sentenced to 36 years’ imprisonment for various offences, all of which were committed before 1 July 2014. The sentence is ordered to take effect from 1 January 2013. While serving imprisonment the prisoner is sentenced to forfeiture of one month’s remission for a prison offence. The Minister reviews the prisoner’s case on 1 January 2033, when the prisoner has served 20 years of the prisoner’s sentence and directs the Commissioner to make a remission order under section 50J on the same date. The Commissioner would have been required to make a remission order under section 50I in respect of that prisoner on 1 February 2037, when the prisoner has served 24 years (comprising two‑thirds of his or her sentence) and one month (comprising the forfeiture of remission) of his or her sentence. Consequent to the remission order under section 50J, the prisoner’s sentence will be remitted save for a term of 4 years one month, which is the length of the period between the date of the remission order under section 50J and the date on which the Commissioner would have been required to make a remission order under section 50I. The term of 4 years one month will be suspended, and will be remitted upon the expiry of the remission order. [1/2014]"
+    },
+    {
+      "provision_ref": "s50ZE",
+      "chapter": "PART 5B - REMISSION OF SENTENCES",
+      "section": "50ZE",
+      "title": "Remission of sentences for offences committed both before and on or after 1 July 2014",
+      "content": "50ZE. —(1) This section applies to a prisoner whose sentence of imprisonment (not including any default sentence) consists of terms of imprisonment imposed for offences committed both before 1 July 2014, and on or after 1 July 2014. [1/2014] (2) The prisoner is, upon the prisoner’s admission to prison, entitled to have his or her sentence remitted in accordance with Division 2 as modified by subsections (3), (4), (5) and (6). [1/2014] (3) When a remission order is made by the Commissioner under section 50I in respect of a prisoner to whom this section applies, the remainder of the prisoner’s sentence is to be worked out as follows instead of in accordance with section 50K(2) or (3), as the case may be: ( a ) first, work out the portion (in days) of the prisoner’s aggregate sentence that has not been served; ( b ) second, apportion the total time (in days) the prisoner spent serving his or her aggregate sentence among each of his or her consecutive terms of imprisonment (including default sentences) such that each sentence is served in the same proportion; ( c ) third, work out the portion (in days) of any default sentence which has not been served under paragraph ( b ); ( d ) fourth, for an offence committed before 1 July 2014, work out the portion (in days) of the sentence which has not been served under paragraph ( b ); ( e ) fifth, add the portions of the prisoner’s sentences worked out under paragraphs ( c ) and ( d ); ( f ) sixth, subtract the portion of the prisoner’s sentences worked out under paragraph ( e ) from the portion of the prisoner’s sentence worked out under paragraph ( a ). Illustration A prisoner is sentenced to 9 years’ imprisonment for offence A, committed before 1 July 2014, and 6 years’ imprisonment for offence B, committed after 1 July 2014. Offence B is not an offence under section 50Y(1) and the sentence for offence B does not include any enhanced sentence under section 50T(1)( a ). The sentences are ordered to run consecutively and to take effect from 1 January 2015. The Commissioner makes a remission order under section 50I on 1 January 2025, the day after the day where the prisoner has served two‑thirds of his or her sentence. The time the prisoner spent serving his or her sentence (10 years) will be apportioned between offences A and B such that the prisoner has served the same proportion of each sentence, i.e. 6 years of the sentence for offence A and 4 years of the sentence for offence B. The portion of the sentence for offence A which has not been served (3 years) will be remitted. The portion of the sentence for offence B which has not been served (2 years) will be the remainder of the prisoner’s sentence, which is suspended until the remission order expires, whereupon it will be remitted. [1/2014] (4) Where a prisoner has served 20 years or more of his or her sentence on 1 July 2014, the Minister must review the prisoner’s case in accordance with section 50J as soon as practicable after 1 July 2014. [1/2014] (5) If the Minister directs the Commissioner to make a remission order under section 50J, the remainder of the prisoner’s sentence is to be worked out as follows instead of in accordance with section 50K(4): ( a ) first, work out the portion (in days) of the prisoner’s aggregate sentence which has not been served — (i) starting on the date of the remission order made under section 50J; and (ii) ending on the day immediately before the day on which the Commissioner would have been required to make a remission order under section 50I in respect of the prisoner if the Minister had not directed the Commissioner to make a remission order under section 50J; ( b ) second, work out the portion (in days) of the prisoner’s aggregate sentence which has not been served — (i) starting on the day on which the Commissioner would have been required to make a remission order under section 50I in respect of the prisoner if the Minister had not directed the Commissioner to make a remission order under section 50J; and (ii) ending on the day the prisoner would have been released from prison had no remission order was made in respect of the prisoner; ( c ) third, apportion the portion of the prisoner’s aggregate sentence worked out under paragraph ( b ) between each consecutive term of imprisonment (including default sentences) to which the prisoner was sentenced such that the same proportion of each sentence has not been served; ( d ) fourth, work out the portion (in days) of all sentences (other than default sentences) for offences committed on or after 1 July 2014 as apportioned under paragraph ( c ); ( e ) fifth, add the portion of the prisoner’s sentence worked out under paragraph ( a ) to the portion of the prisoner’s sentence worked out under paragraph ( d ). Illustration A prisoner is sentenced to 18 years’ imprisonment for offence A, committed before 1 July 2014, and 15 years’ imprisonment for offence B, committed after 1 July 2014. Offence B is not an offence under section 50Y(1) and the sentence for offence B does not include any enhanced sentence under section 50T(1)( a ). The sentences are ordered to run consecutively and to take effect from 1 January 2015. The Minister reviews the prisoner’s case on 1 January 2035, when the prisoner has served 20 years of his or her sentence and directs the Commissioner to make a remission order under section 50I on the same date. The Commissioner would have been required to make a remission order under section 50I on 1 January 2037, when the prisoner has served 22 years (two‑thirds) of his or her sentence. If the prisoner had continued to serve his or her sentence until the Commissioner made a remission order on that date, the portion of the prisoner’s sentence of 33 years which would have not been served would be 11 years. This would be apportioned proportionally between the sentences for offences A and B, such that 6 years of the sentence for offence A has not been served and 5 years for offence B has not been served. The portion for offence A which has not been served (6 years) will be remitted. The portion for offence B (5 years) which has not been served will be added to the portion of the prisoner’s sentence from the date on which the Minister directs the Commissioner to make the remission order under section 50I to the day on which the Commissioner would have been required to make a remission order under section 50I (2 years). The aggregate term (7 years) so determined would be suspended and would be remitted when the remission order expires. [1/2014] (6) The following portions of a prisoner’s sentence are remitted: ( a ) the portion of any default sentence as worked out under subsection (3)( c ) or (5)( c ); ( b ) the portion of any sentence for an offence committed before 1 July 2014, as worked out under subsection (3)( d ) or (5)( c ). [1/2014]"
+    },
+    {
+      "provision_ref": "s50ZF",
+      "chapter": "PART 5B - REMISSION OF SENTENCES",
+      "section": "50ZF",
+      "title": "Application of Divisions 4 and 5",
+      "content": "50ZF. —(1) To avoid doubt — ( a ) Division 4 applies to a prisoner mentioned in section 50ZC who is released under a remission order made under section 50I or 50J read with the provisions of this Division; and ( b ) Division 5 applies to a prisoner mentioned in section 50ZC — (i) who is released under a remission order made under section 50I or 50J read with the provisions of this Division; and (ii) to whom section 50U applies. [1/2014] (2) Division 5 also applies to a prisoner mentioned in section 50ZC — ( a ) who is released under a remission order made under section 50J read with the provisions of this Division; and ( b ) to whom section 50U would apply if any of the offences he or she committed before 1 July 2014 had been committed on 1 July 2014. [1/2014] 50ZG. [ Omitted as spent ]"
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "PART 6 - HOME DETENTION SCHEME",
+      "section": "51",
+      "title": "Interpretation of this Part",
+      "content": "51. In this Part — [ Deleted by Act 6 of 2022 wef 02/09/2022 ] [ Deleted by Act 6 of 2022 wef 02/09/2022 ] “Superintendent”, in relation to a prisoner, means the Superintendent of the prison from which the prisoner had been released for home detention. [1/2014]"
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "PART 6 - HOME DETENTION SCHEME",
+      "section": "52",
+      "title": "Order for home detention",
+      "content": "52. Subject to section 53, the Commissioner may, for the purpose of facilitating a prisoner’s rehabilitation and reintegration into society, by order release a prisoner who is eligible for home detention for a period not exceeding 12 months or any other period that the Minister may, by notification in the Gazette , prescribe in substitution thereof. [1/2014]"
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "PART 6 - HOME DETENTION SCHEME",
+      "section": "53",
+      "title": "Eligibility for home detention",
+      "content": "53. —(1) A prisoner is eligible to be released for home detention under section 52 if — ( a ) the prisoner is serving a sentence of imprisonment for a term of not less than 4 weeks or any other period that the Minister may, by notification in the Gazette , prescribe in substitution thereof; ( b ) the prisoner has served not less than 14 days of his or her sentence of imprisonment or any other period that the Minister may, by notification in the Gazette , prescribe in substitution thereof; and ( c ) the prisoner is not a prisoner specified under the Second Schedule as being disqualified from being released for home detention under section 52. [33/2004; 1/2014] (2) The disqualification of a prisoner under subsection (1)( c ) may be removed by the Minister if the Minister considers that the prisoner is deserving of home detention, having regard to the circumstances of the case, including the following factors: ( a ) the prisoner’s progress and response to rehabilitation in prison; ( b ) the prisoner’s family support; ( c ) the risk of recidivism by the prisoner. [33/2004] (3) For the purpose of subsection (1)( a ), the total consecutive periods of imprisonment of whatever nature is treated as one sentence."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "PART 6 - HOME DETENTION SCHEME",
+      "section": "54",
+      "title": "Conditions for home detention",
+      "content": "54. —(1) A prisoner subject to a home detention order must — ( a ) attend any such counselling, therapy, test, assessment, and other activity for the purpose of facilitating his or her rehabilitation and reintegration into society as the Commissioner may require, at any time and place that the Commissioner may specify; ( b ) report to provide a specimen of his or her urine or hair for testing at any time and place that the Commissioner may specify; ( c ) remain indoors at his or her place of residence, or at any other place that the Commissioner may specify, at any time that the Commissioner may specify; ( d ) allow the Superintendent and any person authorised by the Superintendent to enter the prisoner’s place of residence, or any other place the prisoner is required to remain at, to determine his or her compliance with any condition of the home detention order or for any purpose relating to his or her rehabilitation; ( da ) not consume any controlled drug, psychoactive substance or alcoholic beverage, or use or inhale any intoxicating substance; [Act 6 of 2022 wef 02/09/2022] [Act 12 of 2023 wef 01/06/2024] ( db ) not have in the prisoner’s possession any controlled drug or psychoactive substance; [Act 6 of 2022 wef 02/09/2022] [Act 12 of 2023 wef 01/06/2024] ( e ) to enable the electronic monitoring of the prisoner’s whereabouts — (i) wear any electronic transmitting device issued by the Commissioner on any part of his or her person that the Commissioner may specify; (ii) allow the Superintendent and any person authorised by the Superintendent to enter the prisoner’s place of residence, or any other place he or she is required to remain at, to install, maintain, repair or retrieve any electronic monitoring device; (iii) comply with all requirements to ensure the proper functioning of any electronic monitoring device issued to the prisoner or installed at his or her place of residence or any other place he or she is required to remain at; (iv) comply with all reporting requirements imposed on him or her; and (v) not tamper with any electronic monitoring device issued to the prisoner or installed at the prisoner’s place of residence, or any other place the prisoner is required to remain at, or otherwise prevent or obstruct the electronic monitoring of his or her whereabouts; and ( f ) comply with such other conditions as the Commissioner may specify in the order. [1/2014] (2) The Commissioner may at any time by written order served on the prisoner subject to a home detention order — ( a ) vary, cancel or add to any of the conditions specified in subsection (1); or ( b ) exempt the prisoner from any of the conditions specified in subsection (1). [1/2014] (3) The order mentioned in subsection (2) must be served — ( a ) by delivering it personally to the prisoner; or ( b ) by any other means that may be prescribed. [Act 6 of 2022 wef 02/09/2022]"
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "PART 6 - HOME DETENTION SCHEME",
+      "section": "55",
+      "title": "Effect of home detention order",
+      "content": "55. Where a home detention order is in force in respect of a prisoner — ( a ) the prisoner is deemed to be serving his or her sentence of imprisonment; ( b ) the prisoner is deemed to be in the lawful custody of the Superintendent; and ( c ) the prisoner is entitled to earn remission in respect of the period of imprisonment which is served under the order."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "PART 6 - HOME DETENTION SCHEME",
+      "section": "56",
+      "title": "Recall to prison",
+      "content": "56. —(1) If a Superintendent has reason to suspect that a prisoner has failed to comply with any of the conditions of the home detention order, or has committed any offence while being subject to a home detention order, the Superintendent may — ( a ) make such inquiry as may be necessary to ascertain whether the prisoner has failed to comply with any of the conditions of the home detention order or committed any offence while being subject to the order; and [Act 6 of 2022 wef 02/09/2022] ( b ) recall the prisoner to prison pending the completion of the inquiry. [Act 6 of 2022 wef 02/09/2022] (2) The period of the home detention order of a prisoner who is recalled to prison under subsection (1)( b ) continues to run, despite the fact that the prisoner is recalled to prison, unless the order is revoked under section 57 or suspended under section 58."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "PART 6 - HOME DETENTION SCHEME",
+      "section": "57",
+      "title": "Revocation of home detention order",
+      "content": "57. —(1) If the Commissioner is satisfied after due inquiry that — ( a ) a prisoner failed to return to prison after he or she was recalled to prison under section 56(1)( b ); ( b ) a prisoner failed to comply with any of the conditions of the home detention order; ( c ) a prisoner committed any offence while being subject to a home detention order; [Act 6 of 2022 wef 02/09/2022] ( d ) the whereabouts of a prisoner can no longer be electronically monitored at the prisoner’s place of residence, or at such other place or places at which the prisoner is required to remain within doors under the conditions of the home detention order; or ( e ) it is necessary in the public interest to do so, the Commissioner may revoke the home detention order in respect of that prisoner and recall the prisoner to prison, and the prisoner is, if at large, deemed to be unlawfully at large. [1/2014] (2) Upon the revocation of the home detention order under subsection (1), the prisoner is to serve the unexpired part of his or her sentence of imprisonment in prison."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "PART 6 - HOME DETENTION SCHEME",
+      "section": "58",
+      "title": "Suspension of home detention order",
+      "content": "58. Where a prisoner subject to a home detention order is punished with any punishment under section 70(1)( a ) or ( b ) (or both) or 71(1)( b ) or ( c ) (or both), the prisoner’s home detention order may, unless revoked under section 57, be suspended for any of the following periods, starting on the date on which the prisoner is punished: ( a ) the period that the prisoner is confined in a punishment cell pursuant to an order under section 70(1)( a ) or 71(1)( b ); ( b ) the period of remission which is forfeited pursuant to an order under section 70(1)( b ) or 71(1)( c ); ( c ) the sum of the period for which the prisoner is ordered to undergo confinement under section 70(1)( a ) or 71(1)( b ) and the period of remission forfeited under section 70(1)( b ) or 71(1)( c ). [Act 6 of 2022 wef 02/09/2022]"
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "PART 6 - HOME DETENTION SCHEME",
+      "section": "59",
+      "title": "Powers to enter and search",
+      "content": "59. A police officer of or above the rank of Assistant Superintendent of Police or a police officer authorised by him or her may — ( a ) enter and search a place without a warrant to effect the arrest of any prisoner who has failed to return to prison after — (i) the prisoner is recalled by the Superintendent under section 56(1)( b ); or (ii) the Commissioner revokes the home detention order under section 57(1); and ( b ) in order to effect an entrance into that place, break open any outer or inner door or window of that place if he or she cannot otherwise obtain admittance to that place. [1/2014]"
+    },
+    {
+      "provision_ref": "s59A",
+      "chapter": "PART 6A - EXTERNAL PLACEMENT SCHEME",
+      "section": "59A",
+      "title": "Interpretation of this Part",
+      "content": "59A. In this Part — [ Deleted by Act 6 of 2022 wef 02/09/2022 ] [ Deleted by Act 6 of 2022 wef 02/09/2022 ] “Superintendent”, in relation to a prisoner, means the Superintendent of the prison from which the prisoner is released for external placement. [1/2014]"
+    },
+    {
+      "provision_ref": "s59B",
+      "chapter": "PART 6A - EXTERNAL PLACEMENT SCHEME",
+      "section": "59B",
+      "title": "External placement order",
+      "content": "59B. —(1) The Minister may, if the Minister is of the view that it is more appropriate for a prisoner to serve the prisoner’s sentence in a place other than a prison, direct the Commissioner to make an external placement order in respect of the prisoner for a period not exceeding 12 months. [1/2014] (2) The Minister may direct the Commissioner to extend the duration of an external placement order for one or more times, by a period not exceeding 12 months each time. [1/2014] (3) In determining for the purposes of subsections (1) and (2) and section 59H(1) whether it is more appropriate for a prisoner to serve his or her sentence in a place other than a prison — ( a ) the Minister must have regard to the following factors: (i) that it is ordinarily in the public interest that prisoners serve their sentences in a prison; (ii) the threat (if any) likely to be posed by the prisoner to public safety if he or she is released or continues to be released on external placement; and ( b ) the Minister may have regard to the following factors: (i) the physical condition of the prisoner; (ii) the mental condition of the prisoner; (iii) any other relevant circumstances. [1/2014]"
+    },
+    {
+      "provision_ref": "s59C",
+      "chapter": "PART 6A - EXTERNAL PLACEMENT SCHEME",
+      "section": "59C",
+      "title": "Effect of external placement order",
+      "content": "59C. —(1) A prisoner must be released on the day an external placement order is made in respect of him or her. [1/2014] (2) Where an external placement order is in force in respect of a prisoner, the prisoner is deemed — ( a ) to be still serving his or her sentence; and ( b ) to be still in the lawful custody of the Superintendent. [1/2014]"
+    },
+    {
+      "provision_ref": "s59D",
+      "chapter": "PART 6A - EXTERNAL PLACEMENT SCHEME",
+      "section": "59D",
+      "title": "Conditions for external placement",
+      "content": "59D. —(1) A prisoner subject to an external placement order — ( a ) must remain indoors at his or her place of residence, or at any other place that the Commissioner may specify, at such times as the Commissioner may specify; ( b ) must allow the Superintendent and any person authorised by the Superintendent to enter the prisoner’s place of residence, or any other place the prisoner is required to remain at, to determine his or her compliance with any condition of the external placement order or for any purpose relating to his or her rehabilitation; ( ba ) must not consume any controlled drug, psychoactive substance or alcoholic beverage, or use or inhale any intoxicating substance; [Act 6 of 2022 wef 02/09/2022] [Act 12 of 2023 wef 01/06/2024] ( bb ) must not have in the prisoner’s possession any controlled drug or psychoactive substance; [Act 6 of 2022 wef 02/09/2022] [Act 12 of 2023 wef 01/06/2024] ( c ) must do all of the following to enable the electronic monitoring of the prisoner’s whereabouts: (i) wear any electronic transmitting device issued by the Commissioner on any part of his or her person that the Commissioner may specify; (ii) allow the Superintendent and any person authorised by the Superintendent to enter the prisoner’s place of residence, or any other place he or she is required to remain at, to install, maintain, repair or retrieve any electronic monitoring device; (iii) comply with all requirements to ensure the proper functioning of any electronic monitoring device issued to the prisoner or installed at his or her place of residence or any other place he or she is required to remain at; (iv) comply with all reporting requirements imposed on him or her by the Commissioner; (v) not tamper with any electronic monitoring device issued to the prisoner or installed at the prisoner’s place of residence, or any other place he or she is required to remain at, or otherwise prevent or obstruct the electronic monitoring of his or her whereabouts; and ( d ) must comply with any other conditions that the Commissioner may specify in the external placement order. [1/2014] (2) The matters to be specified by the Commissioner under subsection (1) must be specified by written notice. [1/2014] (3) The Commissioner may, at any time and by written notice served on any particular prisoner subject to an external placement order — ( a ) vary, cancel or add to any of the conditions specified in subsection (1); or ( b ) exempt the prisoner from any of the conditions specified in subsection (1). [1/2014] (4) The notice mentioned in subsection (3) must be served — ( a ) by delivering it personally to the prisoner; or ( b ) by any other means that may be prescribed. [Act 6 of 2022 wef 02/09/2022]"
+    },
+    {
+      "provision_ref": "s59E",
+      "chapter": "PART 6A - EXTERNAL PLACEMENT SCHEME",
+      "section": "59E",
+      "title": "Recall to prison",
+      "content": "59E. —(1) If a Superintendent has reason to suspect that a prisoner who is subject to an external placement order has failed to comply with any of the conditions of the external placement order, or has committed any offence while being so subject, the Superintendent may — ( a ) make any inquiry that may be necessary to ascertain whether the prisoner has failed to comply with any of the conditions of the external placement order or committed any offence while being so subject; and [Act 6 of 2022 wef 02/09/2022] ( b ) recall the prisoner to prison pending the completion of the inquiry. [1/2014] [Act 6 of 2022 wef 02/09/2022] (2) The external placement order for a prisoner who is recalled to prison under subsection (1)( b ) continues to be in force despite the fact that he or she is recalled to prison. [1/2014]"
+    },
+    {
+      "provision_ref": "s59F",
+      "chapter": "PART 6A - EXTERNAL PLACEMENT SCHEME",
+      "section": "59F",
+      "title": "Revocation of external placement order",
+      "content": "59F. —(1) If the Commissioner is satisfied after due inquiry that — ( a ) a prisoner failed to return to prison after he or she was recalled to prison under section 59E(1)( b ); ( b ) a prisoner failed to comply with any of the conditions of the external placement order; ( c ) a prisoner committed any offence while being subject to an external placement order; [Act 6 of 2022 wef 02/09/2022] ( d ) the whereabouts of a prisoner can no longer be electronically monitored at the prisoner’s place of residence, or at such other place or places at which the prisoner is required to remain within doors under the conditions of the external placement order; or ( e ) it is necessary in the public interest to do so, the Commissioner may revoke the external placement order in respect of that prisoner and, if the prisoner is not already detained in prison, recall the prisoner to prison; and the prisoner is, if then at large, deemed to be unlawfully at large. [1/2014] (2) Upon the revocation of the external placement order under subsection (1), the prisoner must serve the unexpired part of his or her sentence in prison. [1/2014]"
+    },
+    {
+      "provision_ref": "s59G",
+      "chapter": "PART 6A - EXTERNAL PLACEMENT SCHEME",
+      "section": "59G",
+      "title": "Suspension of external placement order",
+      "content": "59G. Where a prisoner subject to an external placement order is punished with any punishment under section 70(1)( a ) or ( b ) (or both) or section 71(1)( b ) or ( c ) (or both), the external placement order may, unless revoked under section 59F, be suspended for any of the following periods, starting on the date on which the prisoner is punished: ( a ) the period that the prisoner is confined in a punishment cell pursuant to an order under section 70(1)( a ) or 71(1)( b ); ( b ) the period of remission which is forfeited pursuant to an order under section 70(1)( b ) or 71(1)( c ); ( c ) the sum of the period for which the prisoner is ordered to undergo confinement under section 70(1)( a ) or 71(1)( b ) and the period of remission forfeited under section 70(1)( b ) or 71(1)( c ). [1/2014] [Act 6 of 2022 wef 02/09/2022]"
+    },
+    {
+      "provision_ref": "s59H",
+      "chapter": "PART 6A - EXTERNAL PLACEMENT SCHEME",
+      "section": "59H",
+      "title": "Cancellation of external placement order",
+      "content": "59H. —(1) The Minister may, if the Minister is of the view that it is no longer appropriate for a prisoner released under an external placement order to serve the prisoner’s sentence in a place other than a prison, cancel the external placement order in respect of that prisoner and recall the prisoner to prison; and the prisoner is, if at large, then deemed to be unlawfully at large. [1/2014] (2) Upon the cancellation of the external placement order under subsection (1), the prisoner must serve the unexpired part of his or her sentence in prison. [1/2014]"
+    },
+    {
+      "provision_ref": "s59I",
+      "chapter": "PART 6A - EXTERNAL PLACEMENT SCHEME",
+      "section": "59I",
+      "title": "Powers to enter and search",
+      "content": "59I. A police officer of or above the rank of Assistant Superintendent of Police or a police officer authorised by him or her may — ( a ) enter and search a place without a warrant to effect the arrest of any prisoner who has failed to return to prison after — (i) the prisoner is recalled by the Superintendent under section 59E(1)( b ); (ii) the Commissioner revokes the external placement order under section 59F(1); or (iii) the Minister cancels the external placement order under section 59H(1); and ( b ) in order to effect an entrance into that place, break open any outer or inner door or window of that place if the police officer cannot otherwise obtain admittance to that place. [1/2014]"
+    },
+    {
+      "provision_ref": "s59J",
+      "chapter": "PART 6B - EMPLOYMENT PREPARATION SCHEME",
+      "section": "59J",
+      "title": "Interpretation of this Part",
+      "content": "59J. In this Part, “Superintendent”, in relation to a prisoner, means the Superintendent of the prison from which the prisoner is released for employment preparation. [Act 6 of 2022 wef 02/09/2022]"
+    },
+    {
+      "provision_ref": "s59K",
+      "chapter": "PART 6B - EMPLOYMENT PREPARATION SCHEME",
+      "section": "59K",
+      "title": "Employment preparation order",
+      "content": "59K. —(1) Subject to section 59L, the Commissioner may, for the purposes of enhancing a prisoner’s employability and facilitating the prisoner’s reintegration into society, by order release a prisoner who is eligible for employment preparation for any one or both of the following purposes: ( a ) to be employed, in any place outside the limits of the prison in which the prisoner is detained, by any employer that may be specified in the order; ( b ) to participate, in any place outside the limits of the prison in which the prisoner is detained, in any educational or occupational training programme, or any other activity for the purpose of facilitating the prisoner to be gainfully employed, that may be specified in the order. (2) An employment preparation order is valid for such period specified in the order, unless earlier revoked under section 59P(1) or suspended under section 59Q. (3) The Commissioner may grant a prisoner mentioned in subsection (1) leave to return to the prisoner’s place of residence, or any other place that the Commissioner may specify, after the prisoner has completed the prisoner’s work, programme or activity for the day, at such times as the Commissioner may specify. (4) The Commissioner may at any time revoke any leave granted to a prisoner under subsection (3). [Act 6 of 2022 wef 02/09/2022]"
+    },
+    {
+      "provision_ref": "s59L",
+      "chapter": "PART 6B - EMPLOYMENT PREPARATION SCHEME",
+      "section": "59L",
+      "title": "Eligibility for employment preparation",
+      "content": "59L. —(1) A prisoner is eligible to be released for employment preparation under section 59K if — ( a ) the prisoner has served not less than 14 days, or any other period that the Minister may prescribe by notification in the Gazette , of the prisoner’s sentence of imprisonment; and ( b ) the Commissioner considers that the prisoner is suitable for employment preparation, having regard to the circumstances of the case, including the following factors: (i) the prisoner’s progress and response to rehabilitation in prison; (ii) the prisoner’s family support; (iii) the risk of recidivism by the prisoner. (2) For the purposes of subsection (1)( a ), the total consecutive periods of imprisonment of whatever nature are to be treated as one sentence. [Act 6 of 2022 wef 02/09/2022]"
+    },
+    {
+      "provision_ref": "s59M",
+      "chapter": "PART 6B - EMPLOYMENT PREPARATION SCHEME",
+      "section": "59M",
+      "title": "Conditions for employment preparation",
+      "content": "59M. —(1) A prisoner subject to an employment preparation order who has not been granted leave under section 59K(3) to return to the prisoner’s place of residence or any other place specified by the Commissioner must — ( a ) not leave the prison in which the prisoner is detained without the approval of the prison officer on duty or any other person authorised by the Commissioner for the purposes of this section (called in this section an authorised person); ( b ) not be absent, without good cause, from the prisoner’s work with the employer, or from the prisoner’s programme or activity, as specified in the employment preparation order; ( c ) return to the prison and report to the prison officer on duty or an authorised person immediately after completing the prisoner’s work, programme or activity for the day; ( d ) provide a specimen of the prisoner’s urine or hair for testing at such times as the prison officer on duty or an authorised person may require; ( e ) not consume any controlled drug, psychoactive substance or alcoholic beverage, or use or inhale any intoxicating substance; [Act 12 of 2023 wef 01/06/2024] ( f ) not have in the prisoner’s possession any controlled drug, psychoactive substance, alcoholic beverage or intoxicating substance; [Act 12 of 2023 wef 01/06/2024] ( g ) not bring, or attempt by any means to introduce, into the prison any unauthorised article; ( h ) if required by the Commissioner, do all of the following to enable the electronic monitoring of the prisoner’s whereabouts: (i) wear any electronic transmitting device issued by the Commissioner on such part of the prisoner’s body as the Commissioner may specify; (ii) comply with all requirements to ensure the proper functioning of any electronic monitoring device issued to the prisoner; (iii) not tamper with any electronic monitoring device issued to the prisoner, or otherwise prevent or obstruct the electronic monitoring of the prisoner’s whereabouts; and ( i ) comply with any other conditions that the Commissioner may specify in the order. (2) Where the prisoner has been granted leave under section 59K(3) to return to the prisoner’s place of residence or any other place specified by the Commissioner, the prisoner subject to an employment preparation order must — ( a ) not be absent, without good cause, from the prisoner’s work with the employer, or from the prisoner’s programme or activity, as specified in the employment preparation order; ( b ) return to the prisoner’s place of residence or any other place specified by the Commissioner immediately after completing the prisoner’s work, programme or activity for the day; ( c ) not consume any controlled drug, psychoactive substance or alcoholic beverage, or use or inhale any intoxicating substance; [Act 12 of 2023 wef 01/06/2024] ( d ) not have in the prisoner’s possession any controlled drug or psychoactive substance; [Act 12 of 2023 wef 01/06/2024] ( e ) present himself or herself to provide a specimen of the prisoner’s urine or hair for testing at such times and at such places as the Commissioner may specify; ( f ) remain indoors at the prisoner’s place of residence, or at any other place specified by the Commissioner, at the times specified by the Commissioner; ( g ) allow the Superintendent and any person authorised by the Superintendent to enter the prisoner’s place of residence, or any other place the prisoner is required to remain at, to determine the prisoner’s compliance with any condition of the employment preparation order or for any purpose relating to facilitating the prisoner’s reintegration into society; ( h ) do all of the following to enable the electronic monitoring of the prisoner’s whereabouts: (i) wear any electronic transmitting device issued by the Commissioner on such part of the prisoner’s body as the Commissioner may specify; (ii) allow the Superintendent and any person authorised by the Superintendent to enter the prisoner’s place of residence, or any other place the prisoner is required to remain at, to install, maintain, repair or retrieve any electronic monitoring device; (iii) comply with all requirements to ensure the proper functioning of any electronic monitoring device issued to the prisoner, or installed at the prisoner’s place of residence or any other place the prisoner is required to remain at; (iv) comply with all reporting requirements imposed on the prisoner; (v) not tamper with any electronic monitoring device issued to the prisoner or installed at the prisoner’s place of residence, or any other place the prisoner is required to remain at, or otherwise prevent or obstruct the electronic monitoring of the prisoner’s whereabouts; and ( i ) comply with any other conditions that the Commissioner may specify in the order. (3) The Commissioner may at any time by order in writing served on a prisoner subject to an employment preparation order — ( a ) vary, cancel or add to any of the conditions specified in subsection (1) or (2); or ( b ) exempt the prisoner from any of the conditions specified in subsection (1) or (2). (4) The order mentioned in subsection (3) must be served — ( a ) by delivering it personally to the prisoner; or ( b ) by any other means that may be prescribed. [Act 6 of 2022 wef 02/09/2022]"
+    },
+    {
+      "provision_ref": "s59N",
+      "chapter": "PART 6B - EMPLOYMENT PREPARATION SCHEME",
+      "section": "59N",
+      "title": "Effect of employment preparation order",
+      "content": "59N. Where an employment preparation order is in force in respect of a prisoner, the prisoner — ( a ) is taken to be — (i) serving the prisoner’s sentence of imprisonment; and (ii) in the lawful custody of the Superintendent; and ( b ) is entitled to earn remission in respect of the period of imprisonment which is served under the order. [Act 6 of 2022 wef 02/09/2022]"
+    },
+    {
+      "provision_ref": "s59O",
+      "chapter": "PART 6B - EMPLOYMENT PREPARATION SCHEME",
+      "section": "59O",
+      "title": "Recall to prison",
+      "content": "59O. —(1) If a Superintendent has reason to suspect that a prisoner has failed to comply with any of the conditions of an employment preparation order, or has committed any offence while being subject to an employment preparation order, the Superintendent may — ( a ) make any inquiry that is necessary to ascertain whether the prisoner has failed to comply with any of the conditions of the employment preparation order, or has committed any offence while being subject to the employment preparation order; and ( b ) recall the prisoner to prison pending the completion of the inquiry. (2) The employment preparation order for a prisoner who is recalled to prison under subsection (1)( b ) continues to be in force despite the fact that the prisoner is recalled to prison. [Act 6 of 2022 wef 02/09/2022]"
+    },
+    {
+      "provision_ref": "s59P",
+      "chapter": "PART 6B - EMPLOYMENT PREPARATION SCHEME",
+      "section": "59P",
+      "title": "Revocation of employment preparation order",
+      "content": "59P. —(1) If the Commissioner is satisfied after due inquiry that — ( a ) a prisoner has failed to return to prison after the prisoner has been recalled to prison under section 59O(1)( b ); ( b ) a prisoner has failed to comply with any of the conditions of the employment preparation order; ( c ) a prisoner has committed any offence while being subject to an employment preparation order; ( d ) the whereabouts of a prisoner can no longer be electronically monitored at the prisoner’s place of residence, or any other place the prisoner is required to remain at, under the conditions of the prisoner’s employment preparation order; ( e ) a prisoner has for any reason ceased to be — (i) employed under section 59K(1)( a ); or (ii) a participant in any educational or occupational training programme, or any such activity, as specified in the employment preparation order under section 59K(1)( b ); or ( f ) it is necessary in the public interest to do so, the Commissioner may revoke the employment preparation order in respect of that prisoner and recall the prisoner to prison, and the prisoner, if at large, is taken to be unlawfully at large. (2) Upon the revocation of the employment preparation order under subsection (1), the prisoner must serve the unexpired part of the prisoner’s sentence of imprisonment in prison. [Act 6 of 2022 wef 02/09/2022]"
+    },
+    {
+      "provision_ref": "s59Q",
+      "chapter": "PART 6B - EMPLOYMENT PREPARATION SCHEME",
+      "section": "59Q",
+      "title": "Suspension of employment preparation order",
+      "content": "59Q. Where a prisoner subject to an employment preparation order is punished with any punishment under section 70(1)( a ) or ( b ) (or both) or section 71(1)( b ) or ( c ) (or both), the prisoner’s employment preparation order may, unless revoked under section 59P(1), be suspended for any of the following periods, starting on the date on which the prisoner is punished: ( a ) the period that the prisoner is confined in a punishment cell pursuant to an order under section 70(1)( a ) or 71(1)( b ); ( b ) the period of remission that is forfeited pursuant to an order under section 70(1)( b ) or 71(1)( c ); ( c ) the sum of the period for which the prisoner is ordered to undergo confinement under section 70(1)( a ) or 71(1)( b ) and the period of remission forfeited under section 70(1)( b ) or 71(1)( c ). [Act 6 of 2022 wef 02/09/2022]"
+    },
+    {
+      "provision_ref": "s59R",
+      "chapter": "PART 6B - EMPLOYMENT PREPARATION SCHEME",
+      "section": "59R",
+      "title": "Power to enter and search",
+      "content": "59R. A police officer of or above the rank of Assistant Superintendent of Police, or a police officer authorised by the firstmentioned police officer, may — ( a ) enter and search a place without a warrant to effect the arrest of any prisoner who has failed to return to prison after — (i) the prisoner has been recalled by the Superintendent under section 59O(1)( b ); or (ii) the Commissioner revokes the employment preparation order under section 59P(1); and ( b ) in order to effect an entrance into that place, break open any outer or inner door or window of that place if the police officer cannot otherwise obtain entry into that place. [Act 6 of 2022 wef 02/09/2022]"
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "PART 7 - DISCIPLINE AND PRISON OFFENCES",
+      "section": "60",
+      "title": "Offences governing prison supplies",
+      "content": "60. —(1) A prison officer, medical officer, member or employee of the Corporation or any other person working in a prison must not — ( a ) sell, supply or receive, directly or indirectly, any benefit or advantage from the sale or supply of any article to or for the use of any prisoner or for the use of any prison; ( b ) directly or indirectly have any interest in any contract or agreement for the sale or supply of any article mentioned in paragraph ( a ); or ( c ) directly or indirectly have any pecuniary interest in the purchase of any prison supplies, or receive any discount, gift or other consideration from contractors for or sellers of such supplies, or have any pecuniary dealing with prisoners or with their friends with regard to them. [33/2004] (2) A prison officer, medical officer, member or employee of the Corporation or any other person working in a prison must not hold any communication with any person on behalf of any prisoner unless authorised by the Commissioner, any Deputy Commissioner or the Superintendent. [33/2004; 1/2014] [Act 6 of 2022 wef 02/09/2022] (3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 12 months or to both."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "PART 7 - DISCIPLINE AND PRISON OFFENCES",
+      "section": "61",
+      "title": "Desertion",
+      "content": "61. Any prison officer who unlawfully or in breach of his or her engagement absents himself or herself from duty under circumstances which show that that prison officer has the intention of not returning to his or her duty shall be deemed to have deserted, and shall be liable on conviction to imprisonment for a term not exceeding 12 months, and all arrears of pay due to him or her shall be forfeited."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "PART 7 - DISCIPLINE AND PRISON OFFENCES",
+      "section": "62",
+      "title": "Payment of money forbidden",
+      "content": "62. —(1) Any money or other consideration must not on any pretext whatsoever be payable, paid, given or promised by or on behalf of any prisoner, either on his or her entry into, commitment to, continuance in or discharge from any prison, to any prison officer, medical officer, member or employee of the Corporation, or to any other person working in a prison. (2) Any such person receiving or demanding any such money or other consideration or undertaking any service in consideration of receiving or the promising of such money or other consideration shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,200 or to imprisonment for a term not exceeding 6 months or to both. (3) Any public officer convicted under this section may, unless the conviction is reversed on appeal, be dismissed from his or her office, and all arrears of pay due to him or her may be forfeited."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "PART 7 - DISCIPLINE AND PRISON OFFENCES",
+      "section": "63",
+      "title": "Delivery of uniform, etc., on leaving",
+      "content": "63. —(1) A prison officer must, before leaving the Singapore Prison Service (whether by resignation, dismissal, discharge or otherwise), deliver up in good order (fair wear and tear excepted only) any arms, ammunition, accoutrement, uniform or other article supplied to him or her as a prison officer and any other property belonging to the Government which may be in his or her possession. [33/2004] (2) Any person who fails to comply with this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months or to both and in addition thereto shall be liable to pay the value of any article not delivered up, which value shall be summarily ascertained by the court and shall be recoverable as if it were a fine."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "PART 7 - DISCIPLINE AND PRISON OFFENCES",
+      "section": "64",
+      "title": "Threatening, insulting or assaulting another prison officer",
+      "content": "64. —(1) Any prison officer who threatens or insults another prison officer of senior or equal rank — ( a ) when that other officer is on duty; or ( b ) when the threat or insult is related to or is consequent upon the discharge of duty by the officer so threatened or insulted, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both. [33/2004] (2) Any prison officer who assaults another prison officer — ( a ) when that other officer is on duty; or ( b ) when the assault is related to or is consequent upon the discharge of duty by the officer so assaulted, shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years. [33/2004] (3) Any person convicted under this section may, unless the conviction is reversed on appeal, be dismissed from his or her office, and all arrears of pay due to him or her may be forfeited."
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "PART 7 - DISCIPLINE AND PRISON OFFENCES",
+      "section": "65",
+      "title": "Wearing and possession of uniforms, etc., by others",
+      "content": "65. —(1) A person who, when the person is not a prison officer — ( a ) wears or possesses any prison officer uniform, or uses any prison officer insignia — (i) for the purpose of personating or representing himself or herself as a prison officer; or (ii) knowing that it is likely to cause any member of the public to believe that the person is a prison officer; ( b ) uses the designation of a prison officer or a rank of the Singapore Prison Service, in connection with any business, occupation or employment — (i) for the purpose of personating or representing himself or herself as a prison officer; or (ii) knowing that it is likely to cause any member of the public to believe that the person is a prison officer; ( c ) represents himself or herself, by word or conduct, to be a prison officer for the purpose of personating or representing himself or herself as a prison officer; or ( d ) wears or possesses any prison officer uniform, or uses any prison officer insignia, in connection with any business, occupation or employment, for the purpose of falsely claiming, suggesting or implying — (i) that the person receives or is to receive, a fee, commission or other reward for providing professional or other services in relation to a matter being dealt with or to be dealt with by the Singapore Prison Service; (ii) that the Singapore Prison Service has agreed to acquire any goods or services provided by or on behalf of the person, or that those goods or services had previously been used or acquired by the Singapore Prison Service; or (iii) that the person has the sponsorship or approval of the Singapore Prison Service for any goods or services provided by or on behalf of the person, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,500 or to imprisonment for a term not exceeding 6 months or to both. [53/2018] (2) A prison officer who wears any prison officer uniform or uses any prison officer insignia otherwise than — ( a ) in the course of, and for the purpose of, exercising the functions of a prison officer; or ( b ) for such other purpose authorised in writing by the Commissioner, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,500 or to imprisonment for a term not exceeding 6 months or to both. [53/2018] (3) It is a defence to any prosecution for an offence under subsection (1)( a ) or (2) if the accused proves, on a balance of probabilities, that — ( a ) the accused had the express permission of the Commissioner to wear or possess the prison officer uniform or use the prison officer insignia, as the case may be; or ( b ) the accused wore or possessed the prison officer uniform or used the prison officer insignia (as the case may be) for the purposes of a public entertainment provided in compliance with the Public Entertainments Act 1958. [53/2018] (4) A person (whether or not a prison officer) who — ( a ) manufactures any prison officer uniform or prison officer insignia otherwise than under an agreement with the Government; ( b ) sells any prison officer uniform or prison officer insignia to a person who is neither a prison officer nor otherwise authorised or permitted under subsection (3) to wear or possess the prison officer uniform or use the prison officer insignia; or ( c ) gives or provides, whether or not for a consideration, any prison officer uniform or prison officer insignia to a person who is neither a prison officer nor otherwise authorised or permitted under subsection (3) to wear or possess the prison officer uniform or use the prison officer insignia, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both. [53/2018] (5) It is a defence to any prosecution for an offence under subsection (4) if the accused proves, on a balance of probabilities, that — ( a ) the accused had reasonable grounds to believe and did make reasonable inquiries to ascertain that the person to whom the prison officer uniform or prison officer insignia was sold, given or provided was — (i) a prison officer; or (ii) a person otherwise authorised or permitted under subsection (3) to wear or possess the prison officer uniform or use the prison officer insignia; or ( b ) the accused had received from the person to whom the prison officer uniform or prison officer insignia was sold, given or provided, evidence purporting to show that — (i) that person was a prison officer or was otherwise authorised or permitted under subsection (3) to wear or possess the prison officer uniform or use the prison officer insignia; and (ii) it was reasonable to and the accused did accept that evidence as correct. [53/2018] (6) An offence under subsection (1), (2) or (4) is an arrestable offence. [53/2018] (7) In this section — “prison officer insignia” means — ( a ) any item (being any insignia, emblem, logo, symbol, representation, device, badge of rank or other thing) that is generally recognised as being used by a prison officer; ( b ) any part of any such item; ( c ) any reasonable imitation of any such item, or part of such item; or ( d ) any insignia, emblem, logo, symbol, representation, device, badge of rank or other thing prescribed as being within this definition; “prison officer uniform” means the uniform of a prison officer, and includes — ( a ) any part of such a uniform or any accoutrement of a prison officer that is generally recognised as a part of the uniform or accoutrement of a prison officer; or ( b ) any reasonable imitation of such a uniform or accoutrement, or part of a uniform or accoutrement; “sell” includes — ( a ) exchange or let on hire; ( b ) offer, expose, possess, send, forward or deliver for sale, exchange or hire; or ( c ) cause, suffer or allow any sale, exchange or hire; “use”, in relation to prison officer insignia, includes — ( a ) driving on a public road a vehicle that has on it any prison officer insignia; and ( b ) using a reproduction or representation of prison officer insignia, but does not include wearing a prison officer uniform. [53/2018]"
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "PART 7 - DISCIPLINE AND PRISON OFFENCES",
+      "section": "66",
+      "title": "Unauthorised articles, communications and recordings",
+      "content": "66. —(1) Any person who, without the authority of this Act, the regulations made under this Act or the express permission of the Commissioner — ( a ) conveys, supplies or causes to be supplied or conveyed to any prisoner, or hides or places for his or her use any unauthorised article; ( b ) brings or attempts by any means to introduce into any prison, or places or attempts to place where prisoners labour, any unauthorised article; ( c ) brings or attempts to bring out of any prison, or conveys from any prisoner, any unauthorised article; ( d ) makes any audio or visual recording in a prison; ( e ) communicates with a prisoner, in circumstances where the person knows or ought reasonably to know that the communication is likely to encourage, incite or agitate any prisoner to commit a prison offence, and thereby encourages, incites or agitates a prisoner to commit a prison offence; or ( f ) does any act, or omits to do any act which the person is required by law to do, which he or she knows or ought reasonably to know is likely to have any of the following effects, and does have that effect: (i) prejudicing the safe custody of prisoners, the safety of any person in a prison, or the security of a prison; or (ii) prejudicing the maintenance of good order and discipline in a prison, shall be guilty of an offence. [1/2014] (2) Any prison officer who, without the authority of this Act, the regulations made under this Act or the express permission of the Commissioner — ( a ) knowingly suffers any unauthorised article to be sold to or received or used by or on behalf of any prisoner; ( b ) lends or gives to any prisoner any unauthorised article; ( c ) knowingly suffers any unauthorised article to be brought out of any prison, or to be conveyed from any prisoner; ( d ) knowingly suffers the making of any audio or visual recording in a prison; or ( e ) knowingly suffers any act or omission which he or she knows or ought reasonably to know is likely to have any of the following effects, and does have such effect: (i) prejudicing the safe custody of prisoners, the safety of any person in a prison, or the security of a prison; or (ii) prejudicing the maintenance of good order and discipline in a prison, shall be guilty of an offence. [1/2014] (3) Any person guilty of an offence under this section shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 12 months or to both and, if the person is a prison officer, he or she may, unless the conviction is reversed on appeal, be dismissed from his or her office, and all arrears of pay due to him or her may be forfeited. [1/2014] (4) In this section, “unauthorised article” means — ( a ) any letter or document; ( b ) any electronic storage device; ( c ) any intoxicating substance, controlled drug, psychoactive substance or stimulant; [Act 6 of 2022 wef 02/09/2022] [Act 12 of 2023 wef 01/06/2024] ( d ) any food or drink; ( e ) any item of clothing; ( f ) money; or ( g ) any article not specifically authorised by the Commissioner to be brought into or out of a prison. [1/2014]"
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "PART 7 - DISCIPLINE AND PRISON OFFENCES",
+      "section": "67",
+      "title": "Prisoner may be allowed to work",
+      "content": "67. Whenever any person is sentenced to imprisonment, the person may be allowed to work at any labour prescribed under this Act, and for which he or she is certified as fit by the medical officer. [1/2014]"
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "PART 7 - DISCIPLINE AND PRISON OFFENCES",
+      "section": "68",
+      "title": "Separation of prisoners",
+      "content": "68. —(1) Persons confined under civil process, and persons on remand charged with crimes or offences, or committed to take their trial, or confined for want of sureties, must not — ( a ) ordinarily be associated with convicted prisoners; or ( b ) be required to labour beyond the labour that is reasonably proper for keeping their persons and dress in a proper state, and keeping the places in which they are confined clean. (2) All juveniles must, so far as local conditions permit, be kept apart from adults under detention."
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "PART 7 - DISCIPLINE AND PRISON OFFENCES",
+      "section": "69",
+      "title": "Extramural custody of prisoners",
+      "content": "69. A prisoner, when being taken to or from any prison in which the prisoner may be lawfully confined, or whenever the prisoner is working outside or is otherwise beyond the limits of any such prison in or under the lawful custody or control of a prison officer, is deemed to be in prison, and is subject to all the same incidents as if he or she were actually in prison."
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "PART 7 - DISCIPLINE AND PRISON OFFENCES",
+      "section": "70",
+      "title": "Punishment by Superintendent for minor prison offences",
+      "content": "70. —(1) The Superintendent may punish any prisoner found after due inquiry to be guilty of a minor prison offence as specified in section 72 with one or more of the following punishments: ( a ) confinement in a punishment cell for a term not exceeding 7 days; ( b ) forfeiture of remission not exceeding such amount as may be prescribed; ( c ) reduction in grade or postponement of promotion for such period as may be prescribed; ( d ) a written warning; ( e ) in the case of a prisoner subject to a home detention order under section 52, extension of the hours to which the prisoner is required to remain indoors under the conditions of the order. (2) The Superintendent must enter in a register to be open to the inspection of the Visiting Justices a record of the punishments imposed by the Superintendent upon prisoners, showing, in respect of each prisoner punished, the name of the prisoner, the nature of the prisoner’s offence and the extent of his or her punishment."
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "PART 7 - DISCIPLINE AND PRISON OFFENCES",
+      "section": "71",
+      "title": "Punishment by Superintendent for aggravated prison offences",
+      "content": "71. —(1) The Superintendent may punish any prisoner found after due inquiry to be guilty of an aggravated prison offence as specified in section 73 by ordering the prisoner to undergo one or more of the following punishments: ( a ) corporal punishment not exceeding 12 strokes with a rattan; ( b ) confinement in a punishment cell for a term not exceeding 7 days; ( c ) forfeiture of remission not exceeding such amount as may be prescribed; ( d ) reduction in grade or postponement of promotion for such period as may be prescribed. (2) Where the Superintendent has imposed any punishment upon any prisoner under subsection (1), the Superintendent must notify the Commissioner of the facts of the case and the punishment imposed on the prisoner not later than 7 days after imposition of the punishment. [1/2014] (3) The Commissioner may within 14 days, or such longer period as may be required in exceptional cases, of being notified by the Superintendent under subsection (2) — ( a ) confirm any punishment imposed by the Superintendent under subsection (1); or ( b ) vary any punishment imposed by a Superintendent under subsection (1), including enhancing, reducing or substituting the punishment imposed by the Superintendent or imposing any additional punishment that could have been awarded by the Superintendent under that subsection. [33/2004; 1/2014] (4) Where the Commissioner imposes forfeiture of remission under subsection (3)( b ), the forfeiture of remission must not exceed such amount as may be prescribed. [1/2014] (5) Any punishment imposed by a Superintendent under subsection (1) must not be carried out until confirmed, or varied, by the Commissioner under subsection (3). [1/2014] (6) The Superintendent must enter in a register to be open to the inspection of the Visiting Justices a record of the punishments imposed by the Superintendent and by the Commissioner under subsection (3) upon prisoners, showing, in respect of each prisoner punished, the name of the prisoner, the nature of his or her offence and the extent of his or her punishment. [1/2014]"
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "PART 7 - DISCIPLINE AND PRISON OFFENCES",
+      "section": "72",
+      "title": "Minor prison offences",
+      "content": "72. —(1) The following are minor prison offences: Item Minor prison offence 1. Talking during working hours, or talking loudly, laughing or singing at any time after having been ordered by a prison officer to desist. 2. Quarrelling with any other prisoner. 3. Secreting or possessing any unauthorised article, or possessing a greater quantity of any article than the prisoner is authorised to possess. 4. Showing disrespect to any prison officer, official visitor or any person working, or providing rehabilitative and other related services, in the prison. 5. Common assault or taking part in any attack on any other prisoner. 6. Providing information (whether or not in response to any question) to any prison officer, official visitor, or any person working, or providing rehabilitative and other related services, in the prison that the prisoner knows or ought reasonably to know to be — ( a ) false in a material particular; or ( b ) misleading by reason of the omission of a material particular. 7. Holding any communication (in writing, by word of mouth, or otherwise) with any person in disobedience of the regulations of the prison. 8. Abetting the commission of any minor prison offence. 9. Omitting to assist in the maintenance of discipline by reporting any prison offence, or to give assistance to a prison officer when called on to do so. 10. Doing any act or using any language calculated to offend or insult any other prisoner, prison officer, official visitor or any person working, or providing rehabilitative and other related services, in the prison. 11. Doing any act calculated to create any unnecessary alarm in the minds of the prisoners, prison officers or any other persons working, or providing rehabilitative and other related services, in the prison. 12. Leaving the group to which the prisoner is attached, or the part of the prison in which the prisoner is confined, without the permission of a prison officer. 13. Leaving the ward, the yard, the place in file, the seat or berth assigned to the prisoner, without the permission of a prison officer. 14. Loitering about the yards or lingering in the wards when these are open. 15. Omitting or refusing to march in file when moving about the prison or proceeding to or returning from work. 16. Visiting the toilets without the permission of a prison officer or remaining there longer than is necessary. 17. Refusing to eat the meals provided. 18. Eating or appropriating any food not assigned to the prisoner or taking from or adding to the portions assigned to other prisoners. 19. Removing without the permission of a prison officer food or drink from any place in a prison where meals are cooked, distributed or served, or disobeying any order as to the issue and distribution of food and drink. 20. Wilfully destroying food or drink or throwing it away without orders. 21. Introducing into food or drink anything likely to render it unpalatable or unwholesome. 22. Omitting or refusing to wear the attire given to the prisoner, or exchanging any portion of it for the attire of other prisoners, or losing, discarding, damaging or altering any part of it. 23. Removing, defacing or altering any distinctive number, mark or badge attached to, or worn on, the attire or person. 24. Omitting or refusing to keep the person clean, or disobeying any order regulating the cutting of hair. 25. Omitting or refusing to keep clothing, blankets, bedding, fetters or utensils clean, or disobeying any order as to the arrangement or disposition of such articles. 26. Tampering in any way with prison locks, lamps or lights or other property without orders. 27. Stealing the prison attire or any part of the prison kit of any other prisoner. 28. Committing a nuisance in any part of the prison. 29. Spitting on or otherwise soiling any floor, door, wall or other part of the prison building or any article in the prison. 30. Wilfully soiling or befouling the toilets, washing or bathing places. 31. Damaging the trees within the enclosure of the prison. 32. Omitting or refusing to take due care of all prison property entrusted to the prisoner. 33. Omitting or refusing to take due care of, or damaging, or misappropriating, the materials and implements entrusted to the prisoner for work. 34. Omitting to report at once any loss, breakage or damage which the prisoner may have caused to prison property or implements. 35. Manufacturing any article without the knowledge or permission of a prison officer. 36. Performing any portion of the task allotted to another prisoner, or obtaining the assistance of another prisoner in the performance of the prisoner’s own task. 37. Appropriating any portion of the task performed by another prisoner. 38. Mixing or adding any foreign substance to the materials issued for work. 39. Cursing or swearing, or using indecent, violent, threatening or insulting language. 40. Causing or omitting to assist in suppressing violence or insubordination of any kind. 41. Immoral, disorderly or indecent behaviour. 42. Omitting or refusing to help any prison officer in case of an attempted escape or of an attack upon such officer or upon any other person. 43. Disobeying any lawful order of a prison officer. 44. Defacing or damaging the walls, furniture or other property of the prison. 45. Malingering. 46. Any breach by a prisoner subject to a home detention order under section 52 of the conditions of the order other than conduct constituting an aggravated prison offence specified in section 73. 47. Any breach by a prisoner subject to an external placement order under section 59B of the conditions of the order other than conduct constituting an aggravated prison offence specified in section 73. 48. Any breach by a prisoner subject to an employment preparation order under section 59K of the conditions of the order other than conduct constituting an aggravated prison offence specified in section 73. 49. Any other act, conduct, disorder or neglect to the prejudice of good order or discipline in the prison. (2) The minor prison offences mentioned in subsection (1) (other than items 4, 6, 8, 10, 11, 43, 45, 46, 47 and 48 of the table) do not apply in relation to a prisoner who is serving his or her sentence of imprisonment in such place or places outside the limits of any prison. [Act 6 of 2022 wef 02/09/2022]"
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "PART 7 - DISCIPLINE AND PRISON OFFENCES",
+      "section": "73",
+      "title": "Aggravated prison offences",
+      "content": "73. —(1) The following are aggravated prison offences: Item Aggravated prison offence 1. Mutiny. 2. Escape or attempt to escape. 3. Taking part in any assault or attack on any prison officer, official visitor or any person working, or providing rehabilitative and other related services, in the prison. 4. Aggravated or repeated assault on any other prisoner. 5. Wilful destruction of prison property. 6. Wilfully causing to himself or herself any illness, injury or disability. 7. Wilfully making a false or groundless accusation or complaint against any prisoner, prison officer, official visitor or any person working, or providing rehabilitative and other related services, in the prison. 8. Any act constituting a minor prison offence under section 72, committed by one or more members or associates of a secret society in connection with the activities of the secret society, whether or not all the other members of the secret society are present. 9. Repetition of any minor prison offence after having been twice punished for the same minor offence. 10. Where a prisoner subject to a home detention order under section 52, an external placement order under section 59B or an employment preparation order under section 59K (called in this subsection the relevant order) is required under the conditions of the relevant order to allow the Superintendent or any person authorised by the Superintendent to enter the prisoner’s place of residence, or any other place or places designated under the relevant order, the refusal by the prisoner to allow the entry, or obstructing or hindering the entry, of such person. 11. Any other act of gross misconduct or insubordination. 12. Abetting the commission of any aggravated prison offence. (2) The aggravated prison offences mentioned in items 1, 4, 5 and 6 of the table in subsection (1) do not apply in relation to a prisoner who is serving his or her sentence of imprisonment in such place or places outside the limits of any prison. [Act 6 of 2022 wef 02/09/2022]"
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "PART 7 - DISCIPLINE AND PRISON OFFENCES",
+      "section": "74",
+      "title": "Punishment by Visiting Justices",
+      "content": "74. —(1) Where a prisoner is accused of any aggravated prison offence and the Superintendent is of the opinion that, in the circumstances of the case, the power of punishment which the Superintendent possesses is inadequate, the Superintendent must forthwith report the matter in writing to the Visiting Justice or Justices. (2) The Visiting Justice or Justices are to, upon receipt of such report, attend at the prison without undue delay and investigate the charge, and may punish any prisoner whom after due inquiry upon oath the Visiting Justice or Justices may find guilty of such offence with one or more of the following punishments: ( a ) confinement in a punishment cell for a term not exceeding 30 days on such prescribed diet as the Visiting Justice or Justices may think fit; ( b ) corporal punishment not exceeding 24 strokes with a rattan; ( c ) forfeiture of remission not exceeding the amount that may be prescribed."
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "PART 7 - DISCIPLINE AND PRISON OFFENCES",
+      "section": "75",
+      "title": "Prisoner may make defence",
+      "content": "75. A prisoner must not be punished until the prisoner has had an opportunity of hearing the charge and evidence against him or her, and making his or her defence."
+    },
+    {
+      "provision_ref": "s76",
+      "chapter": "PART 7 - DISCIPLINE AND PRISON OFFENCES",
+      "section": "76",
+      "title": "Detention after date of discharge",
+      "content": "76. —(1) Any punishment lawfully imposed on a prisoner under this Act or any regulations made under this Act may be carried into effect despite the fact that the carrying into effect of the punishment may necessitate the detention of the prisoner beyond the date at which he or she would otherwise be entitled to be discharged from prison. (2) The period of detention under subsection (1) must not exceed 48 hours, the period to be calculated from the last hour of the day upon which the prisoner would otherwise be entitled to be discharged."
+    },
+    {
+      "provision_ref": "s77",
+      "chapter": "PART 7 - DISCIPLINE AND PRISON OFFENCES",
+      "section": "77",
+      "title": "Corporal punishment",
+      "content": "77. —(1) When any sentence of corporal punishment is passed under this Act upon any prisoner, he shall not be liable to more than one such sentence in respect of the act or acts, or omission or omissions, for which he has been sentenced. (2) No sentence of corporal punishment shall be passed upon — ( a ) a woman; ( b ) a man sentenced by a court to death; or ( c ) a man whom a medical officer considers to be more than 50 years of age. [33/2004] (3) In no case shall a sentence of corporal punishment in excess of 10 strokes with a light rattan be passed upon a juvenile. (4) No sentence of corporal punishment shall be inflicted unless a medical officer is present and certifies that the prisoner is in a fit state of health to undergo the punishment. [33/2004] (5) If, during the execution of the sentence of corporal punishment, a medical officer certifies that the prisoner is not in a fit state of health to undergo the remainder of the sentence, the corporal punishment shall be finally stopped. [33/2004]"
+    },
+    {
+      "provision_ref": "s77A",
+      "chapter": "PART 7 - DISCIPLINE AND PRISON OFFENCES",
+      "section": "77A",
+      "title": "Superintendent may restore remission",
+      "content": "77A. The Superintendent may, in the Superintendent’s discretion, restore to any prisoner a period of remission or any portion of the period which had previously been forfeited by the prisoner. [1/2014]"
+    },
+    {
+      "provision_ref": "s78",
+      "chapter": "PART 7 - DISCIPLINE AND PRISON OFFENCES",
+      "section": "78",
+      "title": "Prosecution for offences",
+      "content": "78. Nothing in this Act is to be construed to exempt any prisoner from being proceeded against for any offence by the ordinary course of law, but no prisoner may be punished twice for the same offence."
+    },
+    {
+      "provision_ref": "s79",
+      "chapter": "PART 7 - DISCIPLINE AND PRISON OFFENCES",
+      "section": "79",
+      "title": "Appointment of Visiting Justices",
+      "content": "79. —(1) The Minister must appoint a Board of Justices of the Peace, to be called the Board of Visiting Justices, of which all Magistrates are ex‑officio members. (2) Each member of the Board of Visiting Justices — ( a ) holds office for a period not exceeding 2 years or for any other period that the Minister may determine; ( b ) may from time to time be re-appointed or at any time be removed from office by the Minister; and ( c ) may at any time resign from the member’s office by giving written notice to the Minister. (3) A Visiting Justice — ( a ) may at any time visit any prison or reformative training centre and may inspect the several wards, cells, yards, solitary or punishment cells and other apartments or divisions of the prison, inspect and test the quality and quantity of the prisoners’ food, hear the complaints (if any) of the prisoners, and question any prisoner or prison officer; ( b ) must ascertain, so far as possible, whether the prison regulations are adhered to, and must call the attention of the Superintendent to any irregularity that may be observed in the working of the prison or reformative training centre or in the treatment of any prisoner confined therein; and ( c ) is to exercise and perform any other powers and duties that may be prescribed. (4) The Board is to appoint one or more of its members to be, on rotation, a Visiting Justice or Justices of the prisons for each month of the year, and the Visiting Justice or Justices are to hear, try and dispose of any prison offences for which a report under section 74(1) has been made. (5) Every Visiting Justice, for the purposes of this Act, has power to summon witnesses and to administer oaths. (6) The Board must in relation to persons detained in reformative training centres exercise such functions as may be required of it by any written law."
+    },
+    {
+      "provision_ref": "s80",
+      "chapter": "PART 7 - DISCIPLINE AND PRISON OFFENCES",
+      "section": "80",
+      "title": "Visits by Judges, Magistrates, etc.",
+      "content": "80. Every Judge, Magistrate or Justice of the Peace having jurisdiction in the place where any prison is situated may — ( a ) whenever he or she thinks fit, enter into and examine the condition of the prison and of the prisoners therein; ( b ) question any prisoner or officer; and ( c ) enter any observation he or she thinks fit to make in reference to the condition of the prison in a Visitors’ Book to be kept for that purpose by the Superintendent, which book must be duly produced to the Visiting Justices at their next ensuing visit."
+    },
+    {
+      "provision_ref": "s81",
+      "chapter": "PART 8 - GENERAL",
+      "section": "81",
+      "title": "Protection from personal liability",
+      "content": "81. No liability shall lie personally against a prison officer or an auxiliary police officer who, acting in good faith and with reasonable care, does or omits to do anything in the execution or purported execution of this Act. [Act 6 of 2022 wef 02/09/2022]"
+    },
+    {
+      "provision_ref": "s81A",
+      "chapter": "PART 8 - GENERAL",
+      "section": "81A",
+      "title": "Power to obtain information",
+      "content": "81A. —(1) A prison officer of or above the rank of sergeant may, for the purpose of assisting the Commissioner or Superintendent in making any inquiry under section 50X, 56, 57, 59E, 59F, 59O, 59P, 70 or 71 (as the case may be), by written notice require any person to provide, within a reasonable period specified in the notice, and in such form and manner as may be specified in the notice, all documents and information which — ( a ) relate to any matter specified by the prison officer; and ( b ) are — (i) within the knowledge of that person; or (ii) in the custody or under the control of that person. (2) The power to require a person to provide any document or information under subsection (1) includes the power — ( a ) to require that person to provide an explanation of the document or information; ( b ) if the document or information is not provided, to require that person to state, to the best of the knowledge and belief of that person, where it is; and ( c ) if the information is recorded otherwise than in legible form, to require the information to be authenticated and made available to the prison officer concerned in legible form. (3) The prison officer is entitled without payment to keep for the purposes of the inquiry mentioned in subsection (1) any document or information, or any copy or extract thereof, provided to him or her under that subsection. (4) A person who, without reasonable excuse, fails to do anything required of the person by a notice under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500. (5) To avoid doubt, for the purposes of subsection (4), it is a reasonable excuse for a person to refuse or fail to provide any information, produce any document or answer any question if doing so might tend to incriminate that person. (6) In this section, “document” means anything in which information of any description is recorded. [Act 6 of 2022 wef 02/09/2022]"
+    },
+    {
+      "provision_ref": "s81B",
+      "chapter": "PART 8 - GENERAL",
+      "section": "81B",
+      "title": "Power to arrest persons unlawfully at large",
+      "content": "81B. —(1) Any prison officer may, without warrant, arrest any person who is unlawfully at large under — ( a ) this Act or any regulations made thereunder; ( b ) any regulations made under section 428 of the Criminal Procedure Code 2010 (as in force before the date of commencement of section 44 of the Criminal Procedure (Miscellaneous Amendments) Act 2024) in relation to the treatment, training and detention of persons sentenced to reformative training, corrective training or preventive detention; or ( c ) any regulations made under section 58 of the Misuse of Drugs Act 1973 in relation to the granting of leave to an inmate for the purpose of his or her employment outside an approved institution or a community rehabilitation centre and to return to his or her residence or any other designated place. (2) If a person mentioned in subsection (1) forcibly resists or tries to evade arrest — ( a ) the prison officer may use all reasonable means necessary to make the arrest; but ( b ) the person arrested must not be restrained more than is necessary to prevent his or her escape. [Act 5 of 2024 wef 01/08/2024]"
+    },
+    {
+      "provision_ref": "s82",
+      "chapter": "PART 8 - GENERAL",
+      "section": "82",
+      "title": "Minister may amend Schedules",
+      "content": "82. —(1) The Minister may, by order in the Gazette , amend the First or Second Schedule. [1/2014] (2) An order made under this section may contain any saving and transitional provisions that are necessary or expedient for the purposes of the order. [1/2014] (3) All orders made under this section must be presented to Parliament as soon as possible after publication in the Gazette . [1/2014]"
+    },
+    {
+      "provision_ref": "s83",
+      "chapter": "PART 8 - GENERAL",
+      "section": "83",
+      "title": "Trial of offences",
+      "content": "83. —(1) Except where by this Act it is otherwise expressly provided, all offences under this Act are triable by a District Court or a Magistrate’s Court. (2) Subject to subsection (3), any District Court or Magistrate’s Court has, despite any provision to the contrary in the Criminal Procedure Code 2010, the jurisdiction to try any offence under this Act and to impose the full punishment in respect of the offence. [1/2014] (3) Any District Court or Magistrate’s Court has, if it has jurisdiction under the Criminal Procedure Code 2010 to try an offence alleged to have been committed in breach of the basic condition of a remission order specified under section 50S, the power to impose the full enhanced sentence under section 50T for that offence, despite any provision to the contrary in the Criminal Procedure Code 2010. [1/2014]"
+    },
+    {
+      "provision_ref": "s84",
+      "chapter": "PART 8 - GENERAL",
+      "section": "84",
+      "title": "Regulations",
+      "content": "84. —(1) The Minister may make all regulations that are necessary for the good management and government of prisons and reformative training centres or for carrying out the objects of this Act. (2) In particular and without limiting subsection (1), the regulations may prescribe for all or any of the following purposes or matters: ( a ) the conditions of service and the powers, conduct and duties of the officers of prisons; ( b ) the medical examination, measuring, photographing and taking of fingerprint impressions or other records of persons confined in any prison or otherwise detained in custody, including detailed personal statistics and histories, and for requiring full and truthful answers to all questions put to such persons with the object of obtaining such statistics and histories; ( c ) the persons (if any) to whom such measurements, photographs, fingerprint impressions or other records are to be sent or supplied; ( d ) the employment, diets, classification, safe custody, separation, treatment and discipline of prisoners; ( e ) the kind of labour to be exacted at the different stages of their imprisonment with the manner and place of exacting the same; ( f ) the granting, despite anything to the contrary in any law, of remission in respect of sentences of imprisonment and imprisonment in default of payment of fine to prisoners who duly comply with the regulations that apply to them and with the conditions on which such remissions are to be made; ( g ) the disposal of the products of the labour of prisoners; ( h ) the establishment of prisoners aid associations and societies and for the subsidising of their work and the utilising of their services in connection with prisoners discharged on probation and convicted prisoners whose sentences have expired; ( i ) the supply of money, food, clothing or means of travelling to prisoners on their discharge; ( j ) the early discharge of prisoners who become entitled to release on a date which falls on a Sunday or public holiday; ( k ) the release of prisoners on remission orders or on external placement orders and the due administration of such orders; ( l ) the classification of breaches of the mandatory aftercare conditions of remission orders to be serious breaches and minor breaches; ( la ) without affecting paragraph ( ka ), the establishment of an advisory committee for the purpose of advising the Commissioner on the suitability of a prisoner to be released for employment preparation under Part 6B and its constitution, functions and procedures; [Act 6 of 2022 wef 02/09/2022] ( lb ) the release of prisoners on employment preparation orders and the due administration of such orders, including the requirement for such prisoners to retain a proportion of the wages earned by the prisoners as compulsory savings; [Act 6 of 2022 wef 02/09/2022] ( lc ) in relation to the release of prisoners on external placement orders, home detention orders and employment preparation orders, the requirement for such prisoners to bear the costs of any prescribed expenses incurred by them when released on such orders; [Act 6 of 2022 wef 02/09/2022] ( m ) the proceedings and visits of the Visiting Justices; ( n ) the establishment of committees, however named, of an advisory nature, for the purposes of this Act; ( o ) without limiting paragraph ( n ), the establishment of an advisory committee for the purpose of advising the Commissioner on the suitability of a prisoner to be released for home detention under Part 6 and its constitution, functions and procedures; ( p ) any other matter which under this Act is required or permitted to be prescribed. [9/2003; 33/2004; 30/2008; 1/2014] (3) All regulations made under this section must be presented to Parliament as soon as possible after publication in the Gazette . (4) Where any regulations are presented to Parliament under subsection (3), if — ( a ) notice of a motion is given for a sitting day of Parliament before the first available sitting day after 3 months from the date when the regulations are so presented; and ( b ) a resolution is passed pursuant to the motion to annul the regulations or any part of the regulations from a specified date, the regulations or such part of the regulations (as the case may be) become void from that date, but without affecting the validity of anything previously done thereunder, or the making of new regulations."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "basic condition",
+      "definition": "“basic condition” , in relation to a remission order, means the basic condition specified in section 50S;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Cluster Commander",
+      "definition": "“Cluster Commander” means a Cluster Commander of Prisons appointed under section 20;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Commissioner",
+      "definition": "“Commissioner” means the Commissioner of Prisons appointed under section 20;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "controlled drug",
+      "definition": "“controlled drug” has the meaning given by section 2 of the Misuse of Drugs Act 1973; [Act 6 of 2022 wef 02/09/2022]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Corporation",
+      "definition": "“Corporation” means the Singapore Corporation of Rehabilitative Enterprises established under the Singapore Corporation of Rehabilitative Enterprises Act 1975;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "default sentence",
+      "definition": "“default sentence” means a sentence of a term of imprisonment imposed on a person in default of the person paying a fine ordered to be paid by a court;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Deputy Commissioner",
+      "definition": "“Deputy Commissioner” means a Deputy Commissioner of Prisons appointed under section 20; [Act 6 of 2022 wef 02/09/2022]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Divisional Director",
+      "definition": "“Divisional Director” means a Divisional Director of Prisons appointed under section 20;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "employment preparation",
+      "definition": "“employment preparation” , in relation to a prisoner, means the serving by the prisoner of the prisoner’s sentence of imprisonment in the place or places, outside the limits of any prison, specified in the employment preparation order for the purposes of enhancing a prisoner’s employability and facilitating the prisoner’s reintegration into society; [Act 6 of 2022 wef 02/09/2022]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "employment preparation order",
+      "definition": "“employment preparation order” means an order of the Commissioner under section 59K; [Act 6 of 2022 wef 02/09/2022]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "external placement",
+      "definition": "“external placement” , in relation to a prisoner, means the serving by the prisoner of the prisoner’s sentence of imprisonment in the place or places, outside the limits of any prison, specified in the external placement order; [Act 6 of 2022 wef 02/09/2022]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "external placement order",
+      "definition": "“external placement order” means an order of the Commissioner under section 59B; [Act 6 of 2022 wef 02/09/2022]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "home detention",
+      "definition": "“home detention” , in relation to a prisoner, means the serving by the prisoner of the prisoner’s sentence of imprisonment in the place or places, outside the limits of any prison, specified in the home detention order for the purpose of facilitating a prisoner’s rehabilitation and reintegration into society; [Act 6 of 2022 wef 02/09/2022]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "home detention order",
+      "definition": "“home detention order” means an order of the Commissioner under section 52; [Act 6 of 2022 wef 02/09/2022]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "infectious disease",
+      "definition": "“infectious disease” means any of the diseases specified in the First Schedule to the Infectious Diseases Act 1976 and includes any other disease — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "intoxicating substance",
+      "definition": "“intoxicating substance” has the meaning given by section 2 of the Intoxicating Substances Act 1987; [Act 6 of 2022 wef 02/09/2022]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "juvenile",
+      "definition": "“juvenile” means any person under the age of 18 years, whether convicted or not, under detention in any prison; [Act 6 of 2022 wef 30/12/2025]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "lock-up prisoner",
+      "definition": "“lock-up prisoner” means any person, whether convicted or not, who is confined in a lock‑up, or who is transported to, or from, a lock‑up;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "medical officer",
+      "definition": "“medical officer” means a medical officer appointed under section 25;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prison",
+      "definition": "“prison” means any house, building, enclosure or place, or any part thereof, declared to be a prison or reformative training centre under section 3, and includes the grounds and buildings within the prison enclosure and also the airing grounds or other grounds or buildings belonging or attached thereto and used by prisoners;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prison officer",
+      "definition": "“prison officer” means any prison officer appointed under section 20 and includes the Commissioner, any Deputy Commissioner and any Superintendent; [Act 6 of 2022 wef 02/09/2022]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prisoner",
+      "definition": "“prisoner” means any person, whether convicted or not, under detention in any prison or reformative training centre or subject to an external placement order, an employment preparation order or a home detention order, but does not include a person released and at large under a remission order; [Act 6 of 2022 wef 02/09/2022]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "psychoactive substance",
+      "definition": "“psychoactive substance” has the meaning given by section 2 of the Misuse of Drugs Act 1973; [Act 12 of 2023 wef 01/06/2024]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registered medical practitioner",
+      "definition": "“registered medical practitioner” means a person registered under the Medical Registration Act 1997;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "remission order",
+      "definition": "“remission order” means a remission order made under any provision in Part 5B;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Superintendent",
+      "definition": "“Superintendent” , in relation to a prisoner, means the Superintendent of the prison from which the prisoner had been released for home detention. [1/2014]",
+      "source_provision": "s51"
+    },
+    {
+      "term": "unlawfully at large",
+      "definition": "“unlawfully at large” , in relation to a person released under a remission order, means a person who fails to submit himself or herself to custody or detention after being required to do so under any written law, or who escapes from such custody or detention;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Visiting Justice",
+      "definition": "“Visiting Justice” means a member of the Board of Visiting Justices appointed under section 79. [33/2004; 15/2010; 1/2014]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prison officer insignia",
+      "definition": "“prison officer insignia” means — ( a )",
+      "source_provision": "s65"
+    },
+    {
+      "term": "prison officer uniform",
+      "definition": "“prison officer uniform” means the uniform of a prison officer, and includes — ( a )",
+      "source_provision": "s65"
+    },
+    {
+      "term": "sell",
+      "definition": "“sell” includes — ( a )",
+      "source_provision": "s65"
+    },
+    {
+      "term": "use",
+      "definition": "“use” , in relation to prison officer insignia, includes — ( a )",
+      "source_provision": "s65"
+    }
+  ]
+}

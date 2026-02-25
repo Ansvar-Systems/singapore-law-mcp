@@ -1,0 +1,70 @@
+{
+  "id": "scccfa-1989",
+  "type": "statute",
+  "title": "Statutory Corporations (Contributions to Consolidated Fund) Act 1989",
+  "title_en": "Statutory Corporations (Contributions to Consolidated Fund) Act 1989",
+  "short_name": "SCCCFA1989",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/SCCCFA1989",
+  "description": "An Act to provide for the payment into the Consolidated Fund of moneys from the funds of certain statutory corporations.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Statutory Corporations (Contributions to Consolidated Fund) Act 1989."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. In this Act, unless the context otherwise requires — “Consolidated Fund” means the Consolidated Fund established under Article 145 of the Constitution; “expenditure” means all expenses properly incurred by a specified statutory corporation in performing its functions and duties; “funds” includes all general and special funds and reserves under the control or management of a specified statutory corporation, other than funds created for the accounting of moneys which are subject to a trust; “Minister” means the Minister for Finance; “revenue” includes all moneys received by or accruing to a specified statutory corporation other than moneys subject to a trust; “specified statutory corporation” means any of the organisations, authorities or corporations specified in the Schedule."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Minister may require payment into Consolidated Fund",
+      "content": "3. Despite the provisions of any written law specified in the Schedule, the Minister may, by written notice, require any specified statutory corporation to pay into the Consolidated Fund within the period specified in the notice — ( a ) the whole or part of the excess of the revenue over the expenditure of that statutory corporation in any financial year; and ( b ) the whole or part of the amount in the funds of that statutory corporation which, in the Minister’s opinion, is not required for performing its functions and duties."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Amendment of Schedule",
+      "content": "4. The Minister may, by order in the Gazette , amend the Schedule."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Consolidated Fund",
+      "definition": "“Consolidated Fund” means the Consolidated Fund established under Article 145 of the Constitution;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "expenditure",
+      "definition": "“expenditure” means all expenses properly incurred by a specified statutory corporation in performing its functions and duties;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "funds",
+      "definition": "“funds” includes all general and special funds and reserves under the control or management of a specified statutory corporation, other than funds created for the accounting of moneys which are subject to a trust;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "“Minister” means the Minister for Finance;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "revenue",
+      "definition": "“revenue” includes all moneys received by or accruing to a specified statutory corporation other than moneys subject to a trust;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "specified statutory corporation",
+      "definition": "“specified statutory corporation” means any of the organisations, authorities or corporations specified in the Schedule.",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "id": "lsa-1991",
+  "type": "statute",
+  "title": "Land Surveyors Act 1991",
+  "title_en": "Land Surveyors Act 1991",
+  "short_name": "LSA1991",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/LSA1991",
+  "description": "An Act to establish the Land Surveyors Board, to provide for the registration of land surveyors, to regulate the qualifications and practice of land surveyors and to regulate corporations, partnerships and limited liability partnerships which supply survey services in Singapore.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Land Surveyors Act 1991."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. In this Act, unless the context otherwise requires — “allied professional” means — ( a ) an architect who is registered under the Architects Act 1991; or ( b ) a professional engineer who is registered under the Professional Engineers Act 1991; “authorised surveyor” means a land surveyor who is employed by the Authority, whether or not registered under section 12; [Act 25 of 2024 wef 01/10/2025] “Authority” means the Singapore Land Authority established under the Singapore Land Authority Act 2001; “Board” means the Land Surveyors Board established under section 4; “cadastral survey” means any survey relating to the recording of land boundaries, subdivision lines, buildings and related details; “certificate of registration” means a certificate of registration issued under section 14; “Chief Surveyor” means the Chief Surveyor appointed under section 3(1) of the Boundaries and Survey Maps Act 1998; “foreign competent authority”, in relation to any country or territory outside Singapore, means the regulatory body or its authorised agency in that country or territory having the function of regulating the practice of surveying and registering or licensing persons in connection with the practice of surveying in that country or territory; [Act 25 of 2024 wef 01/10/2025] “foreign land surveyor”, in relation to a country or territory outside Singapore, means any person who is permitted to practise as a land surveyor in that country or territory under the law of that country or territory; [Act 25 of 2024 wef 01/10/2025] “Investigation Committee” means an Investigation Committee appointed under section 24(1); “licence” means a licence to supply survey services in Singapore granted under section 17; “licensed”, in relation to a corporation, partnership or limited liability partnership, means a corporation, partnership or limited liability partnership which has in force a licence; “limited liability partnership” has the meaning given by section 4(1) of the Limited Liability Partnerships Act 2005; “manager” — ( a ) in relation to a corporation or partnership, means the principal executive officer of the corporation or partnership for the time being by whatever name called and whether or not he or she is a director or partner thereof; and ( b ) in relation to a limited liability partnership, has the meaning given by section 2(1) of the Limited Liability Partnerships Act 2005; “mutual recognition arrangement” means — ( a ) a bilateral agreement or arrangement between Singapore and any other country or territory; ( b ) a bilateral agreement or arrangement between the Board and a foreign competent authority of any other country or territory; ( c ) a multilateral agreement or arrangement between Singapore and 2 or more other countries or territories; or ( d ) a multilateral agreement or arrangement between the Board and the foreign competent authorities of 2 or more other countries or territories, for the mutual recognition of — ( e ) registered surveyors, and the survey work that may be performed by registered surveyors, in each such country or territory; and ( f ) foreign land surveyors of each such country or territory, and the survey work that may be performed by registered foreign surveyors of each such country or territory, in Singapore; [Act 25 of 2024 wef 01/10/2025] “nominee”, in relation to any person, means a person who is accustomed or under an obligation (whether formal or informal) to act in accordance with the directions, instructions or wishes of the firstmentioned person, except that a person is not to be regarded as a nominee of another person by reason only that the person acts on advice given by that other person in a professional capacity; “practising certificate” means — ( a ) in relation to a registered surveyor — an annual practising certificate issued under section 15 authorising him or her to engage in survey work in Singapore; ( b ) in relation to an allied professional who is an architect registered under the Architects Act 1991 — a practising certificate issued under section 18 of that Act; and ( c ) in relation to an allied professional who is a professional engineer registered under the Professional Engineers Act 1991 — a practising certificate issued under section 28 of that Act; “president” means the president of the Board; “register of licensees” means the annual register of licensed corporations, partnerships and limited liability partnerships kept by the Board under section 9(1)( c ); “register of practitioners” means the annual register of practitioners kept by the Board under section 9(1)( b ); “register of surveyors” means the register of land surveyors kept by the Board under section 9(1)( a ); [Act 25 of 2024 wef 01/10/2025] “registered foreign surveyor” means a person registered as a foreign land surveyor under section 12A; [Act 25 of 2024 wef 01/10/2025] “registered surveyor” means a person registered as a land surveyor under section 12; “Registrar” means the Registrar of the Board, and includes any individual acting in that capacity; “survey” means the act or process of — ( a ) determining the form, contour, position, area, height, depth or any other particulars of — (i) the earth’s surface, whether of land or water; or (ii) any natural or artificial features on, below or above any part of the earth’s surface; or ( b ) planning the position or the boundary lines of any part of the earth’s surface, or of any natural or artificial features referred to in paragraph ( a )(ii), and includes the act or process of making or obtaining any plan therefrom; “survey services” means the supply for gain or reward of any services, or any plan, certificate or other document, relating to any survey; “survey work” means any work which is part of or related to a survey; “unlimited corporation” means a corporation formed on the principle of having no limit placed on the liability of its members. [5/2018]"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "3",
+      "title": "Act not to apply to Government, etc.",
+      "content": "3. —(1) Nothing in this Act applies to anything done or omitted to be done by the Government. (2) This Act is not to be construed as requiring any public authority which supplies survey services in Singapore under the provisions of any written law to obtain a licence. (3) In subsection (2), “public authority” means any body established by or under any written law and exercising powers vested therein by written law for a public purpose."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART 2 - LAND SURVEYORS BOARD",
+      "section": "4",
+      "title": "Establishment of Land Surveyors Board",
+      "content": "4. —(1) A body called the Land Surveyors Board is established, which is a body corporate with perpetual succession and a common seal, with power, subject to the provisions of this Act — ( a ) to sue and be sued in its corporate name; ( b ) to acquire and dispose of property, both movable and immovable; and ( c ) to do and perform any other acts that bodies corporate may by law perform. (2) The Board consists of the following members to be appointed by the Minister: ( a ) a president who is to be appointed from among the registered surveyors; ( b ) 3 registered surveyors selected from a list of at least 4 registered surveyors submitted by the Singapore Institute of Surveyors and Valuers; ( c ) not more than 3 other registered surveyors as the Minister may determine. (3) A member of the Board is to be appointed for a term not exceeding 2 years but may be re‑appointed, and may at any time be removed from office by the Minister. (4) A person is not qualified to be appointed as a member of the Board under subsection (2) if the person — ( a ) is not a citizen or a permanent resident of Singapore; ( b ) is an undischarged bankrupt or has made any arrangement or composition with his or her creditors; ( c ) has been convicted of any offence involving fraud, dishonesty or moral turpitude, or of any other offence implying a defect in character which makes him or her unfit for the surveying profession; or ( d ) has a mental disorder and is incapable of managing himself or herself or his or her affairs, or is incapacitated by physical illness. (5) The office of any appointed member of the Board becomes vacant if the member — ( a ) dies; ( b ) resigns or is removed from office; or ( c ) becomes in any manner disqualified for office within the meaning of subsection (4). (6) Any vacancy arising under subsection (5) must, as soon as practicable, be filled in the manner in which the appointment to the vacant office was made; and every person so appointed holds office for the remainder of the term for which his or her predecessor was appointed. (7) The powers of the Board are not affected by any vacancy in its membership. (8) Any question as to whether a person has ceased to be a member of the Board appointed under subsection (2) is to be decided by the Board whose decision is final."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART 2 - LAND SURVEYORS BOARD",
+      "section": "5",
+      "title": "Meetings and quorum of Board",
+      "content": "5. —(1) The Board is to meet at such times and such places as the president may appoint. (2) At any meeting of the Board, 3 members form a quorum and no business may be transacted at any meeting unless a quorum is present. (3) At any meeting of the Board, the president presides and in the president’s absence the members present must elect from among themselves one member to preside over the meeting. (4) The member presiding at any meeting of the Board has a deliberative vote and, in the case of an equality of votes, also has a casting vote. (5) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Board may determine its own procedure. [5/2018]"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART 2 - LAND SURVEYORS BOARD",
+      "section": "6",
+      "title": "Common seal of Board",
+      "content": "6. —(1) The common seal of the Board must bear such device as the Board may approve and the seal may be broken, changed, altered or made anew by the Board as it thinks fit. (2) The common seal must be kept in the custody of the president and must be authenticated by the president or other member acting in the president’s absence. (3) Any document purporting to be sealed and authenticated under subsection (2) is, until the contrary is proved, deemed to be validly executed."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART 2 - LAND SURVEYORS BOARD",
+      "section": "7",
+      "title": "Functions of Board and committees",
+      "content": "7. —(1) The functions of the Board are — ( a ) to keep and maintain a register of surveyors, an annual register of practitioners and an annual register of licensees; ( b ) to hold, or arrange for the holding of, any examinations and professional interviews that the Board considers necessary for the purpose of enabling persons to qualify for registration under this Act; ( c ) to approve or reject applications for registration under section 12 or to approve any such applications subject to any restrictions that it thinks fit to impose; ( d ) to establish, maintain and develop the standard of professional conduct and ethics of the surveying profession; ( e ) to promote learning and education in connection with the profession of surveying; ( f ) to hear and determine disputes relating to professional conduct or ethics of registered surveyors or licensed corporations, partnerships or limited liability partnerships; ( g ) to appoint arbitrators for the purpose of hearing and determining disputes between registered surveyors, licensed corporations, partnerships or limited liability partnerships and other persons; ( h ) to license corporations, partnerships and limited liability partnerships which supply survey services in Singapore; [Act 25 of 2024 wef 01/10/2025] ( ha ) to negotiate and implement any mutual recognition arrangement; and [Act 25 of 2024 wef 01/10/2025] ( i ) generally to do all acts, matters and things that are necessary to be carried out under the provisions of this Act. (2) The Board may appoint such committees from among its members or other persons (whether or not they are registered surveyors) as it thinks fit to assist or advise the Board on such matters arising out of its functions under this Act as are referred to them by the Board."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART 2 - LAND SURVEYORS BOARD",
+      "section": "8",
+      "title": "Registrar, officers and employees",
+      "content": "8. —(1) There must be a chief executive of the Board called the Registrar of the Board, whose appointment and removal must be in accordance with the Public Sector (Governance) Act 2018. [5/2018] (2) The Board may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Registrar during any period, or during all periods, when the Registrar — ( a ) is absent from duty or Singapore; or ( b ) is, for any reason, unable to perform the duties of the office. [5/2018] (3) In addition to duties under the Public Sector (Governance) Act 2018, the Registrar must — ( a ) be under the general direction of the Board; ( b ) sign all certificates of registration, practising certificates and licences; and ( c ) record all entries of registration, cancellations and reinstatements in the register of surveyors, annual register of practitioners and annual register of licensees. [5/2018] (4) The Registrar must — ( a ) attend all meetings of the Board and record the proceedings of those meetings; and ( b ) conduct the correspondence and deal with any matters that the president or the Board may assign to the Registrar. (5) The Registrar must — ( a ) as soon as possible after 1 January each year, prepare and publish in the Gazette a list of the names of all registered surveyors who have in force a practising certificate and the principal business address at which the person practises in Singapore; and ( b ) from time to time publish in the Gazette such supplementary lists of the names of persons added to or removed from the register of practitioners as may be required. (6) The Board may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions. [5/2018]"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART 2 - LAND SURVEYORS BOARD",
+      "section": "9",
+      "title": "Registers",
+      "content": "9. —(1) The Board must keep and maintain — ( a ) a register of surveyors containing the names of all persons registered under section 12, the qualifications by virtue of which they are so registered and any other particulars in relation thereto that the Board may determine; [Act 25 of 2024 wef 01/10/2025] ( b ) an annual register of practitioners containing the particulars as contained in the declaration delivered under section 15(3)( a ); and ( c ) an annual register of licensees containing the names of all licensed corporations, partnerships and limited liability partnerships and any other particulars in relation thereto that the Board may determine. (2) Any person may, on payment of the prescribed fee, inspect any register mentioned in subsection (1) at any time during the office hours of the Board. (3) A copy of any entry in any register kept and maintained under this section purporting to be certified by the Registrar as a true copy of that entry is in all proceedings prima facie evidence of the matters specified in the copy."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART 3 - PRIVILEGES OF LAND SURVEYORS",
+      "section": "10",
+      "title": "Illegal practice",
+      "content": "10. —(1) Subject to the provisions of this Act, a person must not certify to the correctness or accuracy of any survey unless the person is an authorised surveyor or a registered surveyor who has in force a practising certificate. (2) Subject to the provisions of this Act, a person must not — ( a ) use or cause or permit to be used the abbreviation “RS” as a title before his or her name, or any written words, titles or initials or any abbreviation thereof which are intended to cause or may reasonably cause any person to believe that the person using them is authorised to supply survey services in Singapore; or [Act 25 of 2024 wef 01/10/2025] ( b ) advertise or hold himself, herself or itself out or conduct himself, herself or itself in any way or by any means as a person authorised to supply survey services in Singapore, unless at the time of so doing the person is a registered surveyor who has in force a practising certificate, or is a licensed corporation, a licensed partnership, a licensed limited liability partnership or a partnership consisting wholly of registered surveyors. (3) Subject to the provisions of this Act, a person is not entitled to recover in any court any charge, fee or remuneration for any survey services rendered in Singapore, unless the person rendering such services is — ( a ) a registered surveyor who has in force a practising certificate and is doing so on the person’s own account or as a partner in a licensed partnership, a licensed limited liability partnership or a partnership consisting wholly of registered surveyors; ( b ) an allied professional and is doing so only by reason of being a partner in a licensed partnership or a licensed limited liability partnership; or ( c ) a licensed corporation or a licensed limited liability partnership. (4) Subject to the provisions of this Act, a person must not perform or execute any survey or engage in any survey work in Singapore unless the person is — ( a ) a registered surveyor who has in force a practising certificate; ( b ) an authorised surveyor; or ( c ) under the direction or supervision of any of the persons mentioned in paragraphs ( a ) and ( b ). (5) Any person who contravenes subsection (1), (2) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000. [Act 25 of 2024 wef 01/10/2025]"
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART 3 - PRIVILEGES OF LAND SURVEYORS",
+      "section": "11",
+      "title": "Saving for winding up of corporation or limited liability partnership",
+      "content": "11. Nothing in section 10(2)( a ) prevents a corporation or limited liability partnership that ceases to have in force a licence from carrying on any activity necessary to the winding up of the corporation or limited liability partnership."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART 4 - REGISTRATION OF SURVEYORS",
+      "section": "12",
+      "title": "Persons entitled to be registered as registered surveyors",
+      "content": "12. —(1) Subject to the provisions of this Act, every person who is 21 years of age and above is, on payment of the prescribed fee, entitled to be registered as a registered surveyor under this Act if — ( a ) he or she satisfies the Board that he or she has –– (i) obtained a certificate of competency issued by the Board after passing the prescribed examination; (ii) passed a professional examination recognised by the Board and passed such further examination and had such practical experience in surveying in Singapore as the Board may prescribe; or (iii) had such proper training in surveying recognised by the Board and passed such other examination as the Board may require; and ( b ) he or she has passed a professional interview conducted by the Board to determine whether he or she has the aptitude and knowledge to effectively perform or engage in survey work in Singapore. [Act 25 of 2024 wef 01/10/2025] (2) Despite subsection (1), the Board may refuse to register any person who is not, in the opinion of the Board, of good character and reputation. [Act 25 of 2024 wef 01/10/2025]"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART 4 - REGISTRATION OF SURVEYORS",
+      "section": "13",
+      "title": "Application for registration",
+      "content": "13. Every application for registration under this Act must be made to the Board in such form and manner as may be prescribed."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART 4 - REGISTRATION OF SURVEYORS",
+      "section": "14",
+      "title": "Certificate of registration",
+      "content": "14. The Board must issue to each registered surveyor, upon application by the surveyor in the prescribed form and on payment of the prescribed fee, a certificate of registration."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART 5 - PRACTISING CERTIFICATES",
+      "section": "15",
+      "title": "Practising certificates",
+      "content": "15. —(1) Where a registered surveyor desires to engage in survey work in Singapore after 31 December of any year, he or she must, not later than 1 December of that year, apply in the prescribed form and manner for a practising certificate authorising him or her to engage in such survey work in the succeeding year. (2) Despite subsection (1), where a registered surveyor applies for a practising certificate for the first time after registration under section 12, the application must be in the prescribed form and may be made at any time during the year, and the registered surveyor may be issued a practising certificate for the remainder of the year in which the application is made. (3) Any application by a registered surveyor under this section must be addressed to the Board and be accompanied by — ( a ) a written declaration stating — (i) his or her full name; (ii) the name under which he or she practises if different from his or her own name, or the name of the corporation, partnership or limited liability partnership employing him or her; and (iii) the principal and any other address or addresses at which he or she practises in Singapore; ( b ) such evidence as the Board may require that the applicant has complied with or is exempt from the rules relating to — (i) insurance against professional liability; and (ii) continuing professional development; and ( c ) the prescribed fee, and the Board must, subject to subsection (4), thereupon issue to the registered surveyor a practising certificate. (4) The Board may refuse to issue a practising certificate if — ( a ) the applicant is an undischarged bankrupt; ( b ) the applicant has entered into a composition with his or her creditors or a deed of arrangement for the benefit of his or her creditors; ( c ) the applicant does not intend to practise either on his or her own account or in partnership, or is not or not about to be employed by any person lawfully supplying survey services in Singapore; ( d ) the declaration under subsection (3)( a ) contains a statement that to its knowledge is false in a material particular; or ( e ) the conduct of the applicant provides reasonable grounds for believing that he or she will not engage in survey work in Singapore in accordance with the written law and with honesty and integrity. (5) Any registered surveyor (not being a registered surveyor who is applying for a practising certificate for the first time) who fails to apply for a practising certificate in the manner and within the period laid down in subsection (1) may, on the making of an application in such form and on payment of such additional fee as may be prescribed, be issued a practising certificate for — ( a ) the succeeding year if the application is made during the month of December of any year; or ( b ) the remainder of the year if the application is made on or after 1 January of that year. (6) Subject to subsection (9), a practising certificate is, unless earlier cancelled, in force from the date of its issue until 31 December of the year in respect of which it is issued. (7) A practising certificate must specify the address of the principal place of practice and all other places of practice of the registered surveyor in respect of whom the practising certificate was issued. (8) Any change in that address must be notified by the registered surveyor concerned to the Registrar within 2 weeks of the change and an endorsement of the change on the practising certificate must be obtained from the Registrar. (9) Where the registration of a registered surveyor is cancelled under section 25, the practising certificate (if any) of that registered surveyor for the time being in force expires immediately and the Registrar must enter the date of the expiry in the register of practitioners. [Act 25 of 2024 wef 01/10/2025] (10) Any person whose application for a practising certificate has been refused by the Board may, within 30 days after being notified of the refusal, appeal to the General Division of the High Court whose decision is final. [40/2019]"
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART 5 - PRACTISING CERTIFICATES",
+      "section": "16",
+      "title": "Cancellation of practising certificates",
+      "content": "16. —(1) The Board may cancel a practising certificate of any registered surveyor on any ground specified in section 15(4) which applies to the registered surveyor, whether or not that ground existed at the time when the practising certificate was issued. (2) The Board must not cancel any practising certificate under subsection (1) unless an opportunity of being heard either personally or by counsel has been given to the person concerned. (3) Any person whose practising certificate has been cancelled by the Board under this section may, within 30 days after being notified of the cancellation, appeal to the General Division of the High Court whose decision is final. [40/2019]"
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART 6 - MULTIDISCIPLINE AND CORPORATE PRACTICE",
+      "section": "17",
+      "title": "Licence for multidiscipline and corporate practice",
+      "content": "17. —(1) Subject to the provisions of this Act, the Board may grant a licence to any limited corporation to supply survey services in Singapore if — ( a ) the memorandum of association of the corporation provides that a primary object of the corporation is to supply survey services; ( b ) it has a paid-up capital of at least $1 million; ( c ) the articles of association of the corporation provide that a prescribed number or proportion of the directors of the corporation must be registered surveyors or allied professionals, who each has in force a practising certificate; ( d ) the business of the corporation, so far as it relates to survey work in Singapore, will be under the control and management of a director of the corporation who — (i) is a registered surveyor who has in force a practising certificate; and (ii) is authorised under a resolution of the board of directors of the corporation to make all final survey decisions on behalf of the corporation with respect to the requirements of this Act or any other law relating to the supply of survey services by the corporation; and ( e ) the corporation is insured against professional liability in accordance with section 21 and the rules made under section 38. (2) Subject to the provisions of this Act, the Board may grant a licence to any unlimited corporation to supply survey services in Singapore if — ( a ) the memorandum of association of the corporation provides that a primary object of the corporation is to supply survey services; ( b ) the articles of association of the corporation provide that — (i) a person must not be a director of the corporation unless the person is either a registered surveyor or an allied professional, who has in force a practising certificate; and (ii) a person must not be registered as a member of the corporation unless the person is — (A) a registered surveyor or an allied professional, or a nominee of such a person; and (B) a director, a manager or an employee of the corporation; and ( c ) the business of the corporation, so far as it relates to survey work in Singapore, will be under the control and management of a director of the corporation who — (i) is a registered surveyor who has in force a practising certificate; (ii) is a member, or a registered owner of at least one share, of the corporation; and (iii) is authorised under a resolution of the board of directors of the corporation to make all final survey decisions on behalf of the corporation with respect to the requirements of this Act or any other law relating to the supply of survey services by the corporation. (3) Subject to the provisions of this Act, the Board may grant a licence to any partnership not consisting wholly of registered surveyors to supply survey services in Singapore if — ( a ) the partnership is one in which only registered surveyors and allied professionals (who each has in force a practising certificate) have a beneficial interest in the capital assets and profits of the partnership; and ( b ) the business of the partnership, so far as it relates to survey work in Singapore, will be under the control and management of a partner who is a registered surveyor and has in force a practising certificate. (4) Subject to the provisions of this Act, the Board may grant a licence to any limited liability partnership to supply survey services in Singapore if — ( a ) the statement lodged by the partners of the limited liability partnership with the Registrar of Limited Liability Partnerships under section 19(1) of the Limited Liability Partnerships Act 2005 provides that a primary nature of the business of the limited liability partnership is to supply survey services in Singapore; ( b ) the partners in the limited liability partnership consist only of persons who satisfy any requirements that the Board may, with the approval of the Minister, prescribe; ( c ) at least one of the partners of the limited liability partnership is a registered surveyor who has in force a practising certificate; ( d ) the business of the limited liability partnership, so far as it relates to survey services in Singapore, will be under the control and management of a partner who — (i) is a registered surveyor who has in force a practising certificate; and (ii) is authorised under a resolution of the partners of the limited liability partnership to make all final survey decisions on behalf of the limited liability partnership with respect to the requirements of this Act, the rules or any other law relating to the supply of survey services by the limited liability partnership; and ( e ) the limited liability partnership is insured against professional liability in accordance with section 21 and the rules made under section 38. (5) Any application for a licence under this section must be in such form and be made in such manner as may be prescribed. (6) The Board may refuse to grant a licence under this section to any corporation (whether unlimited or not), partnership or limited liability partnership if, in the opinion of the Board, the past conduct of any director, manager or employee of the corporation or any partner, manager or employee of the partnership or limited liability partnership provides reasonable grounds for believing that the corporation, partnership or limited liability partnership (as the case may be) will not supply survey services in accordance with any written law and with honesty and integrity. (7) Every licence granted under this section is, unless earlier revoked, valid for such period as may be specified in the licence. (8) Any person whose application for a licence has been refused by the Board may, within 30 days after being notified of the refusal, appeal to the Minister whose decision is final. (9) In subsection (1), “prescribed number or proportion of the directors” means — ( a ) a majority of the directors, where no number or proportion is specified under paragraph ( b ); or ( b ) such number or proportion of the directors as the Minister may, by notification in the Gazette , specify for the purposes of subsection (1)."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART 6 - MULTIDISCIPLINE AND CORPORATE PRACTICE",
+      "section": "18",
+      "title": "Conditions of licence",
+      "content": "18. —(1) It is a condition of every licence granted to any corporation, partnership or limited liability partnership that the corporation, partnership or limited liability partnership (as the case may be) must supply survey services in Singapore only under the control and management of a registered surveyor who has in force a practising certificate and who is — ( a ) in the case of a limited corporation — a director or an employee of the corporation; ( b ) in the case of an unlimited corporation which has a share capital — either a director or an employee of the corporation who is a registered owner of at least one share of the corporation; ( c ) in the case of an unlimited corporation which does not have any share capital — either a director or an employee of the corporation who is a member of the corporation; ( d ) in the case of a limited liability partnership — a partner or an employee of the limited liability partnership; or ( e ) in the case of a partnership — a partner of the partnership. (2) It is a condition of every licence granted to any corporation (other than an unlimited corporation) or to any limited liability partnership that the corporation or limited liability partnership must not supply survey services in Singapore unless the corporation or limited liability partnership is insured in respect of professional liability in accordance with section 21 and the rules made under section 38. (3) Without affecting subsections (1) and (2), the Board may — ( a ) grant a licence subject to such other conditions as it thinks fit; and ( b ) at any time vary any existing conditions (other than those specified in subsections (1) and (2)) of such a licence or impose additional conditions thereto. (4) Where a licence is granted by the Board to a corporation, partnership or limited liability partnership subject to conditions (other than those specified in subsections (1) and (2)), the corporation, partnership or limited liability partnership may, if aggrieved by the decision of the Board, appeal in the prescribed manner to the Minister whose decision is final."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART 6 - MULTIDISCIPLINE AND CORPORATE PRACTICE",
+      "section": "19",
+      "title": "Change in composition of board of directors, members, etc.",
+      "content": "19. —(1) Any licensed corporation must, within 30 days of the occurrence of — ( a ) any alteration of its memorandum or articles of association to remove the restrictions, limitations or prohibitions of the kind specified in section 17(1), (2) or (4), whichever is applicable; ( b ) any change in the composition of its board of directors, members or shareholders; or ( c ) any revocation of any resolution passed by the board of directors under section 17(1)( d )(ii) or (2)( c )(iii), provide the Board a true written report giving full particulars of the alteration, change or revocation, as the case may be. (2) Any licensed partnership must, within 30 days of the occurrence of any change in the composition of its members, provide the Board a true written report giving full particulars of the change. (3) Any licensed limited liability partnership must, within 30 days of the occurrence of any change in the composition of its partners, provide the Board a true written report giving full particulars of the change."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART 6 - MULTIDISCIPLINE AND CORPORATE PRACTICE",
+      "section": "20",
+      "title": "Application of Companies Act 1967",
+      "content": "20. —(1) Sections 162, 163 and 197 of the Companies Act 1967 apply to a licensed corporation which is an exempt private company subject to the modification that any reference in those sections to an exempt private company does not include a reference to the licensed corporation. [36/2014] (2) Every such licensed corporation must — ( a ) comply with the prohibitions in sections 162 and 163 of the Companies Act 1967 as if it were not an exempt private company; and ( b ) forward annually to the Registrar of Companies, together with the annual return required by section 197 of the Companies Act 1967, any copies of documents that are required to be included in the annual return and any certificates and particulars in accordance with the prescribed form mentioned in section 197(2) of that Act as if it were not an exempt private company. [36/2014] (3) In this section, “exempt private company” has the meaning given by the Companies Act 1967."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART 6 - MULTIDISCIPLINE AND CORPORATE PRACTICE",
+      "section": "21",
+      "title": "Liability insurance",
+      "content": "21. Every licensed corporation which is not an unlimited corporation and every licensed limited liability partnership must be insured against liability for any breach of professional duty arising out of the conduct of its business of supplying survey services as a direct result of any negligent act, error or omission committed by — ( a ) in the case of a corporation — the corporation or its directors, managers, secretaries or employees; or ( b ) in the case of a limited liability partnership — the partnership or its partners, managers or employees."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART 6 - MULTIDISCIPLINE AND CORPORATE PRACTICE",
+      "section": "22",
+      "title": "Relationship between client and licensed corporation or licensed limited liability partnership",
+      "content": "22. A licensed corporation or a licensed limited liability partnership has the same rights and is subject to the same obligations in respect of fiduciary, confidential and ethical relationships with each client of the corporation or limited liability partnership (as the case may be) that exist at law between a registered surveyor and his or her client."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "PART 6 - MULTIDISCIPLINE AND CORPORATE PRACTICE",
+      "section": "23",
+      "title": "Professional responsibility of supervising surveyor",
+      "content": "23. A registered surveyor who has the control and management of the business of a licensed corporation, licensed partnership or licensed limited liability partnership relating to the supply of survey services in Singapore is subject to the same standards of professional conduct and competence in respect of the business as if the survey services were personally supplied by the registered surveyor."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "PART 7 - DISCIPLINARY PROCEEDINGS AND REVOCATION",
+      "section": "24",
+      "title": "Appointment of Investigation Committees",
+      "content": "24. —(1) Without limiting section 7(2), the Board may appoint one or more Investigation Committees, consisting of such number of members (which may include members of the Board) as the Board may determine, for the purpose of investigating any complaint against a registered surveyor or a licensed corporation, partnership or limited liability partnership. (2) An Investigation Committee must, after investigating any complaint, report to the Board on the matter and the report must, among other things, deal with the question of the necessity or otherwise of a hearing by the Board under section 25 or 27. (3) An Investigation Committee must meet from time to time for the despatch of business and, subject to the provisions of this Act, may regulate its own procedure. (4) Any member of the Board who is a member of an Investigation Committee investigating any complaint against a registered surveyor or a licensed corporation, partnership or limited liability partnership — ( a ) must not take part in any deliberation of the Board under section 25 or 27 (as the case may be) with respect to that registered surveyor, corporation, partnership or limited liability partnership; and ( b ) must be disregarded for the purpose of constituting a quorum of the Board for such deliberation or decision."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "PART 7 - DISCIPLINARY PROCEEDINGS AND REVOCATION",
+      "section": "25",
+      "title": "Cancellation of registration or suspension from practice",
+      "content": "25. —(1) Subject to this section, the Board may by order cancel the registration of any registered surveyor or suspend him or her from practice for a period not exceeding 12 months under any of the following circumstances: ( a ) if he or she is convicted of any offence involving fraud, dishonesty or moral turpitude; ( b ) if his or her registration under section 12 or practising certificate was obtained by fraud or misrepresentation; ( c ) if his or her qualification for registration under section 12 has been withdrawn or cancelled by the authority through which it was acquired or by which it was awarded; ( d ) if he or she has been guilty of any improper conduct that renders him or her, in the opinion of the Board, unfit to be a registered surveyor; ( e ) if it appears to the Board that he or she has contravened any provision of the prescribed code of professional conduct and ethics; ( f ) if it appears to the Board that he or she is no longer in a position to carry out the duties of a registered surveyor effectively; ( g ) if it appears to the Board that the registered surveyor, while being a director, manager, or an employee of a corporation, or a partner, manager or an employee of a partnership or limited liability partnership, had failed to take reasonable steps to prevent the corporation, partnership or limited liability partnership from acting in a manner (other than as described in section 27(1)( f )) which would warrant the Board revoking any licence granted to the corporation, partnership or limited liability partnership or imposing a penalty under section 27; ( h ) if he or she has been adjudicated a bankrupt; ( i ) if he or she has been convicted of any offence under this Act; ( j ) if he or she refuses or fails to comply with any order of the Board made under subsection (2)( a ) or ( c ); ( k ) if he or she refuses or fails to pay the cost of any correction to his or her cadastral survey within 14 days of the receipt of a statement issued to him or her under section 16(4) of the Boundaries and Survey Maps Act 1998. (2) The Board may, in any case in which it considers that no cause of sufficient gravity for cancellation of registration or suspension from practice exists, exercise one or more of the following powers: ( a ) by order impose on the registered surveyor a penalty not exceeding $20,000; [Act 25 of 2024 wef 01/10/2025] ( b ) by writing under the hand of the president censure the registered surveyor; ( c ) order the registered surveyor to pay the cost of any correction to his or her cadastral survey incurred by the Chief Surveyor. (3) The Board must not exercise its powers under subsection (1) or (2) unless — ( a ) an opportunity of being heard either personally or by counsel has been given to the registered surveyor against whom the Board intends to exercise its powers; and ( b ) there has been a hearing at which at least 3 members of the Board are present. (4) Every penalty imposed by the Board under subsection (2)( a ) is recoverable as a debt due to the Board. (4A) All penalties collected by the Board under subsection (2)( a ) must be paid into the Consolidated Fund. [Act 25 of 2024 wef 01/10/2025] (5) While any order of suspension from practice made under this section remains in force, the person concerned is not for the purposes of this Act to be regarded as having in force a practising certificate, but immediately on the expiry or annulment of such order, his or her privileges as a registered surveyor are revived as from the date of expiry or annulment. (6) Any order of cancellation of registration or suspension from practice does not take effect until the expiry of 30 days after the Board has informed the person concerned, but if within that period the person concerned gives due notice of appeal to the General Division of the High Court, the order does not take effect unless the order is confirmed by the General Division of the High Court or the appeal is for any reason dismissed by the General Division of the High Court. [40/2019] (7) For the purposes of subsection (1)( g ), a registered surveyor is not to be deemed to have taken reasonable steps to prevent the doing of any act by a corporation, partnership or limited liability partnership unless he or she satisfies the Board that — ( a ) the act was done without his or her knowledge; ( b ) he or she was not in a position to influence the conduct of the corporation, partnership or limited liability partnership in relation to its action; or ( c ) he or she, being in such position, exercised all due diligence to prevent the corporation, partnership or limited liability partnership from so acting. (8) In this section, references to acts done include references to omissions to act and to a series of acts or omissions to act."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "PART 7 - DISCIPLINARY PROCEEDINGS AND REVOCATION",
+      "section": "26",
+      "title": "Removal from registers",
+      "content": "26. —(1) The name and other particulars of any registered surveyor — ( a ) who has died; ( b ) whose registration has been cancelled under section 25; or ( c ) who has no address in Singapore at which he or she can be contacted or sent any document using his or her particulars in the register, must be removed from the register of surveyors and register of practitioners. (2) Any registered surveyor may apply to the Board to have his or her name removed from the register of surveyors. (3) Every application under subsection (2) must be made in the prescribed form and must be supported by an affidavit served on the Board at least 2 months before the application is heard. (4) The Board may for good cause require the applicant to advertise his or her intention to make the application in such manner as the Board directs. (5) Subject to subsection (6), the Board may after hearing the application direct the Registrar to remove the name of the applicant from the register of surveyors. (6) No order is to be made on an application under subsection (2) if the Board is satisfied that — ( a ) disciplinary action is pending against the applicant; or ( b ) the conduct of the applicant is the subject of an inquiry or investigation by an Investigation Committee."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "PART 7 - DISCIPLINARY PROCEEDINGS AND REVOCATION",
+      "section": "27",
+      "title": "Revocation of licence",
+      "content": "27. —(1) Subject to subsection (3), the Board may by order revoke any licence granted to a corporation, partnership or limited liability partnership if in the opinion of the Board — ( a ) the corporation, partnership or limited liability partnership has failed to comply with any of the conditions imposed by the Board under section 18; ( b ) in relation to a corporation, the memorandum or articles of association of the corporation have been so altered that they no longer include the restrictions, limitations or prohibitions of the kind specified in section 17(1) or (2), whichever is applicable; ( c ) in relation to a partnership, a person who is neither — (i) a registered surveyor who has in force a practising certificate; nor (ii) an allied professional who has in force a practising certificate, has a beneficial interest in the capital assets and profits of the partnership; ( d ) in relation to a limited liability partnership, the limited liability partnership no longer satisfies the requirements of section 17(4); ( e ) the licence had been obtained by fraud or misrepresentation; ( f ) the corporation, partnership or limited liability partnership has stopped supplying survey services in Singapore; ( g ) the corporation, partnership or limited liability partnership has contravened section 19, 20 or 21, or has been convicted of an offence under this Act; ( h ) the corporation, partnership or limited liability partnership has contravened any provision of the prescribed code of professional conduct and ethics; ( i ) the conduct of any director, manager or employee of the corporation, or any partner, manager or employee of the partnership or limited liability partnership, provides grounds for believing that the corporation, partnership or limited liability partnership (as the case may be) will not engage in survey work in Singapore in accordance with the written law and with honesty and integrity; ( j ) the corporation, partnership or limited liability partnership has refused or failed to comply with an order of the Board made under subsection (2); or ( k ) the corporation, partnership or limited liability partnership refuses or fails to pay the cost of any correction to its cadastral survey within 14 days of the receipt of a statement issued to it under section 16(4) of the Boundaries and Survey Maps Act 1998. (2) The Board may, in any case in which it considers that no cause of sufficient gravity for revoking a licence exists — ( a ) by order impose on the corporation, partnership or limited liability partnership concerned a penalty not exceeding $50,000 and every such penalty is recoverable as a debt due to the Board; or [Act 25 of 2024 wef 01/10/2025] ( b ) order the corporation, partnership or limited liability partnership to pay the cost of any correction to its cadastral survey incurred by the Chief Surveyor. (2A) All penalties collected by the Board under subsection (2)( a ) must be paid into the Consolidated Fund. [Act 25 of 2024 wef 01/10/2025] (3) The Board must not exercise its powers under subsection (1) or (2) unless — ( a ) an opportunity of being heard by a representative in writing or by counsel has been given to the corporation, partnership or limited liability partnership against which the Board intends to exercise its powers; and ( b ) at least 3 members of the Board are present at the hearing. (4) Where the Board has revoked a licence under this section, it must immediately inform the corporation, partnership or limited liability partnership concerned. (5) Any order of revocation made by the Board does not take effect until the expiry of 30 days after the Board has informed the corporation, partnership or limited liability partnership concerned and if within that period the corporation, partnership or limited liability partnership gives due notice of appeal to the General Division of the High Court, the order does not take effect unless the order is confirmed by the General Division of the High Court or the appeal is for any reason dismissed by the General Division of the High Court. [40/2019] (6) Where an order of revocation becomes effective — ( a ) the Registrar must cause notice of the revocation to be published in the Gazette and must cancel the entry in the register of licensees relating to the corporation, partnership or limited liability partnership concerned; and ( b ) the corporation, partnership or limited liability partnership concerned must, as from the date of the notice, stop supplying survey services in Singapore except as may be approved by the Board for the purpose of winding up its business. (7) Subsection (6)( b ) does not prejudice the enforcement by any person of any right or claim against the corporation, partnership or limited liability partnership or by the corporation, partnership or limited liability partnership of any right or claim against any person."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "PART 7 - DISCIPLINARY PROCEEDINGS AND REVOCATION",
+      "section": "28",
+      "title": "Appeals",
+      "content": "28. Where the Board has made — ( a ) an order of cancellation of registration or suspension from practice under section 25 against a registered surveyor; ( b ) an order of revocation of a licence under section 27 against a corporation, partnership or limited liability partnership; or ( c ) an order imposing any pecuniary penalty on a registered surveyor under section 25(2) or on a corporation, partnership or limited liability partnership under section 27(2), the registered surveyor, corporation, partnership or limited liability partnership concerned may, within 30 days after the order or penalty has been communicated to him, her or it, appeal to the General Division of the High Court whose decision is final. [40/2019]"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "PART 7 - DISCIPLINARY PROCEEDINGS AND REVOCATION",
+      "section": "29",
+      "title": "Reinstatement of registration",
+      "content": "29. The Board may, after the expiry of at least one year from the cancellation of registration of any person, consider any application for registration by that person in accordance with the provisions of Part 4."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "PART 7 - DISCIPLINARY PROCEEDINGS AND REVOCATION",
+      "section": "30",
+      "title": "Powers to require attendance of witnesses, etc.",
+      "content": "30. —(1) For the purposes of any investigation by an Investigation Committee or any hearing under section 25 or 27 by the Board, the Investigation Committee or the Board may — ( a ) require evidence to be given on oath and for that purpose the Chairperson of the Investigation Committee or any member of the Board (as the case may be) may administer an oath; and ( b ) require any person to attend and give evidence before it and to produce all books, documents and papers in the custody of that person or under that person’s control relating to the subject matter of the investigation or hearing. (2) Every person who, without lawful excuse, refuses or fails — ( a ) to attend and give evidence when required to do so by the Investigation Committee or the Board; ( b ) to answer truly and fully any question put to the person by a member of the Investigation Committee or the Board; or ( c ) to produce to the Investigation Committee or the Board any book, document or paper required of the person, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000. [Act 25 of 2024 wef 01/10/2025]"
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "PART 7 - DISCIPLINARY PROCEEDINGS AND REVOCATION",
+      "section": "31",
+      "title": "Board may appoint legal counsel",
+      "content": "31. For the purposes of any investigation by an Investigation Committee, any hearing under section 25 or 27 by the Board or any appeal to the General Division of the High Court under section 28, the Investigation Committee or the Board (as the case may be) may appoint an advocate and solicitor and pay him or her such remuneration as the Board may determine. [40/2019]"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "PART 7 - DISCIPLINARY PROCEEDINGS AND REVOCATION",
+      "section": "32",
+      "title": "Costs and expenses",
+      "content": "32. —(1) Where the Board has made — ( a ) an order of cancellation of registration or suspension from practice under section 25 against a registered surveyor; ( b ) an order of revocation of a licence under section 27 against a corporation, partnership or limited liability partnership; or ( c ) an order imposing any pecuniary penalty on a registered surveyor under section 25(2) or on a corporation, partnership or limited liability partnership under section 27(2), the Board may order the registered surveyor, corporation, partnership or limited liability partnership (as the case may be) to pay to the Board such sum as it thinks fit in respect of costs and expenses incurred by the Board. (2) The General Division of the High Court has jurisdiction to tax any sum ordered by the Board under subsection (1), and such order is enforceable as if it were ordered in connection with a civil action in the General Division of the High Court. [40/2019] (3) The costs and expenses mentioned in subsection (1) include — ( a ) the costs and expenses of any advocate and solicitor appointed under section 31; ( b ) such reasonable expenses as the Board may pay to witnesses; and ( c ) such reasonable expenses as may be incurred by the Board in respect of the investigation by the Investigation Committee or in the conduct of proceedings before the Board or any appeal to the General Division of the High Court. [40/2019]"
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "PART 8 - GENERAL",
+      "section": "33",
+      "title": "Application of fees, etc., received by Board",
+      "content": "33. —(1) All fees, penalties and other moneys payable under this Act, unless otherwise provided, must be paid to the Board to be applied — ( a ) first, to defraying the expenses incurred by the Board in the administration of this Act, including the remuneration of the Registrar and other officers and employees of the Board; and ( b ) thereafter, to providing scholarships and the promotion of learning and education in connection with the surveying profession. [Act 25 of 2024 wef 01/10/2025] (2) The Registrar must take and receive all moneys payable to the Board under this Act. (3) All fees and other moneys payable to the Board under this Act must be paid immediately into a bank account approved by the Minister. (4) The Board may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act 1965."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "PART 8 - GENERAL",
+      "section": "34",
+      "title": "Penalty for wilful falsification of register and for wrongfully procuring registration, etc.",
+      "content": "34. Any person who — ( a ) wilfully makes or causes to be made any false entry in or falsification of any register kept and maintained under this Act; ( b ) wilfully procures or attempts to procure — (i) for any corporation, partnership or limited liability partnership any licence; or (ii) for himself or herself or any other person a practising certificate or to be registered as a registered surveyor or registered foreign surveyor under this Act, [Act 25 of 2024 wef 01/10/2025] by making or producing or causing to be made or produced any false or fraudulent representation or declaration, either verbally or in writing, or by intentionally suppressing any material fact and providing information which is misleading; or ( c ) knowingly aids or assists in any of the acts mentioned in paragraph ( a ) or ( b ), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000. [Act 25 of 2024 wef 01/10/2025]"
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "PART 8 - GENERAL",
+      "section": "35",
+      "title": "Offences by bodies corporate, etc.",
+      "content": "35. Where a corporation, partnership, limited liability partnership or an unincorporated association of persons is guilty of an offence under this Act and that offence is proved to have been committed with the authority, consent or connivance of any director, manager, partner, secretary or other similar officer of the corporation, partnership, limited liability partnership or association or any person who was purporting to act in any such capacity, he or she, as well as the corporation, partnership, limited liability partnership or association, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "PART 8 - GENERAL",
+      "section": "36",
+      "title": "No action or proceedings in absence of bad faith or malice",
+      "content": "36. No action or proceedings shall lie against the Board, an Investigation Committee or any member thereof for any act or thing done under this Act unless it is proved to the court that the act or thing was done in bad faith or with malice."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "PART 8 - GENERAL",
+      "section": "37",
+      "title": "Exemption",
+      "content": "37. —(1) The Minister may, by order and subject to any conditions that the Minister thinks fit, exempt any person or class of persons from all or any of the provisions of this Act. (2) Any order made under this section must be presented to Parliament as soon as possible after publication in the Gazette ."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "PART 8 - GENERAL",
+      "section": "38",
+      "title": "Rules",
+      "content": "38. —(1) The Board may, with the approval of the Minister, make rules for carrying out the purposes of this Act and for any matter which is required under this Act to be prescribed. (2) Without limiting subsection (1), the Board may, with the approval of the Minister, make rules — ( a ) prescribing forms of applications under this Act and certificates of registration, practising certificates and licences; ( b ) prescribing the requirements relating to continuing professional development to be satisfied under this Act; ( c ) prescribing the fees payable to the Board under this Act; ( d ) prescribing the subject matter of examinations to be conducted by or under the direction of the Board in the case of any applicant or class of applicants for registration; ( e ) prescribing the form of the register of surveyors, register of practitioners and register of licensees to be kept and the particulars to be entered therein; ( f ) prescribing a code of professional conduct and ethics; ( g ) requiring all or any of the following to take out and maintain insurance against liability for breach of professional duty in the course of supplying survey services: (i) any partnership consisting wholly of registered surveyors applying for a licence; (ii) any partnership or unlimited corporation applying for a licence; (iii) any registered surveyor applying for a practising certificate for the purpose of engaging in survey practice on his or her own account; (iv) any registered surveyor applying for a practising certificate who is employed or about to be employed by any person or body referred to in sub-paragraphs (i), (ii) and (iii); (v) any other registered surveyor applying for a practising certificate; ( h ) prescribing the terms and conditions of insurance against professional liability under this Act, including a minimum limit of indemnity; and ( i ) regulating the proceedings of an Investigation Committee. (3) All rules made under this section must be presented to Parliament as soon as possible after publication in the Gazette ."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "allied professional",
+      "definition": "“allied professional” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorised surveyor",
+      "definition": "“authorised surveyor” means a land surveyor who is employed by the Authority, whether or not registered under section 12; [Act 25 of 2024 wef 01/10/2025]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Authority",
+      "definition": "“Authority” means the Singapore Land Authority established under the Singapore Land Authority Act 2001;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "“Board” means the Land Surveyors Board established under section 4;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cadastral survey",
+      "definition": "“cadastral survey” means any survey relating to the recording of land boundaries, subdivision lines, buildings and related details;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "certificate of registration",
+      "definition": "“certificate of registration” means a certificate of registration issued under section 14;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chief Surveyor",
+      "definition": "“Chief Surveyor” means the Chief Surveyor appointed under section 3(1) of the Boundaries and Survey Maps Act 1998;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "foreign competent authority",
+      "definition": "“foreign competent authority” , in relation to any country or territory outside Singapore, means the regulatory body or its authorised agency in that country or territory having the function of regulating the practice of surveying and registering or licensing persons in connection with the practice of surveying in that country or territory; [Act 25 of 2024 wef 01/10/2025]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "foreign land surveyor",
+      "definition": "“foreign land surveyor” , in relation to a country or territory outside Singapore, means any person who is permitted to practise as a land surveyor in that country or territory under the law of that country or territory; [Act 25 of 2024 wef 01/10/2025]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Investigation Committee",
+      "definition": "“Investigation Committee” means an Investigation Committee appointed under section 24(1);",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence",
+      "definition": "“licence” means a licence to supply survey services in Singapore granted under section 17;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensed",
+      "definition": "“licensed” , in relation to a corporation, partnership or limited liability partnership, means a corporation, partnership or limited liability partnership which has in force a licence;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "limited liability partnership",
+      "definition": "“limited liability partnership” has the meaning given by section 4(1) of the Limited Liability Partnerships Act 2005;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "manager",
+      "definition": "“manager” — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mutual recognition arrangement",
+      "definition": "“mutual recognition arrangement” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "nominee",
+      "definition": "“nominee” , in relation to any person, means a person who is accustomed or under an obligation (whether formal or informal) to act in accordance with the directions, instructions or wishes of the firstmentioned person, except that a person is not to be regarded as a nominee of another person by reason only that the person acts on advice given by that other person in a professional capacity;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "practising certificate",
+      "definition": "“practising certificate” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "president",
+      "definition": "“president” means the president of the Board;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "register of licensees",
+      "definition": "“register of licensees” means the annual register of licensed corporations, partnerships and limited liability partnerships kept by the Board under section 9(1)( c );",
+      "source_provision": "s2"
+    },
+    {
+      "term": "register of practitioners",
+      "definition": "“register of practitioners” means the annual register of practitioners kept by the Board under section 9(1)( b );",
+      "source_provision": "s2"
+    },
+    {
+      "term": "register of surveyors",
+      "definition": "“register of surveyors” means the register of land surveyors kept by the Board under section 9(1)( a ); [Act 25 of 2024 wef 01/10/2025]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registered foreign surveyor",
+      "definition": "“registered foreign surveyor” means a person registered as a foreign land surveyor under section 12A; [Act 25 of 2024 wef 01/10/2025]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registered surveyor",
+      "definition": "“registered surveyor” means a person registered as a land surveyor under section 12;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "“Registrar” means the Registrar of the Board, and includes any individual acting in that capacity;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "survey",
+      "definition": "“survey” means the act or process of — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "survey services",
+      "definition": "“survey services” means the supply for gain or reward of any services, or any plan, certificate or other document, relating to any survey;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "survey work",
+      "definition": "“survey work” means any work which is part of or related to a survey;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "unlimited corporation",
+      "definition": "“unlimited corporation” means a corporation formed on the principle of having no limit placed on the liability of its members. [5/2018]",
+      "source_provision": "s2"
+    }
+  ]
+}

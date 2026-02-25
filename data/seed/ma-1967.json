@@ -1,0 +1,45 @@
+{
+  "id": "ma-1967",
+  "type": "statute",
+  "title": "Misrepresentation Act 1967",
+  "title_en": "Misrepresentation Act 1967",
+  "short_name": "MA1967",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/MA1967",
+  "description": "An Act to amend the law relating to innocent misrepresentations.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Removal of certain bars to rescission for innocent misrepresentation",
+      "content": "1. Where a person has entered into a contract after a misrepresentation has been made to him, and — ( a ) the misrepresentation has become a term of the contract; or ( b ) the contract has been performed, or both, then, if otherwise he would be entitled to rescind the contract without alleging fraud, he shall be so entitled, subject to the provisions of this Act, notwithstanding the matters mentioned in paragraphs ( a ) and ( b )."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Damages for misrepresentation",
+      "content": "2. —(1) Where a person has entered into a contract after a misrepresentation has been made to him by another party thereto and as a result thereof he has suffered loss, then, if the person making the misrepresentation would be liable to damages in respect thereof had the misrepresentation been made fraudulently, that person shall be so liable notwithstanding that the misrepresentation was not made fraudulently, unless he proves that he had reasonable ground to believe and did believe up to the time the contract was made that the facts represented were true. (2) Where a person has entered into a contract after a misrepresentation has been made to him otherwise than fraudulently, and he would be entitled, by reason of the misrepresentation, to rescind the contract, then, if it is claimed, in any proceedings arising out of the contract, that the contract ought to be or has been rescinded, the court or arbitrator may declare the contract subsisting and award damages in lieu of rescission, if of opinion that it would be equitable to do so, having regard to the nature of the misrepresentation and the loss that would be caused by it if the contract were upheld, as well as to the loss that rescission would cause to the other party. (3) Damages may be awarded against a person under subsection (2) whether or not he is liable to damages under subsection (1), but where he is so liable any award under subsection (2) shall be taken into account in assessing his liability under subsection (1)."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Avoidance of provision excluding liability for misrepresentation",
+      "content": "3. If a contract contains a term which would exclude or restrict — ( a ) any liability to which a party to a contract may be subject by reason of any misrepresentation made by him before the contract was made; or ( b ) any remedy available to another party to the contract by reason of such a misrepresentation, that term shall be of no effect except in so far as it satisfies the requirement of reasonableness as stated in section 11(1) of the Unfair Contract Terms Act 1977, and it is for those claiming that the term satisfies that requirement to show that it does."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Saving for past transactions",
+      "content": "4. Nothing in this Act applies in relation to any misrepresentation or contract of sale made before 12 November 1993 except in so far as it was applicable by virtue of section 5 of the Civil Law Act 1909 in force before that date."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Short title",
+      "content": "5. This Act may be cited as the Misrepresentation Act 1967."
+    }
+  ],
+  "definitions": []
+}

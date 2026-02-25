@@ -1,0 +1,50 @@
+{
+  "id": "ppaa-2012",
+  "type": "statute",
+  "title": "Parliamentary Pensions (Abolition) Act 2012",
+  "title_en": "Parliamentary Pensions (Abolition) Act 2012",
+  "short_name": "PPAA2012",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/PPAA2012",
+  "description": "An Act to provide that service as Members of Parliament and as holders of ministerial and other offices after 20 May 2011 cease to be reckonable for the grant of pensions and gratuities under the Parliamentary Pensions Act 1978, to provide for the eventual repeal of that Act and to make related and consequential amendments to other written laws.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title and commencement",
+      "content": "1. —(1) This Act is the Parliamentary Pensions (Abolition) Act 2012 and, with the exception of sections 5 and 6 and the Schedule, is deemed to have come into operation on 21 May 2011. (2) Sections 5 and 6 and the Schedule are to come into operation on a date that the Minister appoints by notification in the Gazette ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. In this Act, unless the context otherwise requires — “Member of Parliament” means — ( a ) an elected Member of Parliament within the meaning of Article 39(1)( a ) of the Constitution; ( b ) a non-constituency Member within the meaning of Article 39(1)( b ) of the Constitution; or ( c ) a nominated Member within the meaning of Article 39(1)( c ) of the Constitution; “office” means the office of — ( a ) the Prime Minister; ( b ) a Deputy Prime Minister; ( c ) the Speaker; ( d ) a Senior Minister or a Minister; ( e ) a Senior Minister of State or a Minister of State; ( f ) a Mayor; ( g ) a Senior Parliamentary Secretary or a Parliamentary Secretary; or ( h ) a Political Secretary."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "No parliamentary pension, etc., for service on or after 21 May 2011",
+      "content": "3. A pension or gratuity must not be granted under the Parliamentary Pensions Act 1978 to any person in respect of — ( a ) any service on or after 21 May 2011 in Parliament as a Member of Parliament; or ( b ) any service on or after 21 May 2011 in any office."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "No parliamentary pension, etc., granted unless service ceases",
+      "content": "4. —(1) A pension or gratuity must not be granted on or after 21 May 2011 under the Parliamentary Pensions Act 1978 to any person in respect of any service in Parliament as a Member of Parliament unless the person — ( a ) has not less than the minimum number of years of reckonable service specified in section 3 of that Act to be eligible for a pension under that section; and ( b ) has ceased at any time thereafter to be a Member of Parliament. (2) A pension or gratuity must not be granted on or after 21 May 2011 under the Parliamentary Pensions Act 1978 to any person in respect of any service in any office unless the person — ( a ) has not less than the minimum number of years of reckonable service specified in section 4 of that Act to be eligible for a pension under that section; and ( b ) has ceased at any time thereafter to be the holder of any office. (3) Where any pension is granted before 21 May 2011 to any office‑holding Member under section 4 of the Parliamentary Pensions Act 1978 by virtue of section 5 of that Act, payment of that pension as a full or reduced pension stops on or after 21 May 2011 and ceases to be payable to that office‑holding Member for the period that he or she remains an office‑holding Member and any such pension paid in contravention of this subsection must be immediately refunded to the Pension Fund; except that at the end of that period when he or she so ceases to hold office — ( a ) all that full or reduced pension which would have been payable, if not for this subsection, between 21 May 2011 and the date he or she so ceases to hold office (both dates inclusive) is then payable in a lump sum (without interest); and ( b ) his or her pension under section 4 of the Parliamentary Pensions Act 1978 is re-computed by adding the period of reckonable service between the date the pension was granted and 20 May 2011 (both dates inclusive) to the period of his or her former reckonable service which had been used in computing his or her pension. (4) To avoid doubt, this section has effect subject to sections 13 and 15 of the Parliamentary Pensions Act 1978. Repeal of Parliamentary Pensions Act 5. —(1) The Parliamentary Pensions Act 1978 is repealed. (2) The provisions of the Schedule shall have effect with respect to the saving and transitional matters on the repeal of the Parliamentary Pensions Act 1978. [7 Consequential amendments to other written laws following repeal 6. —(1) Section 11A(1) of the Parliament (Privileges, Immunities and Powers) Act 1962 is amended by deleting paragraph (b). (2) The Pension Fund Act 1995 is amended — ( a ) by deleting paragraph (a) of the definition of “public service” in section 2; and ( b ) by deleting item 6 of the Schedule. (3) Section 4 of the Public Service (Monthly Variable Component and Non‑pensionable Annual Allowance) Act 1988 is amended — ( a ) by deleting the words “and the Parliamentary Pensions Act”; and ( b ) by deleting the marginal reference “Cap. 219.”. [8"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Member of Parliament",
+      "definition": "“Member of Parliament” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "office",
+      "definition": "“office” means the office of — ( a )",
+      "source_provision": "s2"
+    }
+  ]
+}

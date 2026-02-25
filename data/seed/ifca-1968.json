@@ -1,0 +1,74 @@
+{
+  "id": "ifca-1968",
+  "type": "statute",
+  "title": "International Finance Corporation Act 1968",
+  "title_en": "International Finance Corporation Act 1968",
+  "short_name": "IFCA1968",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/IFCA1968",
+  "description": "An Act to implement the International Agreement for the establishment and operation of the International Finance Corporation and to enable Singapore to become a member thereof and for matters connected therewith.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the International Finance Corporation Act 1968."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. In this Act, unless the context otherwise requires — “Agreement” means the Articles of Agreement opened for signature at Washington on 25 May 1955 (as may be subsequently amended) providing for the establishment and operation of the international body known as the International Finance Corporation; “Corporation” means the International Finance Corporation established under the Agreement."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Acceptance of Agreement",
+      "content": "3. The President is hereby authorised by instrument under his hand to empower such person as may be named in the instrument, on behalf of the Government — ( a ) to sign the Agreement; and ( b ) to deposit with the International Bank for Reconstruction and Development an instrument of acceptance stating that the Government has accepted without reservation in accordance with the laws of Singapore the Agreement and the terms and conditions of the Resolution by the Board of Governors of the Corporation, dated 8 March 1968, providing for the admission of Singapore to membership, and has taken all steps necessary to enable the Government to carry out all its obligations under the Agreement and the said Resolution."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Financial provisions",
+      "content": "4. There shall be charged and paid out of the Consolidated Fund all sums required for the purpose of making payments on behalf of the Government — ( a ) under section 3 of Article II of the Agreement (which provides for the subscription of shares of stock of the Corporation); and ( b ) under section 4 of Article V of the Agreement (which relates to the cessation of membership of the Corporation)."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Power to raise loans",
+      "content": "5. For the purposes of providing any sums required for making any payments to the Corporation, the Minister with the President’s concurrence under Article 144(1)( b ) of the Constitution may, on behalf of the Government, raise loans by the creation and issue of securities bearing such rates of interests and subject to such conditions as to repayment, redemption or otherwise as he may think fit, and the principal and interest of those securities and any expenses incurred in connection with their issue shall be charged on and paid out of the Consolidated Fund."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Receipts",
+      "content": "6. All sums received by or on behalf of the Government from the Corporation shall be paid into the Consolidated Fund."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Certain provisions of Agreement to have force of law",
+      "content": "7. —(1) Notwithstanding anything to the contrary in any other written law, the provisions of the Agreement set out in the Schedule shall have the force of law: Provided that nothing in section 9 of Article VI of the Agreement shall be construed as — ( a ) entitling the Corporation to import into Singapore goods free of any duty of customs without any restriction on their subsequent sale therein; ( b ) conferring on the Corporation any exemption from taxes or duties which form part of the price of goods sold; or ( c ) conferring on the Corporation any exemption from taxes or duties which are no more than charges for services rendered. (2) The Minister may, by notification in the Gazette , amend the Schedule in conformity with any amendments to the provisions of the Agreement set out therein which may hereafter be duly made and adopted."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Power to make rules",
+      "content": "8. —(1) The Minister may make rules for carrying out or giving effect to the provisions of this Act. (2) Such rules shall be presented to Parliament as soon as possible after publication."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Agreement",
+      "definition": "“Agreement” means the Articles of Agreement opened for signature at Washington on 25 May 1955 (as may be subsequently amended) providing for the establishment and operation of the international body known as the International Finance Corporation;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Corporation",
+      "definition": "“Corporation” means the International Finance Corporation established under the Agreement.",
+      "source_provision": "s2"
+    }
+  ]
+}

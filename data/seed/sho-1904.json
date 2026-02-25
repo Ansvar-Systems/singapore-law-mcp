@@ -1,0 +1,39 @@
+{
+  "id": "sho-1904",
+  "type": "statute",
+  "title": "Sultan Hussain Ordinance 1904",
+  "title_en": "Sultan Hussain Ordinance 1904",
+  "short_name": "SHO1904",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/SHO1904",
+  "description": "An Ordinance to make proper provision for the family of the late Sultan Hussain.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Ordinance may be cited as the Sultan Hussain Ordinance 1904."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Administration of land by Collector of Land Revenue",
+      "content": "2. The said land situate in Kampong Glam, having reverted to the State, shall be administered by the Collector of Land Revenue in the same manner as other State lands."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "New scheme for payment of annuity or commuted gratuity to family of late Sultan Hussain",
+      "content": "3. —(1) The Minister may by regulations provide for the establishment of a scheme for the payment of an annuity to the family of the late Sultan Hussain a sum of $350,000 for a period of 30 years from 1 March 2000. (2) The annuity under the scheme established under subsection (1) shall be paid only to members of the family of the late Sultan Hussain who before 4 May 1999 were receiving an annuity under the Ordinance. (3) Regulations made under this section may provide for — ( a ) the determination of the proportions of the annuity under the scheme to be paid to persons to whom the annuity is payable; ( b ) the exercise of an option by a person to whom an annuity is payable under the scheme to be paid a commuted gratuity in lieu of the annuity; ( c ) the payment of a commuted gratuity to the estate of a person to whom annuity is payable under the scheme upon his death; and ( d ) generally giving effect to or for carrying out the purposes of this section."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Payments under Ordinance not to be assignable",
+      "content": "4. The sums payable to the family of the late Sultan Hussain under this Ordinance shall not be assignable or transferable or liable to be attached, sequestrated or levied upon for or in respect of any debt or claim."
+    }
+  ],
+  "definitions": []
+}

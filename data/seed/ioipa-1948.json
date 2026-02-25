@@ -1,0 +1,51 @@
+{
+  "id": "ioipa-1948",
+  "type": "statute",
+  "title": "International Organisations (Immunities and Privileges) Act 1948",
+  "title_en": "International Organisations (Immunities and Privileges) Act 1948",
+  "short_name": "IOIPA1948",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/IOIPA1948",
+  "description": "An Act to make provisions as to the immunities, privileges and capacities of international organisations, in particular those of which the Government and foreign governments are members; to confer immunities and privileges on the staff of such organisations and representatives of member governments and in respect of premises and documents of such organisations; and for purposes connected with the matters aforesaid. [16/2016]",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the International Organisations (Immunities and Privileges) Act 1948."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Privileges, immunities and capacities of certain international organisations and their staff",
+      "content": "2. —(1) This section applies to the following: ( a ) any organisation declared by an order of the President to be an organisation of which the Government and the government or governments of one or more foreign sovereign Powers are members; ( b ) any organisation specified in the First Schedule. [16/2016] (2) The President may by order — ( a ) provide that any organisation to which this section applies (referred to in this Act as the organisation) shall, to such extent as may be specified in the order, have the immunities and privileges set out in Part 1 of the Second Schedule, and shall also have the legal capacities of a body corporate; ( b ) confer upon — (i) any persons who are representatives (whether of governments or not) on any organ of the organisation or are members of any committee of the organisation or of an organ thereof; (ii) such number of officers of the organisation as may be specified in the order, being the holders of such high offices in the organisation as may be so specified; and (iii) such persons employed on missions on behalf of the organisation as may be so specified, to such extent as may be specified in the order, the immunities and privileges set out in Part 2 of the Second Schedule; and ( c ) confer upon such other classes of officers and employees of the organisation as may be specified in the order, to such extent as may be so specified, the immunities and privileges set out in Part 3 of the Second Schedule, and Part 4 of the Second Schedule shall have effect for the purpose of extending to the staff of such representatives and members as are mentioned in paragraph ( b )(i) and to the families of officers of the organisation any immunities and privileges conferred on the representatives, members or officers under paragraph ( b ), except insofar as the operation of Part 4 of the Second Schedule is excluded by the order conferring the immunities and privileges: Provided that the order shall be so framed as to secure that there are not conferred on any person any immunities or privileges greater in extent than those which, at the time of the making of the order, are required to be conferred on that person in order to give effect to any international agreement in that behalf. [16/2016] (3) Where immunities and privileges are conferred on any persons by an order made under subsection (2), the President — ( a ) shall compile a list of the persons entitled to immunities and privileges conferred under subsection (2)( b ), and may compile a list of the persons entitled to immunities and privileges conferred under subsection (2)( c ); ( b ) shall cause any list compiled under this subsection to be published in the Gazette ; and ( c ) whenever any person ceases or begins to be entitled to the immunities and privileges to which any such list relates, shall amend the list and cause a notice of the amendment or, if the President thinks fit, an amended list to be published in the Gazette . (4) Every list or notice published under subsection (3) shall state the date from which the list or amendment takes or took effect; and the fact that any person is or was included or not included at any time among the persons entitled to the immunities and privileges in question may, if a list of those persons has been so published, be conclusively proved by producing the Gazette containing the list or, as the case may be, the last list taking effect before that time, together with the Gazettes (if any) containing notices of the amendments taking effect before that time, and by showing that the name of that person is or was at that time included or not included in that list."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Diplomatic immunities of representatives attending international conferences",
+      "content": "3. —(1) Where a conference is held in Singapore and is attended by the representatives of the Government and the government or governments of one or more foreign sovereign Powers and it appears to the President that doubts may arise as to the extent to which the representatives of the foreign Powers and members of their official staff are entitled to diplomatic immunities, the President may — ( a ) compile a list of the persons aforesaid who are entitled to such immunities, and cause that list to be published in the Gazette ; and ( b ) whenever it appears to the President that any person ceases or begins to be entitled to such immunities, amend the list and cause a notice of amendment or, if the President thinks fit, an amended list, to be published in the Gazette , and every representative of a foreign Power who is for the time being included in the list shall, for the purpose of any law and rule of law or custom relating to the immunities of an envoy of a foreign Power accredited to the President, and of the retinue of such an envoy, be treated as if he were such an envoy, and such of the members of his official staff as are for the time being included in the list shall be treated for that purpose as if they were his retinue. (2) Every list or notice published under subsection (1) in relation to any conference shall include a statement of the date from which the list or amendment takes or took effect; and the fact that any person is or was included or not included at any time among the persons entitled to diplomatic immunities as representatives attending the conference or as members of the official staff of any such representative may, if a list of those persons has been so published, be conclusively proved by producing the Gazette containing the list or, as the case may be, the list taking effect before that time, together with the Gazettes (if any) containing notices of the amendments taking effect before that time, and by showing that the name of that person is or was at that time included or not included in that list."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Application to United Nations",
+      "content": "4. This Act in its application to the United Nations has effect subject to the following modifications: ( a ) any reference to the governing body or any committee of the organisation shall be construed as referring to the General Assembly or any council or other organ of the United Nations; ( b ) the powers conferred by section 2(2) include power by order to confer on the judges and registrars of the International Court and on suitors to that Court and their agents, counsel and advocates, such immunities, privileges and facilities as may be required to give effect to any resolution of, or convention approved by, the General Assembly of the United Nations."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Reciprocal treatment",
+      "content": "5. Nothing in sections 2, 3 and 4 shall be construed as precluding the President from declining to accord immunities or privileges to, or from withdrawing immunities or privileges from, nationals or representatives of any Power on the ground that that Power is failing to accord corresponding immunities or privileges to Singapore nationals or representatives."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Amendment of First Schedule",
+      "content": "6. The Minister may, by notification published in the Gazette , amend the First Schedule. [16/2016]"
+    }
+  ],
+  "definitions": []
+}

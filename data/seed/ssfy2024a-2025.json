@@ -1,0 +1,39 @@
+{
+  "id": "ssfy2024a-2025",
+  "type": "statute",
+  "title": "Supplementary Supply (FY 2024) Act 2025",
+  "title_en": "Supplementary Supply (FY 2024) Act 2025",
+  "short_name": "SSFY2024A2025",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/SSFY2024A2025",
+  "description": "An Act to make supplementary provision to meet additional expenditure for the financial year 1 April 2024 to 31 March 2025.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Supplementary Supply (FY 2024) Act 2025."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. In this Act, “FY 2024” means the period starting 1 April 2024 and ending 31 March 2025."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Supplementary supply from Consolidated Fund",
+      "content": "3. —(1) A further sum of not more than $3,883,986,000, not otherwise provided for by the Supply Act 2024, is authorised to be issued from the Consolidated Fund for FY 2024. (2) The sum in subsection (1) is appropriated for the Heads of Expenditure for the public service specified in the Schedule."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Supplementary supply from Development Fund",
+      "content": "4. —(1) A further sum of not more than $376,273,500, not otherwise provided for by the Supply Act 2024, is authorised to be issued from the Development Fund for FY 2024. (2) The sum in subsection (1) is appropriated for development purposes under the Heads of Expenditure specified in the Schedule."
+    }
+  ],
+  "definitions": []
+}

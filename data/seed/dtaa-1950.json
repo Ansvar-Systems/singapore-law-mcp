@@ -1,0 +1,33 @@
+{
+  "id": "dtaa-1950",
+  "type": "statute",
+  "title": "Departmental Titles (Alteration) Act 1950",
+  "title_en": "Departmental Titles (Alteration) Act 1950",
+  "short_name": "DTAA1950",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/DTAA1950",
+  "description": "An Act relating to departmental titles.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Departmental Titles (Alteration) Act 1950."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Amendment of titles",
+      "content": "2. Where in any written law or in any other document the title or name of office mentioned in the first column of the Schedule is used, there is to be substituted for that title or name of office the title or name of office mentioned opposite it in the second column of the Schedule."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Power to add to or amend Schedule",
+      "content": "3. —(1) The appropriate Minister may, by notification in the Gazette , at any time add to or amend the Schedule. (2) In this section, “appropriate Minister”, in relation to any title or name of office, means the Minister charged with the responsibility for the department to which the title or name of office relates."
+    }
+  ],
+  "definitions": []
+}

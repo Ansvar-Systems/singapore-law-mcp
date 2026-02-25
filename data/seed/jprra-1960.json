@@ -1,0 +1,45 @@
+{
+  "id": "jprra-1960",
+  "type": "statute",
+  "title": "Judicial Proceedings (Regulation of Reports) Act 1960",
+  "title_en": "Judicial Proceedings (Regulation of Reports) Act 1960",
+  "short_name": "JPRRA1960",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/JPRRA1960",
+  "description": "An Act to regulate the publication of reports of judicial proceedings in such a manner as to prevent injury to public morals.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Judicial Proceedings (Regulation of Reports) Act 1960."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Restriction on publication of reports",
+      "content": "2. —(1) It shall not be lawful to print or publish, or cause or procure to be printed or published — ( a ) in relation to any judicial proceedings any indecent matter or indecent medical, surgical or physiological details being matter or details the publication of which would be calculated to injure public morals; or ( b ) in relation to any judicial proceedings for divorce, dissolution of marriage, nullity of marriage, judicial separation or restitution of conjugal rights, any particulars other than the following: (i) the names, addresses and occupations of the parties and witnesses; (ii) a concise statement of the charges, the defences and countercharges in support of which evidence has been given; (iii) submissions on any point of law arising in the course of the proceedings and the decision of the court on the submissions; (iv) the decision of the court and any observations made by the court in giving that decision. (2) Nothing in subsection (1)( b ) shall be held to permit the publication of anything contrary to subsection (1)( a )."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Penalty",
+      "content": "3. Any person who acts in contravention of section 2 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one year or to both: Provided that no person, other than the proprietor, editor, printer or publisher, shall be liable to be convicted under this Act."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Consent of Public Prosecutor",
+      "content": "4. No prosecution for an offence under this Act shall be commenced without the consent of the Public Prosecutor."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Saving",
+      "content": "5. Nothing in this Act shall apply to — ( a ) the printing of any pleading, transcript of evidence or other document for use in connection with any judicial proceedings or the communication thereof to persons concerned in the proceedings; ( b ) the printing or publishing of any notice or report in pursuance of the directions of the court; or ( c ) the printing or publishing of any matter in any separate volume or part of any bona fide series of law reports which do not form part of any other publication and consists solely of reports of proceedings in courts of law, or in any publication of a technical character bona fide intended for circulation among members of the legal or medical profession."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,170 @@
+{
+  "id": "ia-2007",
+  "type": "statute",
+  "title": "Inquiries Act 2007",
+  "title_en": "Inquiries Act 2007",
+  "short_name": "IA2007",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/IA2007",
+  "description": "An Act to enable the President to appoint a commission of inquiry and to enable the relevant Minister to appoint a committee of inquiry, and to provide for matters related thereto.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Inquiries Act 2007."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. In this Act, unless the context otherwise requires — “appointing authority”, in relation to a commission of inquiry, means the President and, in relation to a committee of inquiry, means the Minister who appointed the committee of inquiry under section 9 and includes his or her successor in office; “commission” or “commission of inquiry” means any commission of inquiry appointed by the President under section 3, and includes the members of the commission, or a quorum of the members, or the sole member, sitting for the purposes of the inquiry; “committee” or “committee of inquiry” means any committee of inquiry appointed by the Minister under section 9, and includes the members of the committee, or a quorum of the members, or the sole member, sitting for the purposes of the inquiry; “inquiry body” means a commission of inquiry or a committee of inquiry, and includes the members of such commission of inquiry or committee of inquiry, or a quorum of the members, or the sole member, sitting for the purposes of the inquiry; “member” means a member of any commission of inquiry or committee of inquiry (as the case may be) and includes the chairperson of such commission or committee; “Minister”, in relation to a committee of inquiry, means the Minister who appointed the committee of inquiry under section 9 and includes the Minister’s successor in office; “terms of reference”, in relation to an inquiry body, means the terms of reference issued to the inquiry body under section 3(2) or 9(2) (as the case may be) and includes any modification made to the terms of reference under section 3(3) or 9(3)."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART 2 - COMMISSIONS OF INQUIRY",
+      "section": "3",
+      "title": "Power to issue commissions",
+      "content": "3. —(1) The President may, whenever the President considers it expedient to do so, issue a commission appointing one or more commissioners and authorising such commissioners, or any quorum of them mentioned in the commission, to inquire into — ( a ) the conduct of any officer or officers in the public service of Singapore; ( b ) the conduct or management of any department of the public service or any public or local institution; or ( c ) any matter in which an inquiry would, in the opinion of the President, be for the public welfare or in the public interest. (2) The commission issued by the President must specify the subject of the inquiry and, at the discretion of the President, may — ( a ) specify any particular matters as to which the commissioners are to determine the facts; ( b ) direct whether the commissioners are to make recommendations; ( c ) direct where and when the inquiry is to be held and the report of the inquiry submitted; ( d ) prescribe how the inquiry is to be conducted, including whether the Attorney‑General is appointed to lead evidence in the inquiry; and ( e ) direct whether the inquiry or any part of the inquiry is or is not to be held in public. (3) The President may modify the terms of reference issued under subsection (2) on the recommendation of the commissioners. (4) The President may extend the time for the inquiry to be completed and for the submission of the report of the inquiry by the commission."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART 2 - COMMISSIONS OF INQUIRY",
+      "section": "4",
+      "title": "Composition of commission",
+      "content": "4. —(1) A commission of inquiry must consist of one or more persons (at least one of whom must be a person who is qualified to be a Judge of the High Court). (2) Where a commission consists of more than one commissioner, the President must appoint one of the commissioners to be the chairperson. (3) Where a commission consists of one commissioner only, the commissioner is vested with the powers of the chairperson. (4) The President may, from time to time, add to the members of any such commission. (5) The President may appoint a person to replace any commissioner — ( a ) who has died or resigned; or ( b ) whom the President is satisfied — (i) is incapacitated by reason of physical or mental disability; or (ii) is unwilling, unable or unfit to discharge the functions of a commissioner. (6) When a new commissioner has been appointed under subsection (4) or (5), it is not necessary for any evidence which may have been taken before the commission prior to such appointment to be retaken. (7) A commissioner may resign from his or her office at any time by written notice to the President. (8) Every commissioner appointed under this Part is, so long as he or she is acting as such commissioner, deemed to be a public servant within the meaning of the Penal Code 1871, and every inquiry under this Part is deemed to be a judicial proceeding within the meaning of the Penal Code 1871."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART 2 - COMMISSIONS OF INQUIRY",
+      "section": "5",
+      "title": "Change of President",
+      "content": "5. No commission issued and no appointment made under this Part lapses by reason of, or is otherwise affected by, the death, absence, resignation, retirement or removal of the President who issued the commission or made the appointment."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART 2 - COMMISSIONS OF INQUIRY",
+      "section": "6",
+      "title": "Appointment of secretary",
+      "content": "6. The President may appoint a secretary — ( a ) to attend the sittings of the commission; ( b ) to record their proceedings; ( c ) to keep their papers; ( d ) to summon and record the evidence of witnesses; and ( e ) generally to perform such duties connected with the inquiry as the commissioners may instruct, subject to the directions (if any) of the President."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART 2 - COMMISSIONS OF INQUIRY",
+      "section": "7",
+      "title": "Appointment of assessors",
+      "content": "7. —(1) One or more persons may be appointed as assessors to assist the commissioners. (2) The power to appoint assessors is exercisable — ( a ) before the appointment of the chairperson, by the President; or ( b ) by the chairperson (whether or not the President has appointed assessors). (3) The chairperson may at any time terminate the appointment of an assessor, but only with the consent of the President in the case of an assessor appointed by the President."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART 2 - COMMISSIONS OF INQUIRY",
+      "section": "8",
+      "title": "Role of police",
+      "content": "8. The President may direct the Commissioner of Police to detail police officers to attend upon any such commissioners, to preserve order during the proceedings, to serve summonses on witnesses and to provide such other assistance in relation to the inquiry as the commissioners may direct."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART 3 - COMMITTEES OF INQUIRY",
+      "section": "9",
+      "title": "Appointment of committee",
+      "content": "9. —(1) Any Minister may, whenever the Minister considers it expedient to do so, in writing appoint a committee of inquiry and direct the committee to inquire into — ( a ) any accident or occurrence resulting in or involving death, serious personal injury or serious property damage; ( b ) any occurrence that may endanger public safety or public health; ( c ) the conduct or management of a ministry, department or statutory body falling under the responsibility of that Minister; or ( d ) the conduct of any officer employed by or seconded to any such ministry, department or statutory body. (2) The Minister must issue to the committee terms of reference which must specify the subject of the inquiry and may — ( a ) specify any particular matters as to which the committee is to determine the facts; ( b ) direct whether the committee is to make recommendations; ( c ) direct where and when the inquiry is to be held and the report of the inquiry submitted; ( d ) prescribe how the inquiry is to be conducted, including whether the Attorney‑General is appointed to lead evidence in the inquiry; and ( e ) direct whether the inquiry or any part of the inquiry is or is not to be held in public. (3) The Minister may modify the terms of reference issued under subsection (2) on the recommendation of the committee. (4) The Minister may extend the time for the inquiry to be completed and for the submission of the report of the inquiry by the committee."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART 3 - COMMITTEES OF INQUIRY",
+      "section": "10",
+      "title": "Composition of committee",
+      "content": "10. —(1) A committee of inquiry must consist of one or more persons (at least one of whom must be a person who is qualified to be a District Judge). (2) Where a committee consists of more than one person, the Minister must appoint one of the members to be the chairperson. (3) Where a committee consists of one member only, the member is vested with the powers of the chairperson. (4) The Minister may, from time to time, add to the members of any such committee. (5) The Minister may appoint a person to replace any member — ( a ) who has died or resigned; or ( b ) whom the Minister is satisfied — (i) is incapacitated by reason of physical or mental disability; or (ii) is unwilling, unable or unfit to discharge the functions of a member. (6) When a new member has been appointed under subsection (4) or (5), it is not necessary for any evidence which may have been taken before the committee prior to such appointment to be retaken. (7) A member may resign from his or her office at any time by written notice to the Minister. (8) Every member appointed under this Part is, so long as he or she is acting as such member, deemed to be a public servant within the meaning of the Penal Code 1871, and every inquiry under this Part is deemed to be a judicial proceeding within the meaning of the Penal Code 1871."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART 3 - COMMITTEES OF INQUIRY",
+      "section": "11",
+      "title": "Change of Minister",
+      "content": "11. No appointment made under this Part lapses by reason of, or is otherwise affected by, the death, absence, resignation, retirement or removal of the Minister who made the appointment."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART 3 - COMMITTEES OF INQUIRY",
+      "section": "12",
+      "title": "Appointment of secretary",
+      "content": "12. The Minister may appoint a secretary — ( a ) to attend the sittings of the committee; ( b ) to record their proceedings; ( c ) to keep their papers; ( d ) to summon and record the evidence of witnesses; and ( e ) generally to perform such duties connected with the inquiry as the committee may instruct, subject to the directions (if any) of the Minister."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART 3 - COMMITTEES OF INQUIRY",
+      "section": "13",
+      "title": "Appointment of assessors",
+      "content": "13. —(1) One or more persons may be appointed as assessors to assist the committee. (2) The power to appoint assessors is exercisable — ( a ) before the appointment of the chairperson, by the Minister; or ( b ) by the chairperson (whether or not the Minister has appointed assessors). (3) The chairperson may at any time terminate the appointment of an assessor, but only with the consent of the Minister in the case of an assessor appointed by the Minister."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART 4 - INQUIRY POWERS AND PROCEEDINGS AND RULES",
+      "section": "14",
+      "title": "Inquiry powers and proceedings",
+      "content": "14. The powers of inquiry bodies and the provisions on inquiry proceedings are as set out in the Schedule."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART 4 - INQUIRY POWERS AND PROCEEDINGS AND RULES",
+      "section": "15",
+      "title": "Rules in relation to commissions of inquiry",
+      "content": "15. —(1) The President may make rules generally for carrying out the purposes and provisions of this Act in respect of commissions of inquiry. (2) Without limiting subsection (1), the President may make rules for or with respect to all or any of the following matters in respect of commissions of inquiry: ( a ) matters of evidence and procedure in relation to commissions of inquiry under this Act; ( b ) the assessment and payment of sums mentioned in paragraph 1(7) of the Schedule. (3) Rules under subsection (2)( b ) may in particular — ( a ) make provision as to how and by whom the sums mentioned in paragraph 1(7) of the Schedule are to be assessed, including provision allowing the assessment to be undertaken by the commissioners or by such other person as the commissioners may nominate; and ( b ) make provision for review of an assessment at the instance of any person dissatisfied with it."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART 4 - INQUIRY POWERS AND PROCEEDINGS AND RULES",
+      "section": "16",
+      "title": "Rules in relation to committees of inquiry",
+      "content": "16. —(1) The Minister for Law may make rules generally for carrying out the purposes and provisions of this Act in respect of committees of inquiry. (2) Without limiting subsection (1), the Minister for Law may make rules for or with respect to all or any of the following matters in respect of committees of inquiry: ( a ) matters of evidence and procedure in relation to committees of inquiry under this Act; ( b ) the assessment and payment of sums mentioned in paragraph 1(7) of the Schedule. (3) Rules under subsection (2)( b ) may in particular — ( a ) make provision as to how and by whom the sums mentioned in paragraph 1(7) of the Schedule are to be assessed, including provision allowing the assessment to be undertaken by the committee of inquiry or by such other person as the committee of inquiry may nominate; and ( b ) make provision for review of an assessment at the instance of any person dissatisfied with it."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART 5 - MISCELLANEOUS",
+      "section": "17",
+      "title": "Saving and transitional provision",
+      "content": "17. In respect of any commission of inquiry appointed under section 2 of the repealed Commissions of Inquiry Act (Cap. 48, 1985 Revised Edition) (called in this section the repealed Act) before 1 November 2007, the repealed Act continues to apply to such commission of inquiry and all matters arising from it as if the repealed Act had not been repealed."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "appointing authority",
+      "definition": "“appointing authority” , in relation to a commission of inquiry, means the President and, in relation to a committee of inquiry, means the Minister who appointed the committee of inquiry under section 9 and includes his or her successor in office;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "commission",
+      "definition": "“commission” or “commission of inquiry” means any commission of inquiry appointed by the President under section 3, and includes the members of the commission, or a quorum of the members, or the sole member, sitting for the purposes of the inquiry;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "committee",
+      "definition": "“committee” or “committee of inquiry” means any committee of inquiry appointed by the Minister under section 9, and includes the members of the committee, or a quorum of the members, or the sole member, sitting for the purposes of the inquiry;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "inquiry body",
+      "definition": "“inquiry body” means a commission of inquiry or a committee of inquiry, and includes the members of such commission of inquiry or committee of inquiry, or a quorum of the members, or the sole member, sitting for the purposes of the inquiry;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "“member” means a member of any commission of inquiry or committee of inquiry (as the case may be) and includes the chairperson of such commission or committee;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "“Minister” , in relation to a committee of inquiry, means the Minister who appointed the committee of inquiry under section 9 and includes the Minister’s successor in office;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "terms of reference",
+      "definition": "“terms of reference” , in relation to an inquiry body, means the terms of reference issued to the inquiry body under section 3(2) or 9(2) (as the case may be) and includes any modification made to the terms of reference under section 3(3) or 9(3).",
+      "source_provision": "s2"
+    }
+  ]
+}

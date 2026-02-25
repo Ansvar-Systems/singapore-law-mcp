@@ -1,0 +1,51 @@
+{
+  "id": "gca-1966",
+  "type": "statute",
+  "title": "Government Contracts Act 1966",
+  "title_en": "Government Contracts Act 1966",
+  "short_name": "GCA1966",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/GCA1966",
+  "description": "An Act to provide for the making of contracts on behalf of the Government and for matters connected therewith.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Government Contracts Act 1966."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Contracts on behalf of Government",
+      "content": "2. —(1) All contracts made in Singapore for or on behalf of the Government shall, if reduced to writing, be made in the name of the Government and may be signed by a Minister or by any public officer duly authorised in writing by the Minister for Finance, either specially in any particular case, or generally for all contracts below a certain value in his Ministry or department. (2) In making an authorisation under subsection (1), it shall be sufficient for the Minister for Finance to name the office held by such public officer and the Minister may cause the authorisation to be published in the Gazette . (3) For the purposes of this section, an individual who is an employee of a statutory body under a secondment arrangement making available temporarily to the Government the service of the individual is deemed to be a public officer during that secondment. [5/2018]"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Contracts made outside Singapore",
+      "content": "3. All contracts made outside Singapore for or on behalf of the Government by a person either generally or specially authorised in writing in that behalf by the Minister for Finance shall, so far as they come within the jurisdiction of the courts in Singapore, be deemed to be Government contracts."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "No other contracts to be binding",
+      "content": "4. No contracts, made after 15 March 1967, shall be binding upon the Government, unless entered into in accordance with this Act and the Constitution. [11/91]"
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Limitation of personal liability of public officer",
+      "content": "5. No public officer shall be liable to be sued personally upon any contract which he makes in that capacity; but a public officer shall be personally liable when he expressly pledges his personal credit or where he contracts otherwise than as the agent of the Government."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Provision in respect of land",
+      "content": "6. —(1) Grants and leases of State lands and leases made under the Foreshores Act 1920 shall be signed by a Collector of Land Revenue. (2) Nothing in this Act shall be deemed to affect the provisions of any written law in Singapore as to the use or occupation of State land."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,102 @@
+{
+  "id": "adba-1966",
+  "type": "statute",
+  "title": "Asian Development Bank Act 1966",
+  "title_en": "Asian Development Bank Act 1966",
+  "short_name": "ADBA1966",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/ADBA1966",
+  "description": "An Act to implement the International Agreement for the establishment and operation of the Asian Development Bank and to enable Singapore to become a member thereof and for matters connected therewith.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Asian Development Bank Act 1966."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. In this Act, unless the context otherwise requires — “Agreement” means the Agreement for the establishment and operation of the international body known as the Asian Development Bank; “Article” means Article of the Agreement; “Bank” means the Asian Development Bank established under the Agreement; “Minister” means the Minister for Finance."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Deposit of instrument of ratification",
+      "content": "3. The President is hereby authorised by instrument under his hand to empower such person as may be named in such instrument, on behalf of the Government, to deposit with the Secretary‑General of the United Nations an instrument of ratification of the Agreement stating that the Government has accepted the Agreement in accordance with the law of Singapore and has taken all steps necessary to enable the Government to carry out all its obligations under the Agreement."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Power to subscribe to shares of Bank",
+      "content": "4. The Minister is hereby authorised to subscribe on behalf of the Government — ( a ) to shares of the original authorised capital stock of the Bank in accordance with paragraph 1 of Article 5 to such amount as will not exceed US$5 million; ( b ) where the original authorised capital stock of the Bank is increased in accordance with paragraph 2 of Article 5, to a proportion of the increase of stock as provided in that paragraph; and ( c ) where the shares of Singapore have been increased at the request of the Government in accordance with paragraph 3 of Article 5, to the amount of such increase: Provided that the subscription of Singapore shall not be increased, except with the approval signified by resolution of Parliament, so that its total subscription exceeds the sum of US$10 million."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Sums payable to Bank to be charged on Consolidated Fund",
+      "content": "5. —(1) There shall be charged on the Consolidated Fund — ( a ) all sums payable to the Bank by way of subscription to its paid-in capital stock as provided in paragraph 1 of Article 6; ( b ) all sums payable to the Bank by way of subscription to its callable capital stock as and when required by the Bank, as provided in paragraph 5 of Article 6; ( c ) all sums payable to the Bank by way of increase of the shares of the Bank’s capital stock subscribed by the Government in accordance with paragraphs 2 and 3 of Article 5; ( d ) all sums payable to the Bank under any other provisions of the Agreement; and ( e ) all sums required for the redemption of any notes or obligations created and issued to the Bank under section 7. (2) All sums charged on the Consolidated Fund under this section may be paid in gold or United States dollars or in local currency."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Power to raise loans",
+      "content": "6. For the purposes of providing any sums required for making any payments to the Bank, the Minister with the President’s concurrence under Article 144(1)( b ) of the Constitution may, on behalf of the Government, raise loans by the creation and issue of securities bearing such rates of interest and subject to such conditions as to repayment, redemption or otherwise as he may think fit, and the principal and interest of such securities and any expenses incurred in connection with their issue shall be charged on and paid out of the Consolidated Fund."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Issue of non-negotiable notes and creation of other obligations",
+      "content": "7. The Minister with the President’s concurrence under Article 144(1)( b ) of the Constitution may create and issue to the Bank in such form as he thinks fit, any such non‑interest‑bearing and non‑negotiable notes or other obligations as are provided for by paragraph 3 of Article 6."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Moneys received by Government to be paid into Consolidated Fund",
+      "content": "8. All sums received by or on behalf of the Government from the Bank shall be paid into the Consolidated Fund."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Certain provisions of Agreement to have force of law",
+      "content": "9. —(1) Notwithstanding anything to the contrary in any other law, the provisions of the Agreement set out in the Schedule shall have the force of law: Provided that nothing in Article 56 of the Agreement shall be construed as — ( a ) entitling the Bank to import into Singapore goods free of any customs duty without any restriction on their subsequent sale therein; ( b ) conferring on the Bank any exemption from taxes or duties which form part of the price of goods sold; or ( c ) conferring on the Bank any exemption from taxes or duties which are in fact no more than charges for services rendered. (2) The Minister may, by notification in the Gazette , amend the Schedule in conformity with any amendments to the provisions of the Agreement set out therein which may hereafter be duly made and adopted."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Companies Act shall not apply to Bank and to issue by Bank of shares, debentures, etc.",
+      "content": "10. The Bank shall be deemed not to be a corporation within the meaning of the Companies Act 1967; and the provisions of that Act shall not accordingly apply to the Bank or to the issue by the Bank of any shares, debentures, bonds, notes or other securities."
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Power to make rules",
+      "content": "11. —(1) The Minister may make rules for the purpose of carrying out the provisions of this Act. (2) Such rules shall be published in the Gazette and shall be presented to Parliament as soon as possible after publication."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Agreement",
+      "definition": "“Agreement” means the Agreement for the establishment and operation of the international body known as the Asian Development Bank;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Article",
+      "definition": "“Article” means Article of the Agreement;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Bank",
+      "definition": "“Bank” means the Asian Development Bank established under the Agreement;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "“Minister” means the Minister for Finance.",
+      "source_provision": "s2"
+    }
+  ]
+}

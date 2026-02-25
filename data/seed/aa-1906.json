@@ -1,0 +1,69 @@
+{
+  "id": "aa-1906",
+  "type": "statute",
+  "title": "Appraisers Act 1906",
+  "title_en": "Appraisers Act 1906",
+  "short_name": "AA1906",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/AA1906",
+  "description": "An Act to provide for the licensing of appraisers. [25/2010]",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Appraisers Act 1906. [25/2010]"
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Definition of appraiser",
+      "content": "2. Every person who values or appraises any estate or immovable property, lands, tenements or hereditaments, or any interest in possession or reversion, remainder or contingency in any estate or immovable property, for or on expectation of any hire, gain, fee or reward or valuable consideration to be paid to the person therefor, is deemed to carry on the business of an appraiser, and is an appraiser within the meaning of this Act. [4/2021] 3. [ Repealed by Act 25 of 2010 ]"
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Appraisers to be licensed",
+      "content": "4. Every appraiser must take out a licence in Form A in the Schedule. [7/2005] 5. [ Repealed by Act 25 of 2010 ]"
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Power to grant licences",
+      "content": "6. —(1) The Comptroller of Property Tax is empowered to grant licences under the provisions of this Act. (2) Every licence granted under this Act must be granted under the hand of the Comptroller of Property Tax. (3) The issue of any licence must be notified as soon as possible in the Gazette . (4) On every such licence there must be paid in money by the person taking out or renewing the licence to the Comptroller of Property Tax such fee as may be prescribed by the Minister in respect of the class of licence to which the licence belongs. (5) No licence may be granted or renewed under this Act until the fee has first been paid. (6) The Minister may prescribe such fees as are referred to in subsection (4) by order in the Gazette and may prescribe different fees for different classes of licences."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Licences",
+      "content": "7. —(1) Every licence to be taken out under the authority of this Act must state — ( a ) the true name and place of abode of the person taking it out; ( b ) the true date or time of granting the licence; and ( c ) the principal place of business at which the trade or business for which the licence is granted is to be carried on. [4/2021] (2) Every licence expires on 31 December and must be renewed annually at least 10 days before the expiry of the licence. (3) Any person who — ( a ) having had such a licence continues to carry on the trade or business for which the licence was granted in the year next ensuing its expiry and omits to renew it; and ( b ) carries on a trade or business required by this Act to be licensed without taking out a licence, shall, except as provided in this Act, each be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000. 8. [ Repealed by Act 4 of 2021 ] 9. [ Repealed by Act 4 of 2021 ]"
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Refusal and cancellation of licences",
+      "content": "10. The Comptroller of Property Tax may refuse any application for a licence or to renew any licence, and may cancel the licence of any person who has been convicted of any offence under this Act or who has failed to account for or pay over any money or property which has come into his or her possession or control as a licensed person."
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Evidence of misconduct",
+      "content": "11. The judgment of any court of competent jurisdiction whether civil or criminal, having the effect of finding that any licensed person — ( a ) is liable or responsible for any money or property come into his or her possession or control as a licensed person under circumstances amounting to a breach of trust or duty; or ( b ) has paid or agreed to pay to his or her employer any part of his or her charges or expenses by way of return commission when the employer is a person accountable to any other person for the proceeds of the sale, is a ground for the cancellation of his or her licence. [25/2010]"
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "Offences triable by District Court",
+      "content": "12. Any offence punishable under this Act may be tried by a District Court."
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "Power to make regulations",
+      "content": "13. The Minister may make regulations necessary for or convenient to carrying out the provisions of this Act. [25/2010]"
+    }
+  ],
+  "definitions": []
+}

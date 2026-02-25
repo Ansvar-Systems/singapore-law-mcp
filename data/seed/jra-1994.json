@@ -1,0 +1,56 @@
+{
+  "id": "jra-1994",
+  "type": "statute",
+  "title": "Judges’ Remuneration Act 1994",
+  "title_en": "Judges’ Remuneration Act 1994",
+  "short_name": "JRA1994",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/JRA1994",
+  "description": "An Act to provide for the remuneration of the Supreme Court Judges. [39/2019]",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Judges’ Remuneration Act 1994."
+    },
+    {
+      "provision_ref": "s1A",
+      "section": "1A",
+      "title": "Interpretation",
+      "content": "1A. In this Act, unless the context otherwise requires — “annual pensionable salary”, in relation to a holder of any judicial office, means the emoluments of the holder, the whole or any part of which count — ( a ) for a pension in accordance with the Pensions Act 1956 if the holder is appointed to any judicial office before 1 January 2015; or ( b ) for a gratuity in accordance with this Act if the holder is first appointed to any judicial office on or after 1 January 2015; “judicial office” means the office of the Chief Justice, a Justice of the Court of Appeal, a Judge of the Appellate Division or a Judge of the High Court. [38/2014; 39/2019]"
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Remuneration of Judges",
+      "content": "2. —(1) There must be paid to the Chief Justice, every Justice of the Court of Appeal, every Judge of the Appellate Division and every Judge of the High Court such annual pensionable salaries as the Minister may, from time to time by order in the Gazette , determine. [39/2019] (2) A Supreme Court Judge has to receive, in addition to his or her salary, such pensionable and non-pensionable allowances and privileges as the Minister may determine, which must not be less than such pensionable and non-pensionable allowances and privileges as a public officer receiving the same pensionable salary would receive. [39/2019] (3) Any salary or allowance payable to a Supreme Court Judge under this section — ( a ) commences from the date of appointment, but subject to the fulfilment of any condition on which the allowance is payable; ( b ) accrues from day to day; and ( c ) is payable monthly on the last day of each month or on such other day in each month as the Minister for Finance may from time to time determine. [39/2019] (4) Any order made under subsection (1) must be presented to Parliament as soon as possible after publication in the Gazette ."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Saving",
+      "content": "3. Section 2(2)( b ) of the repealed Judges’ Remuneration Act (Cap. 147, 1985 Revised Edition) continues to apply to a Judge of the Supreme Court appointed before 1 September 1994."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Gratuity upon retirement or death while holding judicial office",
+      "content": "4. —(1) An individual — ( a ) who holds a judicial office; and ( b ) who retires from that office on attaining 65 years of age or in such other circumstances as may be prescribed, may, on retirement, be granted by the President, in respect of each complete month of the individual’s reckonable service which is unbroken, a gratuity determined in accordance with a rate prescribed in regulations subject to such limit as may be prescribed in those regulations. [38/2014] (2) Where at any time after 1 January 2015, an individual dies while holding any judicial office, there may be paid to such of the deceased’s dependants as the President may think fit or, if there are no dependants, to the legal personal representatives of the deceased, a death gratuity determined in accordance with regulations. [38/2014] (3) It is lawful for the President to make regulations for the granting of gratuities to individuals who have held judicial office or to their legal personal representatives or dependants, and for such other matters as may be necessary or expedient to give effect to this section. [38/2014] (4) A gratuity granted under this section — ( a ) is not assignable or transferable, except for the purpose of satisfying — (i) a debt due to the Government; or (ii) an order of any court for the payment of periodical sums of money towards the maintenance of the spouse or former spouse or minor child, whether legitimate or not, of the individual to whom the gratuity has been granted; and ( b ) is not liable to be attached, sequestered or levied upon for or in respect of any debt or claim except a debt due to the Government. [38/2014] (5) To avoid doubt, no holder of a judicial office has an absolute right to compensation for past services or to any gratuity under this section. [38/2014] (6) There is charged on and paid out of the Consolidated Fund all sums of money as may from time to time be granted by way of gratuity or death gratuity in accordance with this Act. [38/2014] (7) In this section, “reckonable service” means — ( a ) service in one or more judicial offices; ( b ) service as a Judicial Commissioner if, and only if, it immediately precedes appointment to a judicial office without any break; or ( c ) such other service in the Government (except as a Senior Judge or an International Judge) that regulations under this section prescribe to be reckonable for the purposes of a gratuity or death gratuity under this section, if, and only if, that other service immediately precedes appointment to a judicial office without any break. [38/2014; 39/2019] (8) This section applies only to an individual who is first appointed to any judicial office on or after 1 January 2015. [38/2014]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "annual pensionable salary",
+      "definition": "“annual pensionable salary” , in relation to a holder of any judicial office, means the emoluments of the holder, the whole or any part of which count — ( a )",
+      "source_provision": "s1A"
+    },
+    {
+      "term": "judicial office",
+      "definition": "“judicial office” means the office of the Chief Justice, a Justice of the Court of Appeal, a Judge of the Appellate Division or a Judge of the High Court. [38/2014; 39/2019]",
+      "source_provision": "s1A"
+    }
+  ]
+}

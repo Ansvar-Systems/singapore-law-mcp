@@ -1,0 +1,1003 @@
+{
+  "id": "mda-1973",
+  "type": "statute",
+  "title": "Misuse of Drugs Act 1973",
+  "title_en": "Misuse of Drugs Act 1973",
+  "short_name": "MDA1973",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/MDA1973",
+  "description": "An Act for the control of dangerous or otherwise harmful drugs and substances and for purposes connected therewith.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Misuse of Drugs Act 1973."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. In this Act, unless the context otherwise requires — “aircraft” has the meaning given by section 2(1) of the Air Navigation Act 1966; “approved institution” means any institution or place declared by the Minister to be an approved institution under section 35; “article liable to seizure” means any money, thing, controlled equipment or controlled material by means of or in respect of which an offence under this Act has been committed or which contains or constitutes evidence of an offence under this Act; [Act 12 of 2023 wef 01/06/2023] “autonomous system”, in relation to a motor vehicle or vessel, means a system that enables the operation of the motor vehicle or vessel without the active physical control of, or monitoring by, a human operator; “autonomous vehicle” means a motor vehicle equipped wholly or substantially with an autonomous system (also commonly known as a driverless vehicle), and includes a trailer drawn by such a motor vehicle; “cannabis” means any part of a plant of the genus Cannabis, or any part of such plant, by whatever name it is called; “cannabis mixture” means any mixture of vegetable matter containing tetrahydrocannabinol and cannabinol in any quantity; “cannabis resin” means any substance containing resinous material and in which is found tetrahydrocannabinol and cannabinol in any quantity; “Class A drug”, “Class B drug” and “Class C drug” mean any of the substances and products for the time being specified in Parts 1, 2 and 3 of the First Schedule, respectively; “Commissioner of Prisons” means the Commissioner of Prisons appointed under section 20 of the Prisons Act 1933; “committee of inquiry” means a committee of inquiry convened under section 41; “community rehabilitation centre” means any place declared by the Minister as such under section 35; “controlled drug” means any substance or product which is for the time being specified in Part 1, 2 or 3 of the First Schedule or anything that contains any such substance or product; “controlled equipment, controlled material or controlled substance” means any equipment, material or substance, respectively, specified in the Third Schedule; “corresponding law” means a law stated in a certificate purporting to be issued by or on behalf of the government of a country outside Singapore to be a law providing for the control and regulation in that country of — ( a ) the production, supply, use, export and import of drugs and other substances in accordance with the provisions of the Single Convention on Narcotic Drugs signed at New York on 30 March 1961; or ( b ) the production, supply, use, export and import of dangerous or otherwise harmful drugs pursuant to any treaty, convention or other agreement or arrangement to which the government of that country and the Government of Singapore are for the time being parties; “Director” means the Director of the Central Narcotics Bureau appointed under section 3(1); “drug addict” means a person who, through the use of any controlled drug or psychoactive substance, has developed — ( a ) a desire or need to continue to take that controlled drug or psychoactive substance; or [Act 12 of 2023 wef 01/06/2024] ( b ) a psychological or physical dependence upon the effect of that controlled drug or psychoactive substance; [Act 12 of 2023 wef 01/06/2024] “excluded substance” means a substance specified in the Fifth Schedule; [Act 12 of 2023 wef 01/06/2024] “Health Sciences Authority” means the Health Sciences Authority established under the Health Sciences Authority Act 2001; “Home Team Science and Technology Agency” means the Home Team Science and Technology Agency established by section 3 of the Home Team Science and Technology Agency Act 2019; [Act 12 of 2023 wef 01/06/2024] “immigration officer” has the meaning given by the Immigration Act 1959; “inmate” means a person who is detained in an approved institution or a community rehabilitation centre; “manufacture”, in relation to — ( a ) a controlled drug, includes any process of producing the drug and the refining or transformation of one drug into another; [Act 12 of 2023 wef 01/06/2024] ( b ) a controlled substance, includes any process of producing the substance and the refining or transformation of one substance into another; or [Act 12 of 2023 wef 01/06/2024] ( c ) a psychoactive substance, includes any process of producing the substance and the refining or transformation of one substance into another; [Act 12 of 2023 wef 01/06/2024] “officer of customs” has the meaning given by the Customs Act 1960; “officer of the Bureau” means the Director or any person appointed under section 3 as a Deputy Director, a Divisional Director or an officer of the Central Narcotics Bureau; “opium” means any substance containing in any quantity morphine and one or more of the following, namely, codeine, narcotine, papaverine and thebaine but does not include poppy-straw which is not mixed in any such substance; “permanent resident of Singapore” has the meaning given by section 2 of the Immigration Act 1959; [Act 31 of 2023 wef 01/12/2025] “place” includes — ( a ) any building or structure, whether permanent or temporary; ( b ) any land, whether or not built on; ( c ) any place, whether or not enclosed, and whether or not situated underground or underwater; ( d ) any vessel, aircraft, train, or vehicle (whether mechanically propelled or otherwise) or any other means of transport; and ( e ) any part of any place mentioned in paragraphs ( a ) to ( d ); “police officer” has the meaning given by the Police Force Act 2004; “prison officer” has the meaning given by the Prisons Act 1933; “psychoactive effect” means the stimulation or depression, whether directly or indirectly, of an individual’s central nervous system, affecting the individual’s mental functioning or emotional state; [Act 12 of 2023 wef 01/06/2024] “psychoactive substance” — ( a ) means a substance or product that has the capacity to have a psychoactive effect on an individual if the individual smokes, administers to himself or herself or otherwise consumes, the substance or product; but ( b ) does not include an excluded substance; [Act 12 of 2023 wef 01/06/2024] “regulations” means any regulations made under this Act; “Review Committee”, in relation to an approved institution, means the Review Committee appointed for the institution under section 37; “senior officer of customs” has the meaning given by the Customs Act 1960; “special police officer” means a member of the Special Constabulary constituted under Part 8 of the Police Force Act 2004; “specified drug”, except for the purposes of the Second Schedule, means a drug specified in the Fourth Schedule; “traffic” means — ( a ) to sell, give, administer, transport, send, deliver or distribute; or ( b ) to offer to do anything mentioned in paragraph ( a ), otherwise than under the authority of this Act, and “trafficking” has a corresponding meaning; “unmanned aircraft” and “unmanned aircraft system” have the meanings given by section 2(1) of the Air Navigation Act 1966; “unmanned vessel” means a vessel equipped wholly or substantially with an autonomous system (such as an unmanned surface vehicle and a saildrone) and includes a barge drawn by an unmanned vessel; “vehicle” means any means of transport used on land, whether self-propelled or not, such as a train, motor car, bicycle or personal mobility device; “vessel” includes a floating facility; “vulnerable person” means any person who suffers from an impairment of, or a disturbance in the functioning of, the mind or brain resulting from any disability or disorder of the mind or brain which impairs the ability to make a proper judgment in relation to the commission of any offence under this Act; “young person” means any person who is below 21 years of age. [30/2012; 1/2014; 1/2019]"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "3",
+      "title": "Appointment of Director and other officers of Central Narcotics Bureau",
+      "content": "3. —(1) The Minister may appoint a Director of the Central Narcotics Bureau and such numbers of Deputy Directors, Divisional Directors and other officers as the Minister may think fit. [30/2012] (2) All officers of the Bureau appointed by the Minister before 12 December 1975 are deemed to have been appointed under subsection (1). (3) Subject to the provisions of this Act, the powers and functions conferred upon the Director under this Act, and the duties required to be discharged by him or her may, subject to such limitations as the Director may impose, be exercised and discharged by any Deputy Director or Divisional Director of the Central Narcotics Bureau duly authorised by the Director to act on his or her behalf. [30/2012] (4) The Director may issue such orders not inconsistent with the provisions of this Act and the regulations made under this Act, to be called General Orders, as he or she may think necessary and expedient for the control, direction and information of the officers of the Bureau. [30/2012] (5) It is not necessary to publish any General Orders in the Gazette . [30/2012]"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "4",
+      "title": "Advisory committees",
+      "content": "4. —(1) For the purpose of assisting in the administration of this Act, the Minister may appoint such advisory committees as he or she thinks fit. (2) Every such committee has such functions as the Minister may determine. (3) Subject to the regulations, every such committee may regulate its own procedure."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART 2 - OFFENCES INVOLVING CONTROLLED DRUGS AND SUBSTANCES",
+      "section": "5",
+      "title": "Trafficking in controlled drugs",
+      "content": "5. —(1) Except as authorised by this Act, it shall be an offence for a person, on his or her own behalf or on behalf of any other person, whether or not that other person is in Singapore — ( a ) to traffic in a controlled drug; ( b ) to offer to traffic in a controlled drug; or ( c ) to do or offer to do any act preparatory to or for the purpose of trafficking in a controlled drug. (2) For the purposes of this Act, a person commits the offence of trafficking in a controlled drug if he or she has in his or her possession that drug for the purpose of trafficking."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART 2 - OFFENCES INVOLVING CONTROLLED DRUGS AND SUBSTANCES",
+      "section": "6",
+      "title": "Manufacture of controlled drugs",
+      "content": "6. Except as authorised by this Act, it shall be an offence for a person to manufacture a controlled drug."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART 2 - OFFENCES INVOLVING CONTROLLED DRUGS AND SUBSTANCES",
+      "section": "7",
+      "title": "Import and export of controlled drugs",
+      "content": "7. Except as authorised by this Act, it shall be an offence for a person to import into or export from Singapore a controlled drug."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART 2 - OFFENCES INVOLVING CONTROLLED DRUGS AND SUBSTANCES",
+      "section": "8",
+      "title": "Possession and consumption of controlled drugs",
+      "content": "8. Except as authorised by this Act, it shall be an offence for a person to — ( a ) have in his or her possession a controlled drug; or ( b ) smoke, administer to himself or herself or otherwise consume — (i) a controlled drug, other than a specified drug; or (ii) a specified drug."
+    },
+    {
+      "provision_ref": "s8A",
+      "chapter": "PART 2 - OFFENCES INVOLVING CONTROLLED DRUGS AND SUBSTANCES",
+      "section": "8A",
+      "title": "Consumption of drug outside Singapore by citizen or permanent resident",
+      "content": "8A. —(1) Section 8( b ) has effect in relation to a person who is a citizen of Singapore or a permanent resident of Singapore outside as well as within Singapore where he or she is found as a result of urine tests conducted under section 31(4)( b ) to have smoked, administered to himself or herself or otherwise consumed a controlled drug or a specified drug. (2) Where an offence under section 8( b ) is committed by a person mentioned in subsection (1) in any place outside Singapore, he or she may be dealt with as if that offence had been committed within Singapore."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART 2 - OFFENCES INVOLVING CONTROLLED DRUGS AND SUBSTANCES",
+      "section": "9",
+      "title": "Possession of pipes, utensils, etc.",
+      "content": "9. Except as authorised by this Act, it shall be an offence for a person to have in his or her possession any pipe, syringe, utensil, apparatus or other article intended for the smoking, administration or consumption of a controlled drug."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART 2 - OFFENCES INVOLVING CONTROLLED DRUGS AND SUBSTANCES",
+      "section": "10",
+      "title": "Cultivation of cannabis, opium and coca plants",
+      "content": "10. It shall be an offence for a person to cultivate any plant of the genus Cannabis, or any plant of the species papaver somniferum or any plant of the genus erythroxylon from which cocaine can be extracted."
+    },
+    {
+      "provision_ref": "s10A",
+      "chapter": "PART 2 - OFFENCES INVOLVING CONTROLLED DRUGS AND SUBSTANCES",
+      "section": "10A",
+      "title": "Manufacture, supply, possession, import or export of equipment, materials or substances useful for manufacture of controlled drugs",
+      "content": "10A. —(1) Any person who — ( a ) manufactures any controlled equipment, controlled material or controlled substance; ( b ) supplies any controlled equipment, controlled material or controlled substance to another person; ( c ) has in his or her possession any controlled equipment, controlled material or controlled substance; or ( d ) imports or exports any controlled equipment, controlled material or controlled substance, knowing or having reason to believe that the controlled equipment, controlled material or controlled substance is to be used in or for the manufacture of a controlled drug in contravention of section 6 shall be guilty of an offence. (2) It is not a defence to a person who contravenes subsection (1)( d ) in respect of any controlled equipment, controlled material or controlled substance to show that the equipment, material or substance is the subject of a licence, permit or any other form of authorisation issued or granted under any regulations made under section 10B."
+    },
+    {
+      "provision_ref": "s10B",
+      "chapter": "PART 2 - OFFENCES INVOLVING CONTROLLED DRUGS AND SUBSTANCES",
+      "section": "10B",
+      "title": "Regulations on controlled equipment, material or substances",
+      "content": "10B. —(1) The Minister may by regulations make provisions for — ( a ) the licensing, by such person or authority as may be prescribed, of persons who intend to import or export any controlled equipment, controlled material or controlled substance; ( b ) the regulation and control of the import or export of any controlled equipment, controlled material or controlled substance; ( c ) imposing requirements for the registration of premises used in connection with the import, export, manufacture, processing, storage, distribution or supply of any controlled equipment, controlled material or controlled substance; ( d ) imposing requirements as to the documentation of transactions involving any controlled equipment, controlled material or controlled substance; ( e ) requiring the keeping of records and the furnishing of information with respect to any controlled equipment, controlled material or controlled substance; ( f ) the inspection and production of records kept pursuant to the regulations; and ( g ) the labelling of consignments of any controlled equipment, controlled material or controlled substance. (2) Regulations made under subsection (1) may, in particular, require — ( a ) the notification of the proposed exportation of any controlled equipment, controlled material or controlled substance to such countries as may be specified in the regulations; and ( b ) the production, in such circumstances as may be specified, of evidence that the required notification has been given, and any such equipment, material or substance is deemed to be exported contrary to a restriction for the time being in force with respect to the equipment, material or substance under such regulations if it is exported without the requisite notice being given. (3) Regulations made under this section may make different provisions in relation to different controlled equipment, controlled material or controlled substance and in relation to different cases or circumstances. (4) Regulations made under this section may provide that any person who contravenes any provision thereof shall be guilty of an offence and shall be liable on conviction to be punished with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 3 years or with both as may be specified in the regulations. (5) No information obtained pursuant to any regulations made under this section is to be disclosed except for the purposes of criminal proceedings or of proceedings under or in relation to the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART 2 - OFFENCES INVOLVING CONTROLLED DRUGS AND SUBSTANCES",
+      "section": "11",
+      "title": "Responsibilities of owners, tenants, etc.",
+      "content": "11. It shall be an offence for a person being the owner, tenant, occupier or person in charge of any place or premises, to permit or suffer such place or premises or any part thereof to be opened, kept or used for — ( a ) the purpose of smoking, administration or consumption of any controlled drug in contravention of section 8( b ); or [Act 12 of 2023 wef 01/06/2023] ( b ) the unlawful trafficking in or the unlawful manufacturing of any controlled drug."
+    },
+    {
+      "provision_ref": "s11A",
+      "chapter": "PART 2 - OFFENCES INVOLVING CONTROLLED DRUGS AND SUBSTANCES",
+      "section": "11A",
+      "title": "Arranging or planning gatherings where controlled drugs are to be consumed or trafficked",
+      "content": "11A. —(1) Where there is a gathering of 2 or more persons in any place, any person who arranges or plans the gathering with the knowledge that any controlled drug is, or is to be, consumed or trafficked at that gathering shall be guilty of an offence and shall on conviction — ( a ) be punished with imprisonment for a term of not less than 3 years and not more than 20 years; and ( b ) be liable to caning of not more than 10 strokes. [30/2012] (2) A person may be guilty of an offence under subsection (1) even though he or she does not supply any controlled drug to be consumed or trafficked at that gathering. [30/2012]"
+    },
+    {
+      "provision_ref": "s11B",
+      "chapter": "PART 2 - OFFENCES INVOLVING CONTROLLED DRUGS AND SUBSTANCES",
+      "section": "11B",
+      "title": "Exposing child to drugs, etc., and permitting young person to consume drugs",
+      "content": "11B. —(1) Any person of or above 21 years of age who, being in possession of any controlled drug or drug paraphernalia — ( a ) knowingly or recklessly leaves the controlled drug or drug paraphernalia — (i) exposed in any place; or (ii) in any refrigerator, cupboard, cabinet, box, chest or any other article, that is not locked; and ( b ) knows that any child has, or is likely to have, access to — (i) the place where the controlled drug or drug paraphernalia is left exposed; or (ii) the refrigerator, cupboard, cabinet, box, chest or other article in which the controlled drug or drug paraphernalia is located, shall be guilty of an offence. [1/2019] (2) Any person of or above 21 years of age who, being in possession of any controlled drug — ( a ) permits a young person to smoke, administer (whether or not to himself or herself) or consume the controlled drug; or ( b ) does not take all reasonable steps to prevent a young person from smoking, administering (whether or not to himself or herself) or consuming the controlled drug, shall be guilty of an offence. [1/2019] (3) Subject to subsection (3A), a person who is guilty of an offence under subsection (1) or (2) shall on conviction be punished with imprisonment for a term not exceeding 10 years. [Act 12 of 2023 wef 01/06/2024] (3A) If a person — ( a ) has a previous conviction under subsection (1) or (2) or section 11N(1) or (2); and ( b ) is convicted of an offence under subsection (1) or (2), that person shall on conviction be punished with imprisonment for a term of not less than 2 years and not more than 10 years. [Act 12 of 2023 wef 01/06/2024] (4) Subsection (1) does not apply in relation to a person who is in possession of any controlled drug or drug paraphernalia if the possession of the controlled drug or drug paraphernalia is authorised under this Act. [1/2019] (5) In this section — “child” means any person below 16 years of age; “drug paraphernalia” means any pipe, syringe, utensil, apparatus or other article for the purpose of smoking, administering or consuming a controlled drug. [1/2019]"
+    },
+    {
+      "provision_ref": "s11C",
+      "chapter": "PART 2 - OFFENCES INVOLVING CONTROLLED DRUGS AND SUBSTANCES",
+      "section": "11C",
+      "title": "Introducing drug trafficker to another person",
+      "content": "11C. —(1) A person ( A ) who, knowing or having reason to believe — ( a ) that — (i) another person ( B ) intends to procure, whether or not for himself or herself, any controlled drug; and (ii) the possession of the controlled drug by B (or a person that B is procuring the controlled drug for) would not be authorised under this Act; or ( b ) that another person ( B ) intends, without any authorisation under this Act, to smoke, administer (whether or not to himself or herself) or consume any controlled drug, introduces B (whether or not through the use of any electronic media) to a person whom A knows or has reason to believe is trafficking in any controlled drug and is likely to supply B with any controlled drug shall be guilty of an offence. [Act 12 of 2023 wef 01/06/2023] (2) Subject to subsection (2A), a person who is guilty of an offence under subsection (1) shall on conviction be punished with imprisonment for a term not exceeding 10 years. [Act 12 of 2023 wef 01/06/2024] (2A) If a person — ( a ) has a previous conviction under subsection (1) or section 11O(1); and ( b ) is convicted of an offence under subsection (1), that person shall on conviction be punished with imprisonment for a term of not less than 2 years and not more than 10 years. [Act 12 of 2023 wef 01/06/2024] (3) In a prosecution for an offence under subsection (1), it is not necessary for the prosecution to prove that — ( a ) B procures, smokes, administers or consumes any controlled drug after the introduction is made; or ( b ) both A and B are within Singapore at the time the introduction is made, as long as either A or B is within Singapore at that time. [1/2019] (4) In this section, “introduce” includes giving any address, telephone number, email address or any other details of one person to another person. [1/2019]"
+    },
+    {
+      "provision_ref": "s11D",
+      "chapter": "PART 2 - OFFENCES INVOLVING CONTROLLED DRUGS AND SUBSTANCES",
+      "section": "11D",
+      "title": "Instructing person to cultivate cannabis, etc., or to manufacture or consume controlled drugs, etc.",
+      "content": "11D. —(1) Any person ( A ) who, whether or not through the use of any electronic media, teaches or instructs another person ( B ) to carry out, or who provides information to B on the carrying out of, any of the following activities: ( a ) the cultivating of any plant of the genus Cannabis, or any plant of the species papaver somniferum or any plant of the genus erythroxylon from which cocaine can be extracted; ( b ) the manufacture of any controlled drug; ( c ) the smoking, administering or consuming of any controlled drug; ( d ) the trafficking or doing of any act preparatory to or for the purpose of trafficking in any controlled drug; ( e ) the importing into or exporting from Singapore of any controlled drug, knowing or having reason to believe that B intends to carry out the activity, shall be guilty of an offence. [1/2019] (2) Any person who disseminates or publishes, or causes the dissemination or publication of, information (whether or not through the use of any electronic media) on the carrying out of any activity mentioned in subsection (1) shall be guilty of an offence. [1/2019] (3) Subject to subsection (4), a person who is guilty of an offence under subsection (1) shall on conviction be punished with imprisonment for a term not exceeding 10 years. [Act 12 of 2023 wef 01/06/2024] (4) If a person — ( a ) has a previous conviction under subsection (1) or section 11P(1); and ( b ) is convicted of an offence under subsection (1), that person shall on conviction be punished with imprisonment for a term of not less than 2 years and not more than 10 years. [Act 12 of 2023 wef 01/06/2024] (4A) Subject to subsection (4B), a person who is guilty of an offence under subsection (2) shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 5 years or to both. [Act 12 of 2023 wef 01/06/2024] (4B) If a person — ( a ) has a previous conviction under subsection (2) or section 11P(2); and ( b ) is convicted of an offence under subsection (2), that person shall on conviction be punished with imprisonment for a term of not less than one year and not more than 5 years. [Act 12 of 2023 wef 01/06/2024] (5) In a prosecution for an offence under subsection (1), it is not necessary for the prosecution to prove, in relation to any activity mentioned in that subsection for which B is taught, instructed or provided with information, that — ( a ) B carries out the activity after B is so taught, instructed or provided with information; or ( b ) both A and B are within Singapore at the time when B is so taught, instructed or provided with information, as long as either A or B is within Singapore at that time. [1/2019] (6) Subsection (1) does not apply in relation to A teaching or instructing B to carry out, or providing information to B on the carrying out of, any activity mentioned in that subsection if the teaching, instructing or provision of information is authorised under this Act. [1/2019] (7) It is a defence to a charge under subsection (1) if A who teaches or instructs B to carry out, or provides information to B on the carrying out of, any activity mentioned in that subsection proves, on a balance of probabilities, that the teaching, instructing or provision of information has a legitimate purpose related to the administration of justice, the investigation and prosecution of offences, or to science, medicine, education or art. [1/2019] (8) Subsection (2) does not apply in relation to any dissemination or publication of information on the carrying out of any activity mentioned in subsection (1) if the dissemination or publication of information is authorised under this Act. [1/2019] (9) It is a defence to a charge under subsection (2) if the person who disseminates or publishes information on the carrying out of any activity mentioned in subsection (1) proves, on a balance of probabilities, that the dissemination or publication of information has a legitimate purpose related to the administration of justice, the investigation and prosecution of offences, or to science, medicine, education or art. [1/2019]"
+    },
+    {
+      "provision_ref": "s11E",
+      "chapter": "PART 2 - OFFENCES INVOLVING CONTROLLED DRUGS AND SUBSTANCES",
+      "section": "11E",
+      "title": "Causing or procuring young person or vulnerable person to commit certain offences",
+      "content": "11E. Any person of or above 21 years of age who causes or procures any young person or vulnerable person to commit any offence under section 5(1) or 7 shall be guilty of an offence. [1/2019]"
+    },
+    {
+      "provision_ref": "s11F",
+      "chapter": "PART 2A - OFFENCES INVOLVING",
+      "section": "11F",
+      "title": "Trafficking in psychoactive substance",
+      "content": "11F. —(1) Except as authorised by this Act, it shall be an offence for a person, on his or her own behalf or on behalf of any other person, whether or not that other person is in Singapore — ( a ) to traffic in a psychoactive substance; ( b ) to offer to traffic in a psychoactive substance; or ( c ) to do or offer to do any act preparatory to or for the purpose of trafficking in a psychoactive substance. (2) For the purposes of this Act, a person commits the offence of trafficking in a psychoactive substance if he or she has in his or her possession that psychoactive substance for the purpose of trafficking. (3) Subject to subsections (4) and (5), a person who is guilty of an offence under subsection (1) shall on conviction be punished with imprisonment for a term of not less than 2 years and not more than 10 years and shall also be liable to a fine of not less than $4,000 and not more than $10,000. (4) Subject to subsection (5), where a person — ( a ) has a previous conviction — (i) under subsection (1) or section 11H(1); or (ii) under section 5(1) or 7, at any time before, on or after the date of commencement of section 7 of the Misuse of Drugs (Amendment) Act 2023; and ( b ) is convicted of an offence under subsection (1), that person shall on conviction be punished with imprisonment for a term of not less than 4 years and not more than 20 years and shall also be liable to a fine of not less than $8,000 and not more than $20,000. (5) If a person of or above 21 years of age is convicted of an offence under subsection (1) and the intended recipient of the psychoactive substance which is, or is to be, trafficked is a young person or a vulnerable person, that person so convicted shall be punished with — ( a ) imprisonment for a term of not less than 4 years and not more than 20 years; and ( b ) not less than 4 strokes and not more than 15 strokes of the cane. (6) In any proceedings for an offence under subsection (1), it is a defence for the accused to prove, on a balance of probabilities, that the accused intended or believed that the psychoactive substance would be used for a legitimate purpose other than human consumption, regardless of whether that psychoactive substance is or is not fit for human consumption. [Act 12 of 2023 wef 01/06/2024]"
+    },
+    {
+      "provision_ref": "s11G",
+      "chapter": "PART 2A - OFFENCES INVOLVING",
+      "section": "11G",
+      "title": "Manufacture of psychoactive substance",
+      "content": "11G. —(1) Except as authorised by this Act, it shall be an offence for a person to manufacture a psychoactive substance. (2) A person who is guilty of an offence under subsection (1) shall on conviction be punished with imprisonment for a term of not less than 5 years and not more than 20 years and shall also be liable to a fine of not less than $10,000 and not more than $20,000. (3) In any proceedings for an offence under subsection (1), it is a defence for the accused to prove, on a balance of probabilities, that the accused manufactured the psychoactive substance for a legitimate purpose other than human consumption, regardless of whether that psychoactive substance is or is not fit for human consumption. [Act 12 of 2023 wef 01/06/2024]"
+    },
+    {
+      "provision_ref": "s11H",
+      "chapter": "PART 2A - OFFENCES INVOLVING",
+      "section": "11H",
+      "title": "Import and export of psychoactive substance",
+      "content": "11H. —(1) Except as authorised by this Act, it shall be an offence for a person to import into or export from Singapore a psychoactive substance. (2) Subject to subsections (3) and (4), a person who is guilty of an offence under subsection (1) shall on conviction be punished with imprisonment for a term of not less than 3 years and not more than 20 years and shall also be liable to a fine of not less than $6,000 and not more than $20,000. (3) Subject to subsection (4), where a person — ( a ) has a previous conviction — (i) under subsection (1) or section 11F(1); or (ii) under section 5(1) or 7, at any time before, on or after the date of commencement of section 7 of the Misuse of Drugs (Amendment) Act 2023; and ( b ) is convicted of an offence under subsection (1), that person shall on conviction be punished with imprisonment for a term of not less than 4 years and not more than 20 years and shall also be liable to a fine of not less than $8,000 and not more than $20,000. (4) If a person of or above 21 years of age is convicted of an offence under subsection (1) and the intended recipient of the psychoactive substance which is, or is to be, trafficked is a young person or a vulnerable person, that person so convicted shall be punished with — ( a ) imprisonment for a term of not less than 4 years and not more than 20 years; and ( b ) not less than 4 strokes and not more than 15 strokes of the cane. (5) In any proceedings for an offence under subsection (1), it is a defence for the accused to prove, on a balance of probabilities, that the accused imported or exported the psychoactive substance for a legitimate purpose other than human consumption, regardless of whether that psychoactive substance is or is not fit for human consumption. [Act 12 of 2023 wef 01/06/2024]"
+    },
+    {
+      "provision_ref": "s11I",
+      "chapter": "PART 2A - OFFENCES INVOLVING",
+      "section": "11I",
+      "title": "Possession and consumption of psychoactive substance",
+      "content": "11I. —(1) Except as authorised by this Act, it shall be an offence for a person to — ( a ) have in his or her possession a psychoactive substance; or ( b ) smoke, administer to himself or herself or otherwise consume, a psychoactive substance. (2) Subject to subsection (3), a person who is guilty of an offence under subsection (1)( a ) shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 10 years or to both. (3) If a person — ( a ) has a previous conviction — (i) under subsection (1)( a ); or (ii) under section 8( a ), at any time before, on or after the date of commencement of section 7 of the Misuse of Drugs (Amendment) Act 2023; and ( b ) is convicted of an offence under subsection (1)( a ), that person shall on conviction be punished with imprisonment for a term of not less than 2 years and not more than 10 years and shall also be liable to a fine not exceeding $20,000. (4) In any proceedings for an offence under subsection (1)( a ), it is a defence for the accused to prove, on a balance of probabilities, that the accused had the psychoactive substance in his or her possession for a legitimate purpose other than human consumption, regardless of whether that psychoactive substance is or is not fit for human consumption. [Act 12 of 2023 wef 01/06/2024]"
+    },
+    {
+      "provision_ref": "s11J",
+      "chapter": "PART 2A - OFFENCES INVOLVING",
+      "section": "11J",
+      "title": "Consumption of psychoactive substance outside Singapore by citizen or permanent resident",
+      "content": "11J. —(1) Section 11I(1)( b ) has effect in relation to a person who is a citizen of Singapore or a permanent resident of Singapore outside as well as within Singapore where he or she is found as a result of urine tests conducted under section 31(4)( b ) to have smoked, administered to himself or herself or otherwise consumed a psychoactive substance. (2) Where an offence under section 11I(1)( b ) is committed by a person mentioned in subsection (1) in any place outside Singapore, he or she may be dealt with as if that offence had been committed within Singapore. [Act 12 of 2023 wef 01/06/2024]"
+    },
+    {
+      "provision_ref": "s11K",
+      "chapter": "PART 2A - OFFENCES INVOLVING",
+      "section": "11K",
+      "title": "Possession of paraphernalia for consumption, etc., of psychoactive substance",
+      "content": "11K. —(1) Except as authorised by this Act, it shall be an offence for a person to have in his or her possession any pipe, syringe, utensil, apparatus or other article intended for the smoking, administration or consumption of a psychoactive substance in contravention of section 11I(1)( b ). (2) A person who is guilty of an offence under subsection (1) shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both. [Act 12 of 2023 wef 01/06/2024]"
+    },
+    {
+      "provision_ref": "s11L",
+      "chapter": "PART 2A - OFFENCES INVOLVING",
+      "section": "11L",
+      "title": "Responsibilities of owners, tenants, etc.",
+      "content": "11L. —(1) It shall be an offence for a person being the owner, tenant, occupier or person in charge of any place or premises, to permit or allow that place or premises or any part of that place or premises, to be opened, kept or used for — ( a ) the purpose of smoking, administration or consumption of any psychoactive substance in contravention of section 11I(1)( b ); or ( b ) the unlawful trafficking in or the unlawful manufacturing of any psychoactive substance. (2) A person who is guilty of an offence under subsection (1) shall be liable on conviction to a fine of not less than $2,000 and not more than $10,000 or to imprisonment for a term of not less than 12 months and not more than 5 years or to both. [Act 12 of 2023 wef 01/06/2024]"
+    },
+    {
+      "provision_ref": "s11M",
+      "chapter": "PART 2A - OFFENCES INVOLVING",
+      "section": "11M",
+      "title": "Arranging or planning gatherings where psychoactive substances are to be consumed or trafficked",
+      "content": "11M. —(1) Where there is a gathering of 2 or more persons in any place, any person who arranges or plans the gathering with the knowledge that any psychoactive substance is, or is to be, smoked, administered or consumed in contravention of section 11I(1)( b ) or unlawfully trafficked at that gathering shall be guilty of an offence. (2) Subject to subsection (3), a person who is guilty of an offence under subsection (1) shall on conviction — ( a ) be punished with imprisonment for a term of not less than 3 years and not more than 20 years; and ( b ) be liable to caning of not more than 10 strokes. (3) If a person of or above 21 years of age is convicted of an offence under subsection (1) and the gathering consists of any young person or vulnerable person, that person so convicted shall be punished with — ( a ) imprisonment for a term of not less than 5 years and not more than 20 years; and ( b ) not less than 3 strokes and not more than 10 strokes of the cane. (4) A person may be guilty of an offence under subsection (1) even though he or she does not supply any psychoactive substance to be consumed or trafficked at that gathering. [Act 12 of 2023 wef 01/06/2024]"
+    },
+    {
+      "provision_ref": "s11N",
+      "chapter": "PART 2A - OFFENCES INVOLVING",
+      "section": "11N",
+      "title": "Exposing child to psychoactive substance, etc., and permitting young person to consume psychoactive substance",
+      "content": "11N. —(1) A person of or above 21 years of age shall be guilty of an offence if the person, being in possession of any psychoactive substance or paraphernalia — ( a ) knowingly or recklessly leaves the psychoactive substance or paraphernalia — (i) exposed in any place; or (ii) in any refrigerator, cupboard, cabinet, box, chest or any other article, that is not locked; and ( b ) knows that any child has, or is likely to have, access to — (i) the place where the psychoactive substance or paraphernalia is left exposed; or (ii) the refrigerator, cupboard, cabinet, box, chest or other article in which the psychoactive substance or paraphernalia is located. (2) A person of or above 21 years of age shall be guilty of an offence if the person, being in possession of any psychoactive substance — ( a ) permits a young person to smoke, administer (whether or not to himself or herself) or consume the psychoactive substance; or ( b ) does not take all reasonable steps to prevent a young person from smoking, administering (whether or not to himself or herself) or consuming the psychoactive substance. (3) Subject to subsection (4), a person who is guilty of an offence under subsection (1) or (2) shall on conviction be punished with imprisonment for a term not exceeding 10 years. (4) If a person — ( a ) has a previous conviction — (i) under subsection (1) or (2); or (ii) under section 11B(1) or (2), at any time before, on or after the date of commencement of section 7 of the Misuse of Drugs (Amendment) Act 2023; and ( b ) is convicted of an offence under subsection (1) or (2), that person shall on conviction be punished with imprisonment for a term of not less than 2 years and not more than 10 years. (5) Subsection (1) does not apply in relation to a person who is in possession of any psychoactive substance or paraphernalia if the possession of the psychoactive substance or paraphernalia is authorised under this Act. (6) In any proceedings for an offence under subsection (1) in relation to the possession of a psychoactive substance, it is a defence for the accused to prove, on a balance of probabilities, that the accused had the psychoactive substance in his or her possession for a legitimate purpose other than human consumption, regardless of whether that psychoactive substance is or is not fit for human consumption. (7) In this section — “child” means any person below 16 years of age; “paraphernalia” means any pipe, syringe, utensil, apparatus or other article for the purpose of smoking, administering or consuming a psychoactive substance. [Act 12 of 2023 wef 01/06/2024]"
+    },
+    {
+      "provision_ref": "s11O",
+      "chapter": "PART 2A - OFFENCES INVOLVING",
+      "section": "11O",
+      "title": "Introducing psychoactive substance trafficker to another person",
+      "content": "11O. —(1) A person ( A ) who, knowing or having reason to believe — ( a ) that — (i) another person ( B ) intends to procure, whether or not for himself or herself, any psychoactive substance; and (ii) the possession of the psychoactive substance by B (or a person that B is procuring the psychoactive substance for) would not be authorised under this Act; or ( b ) that another person ( B ) intends, without any authorisation under this Act, to smoke, administer (whether or not to himself or herself) or consume any psychoactive substance, introduces B (whether or not through the use of any electronic media) to a person whom A knows or has reason to believe is trafficking in any psychoactive substance and is likely to supply B with any psychoactive substance, shall be guilty of an offence. (2) Subject to subsection (3), a person who is guilty of an offence under subsection (1) shall on conviction be punished with imprisonment for a term not exceeding 10 years. (3) If a person — ( a ) has a previous conviction — (i) under subsection (1); or (ii) under section 11C(1), at any time before, on or after the date of commencement of section 7 of the Misuse of Drugs (Amendment) Act 2023; and ( b ) is convicted of an offence under subsection (1), that person shall on conviction be punished with imprisonment for a term of not less than 2 years and not more than 10 years. (4) In a prosecution for an offence under subsection (1), it is not necessary for the prosecution to prove that — ( a ) B procures, smokes, administers or consumes any psychoactive substance in contravention of section 11I(1)( b ) after the introduction is made; or ( b ) both A and B are within Singapore at the time the introduction is made, as long as either A or B is within Singapore at that time. (5) In any proceedings for an offence under subsection (1)( a ), it is a defence for the accused to prove, on a balance of probabilities, that the accused believed that B intended to procure the psychoactive substance for a legitimate purpose other than human consumption, regardless of whether that psychoactive substance is or is not fit for human consumption. (6) In this section, “introduce” includes giving any address, telephone number, email address or any other details of one person to another person. [Act 12 of 2023 wef 01/06/2024]"
+    },
+    {
+      "provision_ref": "s11P",
+      "chapter": "PART 2A - OFFENCES INVOLVING",
+      "section": "11P",
+      "title": "Instructing person to manufacture or consume psychoactive substance, etc.",
+      "content": "11P. —(1) A person ( A ) who, whether or not through the use of any electronic media, teaches or instructs another person ( B ) to carry out, or who provides information to B on the carrying out of, any of the following activities: ( a ) the manufacture of any psychoactive substance; ( b ) the smoking, administering or consuming of any psychoactive substance; ( c ) the trafficking or doing of any act preparatory to or for the purpose of trafficking in any psychoactive substance; ( d ) the importing into or exporting from Singapore of any psychoactive substance, knowing or having reason to believe that B intends to carry out the activity, shall be guilty of an offence. (2) A person who disseminates or publishes, or causes the dissemination or publication of, information (whether or not through the use of any electronic media) on the carrying out of any activity mentioned in subsection (1) shall be guilty of an offence. (3) Subject to subsection (4), a person who is guilty of an offence under subsection (1) shall on conviction be punished with imprisonment for a term not exceeding 10 years. (4) If a person — ( a ) has a previous conviction — (i) under subsection (1); or (ii) under section 11D(1), at any time before, on or after the date of commencement of section 7 of the Misuse of Drugs (Amendment) Act 2023; and ( b ) is convicted of an offence under subsection (1), that person shall on conviction be punished with imprisonment for a term of not less than 2 years and not more than 10 years. (5) Subject to subsection (6), a person who is guilty of an offence under subsection (2) shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 5 years or to both. (6) If a person — ( a ) has a previous conviction — (i) under subsection (2); or (ii) under section 11D(2), at any time before, on or after the date of commencement of section 7 of the Misuse of Drugs (Amendment) Act 2023; and ( b ) is convicted of an offence under subsection (2), that person shall on conviction be punished with imprisonment for a term of not less than 12 months and not more than 5 years. (7) In a prosecution for an offence under subsection (1), it is not necessary for the prosecution to prove, in relation to any activity mentioned in that subsection for which B is taught, instructed or provided with information, that — ( a ) B carries out the activity after B is so taught, instructed or provided with information; or ( b ) both A and B are within Singapore at the time when B is so taught, instructed or provided with information, as long as either A or B is within Singapore at that time. (8) Subsection (1) does not apply in relation to A teaching or instructing B to carry out, or providing information to B on the carrying out of, any activity mentioned in that subsection if the teaching, instructing or provision of information is authorised under this Act. (9) In any proceedings for an offence under subsection (1), it is a defence for the accused to prove, on a balance of probabilities, that — ( a ) if the offence relates to any activity mentioned in subsection (1) — the teaching, instructing or provision of information has a legitimate purpose related to the administration of justice, the investigation and prosecution of offences, or to science, medicine, education or art; ( b ) if the offence relates to any activity mentioned in subsection (1)( a ) — the accused believed that B intended to manufacture the psychoactive substance for a legitimate purpose other than human consumption, regardless of whether that psychoactive substance is or is not fit for human consumption; or ( c ) if the offence relates to any activity mentioned in subsection (1)( c ) or ( d ) — the accused believed that B intended to traffic or do any act preparatory to or for the purpose of trafficking, or import or export, the psychoactive substance for a legitimate purpose other than human consumption, regardless of whether that psychoactive substance is or is not fit for human consumption. (10) Subsection (2) does not apply in relation to any dissemination or publication of information on the carrying out of any activity mentioned in subsection (1) if the dissemination or publication of information is authorised under this Act. (11) In any proceedings for an offence under subsection (2), it is a defence for the person who disseminates or publishes information on the carrying out of any activity mentioned in subsection (1) to prove, on a balance of probabilities, that the dissemination or publication of information had a legitimate purpose related to the administration of justice, the investigation and prosecution of offences, or to science, medicine, education or art. [Act 12 of 2023 wef 01/06/2024]"
+    },
+    {
+      "provision_ref": "s11Q",
+      "chapter": "PART 2A - OFFENCES INVOLVING",
+      "section": "11Q",
+      "title": "Causing or procuring young person or vulnerable person to commit certain offences relating to psychoactive substances",
+      "content": "11Q. —(1) Any person of or above 21 years of age who causes or procures any young person or vulnerable person to commit any offence under section 11F(1) or 11H(1) shall be guilty of an offence. (2) A person who is guilty of an offence under subsection (1) shall on conviction be punished with — ( a ) imprisonment for a term of not less than 4 years and not more than 20 years; and ( b ) not less than 4 strokes and not more than 15 strokes of the cane. [Act 12 of 2023 wef 01/06/2024]"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART 2B - GENERAL PROVISIONS ON OFFENCES",
+      "section": "12",
+      "title": "Abetments and attempts punishable as offences",
+      "content": "12. Any person who abets the commission of or who attempts to commit or does any act preparatory to, or in furtherance of, the commission of any offence under this Act shall be guilty of that offence and shall be liable on conviction to the punishment provided for that offence. 12A. [ Repealed by Act 1 of 2019 ]"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART 2B - GENERAL PROVISIONS ON OFFENCES",
+      "section": "13",
+      "title": "Abetting or procuring commission of offences within or outside Singapore",
+      "content": "13. Any person who — ( a ) aids, abets, counsels or procures the commission in any place outside Singapore of an offence punishable under a corresponding law in force in that place; ( b ) aids, abets, counsels or procures the commission of any offence under this Act within Singapore, even though all or any of the acts constituting the aiding, abetment, counselling or procurement were done outside Singapore; or ( c ) does an act preparatory to, or in furtherance of, an act outside Singapore which if committed in Singapore would constitute an offence under this Act, shall be guilty of an offence and shall be liable on conviction — ( d ) in relation to an offence mentioned in paragraph ( a ) or ( c ), to imprisonment for a term of not less than 2 years but not more than 10 years, or to a fine of not less than $4,000 and not more than $40,000, or to both; and ( e ) in relation to an offence mentioned in paragraph ( b ), to the same punishment provided for the offence that the person aided, abetted, counselled or procured. [1/2019]"
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART 2B - GENERAL PROVISIONS ON OFFENCES",
+      "section": "14",
+      "title": "Offences by body corporate",
+      "content": "14. Where any offence under this Act committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person purporting to act in any such capacity, he or she as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against accordingly."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART 3 - EVIDENCE, ENFORCEMENT AND PUNISHMENT",
+      "section": "15",
+      "title": "Certificate of corresponding law",
+      "content": "15. —(1) A document purporting to be issued by or on behalf of the government of a country outside Singapore and purporting to state the terms of a corresponding law in force in that country is to be admitted in evidence, in any proceedings for an offence under this Act, on its production by the prosecution without further proof. (2) Such document is conclusive evidence that — ( a ) it is issued by or on behalf of the government of that country; ( b ) the terms of that law are as stated in the document; and ( c ) any fact stated in the document as constituting an offence under that law does constitute such offence."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART 3 - EVIDENCE, ENFORCEMENT AND PUNISHMENT",
+      "section": "16",
+      "title": "Certificate of analyst, etc.",
+      "content": "16. —(1) A certificate purporting — ( a ) to be signed by — (i) an analyst employed by the Health Sciences Authority or the Home Team Science and Technology Agency; or [Act 12 of 2023 wef 01/06/2024] (ii) such other person as the Minister may appoint; and [Act 5 of 2025 wef 09/03/2025] ( b ) to relate to a controlled drug, controlled substance or psychoactive substance, is to be admitted in evidence, in any proceedings for an offence under this Act, on its production by the prosecution without proof of signature and, until the contrary is proved, is proof of all matters contained therein. [Act 12 of 2023 wef 01/06/2024] [Act 5 of 2025 wef 09/03/2025] (2) An appointment under subsection (1)( a )(ii) must be published in the Gazette . [Act 5 of 2025 wef 09/03/2025]"
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART 3 - EVIDENCE, ENFORCEMENT AND PUNISHMENT",
+      "section": "17",
+      "title": "Presumption concerning trafficking",
+      "content": "17. Any person who is proved to have had in his or her possession more than — ( a ) 100 grammes of opium; ( b ) 3 grammes of morphine; ( c ) 2 grammes of diamorphine; ( d ) 15 grammes of cannabis; ( e ) 30 grammes of cannabis mixture; ( f ) 10 grammes of cannabis resin; ( g ) 3 grammes of cocaine; ( h ) 25 grammes of methamphetamine; ( ha ) 113 grammes of ketamine; or ( i ) 10 grammes of any or any combination of the following: (i) N, α-dimethyl-3,4-(methylenedioxy)phenethylamine; (ii) α-methyl-3,4-(methylenedioxy)phenethylamine; (iii) N-ethyl-α-methyl-3,4-(methylenedioxy)phenethylamine, whether or not contained in any substance, extract, preparation or mixture, is presumed to have had that drug in possession for the purpose of trafficking unless it is proved that his or her possession of that drug was not for that purpose."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART 3 - EVIDENCE, ENFORCEMENT AND PUNISHMENT",
+      "section": "18",
+      "title": "Presumption of possession and knowledge of controlled drugs",
+      "content": "18. —(1) Any person who is proved to have had in his or her possession or custody or under his or her control — ( a ) anything containing a controlled drug; ( b ) the keys of anything containing a controlled drug; ( c ) the keys of any place or premises or any part thereof in which a controlled drug is found; or ( d ) a document of title relating to a controlled drug or any other document intended for the delivery of a controlled drug, is presumed, until the contrary is proved, to have had that drug in his or her possession. (2) Any person who is proved or presumed to have had a controlled drug in his or her possession is presumed, until the contrary is proved, to have known the nature of that drug. (3) The presumptions provided for in this section are not to be rebutted by proof that the accused never had physical possession of the controlled drug. (4) Where one of 2 or more persons with the knowledge and consent of the rest has any controlled drug in his or her possession, it is deemed to be in the possession of each and all of them."
+    },
+    {
+      "provision_ref": "s18A",
+      "chapter": "PART 3 - EVIDENCE, ENFORCEMENT AND PUNISHMENT",
+      "section": "18A",
+      "title": "Presumption of possession and knowledge of psychoactive substances",
+      "content": "18A. —(1) Any person who is proved to have had in his or her possession or custody or under his or her control — ( a ) anything containing a psychoactive substance; ( b ) the keys of anything containing a psychoactive substance; ( c ) the keys of any place or premises or any part of that place or premises in which a psychoactive substance is found; or ( d ) a document of title relating to a psychoactive substance or any other document intended for the delivery of a psychoactive substance, is presumed, until the contrary is proved, to have had that psychoactive substance in his or her possession. (2) Where a person is proved or presumed to have had a psychoactive substance in his or her possession, the person is presumed, until the contrary is proved — ( a ) to have known that the psychoactive substance has the capacity to have a psychoactive effect on an individual if the individual smokes, administers to himself or herself or otherwise consumes, the substance or product; and ( b ) to not believe (and to have had no reason to believe) that the psychoactive substance is an excluded substance. (3) The presumptions provided for in this section are not to be rebutted by proof that the accused never had physical possession of the psychoactive substance. (4) Where one of 2 or more persons with the knowledge and consent of the rest has any psychoactive substance in his or her possession, it is deemed to be in the possession of each and all of them. [Act 12 of 2023 wef 01/06/2024]"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART 3 - EVIDENCE, ENFORCEMENT AND PUNISHMENT",
+      "section": "19",
+      "title": "Presumption concerning premises",
+      "content": "19. —(1) Where a pipe, syringe, utensil, apparatus or other article intended for the smoking, administration or consumption of a controlled drug or psychoactive substance is found in any place or premises, it is presumed, until the contrary is proved, that the place or premises is used for the purpose of smoking, administering or consuming a controlled drug or psychoactive substance, as the case may be. [Act 12 of 2023 wef 01/06/2024] (2) Any person found in or escaping from any place or premises which is proved or presumed to be used for the purpose of smoking, administering or consuming a controlled drug or psychoactive substance is presumed, until the contrary is proved, to have been smoking, administering or consuming a controlled drug or psychoactive substance (as the case may be) in that place or premises. [Act 12 of 2023 wef 01/06/2023] [Act 12 of 2023 wef 01/06/2024]"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART 3 - EVIDENCE, ENFORCEMENT AND PUNISHMENT",
+      "section": "20",
+      "title": "Presumption relating to ship or aircraft",
+      "content": "20. If any controlled drug or psychoactive substance is found in any ship or aircraft, it is presumed, until the contrary is proved, that the drug or psychoactive substance has been imported in that ship or aircraft with the knowledge of the master or the captain thereof. [Act 12 of 2023 wef 01/06/2024]"
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART 3 - EVIDENCE, ENFORCEMENT AND PUNISHMENT",
+      "section": "21",
+      "title": "Presumption relating to vehicle",
+      "content": "21. If any controlled drug or psychoactive substance is found in any vehicle, it is presumed, until the contrary is proved, to be in the possession of the owner of the vehicle and of the person in charge of the vehicle for the time being. [Act 12 of 2023 wef 01/06/2024]"
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART 3 - EVIDENCE, ENFORCEMENT AND PUNISHMENT",
+      "section": "22",
+      "title": "Presumption relating to urine test",
+      "content": "22. If any controlled drug or psychoactive substance is found in the urine of a person as a result of both urine tests conducted under section 31(4)( b ), he or she is presumed, until the contrary is proved, to have consumed that controlled drug or psychoactive substance in contravention of section 8( b ) or 11I(1)( b ), as the case may be. [Act 12 of 2023 wef 01/06/2024]"
+    },
+    {
+      "provision_ref": "s22A",
+      "chapter": "PART 3 - EVIDENCE, ENFORCEMENT AND PUNISHMENT",
+      "section": "22A",
+      "title": "Proof of psychoactive substance",
+      "content": "22A. In any proceedings for an offence under section 11F(1), 11G(1), 11H(1), 11I(1)( a ) or ( b ), 11K(1), 11L(1), 11M(1), 11N(1) or (2), 11O(1), 11P(1) or (2) or 11Q(1) — ( a ) for the purpose of proving that a substance or product is a psychoactive substance — (i) it is sufficient for the prosecution to prove that the substance or product has the capacity to have a psychoactive effect on an individual if the individual smokes, administers to himself or herself or otherwise consumes, the substance or product; and (ii) it is not necessary for the prosecution to prove that the substance or product is not an excluded substance; and ( b ) a person who asserts that the psychoactive substance mentioned in paragraph ( a ) is an excluded substance, bears the burden of proving that assertion on a balance of probabilities. [Act 12 of 2023 wef 01/06/2024]"
+    },
+    {
+      "provision_ref": "s22B",
+      "chapter": "PART 3 - EVIDENCE, ENFORCEMENT AND PUNISHMENT",
+      "section": "22B",
+      "title": "Knowledge of psychoactive substance",
+      "content": "22B. Where knowledge that a substance is a psychoactive substance is a fault element of an offence in this Act, that fault element is established if the person alleged to have committed the offence — ( a ) knows that the psychoactive substance has the capacity to have a psychoactive effect on an individual if the individual smokes, administers to himself or herself or otherwise consumes, the substance or product; and ( b ) did not believe or had no reason to believe that the psychoactive substance is an excluded substance, whether or not that person knows the name or chemical composition of the psychoactive substance. [Act 12 of 2023 wef 01/06/2024]"
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "PART 3 - EVIDENCE, ENFORCEMENT AND PUNISHMENT",
+      "section": "23",
+      "title": "Protection of informers",
+      "content": "23. —(1) Except as provided in subsection (3) — ( a ) no information for an offence under this Act is to be admitted in evidence in any civil or criminal proceedings; and ( b ) no witness in any civil or criminal proceedings is obliged — (i) to disclose the name and address of any informer who has given information with respect to an offence under this Act; or (ii) to answer any question if the answer would lead, or would tend to lead, to the discovery of the name or address of the informer. (2) If any book, document or paper which is in evidence or liable to inspection in any civil or criminal proceedings contains any entry in which any informer is named or described or which may lead to his or her discovery, the court must cause those entries to be concealed from view or to be obliterated so far as may be necessary to protect the informer from discovery. (3) If — ( a ) in any proceedings before a court for an offence under this Act, the court, after full inquiry into the case, is satisfied that an informer wilfully made a material statement which he or she knew or believed to be false or did not believe to be true; or ( b ) in any other proceedings, the court is of the opinion that justice cannot be fully done between the parties to the proceedings without the disclosure of the name of an informer, the court may permit inquiry and require full disclosure concerning the informer."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "PART 3 - EVIDENCE, ENFORCEMENT AND PUNISHMENT",
+      "section": "24",
+      "title": "Powers of search and seizure",
+      "content": "24. —(1) Any officer of the Bureau, police officer, special police officer or senior officer of customs may at any time — ( a ) without a warrant enter and search any place or premises in which he or she reasonably suspects that there is to be found — (i) any controlled drug, controlled substance, psychoactive substance or article liable to seizure; [Act 12 of 2023 wef 01/06/2024] (i a ) any vehicle, autonomous vehicle, unmanned aircraft, unmanned vessel, component of the autonomous system of an autonomous vehicle or unmanned vessel, or component of an unmanned aircraft system, which is or has been used in the commission of or in connection with an offence under this Act; or (ii) a person who has committed or is reasonably suspected to have committed any offence under this Act or any arrestable offence under the regulations; [Act 12 of 2023 wef 01/06/2023] ( b ) search any person found in that place or premises; and ( c ) seize and detain all of the following which is found in that place or premises: (i) any drug or substance that the officer reasonably suspects is a controlled drug, controlled substance, or psychoactive substance; [Act 12 of 2023 wef 01/06/2024] (ii) any article that the officer reasonably suspects is an article liable to seizure; [Act 12 of 2023 wef 01/06/2023] (iii) any vehicle, autonomous vehicle, unmanned aircraft, unmanned vessel, component of the autonomous system of an autonomous vehicle or unmanned vessel, or component of an unmanned aircraft system, that the officer reasonably suspects is, has been or is intended to be, used in the commission of or in connection with an offence under this Act. [30/2012; 1/2019] [Act 12 of 2023 wef 01/06/2023] (2) For the purpose of exercising his or her power under this section, an officer may, with such assistance as he or she considers necessary, break open any door, window, lock, fastener, floor, wall, ceiling, compartment, box, container or any other thing. (3) [ Deleted by Act 12 of 2023 wef 01/06/2024 ] [30/2012]"
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "PART 3 - EVIDENCE, ENFORCEMENT AND PUNISHMENT",
+      "section": "25",
+      "title": "Powers of arrest",
+      "content": "25. —(1) Any officer of the Bureau, police officer, special police officer or officer of customs may arrest and search without a warrant any person who has committed or whom he or she reasonably suspects to have committed an offence under this Act or an arrestable offence under the regulations. [1/2019] [Act 12 of 2023 wef 01/06/2023] (2) Any person arrested under subsection (1), together with any drug, substance or article that the officer making the arrest reasonably suspects is a controlled drug, controlled substance, psychoactive substance or article liable to seizure, must be taken to the Central Narcotics Bureau, a police station or a customs station and may be searched. [Act 12 of 2023 wef 01/06/2023] [Act 12 of 2023 wef 01/06/2024] (3) A woman must not be searched under this Act except by another woman. (4) An officer making an arrest under this section may seize and detain any drug, substance or article that the officer reasonably suspects is a controlled drug, controlled substance, psychoactive substance or article liable to seizure. [Act 12 of 2023 wef 01/06/2023] [Act 12 of 2023 wef 01/06/2024]"
+    },
+    {
+      "provision_ref": "s25A",
+      "chapter": "PART 3 - EVIDENCE, ENFORCEMENT AND PUNISHMENT",
+      "section": "25A",
+      "title": "Bail and bond",
+      "content": "25A. —(1) A person who has been arrested by an officer of the Bureau, police officer, special police officer or officer of customs under section 25(1) may be released on bail or on personal bond granted by any officer of the Bureau. (2) Division 5 (Bails and bonds) of Part 6 of the Criminal Procedure Code 2010 applies to the release of a person on bail or on personal bond under this section or section 92 or 93 of the Criminal Procedure Code 2010 (as the case may be) with the following modifications: ( a ) any reference to “officer”, “police officer” or “police officer of or above the rank of sergeant” is to be read to include an officer of the Bureau; ( b ) the reference to the Commissioner of Police in section 92(1) of the Criminal Procedure Code 2010 is to be read to include the Director. [Act 16 of 2024 wef 18/11/2024]"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "PART 3 - EVIDENCE, ENFORCEMENT AND PUNISHMENT",
+      "section": "26",
+      "title": "Power to search ship, hovercraft, etc., and person arriving in or departing from Singapore",
+      "content": "26. —(1) Any officer of the Bureau, police officer, special police officer or officer of customs may — ( a ) stop, board and search any ship, hovercraft, aircraft, vehicle or train if he or she has reason to suspect that there is therein any controlled drug in contravention of this Act, controlled substance, psychoactive substance or any article liable to seizure; [Act 12 of 2023 wef 01/06/2024] ( b ) search any person in that ship, hovercraft, aircraft, vehicle or train; ( ba ) intercept and search any autonomous vehicle, unmanned aircraft or unmanned vessel if he or she has reason to suspect that there is in any such vehicle, aircraft or vessel — (i) any controlled drug or controlled substance; (ii) any psychoactive substance; or [Act 12 of 2023 wef 01/06/2024] (iii) [ Deleted by Act 12 of 2023 wef 01/06/2024 ] (iv) any article liable to seizure; and ( c ) search any person arriving in Singapore or about to depart from Singapore. [30/2012; 1/2019] (2) An officer may seize and detain — ( a ) any drug, substance or article that the officer reasonably suspects is a controlled drug, controlled substance, psychoactive substance or article liable to seizure as a result of any search under this section; and [Act 12 of 2023 wef 01/06/2023] [Act 12 of 2023 wef 01/06/2024] ( b ) any ship, hovercraft, aircraft, autonomous vehicle, unmanned aircraft, unmanned vessel, component of the autonomous system of an autonomous vehicle or unmanned vessel, or component of an unmanned aircraft system, vehicle or train that the officer reasonably suspects has been or is intended to be used in the commission of or in connection with an offence under this Act. [30/2012; 1/2019] [Act 12 of 2023 wef 01/06/2023] (2A) An officer may — ( a ) in relation to any autonomous vehicle, unmanned aircraft or unmanned vessel that is to be intercepted and searched under subsection (1)( ba ), direct any person whom the officer reasonably believes to be involved in operating the autonomous vehicle, unmanned aircraft or unmanned vessel — (i) to end the flight of the unmanned aircraft, or land it, safely in the fastest practicable way; (ii) to stop the autonomous vehicle or unmanned vessel safely in the fastest practicable way; or (iii) to fly the unmanned aircraft or to operate the autonomous vehicle or unmanned vessel in the manner specified by the officer; ( b ) in relation to any autonomous vehicle, unmanned aircraft or unmanned vessel that is to be intercepted and searched under subsection (1)( ba ), without warrant and with such assistance and by such force as is necessary — (i) assume control of the unmanned aircraft to fly the aircraft, or to end the flight of the aircraft, or land it, safely in the fastest practicable way; (ii) assume control of the autonomous vehicle or unmanned vessel to steer the vehicle or vessel, or to stop the vehicle or vessel (as the case may be) safely in the fastest practicable way; (iii) end the flight of the unmanned aircraft, or land it, in the fastest and safest practicable way; or (iv) stop the autonomous vehicle or unmanned vessel in the fastest and safest practicable way; or ( c ) direct any person to operate any ship, hovercraft, aircraft, autonomous vehicle, unmanned aircraft, unmanned vessel, vehicle or train seized and detained under subsection (2)( b ), in such manner as the officer determines. [1/2019] (3) [ Deleted by Act 12 of 2023 wef 01/06/2024 ] [30/2012; 1/2019]"
+    },
+    {
+      "provision_ref": "s26A",
+      "chapter": "PART 3 - EVIDENCE, ENFORCEMENT AND PUNISHMENT",
+      "section": "26A",
+      "title": "Procedure when person entitled to seized item is known, unknown or cannot be found",
+      "content": "26A. —(1) Subject to subsections (2) to (11), if a relevant officer determines that any seized item is not required for the purposes of any investigation or proceedings for any offence under this Act, the relevant officer may return the seized item to the owner of the seized item, or any person authorised by the owner. [1/2019] (2) If the owner of any seized item is known, a relevant officer must notify the owner to claim the seized item, and such notification may be given — ( a ) by posting a written notice to the owner of the seized item at the owner’s usual or last known place of residence or business in Singapore; or ( b ) in such other manner as the relevant officer thinks expedient. [1/2019] (3) If the owner or the person authorised by the owner does not claim the seized item within one month after the notification is given under subsection (2), any relevant officer may cause to be sold, or otherwise dispose of, the seized item but only after giving one month’s notice in the Gazette of the relevant officer’s intention to do so. [1/2019] (4) Despite subsection (3), if the value of the seized item is, in the opinion of the Director, less than $500, any relevant officer may cause the seized item to be sold or disposed of at any time. [1/2019] (5) If the owner or the person authorised by the owner claims the seized item after it is sold under subsection (3) or (4), the owner is only entitled to the net proceeds. [1/2019] (6) If the owner of a seized item is unknown or cannot be found, a relevant officer must issue a public notice, specifying the seized item and requiring any person who has a claim to it to appear before the relevant officer and establish the person’s claim within 6 months after the date of the public notice. [1/2019] (7) Every public notice under subsection (6) must be published in the Gazette or any daily newspaper but only if, in the opinion of the Director, the value of the seized item is at least $1,000. [1/2019] (8) If no person establishes a claim to the seized item within one month after the publication of a public notice issued under subsection (6), and if the person in whose possession the seized item was found cannot show he or she had legally acquired it, then the seized item may be sold on the order of a relevant officer. [1/2019] (9) Despite subsection (8), if the value of the seized item is, in the opinion of the Director, less than $1,000, or if keeping the seized item involves unreasonable expense or inconvenience, a relevant officer may cause the seized item to be sold or disposed of at any time. [1/2019] (10) If no person has established a claim to the seized item within 6 months after the publication of the public notice mentioned in subsection (6), the ownership of the seized item or (if sold) its net proceeds is to pass and be vested in the Government absolutely. [1/2019] (11) If a person establishes the person’s claim to the seized item within 6 months after the publication of the public notice mentioned in subsection (6), and the seized item has already been sold by a relevant officer, that person is only entitled to the net proceeds. [1/2019] (12) This section applies in relation to any ship, hovercraft, aircraft, vehicle or train even though it was seized before 1 August 2019. [1/2019] (13) In this section — “relevant officer” means any Deputy Director of the Central Narcotics Bureau appointed under section 3(1) or any person authorised by the Deputy Director; “seized item” means any ship, hovercraft, aircraft, autonomous vehicle, unmanned aircraft, unmanned vessel, component of the autonomous system of an autonomous vehicle or unmanned vessel, or component of an unmanned aircraft system, vehicle or train that is seized under section 24 or 26. [1/2019]"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "PART 3 - EVIDENCE, ENFORCEMENT AND PUNISHMENT",
+      "section": "27",
+      "title": "Forfeiture of controlled drugs, controlled substances, psychoactive substances and articles seized",
+      "content": "27. —(1) Subject to subsection (2), where anything is seized under this Act and the owner of that thing is known, the officer who carried out the seizure must notify the owner of the thing, and the notice may be given — ( a ) by delivering a written notice to the owner personally; ( b ) by posting a written notice to the owner’s place of residence; or ( c ) in any other manner that the officer thinks expedient. [Act 12 of 2023 wef 01/06/2023] (2) The notice under subsection (1) is not required to be given where the seizure is made in the presence of the offender or the owner or his or her agent, or in the case of a ship or an aircraft, in the presence of the master or captain thereof. (3) An order for the forfeiture of any controlled drug, controlled substance, psychoactive substance or article is to be made if it is proved to the satisfaction of a court that an offence under this Act has been committed and that such drug, substance or article was the subject matter of or was used in the commission of the offence even though no person may have been convicted of that offence. [Act 12 of 2023 wef 01/06/2024] (4) If there is no prosecution with regard to any controlled drug, controlled substance, psychoactive substance or article seized under this Act, that drug, substance or article is deemed to be forfeited to the Government on the expiry of one month from the date of the seizure thereof unless a claim thereto has been made before that date in such manner as may be prescribed. [1/2019] [Act 12 of 2023 wef 01/06/2024] (5) [ Deleted by Act 12 of 2023 wef 01/06/2024 ] [30/2012; 1/2019] [Act 12 of 2023 wef 01/06/2024]"
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "PART 3 - EVIDENCE, ENFORCEMENT AND PUNISHMENT",
+      "section": "28",
+      "title": "Forfeiture of ship, hovercraft, etc.",
+      "content": "28. —(1) Where a person has been convicted of an offence under this Act, the court may order to be forfeited to the Government any ship, hovercraft, aircraft, unmanned aircraft, unmanned vessel, component of the autonomous system of an unmanned vessel, or component of an unmanned aircraft system which has been proved to have been used in any manner in connection with the offence. [1/2019] (2) Where a person has been convicted of an offence under this Act, the court is to, upon the application of the Public Prosecutor, order to be forfeited to the Government any vehicle, autonomous vehicle, or component of the autonomous system of the autonomous vehicle which has been proved to have been used in any manner in connection with the offence. [1/2019] (3) This section does not apply to any ship, hovercraft or unmanned vessel of more than 200 tons net or to any aircraft or unmanned aircraft belonging to any person carrying on a regular passenger service to and from Singapore by means of that aircraft. [1/2019] (4) Any ship, hovercraft, aircraft, vehicle, autonomous vehicle, unmanned aircraft, unmanned vessel, component of the autonomous system of an autonomous vehicle or unmanned vessel, or component of an unmanned aircraft system, must not be forfeited under this section if its owner establishes that the ship, hovercraft, aircraft, vehicle, autonomous vehicle, unmanned aircraft or unmanned vessel was unlawfully in the possession of another person without the owner’s consent. [1/2019]"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "PART 3 - EVIDENCE, ENFORCEMENT AND PUNISHMENT",
+      "section": "29",
+      "title": "Disposal of things forfeited",
+      "content": "29. —(1) All things which are forfeited to the Government under this Act are to be disposed of in such manner as the Minister thinks fit. (2) The Minister may, in his or her discretion and after any proceedings under this Act are concluded, entertain and give effect to any claim to or in respect of anything which has been forfeited to the Government."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "PART 3 - EVIDENCE, ENFORCEMENT AND PUNISHMENT",
+      "section": "30",
+      "title": "Obstruction of inspection or search",
+      "content": "30. —(1) It shall be an offence for a person to — ( a ) obstruct any officer of the Bureau, police officer, officer of customs or other public officer in the exercise of any power under this Act; ( b ) fail to comply with any lawful requirement of any officer of the Bureau, police officer, officer of customs or other public officer in the execution of his or her duty under this Act; ( c ) without reasonable excuse, fail to furnish such information in his or her possession as may be required by any officer of the Bureau, police officer, officer of customs or other public officer; or ( d ) furnish to any officer of the Bureau, police officer, officer of customs or other public officer any information which the person knows or has reason to believe to be false. (2) In subsection (1), “public officer” includes any special police officer exercising any power under section 24, 25 or 26. [1/2019] [Act 12 of 2023 wef 01/06/2023]"
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "PART 3 - EVIDENCE, ENFORCEMENT AND PUNISHMENT",
+      "section": "31",
+      "title": "Urine tests",
+      "content": "31. —(1) Any officer of the Bureau, immigration officer or police officer not below the rank of sergeant may, if he or she reasonably suspects any person to have committed an offence under section 8( b ) or 11I(1)( b ), require that person to provide a specimen of the person’s urine for urine tests to be conducted under this section. [Act 12 of 2023 wef 01/06/2024] (1A) The Director may, for the purpose of ensuring that a relevant person is no longer a drug addict, after the relevant time, order the relevant person — ( a ) to present himself or herself to any officer of the Bureau, immigration officer or police officer not below the rank of sergeant; and ( b ) to provide a specimen of the relevant person’s urine for urine tests to be conducted under this section as required by such officer. [1/2019] (1B) Any serviceman in the Singapore Armed Forces who is appointed by the Minister as an enforcement officer may, if the enforcement officer reasonably suspects a person subject to military law under section 3 of the Singapore Armed Forces Act 1972 to have committed an offence under section 8( b ) or 11I(1)( b ), require that person to provide a specimen of that person’s urine for urine tests to be conducted under this section. [1/2019] [Act 12 of 2023 wef 01/06/2024] (2) A person who, without reasonable excuse, fails to provide a specimen of his or her urine within such time as may be required by any of the officers referred to in subsection (1), (1A) or (1B) shall be guilty of an offence. [1/2019] (2A) A person who, without reasonable excuse, fails to comply with an order under subsection (1A) shall be guilty of an offence. [1/2019] (3) Any person (other than a citizen of Singapore or a permanent resident of Singapore) arriving in Singapore by land, sea or air who — ( a ) fails to comply with the requirement of an immigration officer under this section; or ( b ) is found as a result of urine tests conducted under subsection (4)( a ) or ( b ) to have consumed a controlled drug or psychoactive substance, may be prohibited from entering or remaining in Singapore. [Act 12 of 2023 wef 01/06/2024] (4) A specimen of urine provided under this section must be divided into 3 parts and dealt with, in such manner and in accordance with such procedure as may be prescribed, as follows: ( a ) a preliminary urine test must be conducted on one part of the urine specimen; and ( b ) each of the remaining 2 parts of the urine specimen must be marked and sealed and a urine test must be conducted on each part by a different person, being either an analyst employed by the Health Sciences Authority or any person as the Minister may appoint for such purpose. [Act 5 of 2025 wef 09/03/2025] (5) Despite subsection (4), where upon conducting any preliminary urine test under subsection (4)( a ), a part of a urine specimen has tested negative for controlled drugs and psychoactive substances, any of the officers referred to in subsection (1), (1A) or (1B) may either discard the remaining 2 parts of the same urine specimen or proceed in accordance with subsection (4)( b ). [30/2012; 1/2019] [Act 12 of 2023 wef 01/06/2024] (6) A certificate stating the result of a urine test must be signed by an analyst employed by the Health Sciences Authority or any other person that the Minister appoints for such purpose. [30/2012] [Act 5 of 2025 wef 09/03/2025] (6A) An appointment under subsection (4)( b ) or (6) must be published in the Gazette . [Act 5 of 2025 wef 09/03/2025] (7) The certificate stating the result of a urine test may be signed by an analyst or person appointed under subsection (6) even though he or she did not personally conduct the test to analyse the urine specimen as long as the test was conducted by another person acting under his or her direction. [30/2012] (8) In this section, a specimen of urine may be collected from a person on different occasions within the time referred to in subsection (2). [30/2012] (9) In this section and section 31A — “relevant person” means — ( a ) any person discharged from an approved institution; ( b ) any person convicted of an offence, whether before, on or after the date of commencement of section 21(1)( d ) of the Misuse of Drugs (Amendment) Act 2023, under — (i) subsection (2); (ii) section 8( b ), 11I(1)( b ) or 31A(2); [Act 12 of 2023 wef 01/06/2024] (iii) section 26 of the Singapore Armed Forces Act 1972 involving the consumption of a controlled drug or psychoactive substance; or [Act 12 of 2023 wef 01/06/2024] (iv) section 34 of the Singapore Armed Forces Act 1972 for the consumption of a controlled drug or psychoactive substance; [Act 12 of 2023 wef 01/06/2023] [Act 12 of 2023 wef 01/06/2024] ( c ) any person subject to a supervision order made under section 34(2)( a ) whose supervision order has lapsed; or ( d ) any person who — (i) after having undergone treatment and rehabilitation at approved or other institutions; or (ii) after having been convicted of an offence under subsection (2) or section 8( b ), 11I(1)( b ) or 31A(2) or an offence under section 34 of the Singapore Armed Forces Act 1972 for the consumption of a controlled drug or psychoactive substance, has been subject to a supervision order made pursuant to the regulations, and the supervision order has lapsed; [Act 12 of 2023 wef 01/06/2023] [Act 12 of 2023 wef 01/06/2024] “relevant time” means — ( a ) in relation to a person mentioned in paragraph ( a ) of the definition of “relevant person”, the time the person is discharged from the approved institution; ( b ) in relation to a person mentioned in paragraph ( b ) of the definition of “relevant person”, the time the person is convicted of the offence under — (i) subsection (2); (ii) section 8( b ), 11I(1)( b ) or 31A(2); [Act 12 of 2023 wef 01/06/2024] (iii) section 26 of the Singapore Armed Forces Act 1972 involving the consumption of a controlled drug or psychoactive substance; or [Act 12 of 2023 wef 01/06/2024] (iv) section 34 of the Singapore Armed Forces Act 1972 for the consumption of a controlled drug or psychoactive substance; [Act 12 of 2023 wef 01/06/2023] [Act 12 of 2023 wef 01/06/2024] ( c ) in relation to a person mentioned in paragraph ( c ) of the definition of “relevant person”, the time the supervision order lapses; or ( d ) in relation to a person mentioned in paragraph ( d ) of the definition of “relevant person”, the time the supervision order lapses. [1/2019]"
+    },
+    {
+      "provision_ref": "s31A",
+      "chapter": "PART 3 - EVIDENCE, ENFORCEMENT AND PUNISHMENT",
+      "section": "31A",
+      "title": "Hair tests",
+      "content": "31A. —(1) Any officer of the Bureau, immigration officer or police officer not below the rank of sergeant may, if he or she reasonably suspects any person to have committed an offence under section 8( b ) or 11I(1)( b ), require that person to provide specimens of the person’s hair for a hair test to be conducted under this section. [30/2012] [Act 12 of 2023 wef 01/06/2024] (1A) The Director may, for the purpose of ensuring that a relevant person is no longer a drug addict, after the relevant time, order the relevant person — ( a ) to present himself or herself to any officer of the Bureau, immigration officer or police officer not below the rank of sergeant; and ( b ) to provide specimens of the relevant person’s hair for a hair test to be conducted under this section as required by such officer. [1/2019] (2) A person who, without reasonable excuse, fails to provide specimens of his or her hair of such type and quantity as may be required by any of the officers referred to in subsection (1) or (1A) shall be guilty of an offence. [30/2012; 1/2019] (2A) A person who, without reasonable excuse, fails to comply with an order under subsection (1A) shall be guilty of an offence. [1/2019] (3) All specimens of hair provided under this section must be marked and sealed for hair testing in accordance with the prescribed procedure. [30/2012] (4) A certificate stating the result of a hair test must be signed by an analyst employed by the Health Sciences Authority or any other person that the Minister appoints for such purpose. [30/2012] [Act 5 of 2025 wef 09/03/2025] (4A) An appointment under subsection (4) must be published in the Gazette . [Act 5 of 2025 wef 09/03/2025] (5) The certificate stating the result of a hair test may be signed by an analyst or person appointed under subsection (4) even though he or she did not personally conduct the test to analyse the specimens of hair as long as the test was conducted by another person acting under his or her direction. [30/2012]"
+    },
+    {
+      "provision_ref": "s31B",
+      "chapter": "PART 3 - EVIDENCE, ENFORCEMENT AND PUNISHMENT",
+      "section": "31B",
+      "title": "Oral fluid tests",
+      "content": "31B. —(1) Any officer of the Bureau, immigration officer or police officer not below the rank of sergeant may, if the officer reasonably suspects any person to have committed an offence under section 8( b ) or 11I(1)( b ), require that person to provide one or more specimens of the person’s oral fluid for the purpose of conducting any oral fluid test. [1/2019] [Act 12 of 2023 wef 01/06/2024] (2) A person who, without reasonable excuse, fails to provide any specimen of the person’s oral fluid as required under subsection (1) shall be guilty of an offence. [1/2019] (3) In this section — “oral fluid test” means a test carried out by an oral fluid testing device for the purpose of ascertaining whether any controlled drug or psychoactive substance is present in the person’s oral fluid; [Act 12 of 2023 wef 01/06/2024] “oral fluid testing device” means any device that is designed to indicate the presence of any controlled drug or psychoactive substance in the person’s oral fluid. [1/2019] [Act 12 of 2023 wef 01/06/2024]"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "PART 3 - EVIDENCE, ENFORCEMENT AND PUNISHMENT",
+      "section": "32",
+      "title": "Power of investigation of officers of Bureau",
+      "content": "32. —(1) In any case relating to the commission of an offence under this Act, an officer of the Bureau has all the powers of a police officer under the Criminal Procedure Code 2010 in relation to an investigation into an arrestable offence. [Act 12 of 2023 wef 01/06/2023] (1A) [ Deleted by Act 12 of 2023 wef 01/06/2024 ] (2) In any case relating to the commission of an offence under the regulations — ( a ) where the offence is an arrestable offence, an officer of the Bureau has all the powers of a police officer under the Criminal Procedure Code 2010 in relation to an investigation into an arrestable offence; and [Act 12 of 2023 wef 01/06/2023] ( b ) where the offence is a non-arrestable offence, an officer of the Bureau has all the powers of a police officer under the Criminal Procedure Code 2010 in relation to an investigation into a non-arrestable offence. [Act 12 of 2023 wef 01/06/2023] (3) For the purposes of subsections (1) and (2)( a ), when an officer of the Bureau is exercising the powers of a police officer under the Criminal Procedure Code 2010, the officer of the Bureau is deemed to be an officer not below the rank of inspector of police. [15/2010]"
+    },
+    {
+      "provision_ref": "s32A",
+      "chapter": "PART 3 - EVIDENCE, ENFORCEMENT AND PUNISHMENT",
+      "section": "32A",
+      "title": "Officer of Bureau to be armed",
+      "content": "32A. Every officer of the Bureau is to be provided with such staves, arms, ammunition and other accoutrements as may be necessary for the effective discharge of his or her duties."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "PART 3 - EVIDENCE, ENFORCEMENT AND PUNISHMENT",
+      "section": "33",
+      "title": "Punishment for offences",
+      "content": "33. —(1) Except as provided in subsection (3B), (4A), (4B) or (4C) or under section 33A, the Second Schedule has effect, in accordance with subsections (2) and (3), with respect to the way in which offences under this Act are punishable on conviction. [30/2012; 1/2019] [Act 12 of 2023 wef 01/06/2023] (2) In relation to an offence under any provision of this Act specified in the first column of the Second Schedule (the general nature of the offence being described in the second column thereof) — ( a ) the third, fourth and fifth columns show, respectively, the punishments to be imposed on a person convicted of the offence according to whether the controlled drug in relation to which the offence was committed was a Class A drug, a Class B drug or a Class C drug, except as otherwise provided in paragraph ( b ); ( b ) the sixth column shows the punishments to be imposed on a person convicted of the offence where the offence was committed — (i) in the case of unauthorised manufacture, in relation to such specified controlled drug as is mentioned in the second column; and (ii) in the case of unauthorised traffic, import or export or possession, in relation to a specified quantity of such controlled drug or to a controlled drug (except opium) containing such quantity of morphine or diamorphine as is mentioned in the second column; and [Act 12 of 2023 wef 01/06/2023] ( c ) the seventh column shows the punishments to be imposed on a person convicted of the offence whether or not the offence was committed in relation to a controlled drug and, if it was so committed, irrespective of the nature of the drug. (3) In the third, fourth, fifth, sixth and seventh columns of the Second Schedule, a reference to a period gives the maximum or minimum term of imprisonment as is specified, a reference to a sum of money gives the maximum or minimum fine as is specified, and a reference to a number of strokes gives the number of strokes of caning with which the offender shall, subject to sections 325(1) and 330(1) of the Criminal Procedure Code 2010, be punished. [15/2010] (3A) Any person convicted of an offence under section 8( b ), 31(2) or 31A(2) that is committed on or after 1 April 2019 shall on conviction be punished with imprisonment for a term of not less than one year but not more than 10 years and shall also be liable to a fine not exceeding $20,000, unless the person is punished under subsection (4), (4AA) or (4AB) or section 33A (as the case may be) for that same offence. [1/2019] (3B) If a person — ( a ) has a previous conviction under section 8( a ) or 11I(1)( a ); and [Act 12 of 2023 wef 01/06/2024] ( b ) is convicted of an offence under section 8( a ) that the sixth column of the Second Schedule specifies is subject to this subsection, that person shall on conviction be punished with imprisonment for a term of not less than 2 years and not more than 10 years and shall also be liable to a fine not exceeding $20,000. [Act 12 of 2023 wef 01/06/2023] (3C) Any person convicted of an offence under section 11I(1)( b ) shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 10 years or to both, unless the person is punished under subsection (3D) for that same offence. [Act 12 of 2023 wef 01/06/2024] (3D) If a person — ( a ) has — (i) a previous conviction under section 8( b ), 11I(1)( b ), 31(2) or 31A(2); (ii) a previous admission under section 34(2) to an approved institution; or (iii) a previous conviction for an offence of consumption of a controlled drug or psychoactive substance under section 34 of the Singapore Armed Forces Act 1972; and ( b ) is convicted of an offence under section 11I(1)( b ), that person shall on conviction be punished with imprisonment for a term of not less than 3 years and not more than 10 years. [Act 12 of 2023 wef 01/06/2024] (4) If any person who has a previous conviction under section 8( b ) or 31(2) is again convicted of an offence under section 8( b ) or 31(2), he or she shall on conviction be punished with imprisonment for a term of not less than 3 years unless he or she is punished under section 33A for that same offence. [1/2019] (4AA) If a person — ( a ) has — (i) a previous conviction under section 11I(1)( b ) or 31A(2); [Act 12 of 2023 wef 01/06/2024] (ii) a previous admission under section 34(2) to an approved institution; or (iii) a previous conviction for an offence of consumption of a controlled drug or psychoactive substance under section 34 of the Singapore Armed Forces Act 1972; and [Act 12 of 2023 wef 01/06/2023] [Act 12 of 2023 wef 01/06/2024] ( b ) is convicted of an offence under section 8( b ) or 31(2), being an offence which is committed on or after 1 April 2019, he or she shall on conviction be punished with imprisonment for a term of not less than 3 years unless he or she is punished under section 33A for that same offence. [1/2019] (4AB) If a person — ( a ) has — (i) a previous conviction under section 8( b ), 11I(1)( b ), 31(2) or 31A(2); [Act 12 of 2023 wef 01/06/2024] (ii) a previous admission under section 34(2) to an approved institution; or (iii) a previous conviction for an offence of consumption of a controlled drug or psychoactive substance under section 34 of the Singapore Armed Forces Act 1972; and [Act 12 of 2023 wef 01/06/2023] [Act 12 of 2023 wef 01/06/2024] ( b ) is convicted of an offence under section 31A(2), being an offence which is committed on or after 1 April 2019, he or she shall on conviction be punished with imprisonment for a term of not less than 3 years unless he or she is punished under section 33A for that same offence. [1/2019] (4AC) A certificate purporting to be signed by an officer authorised by the Commissioner of Prisons and purporting to relate to a person’s previous admission to an approved institution under this Act is admissible in evidence in any proceedings under this section, on its production by the prosecution without proof of signature. [1/2019] (4AD) A certificate — ( a ) purporting to be signed by the registrar for the subordinate military courts, or the registrar for the Military Court of Appeal, appointed under section 82(5)( c ) of the Singapore Armed Forces Act 1972; and ( b ) purporting to relate to a person’s previous conviction for an offence of consumption of a controlled drug or psychoactive substance under section 34 of the Singapore Armed Forces Act 1972, [Act 12 of 2023 wef 01/06/2023] [Act 12 of 2023 wef 01/06/2024] is admissible in evidence, in any proceedings under this section, on its production by the prosecution without proof of signature. [1/2019] (4AE) The certificate mentioned in subsection (4AC) or (4AD) is, until the contrary is proved, evidence of the matters contained in it. [1/2019] (4A) Where — ( a ) any person is convicted of an offence under section 5(1), 7, 11F(1) or 11H(1); and [Act 12 of 2023 wef 01/06/2024] ( b ) that person is again convicted of an offence under section 5(1) or 7, that person so convicted shall be punished with — ( c ) in relation to a Class A drug — (i) imprisonment for a term of not less than 10 years and not more than 30 years; and (ii) not less than 10 strokes and not more than 15 strokes of the cane; ( d ) in relation to a Class B drug — (i) imprisonment for a term of not less than 6 years and not more than 30 years; and (ii) not less than 6 strokes and not more than 15 strokes of the cane; and ( e ) in relation to a Class C drug — (i) imprisonment for a term of not less than 4 years and not more than 20 years; and (ii) not less than 4 strokes and not more than 15 strokes of the cane. [30/2012] (4B) If a person 21 years of age or older is convicted of an offence under section 5(1) or 7 and the intended recipient of the controlled drug which is, or is to be, trafficked is a young person or a vulnerable person, that person so convicted shall be punished with — ( a ) in relation to a Class A drug — (i) imprisonment for a term of not less than 10 years and not more than 30 years; and (ii) not less than 10 strokes and not more than 15 strokes of the cane; ( b ) in relation to a Class B drug — (i) imprisonment for a term of not less than 6 years and not more than 30 years; and (ii) not less than 6 strokes and not more than 15 strokes of the cane; and ( c ) in relation to a Class C drug — (i) imprisonment for a term of not less than 4 years and not more than 20 years; and (ii) not less than 4 strokes and not more than 15 strokes of the cane. [30/2012] (4C) If a person 21 years of age or older is convicted of an offence under section 11A and the gathering consists of any young person or vulnerable person, that person so convicted shall be punished with — ( a ) imprisonment for a term of not less than 5 years and not more than 20 years; and ( b ) not less than 3 strokes and not more than 10 strokes of the cane. [30/2012] (4D) The punishment provided under subsection (4A) or (4B) in relation to an offence applies only if the punishment as shown in the sixth column of the Second Schedule is not applicable in relation to that offence. [30/2012] (5) For the purposes of this section — ( aa ) a previous conviction under section 8( a ) means a conviction under section 8( a ) at any time before, on or after the date of commencement of section 25(1)( c ) of the Misuse of Drugs (Amendment) Act 2023; [Act 12 of 2023 wef 01/06/2023] ( a ) a conviction under section 8( b ) by a court including a subordinate military court or the Military Court of Appeal constituted under the Singapore Armed Forces Act 1972 at any time on or after 1 October 1992 is deemed to be a previous conviction under section 8( b ); ( b ) a conviction under section 31(2) by a court including a subordinate military court or the Military Court of Appeal constituted under the Singapore Armed Forces Act 1972 at any time on or after 1 October 1992 is deemed to be a previous conviction under section 31(2); ( c ) a conviction under section 31A(2) by a court including a subordinate military court or the Military Court of Appeal constituted under the Singapore Armed Forces Act 1972 at any time on or after 1 May 2013 is deemed to be a previous conviction under section 31A(2); ( d ) a conviction under section 34 of the Singapore Armed Forces Act 1972 on or after 1 April 2019 is deemed to be a previous conviction under section 34 of the Singapore Armed Forces Act 1972; ( e ) “admission” means an admission under section 34(2) to an approved institution at any time on or after 1 October 1992; and ( f ) “convicted of an offence”, in relation to an offence under section 8( b ), 31(2) or 31A(2), includes a conviction by a subordinate military court or the Military Court of Appeal constituted under the Singapore Armed Forces Act 1972. [1/2019]"
+    },
+    {
+      "provision_ref": "s33A",
+      "chapter": "PART 3 - EVIDENCE, ENFORCEMENT AND PUNISHMENT",
+      "section": "33A",
+      "title": "Punishment for repeat consumption of specified drugs",
+      "content": "33A. —(1) Where a person who has not less than — ( a ) 2 previous admissions; ( b ) 2 previous convictions for consumption of a specified drug under section 8( b ); ( c ) 2 previous convictions for an offence of failure to provide a urine specimen under section 31(2); ( d ) one previous admission and one previous conviction for consumption of a specified drug under section 8( b ); ( e ) one previous admission and one previous conviction for an offence of failure to provide a urine specimen under section 31(2); or ( f ) one previous conviction for consumption of a specified drug under section 8( b ) and one previous conviction for an offence of failure to provide a urine specimen under section 31(2), is convicted of an offence under section 8( b ) for consumption of a specified drug or an offence of failure to provide a urine specimen under section 31(2), the person shall on conviction be punished with — ( g ) imprisonment for a term of not less than 5 years and not more than 7 years; and ( h ) not less than 3 strokes and not more than 6 strokes of the cane. (1A) Where a person who has not less than — ( a ) 2 previous admissions; ( b ) 2 previous convictions for consumption of a specified drug under section 8( b ); ( c ) 2 previous convictions for an offence of failure to provide a urine specimen under section 31(2); ( d ) one previous admission and one previous conviction for consumption of a specified drug under section 8( b ); ( e ) one previous admission and one previous conviction for an offence of failure to provide a urine specimen under section 31(2); or ( f ) one previous conviction for consumption of a specified drug under section 8( b ) and one previous conviction for an offence of failure to provide a urine specimen under section 31(2), is convicted of an offence under section 31A(2) for failure to provide a hair specimen, being an offence that is committed on or after 1 April 2019, the person shall on conviction be punished with the same punishment mentioned in subsection (1). [1/2019] (1B) Where a person who has not less than — ( a ) 2 previous convictions for an offence of consumption of a controlled drug that is a specified drug under section 34 of the Singapore Armed Forces Act 1972; [Act 12 of 2023 wef 01/06/2023] ( b ) one previous admission and one previous conviction for an offence of consumption of a controlled drug that is a specified drug under section 34 of the Singapore Armed Forces Act 1972; [Act 12 of 2023 wef 01/06/2023] ( c ) one previous conviction for an offence of consumption of a controlled drug that is a specified drug under section 34 of the Singapore Armed Forces Act 1972 and one previous conviction for an offence of failure to provide a urine specimen under section 31(2); [Act 12 of 2023 wef 01/06/2023] ( d ) 2 previous convictions for an offence of failure to provide a hair specimen under section 31A(2); ( e ) one previous admission and one previous conviction for an offence of failure to provide a hair specimen under section 31A(2); ( f ) one previous conviction for consumption of a specified drug under section 8( b ) and one previous conviction for an offence of failure to provide a hair specimen under section 31A(2); ( g ) one previous conviction for consumption of a specified drug under section 8( b ) and one previous conviction for an offence of consumption of a controlled drug that is a specified drug under section 34 of the Singapore Armed Forces Act 1972; [Act 12 of 2023 wef 01/06/2023] ( h ) one previous conviction for an offence of consumption of a controlled drug that is a specified drug under section 34 of the Singapore Armed Forces Act 1972, and one previous conviction for an offence of failure to provide a hair specimen under section 31A(2); or [Act 12 of 2023 wef 01/06/2023] ( i ) one previous conviction for an offence of failure to provide a urine specimen under section 31(2) and one previous conviction for an offence of failure to provide a hair specimen under section 31A(2), is convicted of an offence of consumption of a specified drug under section 8( b ), an offence of failure to provide a urine specimen under section 31(2), or an offence of failure to provide a hair specimen under section 31A(2), being an offence that is committed on or after 1 April 2019, the person shall on conviction be punished with the same punishment mentioned in subsection (1). [1/2019] (2) Where a person who has been convicted under subsection (1), (1A) or (1B) is again convicted of an offence for consumption of a specified drug under section 8( b ), an offence of failure to provide a urine specimen under section 31(2), or an offence of failure to provide a hair specimen under section 31A(2), the person shall on conviction be punished with — ( a ) imprisonment for a term of not less than 7 years and not more than 13 years; and ( b ) not less than 6 strokes and not more than 12 strokes of the cane. [1/2019] (3) A certificate purporting to be signed by an officer authorised in writing by the Commissioner of Prisons and purporting to relate to a person’s previous admission to an approved institution under this Act is admissible in evidence in any proceedings under this section, on its production by the prosecution without proof of signature; and, until the contrary is proved, that certificate is evidence of all matters contained in it. [1/2014] (4) A certificate purporting to be signed by the Registrar for the subordinate military courts or for the Military Court of Appeal appointed under section 82(5) of the Singapore Armed Forces Act 1972 is admissible in evidence, in any proceedings under this section, on its production by the prosecution without proof of signature; and, until the contrary is proved, that certificate is evidence of a person’s previous conviction by a subordinate military court or the Military Court of Appeal. (5) For the purposes of this section — ( a ) a conviction under section 8( b ) by a court including a subordinate military court or the Military Court of Appeal constituted under the Singapore Armed Forces Act 1972 at — (i) any time on or after 1 October 1992 but before the relevant date for the consumption of a controlled drug which, on the date of any subsequent conviction, is specified in the Fourth Schedule; or (ii) any time on or after the relevant date for the consumption of a specified drug, is deemed to be a previous conviction for consumption of a specified drug under section 8( b ); ( b ) a conviction under section 31(2) by a court including a subordinate military court or the Military Court of Appeal constituted under the Singapore Armed Forces Act 1972 at any time on or after 1 October 1992 is deemed to be a previous conviction for an offence of failure to provide a urine specimen under section 31(2); ( ba ) a conviction under section 31A(2) by a court including a subordinate military court or the Military Court of Appeal constituted under the Singapore Armed Forces Act 1972 at any time on or after 1 May 2013 is deemed to be a previous conviction for an offence of failure to provide a hair specimen under section 31A(2); ( bb ) a conviction under section 34 of the Singapore Armed Forces Act 1972 on or after 1 April 2019 for an offence of consumption of a controlled drug that is a specified drug is deemed to be a previous conviction for an offence of consumption of a controlled drug that is a specified drug under section 34 of the Singapore Armed Forces Act 1972; [Act 12 of 2023 wef 01/06/2023] ( c ) “admission” means an admission under section 34(2) to an approved institution at — (i) any time on or after 1 October 1992 but before the relevant date for the consumption of a controlled drug which, on the date of any subsequent conviction, is specified in the Fourth Schedule; or (ii) any time on or after the relevant date for the consumption of a specified drug; ( ca ) “convicted of an offence”, in relation to an offence under section 8( b ), 31(2) or 31A(2), includes a conviction by a subordinate military court or the Military Court of Appeal constituted under the Singapore Armed Forces Act 1972; and ( d ) “relevant date” — (i) in relation to a conviction or admission for consumption of diamorphine, morphine or opium, means 20 July 1998; and (ii) in relation to a conviction or admission for consumption of any drug added to the Fourth Schedule after 20 July 1998, means the date on which the amendment to that Schedule for the inclusion of such drug commences. [1/2019]"
+    },
+    {
+      "provision_ref": "s33B",
+      "chapter": "PART 3 - EVIDENCE, ENFORCEMENT AND PUNISHMENT",
+      "section": "33B",
+      "title": "Discretion of court not to impose sentence of death in certain circumstances",
+      "content": "33B. —(1) Where a person commits or attempts to commit an offence under section 5(1) or 7, being an offence punishable with death under the sixth column of the Second Schedule, and the person is convicted thereof, the court — ( a ) may, if the person satisfies the requirements of subsection (2), instead of imposing the death penalty, sentence the person to imprisonment for life and, if the person is sentenced to life imprisonment, the person shall also be sentenced to caning of not less than 15 strokes; or ( b ) shall, if the person satisfies the requirements of subsection (3), instead of imposing the death penalty, sentence the person to imprisonment for life. [30/2012] (2) The requirements referred to in subsection (1)( a ) are as follows: ( a ) the person convicted proves, on a balance of probabilities, that his or her involvement in the offence under section 5(1) or 7 was restricted — (i) to transporting, sending or delivering a controlled drug; (ii) to offering to transport, send or deliver a controlled drug; (iii) to doing or offering to do any act preparatory to or for the purpose of his or her transporting, sending or delivering a controlled drug; or (iv) to any combination of activities in sub‑paragraphs (i), (ii) and (iii); and ( b ) the Public Prosecutor certifies to any court that, in his or her determination, the person has substantively assisted the Central Narcotics Bureau in disrupting drug trafficking activities within or outside Singapore. [30/2012] (3) The requirements referred to in subsection (1)( b ) are that the person convicted proves, on a balance of probabilities, that — ( a ) his or her involvement in the offence under section 5(1) or 7 was restricted — (i) to transporting, sending or delivering a controlled drug; (ii) to offering to transport, send or deliver a controlled drug; (iii) to doing or offering to do any act preparatory to or for the purpose of his or her transporting, sending or delivering a controlled drug; or (iv) to any combination of activities in sub‑paragraphs (i), (ii) and (iii); and ( b ) he or she was suffering from such abnormality of mind (whether arising from a condition of arrested or retarded development of mind or any inherent causes or induced by disease or injury) as substantially impaired his or her mental responsibility for his or her acts and omissions in relation to the offence under section 5(1) or 7. [30/2012] (4) The determination of whether or not any person has substantively assisted the Central Narcotics Bureau in disrupting drug trafficking activities shall be at the sole discretion of the Public Prosecutor and no action or proceeding shall lie against the Public Prosecutor in relation to any such determination unless it is proved to the court that the determination was done in bad faith or with malice. [30/2012]"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "PART 4 - TREATMENT AND REHABILITATION",
+      "section": "34",
+      "title": "Supervision, treatment and rehabilitation of drug addicts",
+      "content": "34. —(1) The Director may order any person whom the Director reasonably suspects to be a drug addict to be committed, for a period not exceeding 7 days, to any place specified by the Director for the purpose of any medical examination or observation. [1/2019] (2) If, as a result of such medical examination or observation under subsection (1) or both the urine tests conducted under section 31(4)( b ) or the hair test conducted under section 31A, it appears to the Director that it is necessary for any person examined or observed, or who supplied the urine specimen for the urine tests, or who supplied the hair specimens for the hair test — ( a ) to be subject to supervision, the Director may make a supervision order requiring that person to be subject to the supervision of an officer of the Bureau for a period not exceeding 5 years; or ( b ) to undergo treatment or rehabilitation or both at an approved institution, the Director may make an order in writing requiring that person to be admitted for that purpose to an approved institution. [1/2019] (2A) [ Deleted by Act 1 of 2019 ] (3) Every person who is admitted to an approved institution under this section is to be detained in the institution for a period of 12 months unless he or she is discharged earlier by the Director or the Review Committee of the institution. [1/2019] (3A) Where a person who is admitted to an approved institution under this section is transferred from that approved institution to one or more other approved institutions or to one or more community rehabilitation centres, the combined period of his or her detention in all the approved institutions and community rehabilitation centres must not be less than 12 months unless he or she is discharged earlier by the Director or the Review Committee of the approved institution or community rehabilitation centre. [30/2012; 1/2019] (4) If the Review Committee of an approved institution or a community rehabilitation centre is of the opinion that an inmate of that institution or centre whose period of detention therein is about to expire requires further treatment or rehabilitation or both, the Committee may, by order in writing, direct that the inmate be detained in the institution or centre for a further period or periods not exceeding 12 months at any one time. [30/2012; 1/2019] (4A) [ Deleted by Act 1 of 2019 ] (5) No person in respect of whom an order has been made under subsection (2)( b ) is to be detained in an approved institution or institutions or a community rehabilitation centre or centres for a period of more than 4 years after his or her admission to any approved institution pursuant to that order. [30/2012; 1/2019]"
+    },
+    {
+      "provision_ref": "s34A",
+      "chapter": "PART 4 - TREATMENT AND REHABILITATION",
+      "section": "34A",
+      "title": "Parents or guardians to attend counselling with supervisees",
+      "content": "34A. —(1) If the Director, on or after 1 August 2019, makes a supervision order under section 34(2)( a ) against a supervisee who is below 21 years of age, the Director may require the parent or guardian of the supervisee to attend any counselling session (whether or not together with the supervisee) at such place and time as the Director, or any person authorised by the Director, determines. [1/2019] (2) Any parent or guardian of a supervisee who, without reasonable excuse, fails to comply with the requirement under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000. [1/2019] (3) A court may, in lieu of imposing a fine, order a parent or guardian of a supervisee to attend any counselling session at such place and time as the Director, or any person authorised by the Director, determines. [1/2019]"
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "PART 4 - TREATMENT AND REHABILITATION",
+      "section": "35",
+      "title": "Approved institutions and community rehabilitation centres",
+      "content": "35. The Minister may, from time to time, by notification in the Gazette , declare any institution or place to be an approved institution or a community rehabilitation centre for the purpose of the treatment and rehabilitation of drug addicts and other persons under this Act, and may at any time in like manner revoke or amend any such notification. [30/2012]"
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "PART 4 - TREATMENT AND REHABILITATION",
+      "section": "36",
+      "title": "Administration of approved institutions",
+      "content": "36. —(1) Subject to the Minister’s directions, the general charge and administration of — ( a ) approved institutions, except those designated under paragraph ( b ), is under the Commissioner of Prisons; and ( b ) such approved institutions as the Minister may designate, is under such person as the Minister may appoint. [1/2014] (2) The Commissioner of Prisons or the person appointed under subsection (1)( b ) (as the case may be) may appoint a person to be the superintendent of an approved institution and such person is responsible for the supervision and administration of that approved institution. [1/2014] (3) Subject to such modifications as may be made by the Commissioner of Prisons, the standing orders issued under the Prisons Act 1933 apply to an approved institution under the charge of the Commissioner of Prisons as they apply to a prison. [1/2014] (4) The person appointed under subsection (1)( b ) may in writing issue orders, to be called standing orders, for the approved institutions designated under his or her charge."
+    },
+    {
+      "provision_ref": "s36A",
+      "chapter": "PART 4 - TREATMENT AND REHABILITATION",
+      "section": "36A",
+      "title": "Administration of community rehabilitation centres",
+      "content": "36A. —(1) Subject to the Minister’s directions, the general charge and administration of a community rehabilitation centre is under the Commissioner of Prisons. [30/2012] (2) The Commissioner of Prisons may — ( a ) appoint a person to be the superintendent of a community rehabilitation centre; and ( b ) appoint a person to be the manager of a community rehabilitation centre. [Act 12 of 2023 wef 01/06/2023] (3) The superintendent of a community rehabilitation centre is responsible for assisting the Commissioner of Prisons with the charge and administration of the community rehabilitation centre. [Act 12 of 2023 wef 01/06/2023] (4) The manager of a community rehabilitation centre — ( a ) is responsible for the supervision and administration of the community rehabilitation centre; and ( b ) reports to the superintendent of the community rehabilitation centre. [Act 12 of 2023 wef 01/06/2023]"
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "PART 4 - TREATMENT AND REHABILITATION",
+      "section": "37",
+      "title": "Review Committees for approved institutions and community rehabilitation centres",
+      "content": "37. —(1) The Minister must appoint for any approved institution or institutions, or any community rehabilitation centre or centres, a Review Committee which has such functions as are conferred upon it by this Act. [30/2012] (2) Every Review Committee consists of a Chairperson, who must be a person registered under the Medical Registration Act 1997, and such other members, being at least 3, as the Minister may determine. (3) The Chairperson and members of a Review Committee are appointed by the Minister for a term not exceeding 3 years, but may — ( a ) from time to time be re-appointed; ( b ) at any time be removed from office by the Minister; or ( c ) at any time resign from their office in writing addressed to the Minister. (4) At any meeting of the Review Committee, 3 members of the Committee constitute a quorum. (5) The Chairperson presides at every meeting of the Review Committee at which he or she is present and in his or her absence the members present must elect one of their number to preside at the meeting. (6) Every question before the Review Committee is to be determined by a majority of the votes of the members present and voting thereon, and in the event of an equality of votes the Chairperson or the member presiding at the meeting has a casting vote in addition to his or her original vote. (7) Subject to the provisions of this Act, the Review Committee may determine its own procedure. (8) Any order of the Review Committee may be signed by the Chairperson or a member of the Committee."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "PART 4 - TREATMENT AND REHABILITATION",
+      "section": "38",
+      "title": "Review, discharge and transfer of inmates",
+      "content": "38. —(1) The Review Committee of an approved institution or a community rehabilitation centre must keep the case of every inmate under review and must, as often as practicable, consider whether he or she should be discharged. [30/2012] (2) The Director or the Review Committee of an approved institution or a community rehabilitation centre may at any time by order in writing — ( a ) discharge any inmate; or ( b ) transfer any inmate from one approved institution or community rehabilitation centre to another approved institution or community rehabilitation centre. [30/2012] (3) The superintendent of an approved institution or a community rehabilitation centre may enter into an arrangement with the superintendent of another approved institution or community rehabilitation centre for the transfer of any inmate to that other institution or community rehabilitation centre and may, subject to any direction given by the Director or the Review Committee, carry out any transfer in accordance with that arrangement. [30/2012] [Act 12 of 2023 wef 01/06/2023] (4) On proof to his or her satisfaction that the presence at any place of an inmate is required in the interests of justice, or for the purpose of any inquiry, or in the public interest or in the interest of the inmate, the superintendent of an approved institution or a community rehabilitation centre may order that the inmate be taken to that place. [30/2012] [Act 12 of 2023 wef 01/06/2023]"
+    },
+    {
+      "provision_ref": "s38A",
+      "chapter": "PART 4 - TREATMENT AND REHABILITATION",
+      "section": "38A",
+      "title": "Power to obtain information",
+      "content": "38A. —(1) Where an inmate of an approved institution or a community rehabilitation centre has been granted leave for the purposes of the inmate’s employment, treatment or rehabilitation or to return to the inmate’s residence or other designated places, a prison officer of or above the rank of sergeant may, for any of the purposes in subsection (2), by written notice require any person to provide, within a reasonable period specified in the notice, and in such form and manner as may be specified in the notice, all documents and information which — ( a ) relate to any matter specified by the prison officer; and ( b ) are — (i) within the knowledge of that person; or (ii) in the custody or under the control of that person. (2) The purposes mentioned in subsection (1) are as follows: ( a ) in respect of an approved institution mentioned in section 36(1)( a ) — to assist the Commissioner of Prisons, or the person appointed under section 36(2) to be the superintendent of the approved institution, to ascertain if there has been any contravention or failure to comply with any condition imposed on an inmate who is granted leave from that approved institution for the purpose of the inmate’s employment, treatment or rehabilitation outside that approved institution or to return to the inmate’s residence or other designated places; ( b ) in respect of a community rehabilitation centre — to assist the Commissioner of Prisons, or the person appointed under section 36A(2)( a ) or ( b ) to be the superintendent or manager of the community rehabilitation centre, to ascertain if there has been any contravention or failure to comply with any condition imposed on an inmate who is granted leave from that community rehabilitation centre for the purpose of the inmate’s employment, treatment or rehabilitation outside that community rehabilitation centre or to return to the inmate’s residence or other designated places. [Act 12 of 2023 wef 01/06/2023] (3) The power to require a person to provide any document or information under subsection (1) includes the power — ( a ) to require that person to provide an explanation of the document or information; ( b ) if the document or information is not provided, to require that person to state, to the best of the knowledge and belief of that person, where it is; and ( c ) if the information is recorded otherwise than in legible form, to require the information to be authenticated and made available to the prison officer concerned in legible form. (4) The prison officer is entitled without payment to keep for the purposes in subsection (2) any document or information, or any copy or extract thereof, provided to him or her under that subsection. (5) A person who, without reasonable excuse, fails to do anything required of the person by a notice under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500. (6) To avoid doubt, for the purposes of subsection (5), it is a reasonable excuse for a person to refuse or fail to provide any information, produce any document or answer any question if doing so might tend to incriminate that person. (7) In this section, “document” means anything in which information of any description is recorded. [Act 6 of 2022 wef 02/09/2022]"
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "PART 4 - TREATMENT AND REHABILITATION",
+      "section": "39",
+      "title": "Power of Magistrate to inquire into complaint of misconduct or breach of duty",
+      "content": "39. —(1) Where a complaint is made on oath to a Magistrate that any person is improperly detained in an approved institution or a community rehabilitation centre by reason of any misconduct or breach of duty on the part of any officer in the discharge of his or her functions pursuant to this Act, the Magistrate may — ( a ) inquire into the complaint himself or herself; or ( b ) direct a police officer to make an inquiry for the purpose of ascertaining the truth or falsehood of the complaint and report to the Magistrate the result of the inquiry. [30/2012] (2) Every inquiry under subsection (1) is to be conducted in private, except that the procedure for conducting any inquiry is to be such as the Magistrate considers appropriate in the circumstances of the case. (3) A Magistrate or a police officer conducting any inquiry under subsection (1) has all the powers conferred on him or her by the Criminal Procedure Code 2010 in relation to the attendance and examination of witnesses, the taking of evidence and the production of documents. (4) If, after considering the result of any such inquiry, the Magistrate is satisfied that any person who is detained in an approved institution or a community rehabilitation centre ought not to be so detained, the Magistrate may make an order for the discharge of that person from the approved institution or community rehabilitation centre and that person must be discharged accordingly. [30/2012] (5) Any order or decision of the Magistrate made under this section is final. (6) No evidence taken for the purpose of any such inquiry is admissible in any civil or criminal proceedings, except where the person who gave that evidence is charged with giving or fabricating false evidence."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "PART 4 - TREATMENT AND REHABILITATION",
+      "section": "40",
+      "title": "Inmates deemed to be in legal custody",
+      "content": "40. —(1) Every inmate is deemed to be in the legal custody of the approved institution or community rehabilitation centre in which he or she is for the time being detained. [30/2012] (2) An inmate is deemed to be in legal custody — ( a ) while he or she is confined in, or is being taken to or from, an approved institution or a community rehabilitation centre; ( b ) while he or she is for any other reason outside an approved institution or a community rehabilitation centre and in the custody or under the control of an officer of the approved institution or community rehabilitation centre; or ( c ) while he or she is being taken to any place to which he or she is required or authorised under this Act to be taken, or is kept in custody pursuant to any such requirement or authorisation. [30/2012]"
+    },
+    {
+      "provision_ref": "s40A",
+      "chapter": "PART 5 - TAKING OF PHOTOGRAPHS, FINGER IMPRESSIONS, PARTICULARS AND BODY SAMPLES",
+      "section": "40A",
+      "title": "Interpretation of this Part",
+      "content": "40A. —(1) In this Part, unless the context otherwise requires — “appropriate consent” means — ( a ) for a person 16 years of age or older, the written consent of that person; ( b ) for a person 14 years of age or older but below 16 years of age, the written consent of both that person and of his or her parent or guardian; and ( c ) for a person below 14 years of age, the written consent of his or her parent or guardian, given to — ( d ) a police officer or an officer of the Bureau in charge of the case; or ( e ) a prison officer, after that officer has informed the person concerned, his or her parent or guardian or both (as the case may be) of the purpose for which a body sample is required from such person and the manner by which such body sample is to be taken from him or her; “authorised analyst” means a person appointed by the Commissioner of Police to be an analyst for the purposes of this Part; “body sample” means — ( a ) a sample of blood; ( b ) a sample of head hair, including the roots thereof; ( c ) a swab taken from a person’s mouth; or ( d ) such other sample as may be prescribed under subsection (2); “DNA” means deoxyribonucleic acid; “DNA information” means genetic information derived from the forensic DNA analysis of a body sample; “finger impression” includes thumb impression and palmar impression; [ Deleted by Act 26 of 2022 wef 12/06/2023 ] “invasive sample” means any body sample that is obtained by means of any invasive procedure, but does not include any sample described in subsection (3); [Act 26 of 2022 wef 12/06/2023] “particulars”, in relation to a person, means any particulars, information or description of that person that may be relevant or useful in the identification of that person; “photograph”, in relation to a person, includes the photograph of any distinguishing feature or mark on the body of that person; “registered medical practitioner” has the meaning given by the Medical Registration Act 1997 and includes a dentist registered under the Dental Registration Act 1999. (2) Subject to subsection (3), the Minister may prescribe additional types of body samples that may be taken under section 40B. (3) The additional types of body samples that may be prescribed under subsection (2) must not include samples to be obtained from — ( a ) the genital or anal area of a person’s body; ( b ) a person’s body orifice other than the mouth; or ( c ) the breast of a woman."
+    },
+    {
+      "provision_ref": "s40B",
+      "chapter": "PART 5 - TAKING OF PHOTOGRAPHS, FINGER IMPRESSIONS, PARTICULARS AND BODY SAMPLES",
+      "section": "40B",
+      "title": "Taking of photographs, finger impressions, particulars and body samples from person subject to supervision or in approved institutions",
+      "content": "40B. —(1) Any police officer, prison officer, officer of the Bureau or person authorised by the Commissioner of Police may exercise all or any of the following powers in respect of any person mentioned in subsection (2): ( a ) take or cause to be taken photographs and finger impressions of such person; ( b ) make or cause to be made a record of the particulars of such person; ( c ) cause body samples of such person to be taken by a person authorised under section 40C(1); ( d ) send any photograph, finger impression, record of particulars or body sample so taken or made to the Commissioner of Police for identification and report. (2) The powers mentioned in subsection (1) may be exercised in respect of a person who on or after 1 March 2006 — ( a ) is subject to supervision pursuant to a supervision order made at any time (whether before, on or after that date) under section 34(2)( a ); ( b ) is in an approved institution pursuant to an order made at any time (whether before, on or after that date) under section 34(2)( b ); or ( c ) is subject to a supervision order made at any time (whether before, on or after that date) under any regulations providing for the supervision and aftercare of persons. (3) Every person mentioned in subsection (2) must — ( a ) submit to the taking of his or her photographs and finger impressions under subsection (1); ( b ) provide such particulars as may be required under subsection (1); and ( c ) subject to subsection (5), submit to the taking of his or her body samples by a person authorised under section 40C(1). (4) Where any person mentioned in subsection (2), without reasonable excuse, fails to comply with subsection (3) — ( a ) that person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one month or to both; and ( b ) any police officer, prison officer, officer of the Bureau or person authorised by the Commissioner of Police may use such force as is reasonably necessary to take or cause to be taken the photographs, finger impressions and body samples of that person. (5) No — ( a ) sample of blood; or ( b ) invasive sample prescribed under section 40A(2), is to be taken from any person unless the appropriate consent is given for the taking of the sample. [Act 26 of 2022 wef 12/06/2023]"
+    },
+    {
+      "provision_ref": "s40C",
+      "chapter": "PART 5 - TAKING OF PHOTOGRAPHS, FINGER IMPRESSIONS, PARTICULARS AND BODY SAMPLES",
+      "section": "40C",
+      "title": "Further provisions for taking of body samples",
+      "content": "40C. —(1) For the purposes of section 40B(1)( c ), a body sample may only be taken by — ( a ) a registered medical practitioner; ( b ) a police officer, a prison officer or an officer of the Bureau who has received training for the purpose; or ( c ) any other suitably qualified or trained person who is duly appointed in writing by the Commissioner of Police as an authorised person for the purpose. (2) Before taking any body sample, the person authorised under subsection (1) to take the sample must satisfy himself or herself that the taking of the sample does not endanger the person from whom the sample is to be taken. (3) The fact that a body sample has been taken must be recorded by the person who took the sample in such form or manner as may be required by the Commissioner of Police. (4) Every body sample taken must be sent to an authorised analyst for forensic DNA analysis."
+    },
+    {
+      "provision_ref": "s40D",
+      "chapter": "PART 5 - TAKING OF PHOTOGRAPHS, FINGER IMPRESSIONS, PARTICULARS AND BODY SAMPLES",
+      "section": "40D",
+      "title": "Retention of photographs, finger impressions, particulars and body samples taken",
+      "content": "40D. —(1) The Commissioner of Police must cause to be maintained — ( a ) a register (whether in a computerised form or otherwise) in which is stored all photographs, finger impressions and particulars of a person taken under section 40B; and ( b ) a DNA database (whether in a computerised form or otherwise) in which is stored all DNA information derived from a body sample taken from a person under section 40B. (2) Any information stored in the register and the DNA database under subsection (1) may be used for all or any of the following purposes: ( a ) for comparison with any other information or any other DNA information (as the case may be) obtained in the course of an investigation of an offence conducted by a police officer or an officer of the Bureau; ( b ) for comparison with information in the register of criminals or identification database maintained under section 4 or 29 of the Registration of Criminals Act 1949 or with DNA information in the DNA database maintained under section 31 of that Act, as the case may be; [Act 26 of 2022 wef 12/06/2023] ( c ) for comparison with information or DNA information (as the case may be) in the register or DNA database, respectively, established under — (i) section 27C of the Criminal Law (Temporary Provisions) Act 1955; or (ii) section 26D of the Intoxicating Substances Act 1987; ( d ) for any proceedings for any offence; ( e ) for administering the register and DNA database for the purposes of this Act; ( ea ) for any investigation into a death conducted by a police officer, a Coroner or a forensic pathologist (including a post‑mortem examination) or any inquiry into any death held by a Coroner, under the Coroners Act 2010; [Act 26 of 2022 wef 12/06/2023] ( eb ) for identifying a dead person or any part of a person; [Act 26 of 2022 wef 12/06/2023] ( ec ) for identifying a person in order to provide police assistance to the person; [Act 26 of 2022 wef 12/06/2023] ( f ) for such other purposes as may be prescribed. (3) For the purposes of subsection (2)( d ) — ( a ) any photograph, finger impression or particulars stored in the register under subsection (1)( a ); ( b ) any DNA information stored in the DNA database under subsection (1)( b ); and ( c ) any certificate or report purporting to have been compiled or made from information stored in the register or DNA database maintained under subsection (1), is, if produced from proper custody and authenticated by the signature of the Commissioner of Police or a police officer authorised by the Commissioner of Police, admissible in evidence in any proceedings without proof of signature and, until the contrary is proved, is proof of all matters contained therein."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "PART 6 - COMMITTEE OF INQUIRY",
+      "section": "41",
+      "title": "Committee of inquiry",
+      "content": "41. —(1) Where it is expedient that the Minister, or such other person as the Minister may appoint to exercise the powers conferred upon the Minister by sections 42, 49 and 51, should be informed on any matter connected with the discipline, administration or functions of any approved institution or affecting any inmate, the Minister or the person appointed by the Minister may convene a committee of inquiry. (2) A committee of inquiry must inquire into and report on the facts relating to any matter referred to it and, if directed by the Minister to do so, express its opinion on any question arising out of any such matter. (3) In this section and in sections 42, 49 and 51, “Minister” includes the person appointed by the Minister under subsection (1) to act on his or her behalf for the purposes of this section and sections 42, 49 and 51."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "PART 6 - COMMITTEE OF INQUIRY",
+      "section": "42",
+      "title": "Composition of committee of inquiry",
+      "content": "42. —(1) A committee of inquiry consists of one or more persons who are to be appointed by the Minister. (2) Where a committee of inquiry consists of more than one person, the Minister must appoint one of the members to be the chairperson. (3) Where a committee of inquiry consists of one member only, he or she is vested with the powers of a chairperson. (4) Every member of a committee of inquiry appointed under this section is deemed to be a public servant within the meaning of the Penal Code 1871."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "PART 6 - COMMITTEE OF INQUIRY",
+      "section": "43",
+      "title": "Powers of committee of inquiry",
+      "content": "43. A committee of inquiry may — ( a ) summon any person to give evidence on oath or on affirmation or to produce any document or material necessary for the purpose of the inquiry; and ( b ) visit any place in order to inquire into any matter which may arise in the course of the inquiry."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "PART 6 - COMMITTEE OF INQUIRY",
+      "section": "44",
+      "title": "Disobedience to summons",
+      "content": "44. —(1) A person who is summoned to give evidence before a committee of inquiry must not, without lawful excuse, fail to appear in obedience to the summons. (2) A person who is required by a committee of inquiry to produce any document or material for the purpose of the inquiry must not, without lawful excuse, fail to produce the document or material. (3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "PART 6 - COMMITTEE OF INQUIRY",
+      "section": "45",
+      "title": "Refusal to give evidence",
+      "content": "45. —(1) A person who appears before a committee of inquiry must not, without lawful excuse, refuse to be sworn or to make an affirmation, or to produce any document or material, or to answer any question, which he or she is lawfully required to produce or answer. (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "PART 6 - COMMITTEE OF INQUIRY",
+      "section": "46",
+      "title": "Giving of false evidence",
+      "content": "46. Every person who wilfully gives false evidence when examined on oath or on affirmation before a committee of inquiry shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 7 years or to both."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "PART 6 - COMMITTEE OF INQUIRY",
+      "section": "47",
+      "title": "Evidence and procedure",
+      "content": "47. Except as otherwise provided in this Act, a committee of inquiry is not bound by the rules of evidence and may act in such manner as the committee of inquiry thinks most expedient."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "PART 6 - COMMITTEE OF INQUIRY",
+      "section": "48",
+      "title": "Admissibility of evidence",
+      "content": "48. No statement made in the course of any inquiry and no report of a committee of inquiry is admissible as evidence in proceedings other than proceedings, whether criminal or disciplinary, for an offence of giving or fabricating false evidence under any written law."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "PART 6 - COMMITTEE OF INQUIRY",
+      "section": "49",
+      "title": "Proceedings not open to public",
+      "content": "49. —(1) A committee of inquiry must not sit in public. (2) No person is allowed to attend the proceedings of a committee of inquiry, or address the committee of inquiry, except with the chairperson’s permission or if the Minister so directs."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "PART 6 - COMMITTEE OF INQUIRY",
+      "section": "50",
+      "title": "Persons who may be affected by findings",
+      "content": "50. —(1) Where it appears to a committee of inquiry that any witness or person involved in the supervision or administration of an approved institution may be adversely affected by its findings, the committee must notify him or her and give him or her an opportunity to be present at the proceedings of the committee of inquiry or at such part thereof as the chairperson may specify. (2) The person notified under subsection (1) must be allowed to give evidence and examine any witness."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "PART 6 - COMMITTEE OF INQUIRY",
+      "section": "51",
+      "title": "Record of proceedings",
+      "content": "51. —(1) The chairperson must record or cause to be recorded in writing the proceedings of the committee of inquiry. (2) The evidence of each witness before a committee of inquiry must be read over to him or her and must be signed by him or her. (3) A record of the proceedings of a committee of inquiry must be signed by the chairperson and the members of the committee (if any) and forwarded to the Minister. (4) The record of proceedings of a committee of inquiry or any part thereof or any information relating thereto must be kept confidential and must not be released to any person, other than a member of the committee, without the Minister’s written permission."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "PART 6 - COMMITTEE OF INQUIRY",
+      "section": "52",
+      "title": "Offence to influence or attempt to influence committee of inquiry",
+      "content": "52. Every person who, otherwise than in the course of duty, directly or indirectly by himself or herself or by any other person in any manner whatsoever influences or attempts to influence any decision of a committee of inquiry or any member of a committee of inquiry shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "PART 7 - GENERAL",
+      "section": "53",
+      "title": "Jurisdiction of courts",
+      "content": "53. A District Court or a Magistrate’s Court has jurisdiction to hear and determine all proceedings under this Act and, despite anything to the contrary in the Criminal Procedure Code 2010, a District Court has power to impose the full penalty or punishment in respect of any offence provided by this Act except the punishment of death."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "PART 7 - GENERAL",
+      "section": "54",
+      "title": "Indemnity",
+      "content": "54. —(1) The Government shall not be liable to make good any damage caused to any goods or property as a result of an entry, search or detention under the provisions of this Act unless the damage is caused by the wilful neglect or default of an officer employed by the Government. (2) In the event of any dispute as to the amount of any damage so caused, the same is to be summarily ascertained and determined by a District Court or a Magistrate’s Court."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "PART 7 - GENERAL",
+      "section": "55",
+      "title": "Protection of persons acting under authority of Act",
+      "content": "55. Any person who does any act in pursuance or intended pursuance of any of the provisions of this Act shall not be subject to any civil or criminal liability in respect thereof, whether on the ground of want of jurisdiction, mistake of law or fact, or any other ground, unless he or she has acted in bad faith or without reasonable care."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "PART 7 - GENERAL",
+      "section": "56",
+      "title": "Use of weapons",
+      "content": "56. —(1) Subject to this section, a prison officer may use any weapon against — ( a ) any inmate of any approved institution escaping or attempting to escape; ( b ) any person who does any act or attempts to do any act to facilitate the escape of an inmate of any approved institution; or ( c ) any person engaged in any attempt to damage or force or break open — (i) the outside door or gate or enclosure wall of any approved institution or any other part of an approved institution; or (ii) any part of any vehicle in which an inmate is conveyed. (2) A prison officer may use any weapon against — ( a ) any inmate of any approved institution engaged in any combined outbreak; and ( b ) any person engaged in any attempt to damage or force or break open — (i) the outside door or gate or enclosure wall of any approved institution or any other part of an approved institution; or (ii) any part of any vehicle in which an inmate is conveyed, and may continue to use the weapon so long as the combined outbreak or attempt is actually being prosecuted. (3) Every prison officer may use weapons against an inmate of any approved institution using violence against any prison officer or other person, if the prison officer has reasonable ground to believe that the prison officer or other person is in danger of life or limb, or that other grievous hurt is likely to be caused to either of them. (4) A prison officer must not resort to the use of any weapon under subsection (1) unless the officer has reasonable ground to believe that he or she cannot otherwise prevent the escape of any inmate. (5) Before using any firearm against an inmate or other person referred to in subsection (1), the prison officer must give a warning to the inmate or that other person (as the case may be) that the officer is about to fire on him or her. (6) A prison officer must not, in the presence of his or her superior officer, use any firearm against an inmate or other person in the circumstances described in subsection (1) or (2) except under the orders of his or her superior officer. (7) The use of weapons under this section must be, as far as possible, to disable and not to kill. (8) Every police officer who is for the time being serving in the capacity of an escort, or of a guard in or around any approved institution, for the purpose of ensuring the safe custody of any inmate, is deemed to have all the powers and privileges granted to a prison officer under this section."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "PART 7 - GENERAL",
+      "section": "57",
+      "title": "Employment of auxiliary police officers as escorts and guards",
+      "content": "57. —(1) For the purpose of assisting him or her in the discharge of his or her duties under this Act, the Commissioner of Prisons may employ such number of auxiliary police officers as he or she considers fit as escorts or guards to ensure the safe custody of the inmates who are under his or her custody. [1/2014] (2) An inmate who is delivered into the custody of an auxiliary police officer under this section is deemed to be in legal custody within the meaning of section 40. (3) Every auxiliary police officer who is employed as an escort or a guard under subsection (1) has, in the course of carrying out his or her duties as an escort or a guard, the same powers as a prison officer under section 56. (4) Every auxiliary police officer employed under subsection (1) is deemed to be a public servant within the meaning of the Penal Code 1871. (5) In this section, “auxiliary police officer” means a member of an auxiliary police force established under any other written law."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "PART 7 - GENERAL",
+      "section": "58",
+      "title": "Regulations",
+      "content": "58. —(1) The Minister may make regulations — ( a ) providing for the issue of licences for the import, export, sale, manufacture, production or distribution of controlled drugs or psychoactive substances; [Act 12 of 2023 wef 01/06/2024] ( b ) prescribing the form, duration and terms and conditions of any licence and the fees payable therefor, and providing for the cancellation and suspension thereof; ( c ) authorising the sale or possession or other dealing in controlled drugs or psychoactive substances and prescribing the circumstances and conditions under which the persons by whom controlled drugs or psychoactive substances may be sold, had in possession or otherwise dealt in; [Act 12 of 2023 wef 01/06/2024] ( ca ) authorising the possession of any drug paraphernalia (as defined in section 11B(5)) or paraphernalia (as defined in section 11N(7)) and prescribing the circumstances and conditions under which a person may possess it; [Act 12 of 2023 wef 01/06/2024] ( cb ) authorising the teaching, instructing or provision of information, of any activity mentioned in section 11D(1) or 11P(1) and prescribing the circumstances and conditions under which the teaching, instructing or provision of information may take place; [Act 12 of 2023 wef 01/06/2024] ( cc ) authorising the dissemination or publication of information on the carrying out of any activity mentioned in section 11D(1) or 11P(1) and prescribing the circumstances and conditions under which the information may be disseminated or published; [Act 12 of 2023 wef 01/06/2024] ( d ) requiring medical practitioners, dentists, pharmacists, veterinary surgeons and other persons who deal in controlled drugs or psychoactive substances as may be authorised by the regulations to keep records and make returns; [Act 12 of 2023 wef 01/06/2024] ( e ) requiring any medical practitioner who attends to a person whom the medical practitioner considers or has reasonable grounds to suspect is addicted to any controlled drug or psychoactive substance to furnish to the prescribed authority such particulars with respect to that person as may be prescribed; [Act 12 of 2023 wef 01/06/2024] ( f ) prohibiting any medical practitioner from administering, supplying and authorising the administration and supply to persons addicted to controlled drugs or psychoactive substances, and from prescribing for those persons, those drugs or psychoactive substances; [Act 12 of 2023 wef 01/06/2024] ( g ) as to the packaging and labelling of controlled drugs or psychoactive substances; [Act 12 of 2023 wef 01/06/2024] ( h ) regulating the transport of controlled drugs or psychoactive substances and the methods to be used for destroying or otherwise disposing of those drugs or psychoactive substances when no longer required; [Act 12 of 2023 wef 01/06/2024] ( i ) requiring precautions to be taken for the safe custody of controlled drugs or psychoactive substances; [Act 12 of 2023 wef 01/06/2024] ( j ) providing for the inspection of any precautions taken or records kept pursuant to any regulations made under this section; ( k ) providing for the treatment and rehabilitation of persons affected by the misuse of controlled drugs or psychoactive substances; [Act 12 of 2023 wef 01/06/2024] ( l ) prescribing the punishment by a fine not exceeding $10,000 or imprisonment for a term not exceeding 4 years or both to be imposed on the conviction for a breach of the regulations; ( m ) providing for the management, maintenance and inspection of approved institutions or community rehabilitation centres; ( n ) prescribing the functions and procedure of Review Committees; ( o ) providing for the control, discipline (including the imposition of corporal punishment) and occupation of inmates and for the granting of leave to inmates for the purpose of their employment outside an approved institution or a community rehabilitation centre and to return to their residences or other designated places; ( p ) prescribing the appointment and duties of officers of approved institutions or community rehabilitation centres; ( pa ) providing for any matter in respect of a person who is committed under section 34(1), including the medical examination or observation of that person; ( q ) providing for the supervision and aftercare of persons referred to in section 34(2)( a ), or who have undergone treatment and rehabilitation at approved or other institutions or who have been convicted of an offence under section 8( b ), 11I(1)( b ), 31(2) or (2A) or 31A(2) or (2A), or an offence involving the consumption of a controlled drug or psychoactive substance under section 26 or 34 of the Singapore Armed Forces Act 1972; [Act 12 of 2023 wef 01/06/2023] [Act 12 of 2023 wef 01/06/2024] ( qa ) prescribing the circumstances under which the Director may extend the period for which a person is subject to supervision under this Act; ( r ) prescribing anything that may be prescribed; ( s ) prescribing the functions and procedure of advisory committees; ( t ) requiring the fingerprinting of inmates and the dissemination of this information to the police; ( u ) prescribing the type of offences in the regulations which may be arrestable offences for the purposes of the Criminal Procedure Code 2010; and [Act 12 of 2023 wef 01/06/2023] ( v ) generally for carrying out the purposes and provisions of this Act. [30/2012; 1/2019] (2) Regulations made by the Minister under this section may — ( a ) make different provisions in relation to different controlled drugs or psychoactive substances, different classes of persons or different cases or circumstances; [Act 12 of 2023 wef 01/06/2024] ( b ) make the opinion, consent or approval of any prescribed authority or authorised person material for the purposes of any provision; and ( c ) provide for the constitution and procedure of a tribunal to advise the Minister in any case of contravention of this Act or the regulations by any medical practitioner, dentist, pharmacist, veterinary surgeon or other authorised person. 58A. [ Repealed by Act 12 of 2023 wef 01/06/2024 ]"
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "PART 7 - GENERAL",
+      "section": "59",
+      "title": "Power of Minister to amend First, Third, Fourth and Fifth Schedules",
+      "content": "59. The Minister may, by order in the Gazette , amend the First, Third, Fourth or Fifth Schedule. [Act 12 of 2023 wef 01/06/2024]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "aircraft",
+      "definition": "“aircraft” has the meaning given by section 2(1) of the Air Navigation Act 1966;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "approved institution",
+      "definition": "“approved institution” means any institution or place declared by the Minister to be an approved institution under section 35;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "article liable to seizure",
+      "definition": "“article liable to seizure” means any money, thing, controlled equipment or controlled material by means of or in respect of which an offence under this Act has been committed or which contains or constitutes evidence of an offence under this Act; [Act 12 of 2023 wef 01/06/2023]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "autonomous system",
+      "definition": "“autonomous system” , in relation to a motor vehicle or vessel, means a system that enables the operation of the motor vehicle or vessel without the active physical control of, or monitoring by, a human operator;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "autonomous vehicle",
+      "definition": "“autonomous vehicle” means a motor vehicle equipped wholly or substantially with an autonomous system (also commonly known as a driverless vehicle), and includes a trailer drawn by such a motor vehicle;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cannabis",
+      "definition": "“cannabis” means any part of a plant of the genus Cannabis, or any part of such plant, by whatever name it is called;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cannabis mixture",
+      "definition": "“cannabis mixture” means any mixture of vegetable matter containing tetrahydrocannabinol and cannabinol in any quantity;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cannabis resin",
+      "definition": "“cannabis resin” means any substance containing resinous material and in which is found tetrahydrocannabinol and cannabinol in any quantity;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Class A drug",
+      "definition": "“Class A drug” , “Class B drug” and “Class C drug” mean any of the substances and products for the time being specified in Parts 1, 2 and 3 of the First Schedule, respectively;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Commissioner of Prisons",
+      "definition": "“Commissioner of Prisons” means the Commissioner of Prisons appointed under section 20 of the Prisons Act 1933;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "committee of inquiry",
+      "definition": "“committee of inquiry” means a committee of inquiry convened under section 41;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "community rehabilitation centre",
+      "definition": "“community rehabilitation centre” means any place declared by the Minister as such under section 35;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "controlled drug",
+      "definition": "“controlled drug” means any substance or product which is for the time being specified in Part 1, 2 or 3 of the First Schedule or anything that contains any such substance or product;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "controlled equipment, controlled material or controlled substance",
+      "definition": "“controlled equipment, controlled material or controlled substance” means any equipment, material or substance, respectively, specified in the Third Schedule;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "corresponding law",
+      "definition": "“corresponding law” means a law stated in a certificate purporting to be issued by or on behalf of the government of a country outside Singapore to be a law providing for the control and regulation in that country of — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Director",
+      "definition": "“Director” means the Director of the Central Narcotics Bureau appointed under section 3(1);",
+      "source_provision": "s2"
+    },
+    {
+      "term": "drug addict",
+      "definition": "“drug addict” means a person who, through the use of any controlled drug or psychoactive substance, has developed — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "excluded substance",
+      "definition": "“excluded substance” means a substance specified in the Fifth Schedule; [Act 12 of 2023 wef 01/06/2024]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Health Sciences Authority",
+      "definition": "“Health Sciences Authority” means the Health Sciences Authority established under the Health Sciences Authority Act 2001;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Home Team Science and Technology Agency",
+      "definition": "“Home Team Science and Technology Agency” means the Home Team Science and Technology Agency established by section 3 of the Home Team Science and Technology Agency Act 2019; [Act 12 of 2023 wef 01/06/2024]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "immigration officer",
+      "definition": "“immigration officer” has the meaning given by the Immigration Act 1959;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "inmate",
+      "definition": "“inmate” means a person who is detained in an approved institution or a community rehabilitation centre;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "manufacture",
+      "definition": "“manufacture” , in relation to — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "officer of customs",
+      "definition": "“officer of customs” has the meaning given by the Customs Act 1960;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "officer of the Bureau",
+      "definition": "“officer of the Bureau” means the Director or any person appointed under section 3 as a Deputy Director, a Divisional Director or an officer of the Central Narcotics Bureau;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "opium",
+      "definition": "“opium” means any substance containing in any quantity morphine and one or more of the following, namely, codeine, narcotine, papaverine and thebaine but does not include poppy-straw which is not mixed in any such substance;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "permanent resident of Singapore",
+      "definition": "“permanent resident of Singapore” has the meaning given by section 2 of the Immigration Act 1959; [Act 31 of 2023 wef 01/12/2025]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "place",
+      "definition": "“place” includes — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "police officer",
+      "definition": "“police officer” has the meaning given by the Police Force Act 2004;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "prison officer",
+      "definition": "“prison officer” has the meaning given by the Prisons Act 1933;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "psychoactive effect",
+      "definition": "“psychoactive effect” means the stimulation or depression, whether directly or indirectly, of an individual’s central nervous system, affecting the individual’s mental functioning or emotional state; [Act 12 of 2023 wef 01/06/2024]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "psychoactive substance",
+      "definition": "“psychoactive substance” — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "regulations",
+      "definition": "“regulations” means any regulations made under this Act;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Review Committee",
+      "definition": "“Review Committee” , in relation to an approved institution, means the Review Committee appointed for the institution under section 37;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "senior officer of customs",
+      "definition": "“senior officer of customs” has the meaning given by the Customs Act 1960;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "special police officer",
+      "definition": "“special police officer” means a member of the Special Constabulary constituted under Part 8 of the Police Force Act 2004;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "specified drug",
+      "definition": "“specified drug” , except for the purposes of the Second Schedule, means a drug specified in the Fourth Schedule;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "traffic",
+      "definition": "“traffic” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "unmanned aircraft",
+      "definition": "“unmanned aircraft” and “unmanned aircraft system” have the meanings given by section 2(1) of the Air Navigation Act 1966;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "unmanned vessel",
+      "definition": "“unmanned vessel” means a vessel equipped wholly or substantially with an autonomous system (such as an unmanned surface vehicle and a saildrone) and includes a barge drawn by an unmanned vessel;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "vehicle",
+      "definition": "“vehicle” means any means of transport used on land, whether self-propelled or not, such as a train, motor car, bicycle or personal mobility device;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "vessel",
+      "definition": "“vessel” includes a floating facility;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "vulnerable person",
+      "definition": "“vulnerable person” means any person who suffers from an impairment of, or a disturbance in the functioning of, the mind or brain resulting from any disability or disorder of the mind or brain which impairs the ability to make a proper judgment in relation to the commission of any offence under this Act;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "young person",
+      "definition": "“young person” means any person who is below 21 years of age. [30/2012; 1/2014; 1/2019]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "child",
+      "definition": "“child” means any person below 16 years of age;",
+      "source_provision": "s11B"
+    },
+    {
+      "term": "drug paraphernalia",
+      "definition": "“drug paraphernalia” means any pipe, syringe, utensil, apparatus or other article for the purpose of smoking, administering or consuming a controlled drug. [1/2019]",
+      "source_provision": "s11B"
+    },
+    {
+      "term": "paraphernalia",
+      "definition": "“paraphernalia” means any pipe, syringe, utensil, apparatus or other article for the purpose of smoking, administering or consuming a psychoactive substance. [Act 12 of 2023 wef 01/06/2024]",
+      "source_provision": "s11N"
+    },
+    {
+      "term": "relevant officer",
+      "definition": "“relevant officer” means any Deputy Director of the Central Narcotics Bureau appointed under section 3(1) or any person authorised by the Deputy Director;",
+      "source_provision": "s26A"
+    },
+    {
+      "term": "seized item",
+      "definition": "“seized item” means any ship, hovercraft, aircraft, autonomous vehicle, unmanned aircraft, unmanned vessel, component of the autonomous system of an autonomous vehicle or unmanned vessel, or component of an unmanned aircraft system, vehicle or train that is seized under section 24 or 26. [1/2019]",
+      "source_provision": "s26A"
+    },
+    {
+      "term": "relevant person",
+      "definition": "“relevant person” means — ( a )",
+      "source_provision": "s31"
+    },
+    {
+      "term": "relevant time",
+      "definition": "“relevant time” means — ( a )",
+      "source_provision": "s31"
+    },
+    {
+      "term": "oral fluid test",
+      "definition": "“oral fluid test” means a test carried out by an oral fluid testing device for the purpose of ascertaining whether any controlled drug or psychoactive substance is present in the person’s oral fluid; [Act 12 of 2023 wef 01/06/2024]",
+      "source_provision": "s31B"
+    },
+    {
+      "term": "oral fluid testing device",
+      "definition": "“oral fluid testing device” means any device that is designed to indicate the presence of any controlled drug or psychoactive substance in the person’s oral fluid. [1/2019] [Act 12 of 2023 wef 01/06/2024]",
+      "source_provision": "s31B"
+    },
+    {
+      "term": "appropriate consent",
+      "definition": "“appropriate consent” means — ( a )",
+      "source_provision": "s40A"
+    },
+    {
+      "term": "authorised analyst",
+      "definition": "“authorised analyst” means a person appointed by the Commissioner of Police to be an analyst for the purposes of this Part;",
+      "source_provision": "s40A"
+    },
+    {
+      "term": "body sample",
+      "definition": "“body sample” means — ( a )",
+      "source_provision": "s40A"
+    },
+    {
+      "term": "DNA",
+      "definition": "“DNA” means deoxyribonucleic acid;",
+      "source_provision": "s40A"
+    },
+    {
+      "term": "DNA information",
+      "definition": "“DNA information” means genetic information derived from the forensic DNA analysis of a body sample;",
+      "source_provision": "s40A"
+    },
+    {
+      "term": "finger impression",
+      "definition": "“finger impression” includes thumb impression and palmar impression;",
+      "source_provision": "s40A"
+    },
+    {
+      "term": "invasive sample",
+      "definition": "“invasive sample” means any body sample that is obtained by means of any invasive procedure, but does not include any sample described in subsection (3); [Act 26 of 2022 wef 12/06/2023]",
+      "source_provision": "s40A"
+    },
+    {
+      "term": "particulars",
+      "definition": "“particulars” , in relation to a person, means any particulars, information or description of that person that may be relevant or useful in the identification of that person;",
+      "source_provision": "s40A"
+    },
+    {
+      "term": "photograph",
+      "definition": "“photograph” , in relation to a person, includes the photograph of any distinguishing feature or mark on the body of that person;",
+      "source_provision": "s40A"
+    },
+    {
+      "term": "registered medical practitioner",
+      "definition": "“registered medical practitioner” has the meaning given by the Medical Registration Act 1997 and includes a dentist registered under the Dental Registration Act 1999.",
+      "source_provision": "s40A"
+    }
+  ]
+}

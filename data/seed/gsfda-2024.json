@@ -1,0 +1,81 @@
+{
+  "id": "gsfda-2024",
+  "type": "statute",
+  "title": "Good Samaritan Food Donation Act 2024",
+  "title_en": "Good Samaritan Food Donation Act 2024",
+  "short_name": "GSFDA2024",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/GSFDA2024",
+  "description": "An Act for the protection of certain food donors from liability for any death or personal injury resulting from the consumption of food donated by those food donors under certain conditions.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title and commencement",
+      "content": "1. This Act is the Good Samaritan Food Donation Act 2024 and comes into operation on a date that the Minister appoints by notification in the Gazette ."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. In this Act — “donate” means — ( a ) a person giving to another any thing for a charitable, benevolent, or philanthropic purpose without receiving any money or money’s worth; or ( b ) a person giving for a charitable, benevolent, or philanthropic purpose, and without the person receiving any money or money’s worth, any thing donated by another; “entity” means — ( a ) a body corporate (including a limited liability partnership); ( b ) an unincorporated association; ( c ) a partnership; ( d ) a business trust; ( e ) a body of individuals who together form a body; or ( f ) a person other than an individual; “food” has the meaning given by section 4 of the Food Safety and Security Act 2025; [Act 7 of 2025 wef 28/11/2025] “food donor” means any of the following: ( a ) any entity which donates food in the course of a business, regardless if the entity is a charity registered under the Charities Act 1994; ( b ) any other person who donates food; “handling”, in relation to food, includes any one or more of the following: ( a ) cooking, defrosting, heating or preparing the food; ( b ) manufacturing, processing or preserving the food; ( c ) storing or packing the food; ( d ) transporting or delivering the food; ( e ) serving the food; “recipient”, of food, means the person directly receiving the food from a food donor; “unsafe” and “unsuitable”, in relation to food, have the meanings given respectively by sections 2C and 2D of the Sale of Food Act 1973."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Purpose of Act",
+      "content": "3. The purpose of this Act is to encourage food donations — ( a ) to reduce food waste; and ( b ) to increase availability of food for redistribution to food‑insecure communities."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Waiver of criminal and civil liability",
+      "content": "4. —(1) A food donor who donates any food shall not be liable in any criminal or civil proceedings in respect of any death or personal injury that results from the consumption of the food if — ( a ) the food was not unsafe and not unsuitable at the time it left the possession or control of the food donor; ( b ) where the food was of a nature that required it to be handled in a particular way to ensure that it remained safe and suitable to consume after it left the possession or control of the food donor, the food donor informed the recipient of the food of those handling requirements; ( c ) where the food would only have remained safe and suitable to consume for a particular period of time after it left the possession or control of the food donor, the food donor informed the recipient of the food of that time limit; and ( d ) the food donor, before donating the food, took all reasonably practicable measures to comply with any applicable requirement under any written law relating to food safety and food hygiene when handling the food. (2) This section is additional to any other defence available to the defendant apart from this section."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Application",
+      "content": "5. —(1) Section 4 does not apply in relation to liability arising before the commencement of that section. (2) This Act does not apply to — ( a ) any exchanging or giving of food between individuals as part of a personal relationship; or ( b ) any supply of food together with accommodation to an individual residing at a private residence in exchange for services or labour by the individual."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "donate",
+      "definition": "“donate” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "entity",
+      "definition": "“entity” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "food",
+      "definition": "“food” has the meaning given by section 4 of the Food Safety and Security Act 2025; [Act 7 of 2025 wef 28/11/2025]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "food donor",
+      "definition": "“food donor” means any of the following: ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "handling",
+      "definition": "“handling” , in relation to food, includes any one or more of the following: ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "recipient",
+      "definition": "“recipient” , of food, means the person directly receiving the food from a food donor;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "unsafe",
+      "definition": "“unsafe” and “unsuitable”, in relation to food, have the meanings given respectively by sections 2C and 2D of the Sale of Food Act 1973.",
+      "source_provision": "s2"
+    }
+  ]
+}

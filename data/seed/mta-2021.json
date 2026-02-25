@@ -1,0 +1,323 @@
+{
+  "id": "mta-2021",
+  "type": "statute",
+  "title": "Multimodal Transport Act 2021",
+  "title_en": "Multimodal Transport Act 2021",
+  "short_name": "MTA2021",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/MTA2021",
+  "description": "An Act to give effect to the ASEAN Framework Agreement on Multimodal Transport signed at Vientiane, Lao People’s Democratic Republic, on 17 November 2005 and for related purposes.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Multimodal Transport Act 2021."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. —(1) In this Act, unless the context otherwise requires — “ASEAN Framework Agreement on Multimodal Transport” means the ASEAN Framework Agreement on Multimodal Transport, signed at Vientiane, Lao People’s Democratic Republic, on 17 November 2005; “ASEAN member country” means a country declared by the Minister, by notification in the Gazette , as having ratified or acceded to the ASEAN Framework Agreement on Multimodal Transport; “carrier”, in relation to any goods that are the subject of a multimodal transport contract, means a person who performs or undertakes to perform the carriage, or part of the carriage, of the goods by any mode of transport, whether or not the person is the multimodal transport operator of the contract; “consignee”, in relation to any goods that are the subject of a multimodal transport contract, means the person entitled under the multimodal transport contract to receive the goods from the multimodal transport operator of the contract; “consignor”, in relation to any goods that are the subject of a multimodal transport contract, means the person who concluded the contract with another person under which the other person is to be the multimodal transport operator; “deliver”, in relation to any goods that are the subject of a multimodal transport contract, means — ( a ) the handing over of the goods to the consignee of the goods; ( b ) the placing of the goods at the disposal of the consignee of the goods in accordance with the multimodal transport contract or with the law or usage of the particular trade applicable at the place specified in the multimodal transport contract for the delivery of the goods; or ( c ) the handing over of the goods to an authority or any other party to whom, in accordance with the laws applicable at the place specified in the multimodal transport contract for the delivery of the goods, the goods must be handed over; “goods” means any property (including any container, pallet or similar article of transport or packaging not supplied by a multimodal transport operator), whether such property is or is to be carried on or under the deck of a conveyance; “international multimodal transport” means the carriage of goods on the basis of a multimodal transport contract by at least 2 different modes of transport — ( a ) from a place in a country at which the goods are taken in charge by the multimodal transport operator of the contract; ( b ) to a place designated for the delivery of the goods situated in a different country; “mandatory law” means any law of Singapore, or any international convention forming part of the law of Singapore, relating to the carriage of goods, the provisions of which cannot be departed from by contractual stipulations detrimental to the consignor or consignee; “mode of transport” means transport by road, rail, inland waterways, sea or air; “multimodal transport contract” means a contract whereby a multimodal transport operator undertakes, against payment of freight, to perform or to procure the performance of international multimodal transport of goods; “multimodal transport document” means a document which evidences — ( a ) a multimodal transport contract for the international multimodal transport of any goods; ( b ) the taking in charge of the goods by the multimodal transport operator of the contract; and ( c ) an undertaking by the multimodal transport operator to deliver the goods in accordance with the terms of the contract; “multimodal transport operator” means any person who — ( a ) on the person’s own behalf or through another person acting on the person’s behalf, concludes a multimodal transport contract for the international multimodal transport of any goods; ( b ) acts as a principal (and not as an agent of or on behalf of the consignor or of any carrier participating in the international multimodal transport of the goods); ( c ) assumes responsibility for the performance of the multimodal transport contract; and ( d ) is under the register of the Singapore competent national body or the competent national body of an ASEAN member country; “registration certificate” means a document issued by the Singapore competent national body certifying that a multimodal transport operator is included in the register of the Singapore competent national body; “Singapore competent national body” means the person or authority authorised by the Minister, by notification in the Gazette , as the competent national body of Singapore, for the purposes of the ASEAN Framework Agreement on Multimodal Transport; “special drawing right” or “SDR” means the unit of account by that name as defined by the International Monetary Fund on its official website at https://www.imf.org/; “taking in charge”, in relation to any goods that are the subject of a multimodal transport contract, means the goods have been handed over and accepted for carriage by the multimodal transport operator of the contract; “writing” — ( a ) means a mode of representing or reproducing words, figures or symbols in a visible form; and ( b ) includes telegram, telex, fax or any other means which prints, records, repeats or transmits messages by mechanical or electronic means, or by any other kind of instrument or apparatus intended for such purposes. (2) To avoid doubt, the carriage of goods (or any pick‑up, delivery or other operations) by only one mode of transport under a contract is not to be taken as an international multimodal transport of those goods. (3) In this Act, where a container, pallet or similar article of transport is loaded with more than one package or shipping unit, each of the packages or shipping units enumerated in a multimodal transport document as packed in such article of transport is considered a separate package or shipping unit; otherwise such article of transport is considered the package or shipping unit."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "3",
+      "title": "Application of Parts 3 to 6",
+      "content": "3. —(1) Parts 3 to 6 apply in relation to any civil claim relating to the carriage of goods that are the subject of a multimodal transport contract but only if either or both of the following are satisfied: ( a ) the place for the taking in charge of the goods by the multimodal transport operator of the contract as specified in the contract is located in Singapore or an ASEAN member country; ( b ) the place for delivery of the goods by the multimodal transport operator of the contract as specified in the contract is located in Singapore or an ASEAN member country. (2) Subsection (1) applies to any civil claim whether founded in contract or tort, and whether made against the multimodal transport operator, any servant or agent of the multimodal transport operator, or other person whose services the multimodal transport operator has used to perform the contract."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART 2 - REGISTRATION UNDER REGISTER OF",
+      "section": "4",
+      "title": "Registration",
+      "content": "4. —(1) A person who desires to be under the register of the Singapore competent national body must apply to the Singapore competent national body for a registration certificate under this section. (2) An application under subsection (1) must — ( a ) be made in the form and manner that the Singapore competent national body requires; ( b ) be accompanied by the prescribed non‑refundable application fee; and ( c ) include such information as may be prescribed. (3) Upon receiving an application under subsection (1), the Singapore competent national body may — ( a ) issue a registration certificate to the person, with or without conditions, certifying that the person has been entered in the register of the Singapore competent national body; or ( b ) refuse to issue a registration certificate. (4) The Singapore competent national body must not issue a registration certificate to an applicant unless the applicant — ( a ) is carrying on, or intends to carry on, the business of international multimodal transport and is — (i) a company registered under the Companies Act 1967; or (ii) a person whose business name is registered under the Business Names Registration Act 2014; ( b ) has a principal place of business in Singapore; ( c ) has an insurance, a bond, a guarantee, or any other financial arrangements acceptable to the Singapore competent national body to cover payment (in whole or in part) for any claim arising from any loss, damage or delay in the delivery of goods under a multimodal transport contract, as well as any contractual risk assumed by the applicant in relation to the performance of the carriage of any goods under a multimodal transport contract; ( d ) maintains the prescribed minimum assets, or provides an equivalent guarantee acceptable to the Singapore competent national body; and ( e ) satisfies such other requirements as may be prescribed. (5) A registration certificate issued under subsection (3)( a ) is valid for one year, unless it is earlier cancelled under section 6. (6) The Singapore competent national body may at any time add to, vary or revoke any of the conditions of a registration certificate. (7) Where the Singapore competent national body refuses to issue a registration certificate to an applicant, the Singapore competent national body must state in writing its reasons for refusal if requested to do so by the applicant. (8) Any applicant who is aggrieved by the refusal of the Singapore competent national body to issue a registration certificate may, within 14 days of having been informed of the refusal, appeal to the Minister whose decision is final."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART 2 - REGISTRATION UNDER REGISTER OF",
+      "section": "5",
+      "title": "Renewal of registration certificate",
+      "content": "5. —(1) An application for the renewal of a registration certificate must — ( a ) be made to the Singapore competent national body at least 3 months before the date the registration certificate expires; ( b ) be made in the form and manner that the Singapore competent national body requires; ( c ) be accompanied by the prescribed non-refundable application fee; and ( d ) include such information as may be prescribed. (2) If an application to renew a registration certificate is submitted to the Singapore competent national body less than 3 months before the registration certificate expires, the application is treated as an application under section 4. (3) Upon receiving an application under subsection (1), the Singapore competent national body may — ( a ) if the applicant satisfies the requirements mentioned in section 4(4), renew the registration certificate, with or without conditions, for a further period of one year; or ( b ) refuse to renew the registration certificate. (4) The Singapore competent national body may, at any time, add to, vary or revoke any of the conditions of a registration certificate renewed under this section or impose new conditions. (5) Where the Singapore competent national body refuses to renew the registration certificate of an applicant, it must state in writing its reasons for refusal if requested to do so by the applicant. (6) Any applicant who is aggrieved by the refusal of the Singapore competent national body to renew a registration certificate may, within 14 days of having been informed of the refusal, appeal to the Minister whose decision is final."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART 2 - REGISTRATION UNDER REGISTER OF",
+      "section": "6",
+      "title": "Cancellation of registration certificate",
+      "content": "6. —(1) If the Singapore competent national body is satisfied that the holder of a registration certificate — ( a ) has, when making an application under section 4 or 5 relating to the registration certificate, made any statement that is incorrect or false in any material particular; ( b ) has otherwise procured the registration certificate by fraud or misrepresentation; or ( c ) is contravening or has contravened any of the conditions of the registration certificate, the Singapore competent national body may, by notice, cancel the registration certificate. (2) Before cancelling the registration certificate, the Singapore competent national body must give notice to the holder of the registration certificate — ( a ) stating that it intends to cancel the registration certificate; and ( b ) specifying the time within which written representations may be made to it. (3) The time specified by the Singapore competent national body in the notice in subsection (2)( b ) must not be less than 28 days after the date of the notice. (4) The Singapore competent national body may, after considering any written representation made by the holder of the registration certificate, cancel the registration certificate and notify the holder of the cancellation. (5) The Singapore competent national body must furnish the holder of the registration certificate with the grounds of cancellation of the registration certificate if so required by the holder. (6) Any holder of a registration certificate who is aggrieved by the cancellation of the registration certificate may appeal in writing against the cancellation to the Minister — ( a ) within 14 days after being notified of the cancellation; or ( b ) if the holder requires (within the period mentioned in paragraph ( a )) the Singapore competent national body to furnish the grounds of cancellation, within 14 days after being furnished with the grounds of cancellation, and the Minister’s decision is final. (7) A decision of the Singapore competent national body to cancel a registration certificate takes effect despite an appeal against that decision being made to the Minister under subsection (6), unless the Minister otherwise specifies."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART 2 - REGISTRATION UNDER REGISTER OF",
+      "section": "7",
+      "title": "Minister may designate others to hear appeals",
+      "content": "7. —(1) The Minister may designate any of the following persons to hear and determine, in the Minister’s place, any appeal under section 4, 5 or 6: ( a ) the Second Minister for his or her Ministry; ( b ) any Minister of State, including a Senior Minister of State, for his or her Ministry; ( c ) any Parliamentary Secretary, including a Senior Parliamentary Secretary, to his or her Ministry. (2) A reference to the Minister in section 4, 5 or 6 includes a reference to a person designated under subsection (1)."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART 2 - REGISTRATION UNDER REGISTER OF",
+      "section": "8",
+      "title": "Register",
+      "content": "8. The Singapore competent national body must keep and maintain a register containing — ( a ) the name of each person who is issued with a registration certificate under section 4, or whose registration certificate is renewed under section 5; and ( b ) any other particulars determined by the Singapore competent national body."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART 3 - MULTIMODAL TRANSPORT DOCUMENT",
+      "section": "9",
+      "title": "Issue of multimodal transport document",
+      "content": "9. —(1) When goods are taken in charge in Singapore by a multimodal transport operator pursuant to a multimodal transport contract, the multimodal transport operator must issue to the consignor of the goods a multimodal transport document. (2) The multimodal transport document must, at the option of the consignor of the goods, either be in negotiable or non‑negotiable form. (3) The multimodal transport document must be signed by the multimodal transport operator or by a person authorised by the multimodal transport operator. (4) A multimodal transport document issued to bearer is negotiable by delivery. (5) A multimodal transport document issued to order is negotiable by the endorsement of the holder completed by delivery. (6) A consignee of goods that are the subject of a multimodal transport contract as evidenced by a multimodal transport document has and is vested with all rights of action and is subject to all liabilities in respect of those goods as if the consignee were a party to the contract. (7) The rights and liabilities are vested in the consignee under subsection (6) subject to — ( a ) the provisions of this Act; and ( b ) the stipulations in the multimodal transport document, except that the duties and liabilities of the consignor in Part 5 do not apply to the consignee."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART 3 - MULTIMODAL TRANSPORT DOCUMENT",
+      "section": "10",
+      "title": "Contents of multimodal transport document",
+      "content": "10. —(1) A multimodal transport document must contain such particulars as may be prescribed. (2) A document is a multimodal transport document despite the absence of any of the prescribed particulars if there is evidence to establish that it is a multimodal transport document within the definition of that term in section 2(1)."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART 3 - MULTIMODAL TRANSPORT DOCUMENT",
+      "section": "11",
+      "title": "Multimodal transport document as prima facie evidence",
+      "content": "11. —(1) A multimodal transport document issued by a multimodal transport operator is prima facie evidence that the multimodal transport operator has taken in charge the goods as described in that document, unless a contrary indication, such as “shipper’s weight, load and count”, “shipper‑packed container” or a similar expression, has been made in the printed text of or superimposed on the document. (2) Proof to the contrary is not admissible when the multimodal transport document has been transferred, or transmitted by electronic data interchange to the consignor of the goods who — ( a ) has acknowledged the receipt of the document; and ( b ) has in good faith relied on and acted upon the document. (3) In this section, “electronic data interchange” means an electronic transmission of data from one computer to another computer, using an internationally recognised standard for secure electronic transfer of data that is agreed on by the multimodal transport operator, the consignor of the goods, and any other party involved in the international multimodal transport of the goods."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART 4 - LIABILITIES OF MULTIMODAL",
+      "section": "12",
+      "title": "Period of responsibility of multimodal transport operator",
+      "content": "12. For the purposes of this Part, the period of responsibility of a multimodal transport operator of a multimodal transport contract starts at the time the multimodal transport operator takes in charge the goods that are the subject of the contract and ends at the time that the goods are delivered."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART 4 - LIABILITIES OF MULTIMODAL",
+      "section": "13",
+      "title": "Multimodal transport operator liable for acts of servants or agents",
+      "content": "13. —(1) A multimodal transport operator of a multimodal transport contract is liable for any act or omission described in subsection (2), of — ( a ) any servant or agent of the multimodal transport operator, when acting within the scope of the servant’s or agent’s employment relating to the carriage of the goods that are the subject of the contract; and ( b ) any other person whose services the multimodal transport operator makes use of for the performance of the contract. (2) The act or omission is one that — ( a ) takes place during the period of responsibility of the multimodal transport operator; and ( b ) causes loss of, damage to, or delay in the delivery of, the goods."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART 4 - LIABILITIES OF MULTIMODAL",
+      "section": "14",
+      "title": "Multimodal transport operator to ensure delivery of goods",
+      "content": "14. A multimodal transport operator of a multimodal transport contract for the international multimodal transport of any goods is taken to have given an undertaking to the following persons to perform, or to procure the performance of, all acts necessary to ensure the delivery of the goods: ( a ) where the multimodal transport document relating to the contract is issued in a negotiable form to bearer — to the person who surrenders to the multimodal transport operator one original of the document; ( b ) where the multimodal transport document relating to the contract is issued in a negotiable form to order — to the person who surrenders to the multimodal transport operator one original of the document duly endorsed; ( c ) where the multimodal transport document relating to the contract is issued in a negotiable form to a named person — to the person (upon proof of the person’s identity) who surrenders to the multimodal transport operator one original of the document; ( d ) where the multimodal transport document relating to the contract is issued in a negotiable form to a named person and has been transferred to order or in blank — to the person if that person surrenders to the multimodal transport operator one original of the document duly endorsed; ( e ) where the multimodal transport document relating to the contract is issued in a non-negotiable form — to the person named as the consignee of the goods in the document upon proof of the person’s identity; ( f ) where no document is issued — to a person as instructed by the consignor of the goods or by a person who has acquired the consignor’s or consignee’s rights under the multimodal transport contract to give such instructions."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART 4 - LIABILITIES OF MULTIMODAL",
+      "section": "15",
+      "title": "Multimodal transport operator liable for loss resulting from loss of or damage to goods, etc.",
+      "content": "15. —(1) Subject to subsections (2), (3) and (4), a multimodal transport operator of a multimodal transport contract is liable for loss resulting from the loss of, damage to, or delay in the delivery of, any goods that are the subject of the contract if the occurrence which caused the loss, damage or delay took place during the period of responsibility of the multimodal transport operator. (2) The multimodal transport operator is not liable under subsection (1) if the multimodal transport operator proves that — ( a ) the multimodal transport operator, or the servant or agent or other person for whose act or omission the multimodal transport operator is liable under section 13, took all reasonable measures to avoid the occurrence and the loss, damage or delay; or ( b ) the occurrence which caused such loss, damage or delay is the result of one or more of the following: (i) force majeure; (ii) any act or neglect of the consignor or consignee, or the consignor’s or consignee’s representative or agent; (iii) insufficient or defective packaging, marking or numbering of the goods; (iv) the handling, loading, unloading or stowage of the goods that is effected by the consignor or consignee, or the consignor’s or consignee’s representative or agent; (v) any inherent or latent defect in the goods; (vi) any strike, lockout or stoppage or restraint of labour from whatever cause, whether partial or general; (vii) where the goods are carried by sea or inland waterways — (A) any act, neglect or default of the master, mariner, pilot or the servant of the carrier of the goods in the navigation or in the management of the ship; or (B) any fire unless caused by the actual fault or privity of the carrier of the goods. (3) The multimodal transport operator is not liable under subsection (1) for loss resulting from delay in the delivery of the goods unless the consignor has made a declaration of interest in timely delivery which has been accepted by the multimodal transport operator. (4) If any loss of or damage to the goods is the result of the unseaworthiness of the ship in which the goods are carried, the multimodal transport operator is not liable under subsection (1) if the multimodal transport operator proves that due diligence has been exercised to make the ship seaworthy at the commencement of the voyage. (5) For the purpose of this Part, delay in delivery occurs when the goods have not been delivered within the time expressly agreed upon by the parties to the multimodal transport contract or, in the absence of such agreement, within the time which it would be reasonable for a diligent multimodal transport operator to deliver the goods, having regard to the circumstances of the case. (6) If the goods have not been delivered within 90 consecutive days after the date determined in accordance with subsection (5), any person entitled to claim the goods may, in the absence of evidence to the contrary, treat the goods as lost."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART 4 - LIABILITIES OF MULTIMODAL",
+      "section": "16",
+      "title": "Assessment of compensation",
+      "content": "16. —(1) An assessment of compensation by a multimodal transport operator of a multimodal transport contract for the loss of or damage to the goods that are the subject of the contract, and for which the multimodal transport operator is liable under section 15, is to be made by reference to the value of such goods — ( a ) at the place and time that the goods are delivered to the consignee of the goods; or ( b ) at the place and time when, in accordance with the multimodal transport contract, the goods should have been so delivered. (2) The value of the goods is to be determined according to — ( a ) their current commodity exchange price; ( b ) if there is no current commodity exchange price, their current market price; or ( c ) if there is no current commodity exchange price or current market price, the normal value of goods of the same kind and quality based on other sale transactions relating to the goods."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART 4 - LIABILITIES OF MULTIMODAL",
+      "section": "17",
+      "title": "Limit on liability of multimodal transport operator",
+      "content": "17. —(1) Subject to subsection (2) and sections 18, 19, 21 and 22, a multimodal transport operator of a multimodal transport contract is not liable under section 15 for any loss of or damage to the goods that are the subject of the contract, in an amount exceeding the higher of the following: ( a ) the equivalent of 666.67 SDR per package or shipping unit of the goods lost or damaged; ( b ) 2.00 SDR per kilogram of gross weight of the goods lost or damaged. (2) Subsection (1) does not apply if the nature and value of the goods have been declared by the consignor of the goods before the goods are taken in charge by the multimodal transport operator, and inserted in the multimodal transport document."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART 4 - LIABILITIES OF MULTIMODAL",
+      "section": "18",
+      "title": "Liability of multimodal transport operator if no carriage of goods by sea, etc.",
+      "content": "18. If a multimodal transport contract does not provide for the carriage of goods by sea or inland waterways, the liability of the multimodal transport operator under section 15 for the loss of or damage to the goods is limited to an amount not exceeding 8.33 SDR per kilogram of gross weight of the goods lost or damaged."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART 4 - LIABILITIES OF MULTIMODAL",
+      "section": "19",
+      "title": "Liability to be determined in accordance with other conventions or law",
+      "content": "19. If the loss of or damage to the goods that are the subject of a multimodal transport contract occurred during a particular stage of the international multimodal transport of the goods, in respect of which a mandatory law would have provided another limit of liability if a separate contract of carriage had been made for that particular stage of transport, then the limit of the multimodal transport operator’s liability under section 15 for such loss or damage is to be determined by reference to such mandatory law."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART 4 - LIABILITIES OF MULTIMODAL",
+      "section": "20",
+      "title": "Liability of multimodal transport operator other than for loss of or damage to goods",
+      "content": "20. Subject to sections 19, 21 and 22, the liability of a multimodal transport operator of a multimodal transport contract under section 15 for loss resulting from delay in the delivery of the goods that are the subject of the contract, or any consequential loss or damage (other than loss of or damage to the goods), is limited to an amount equivalent to the freight under the contract."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART 4 - LIABILITIES OF MULTIMODAL",
+      "section": "21",
+      "title": "Aggregate liability of multimodal transport operator",
+      "content": "21. The aggregate liability of a multimodal transport operator of a multimodal transport contract under this Part must not exceed the limits of liability for the total loss of the goods that are the subject of the contract calculated in accordance with sections 17 and 18."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART 4 - LIABILITIES OF MULTIMODAL",
+      "section": "22",
+      "title": "Aggregate liability of multimodal transport operator and servant, agent, etc.",
+      "content": "22. The aggregate liability of — ( a ) a multimodal transport operator of a multimodal transport contract; and ( b ) any servant or agent of the multimodal transport operator, or other person whose services the multimodal transport operator has used in order to perform the contract, must not exceed the limits in sections 17 to 21."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "PART 4 - LIABILITIES OF MULTIMODAL",
+      "section": "23",
+      "title": "Multimodal transport operator and servant, agent, etc., not entitled to limitation of liability if loss, etc., resulted from personal act or omission",
+      "content": "23. —(1) The multimodal transport operator is not entitled to the benefit of the limitation of liability under this Part for the loss of, damage to, or delay in the delivery of the goods if it is proved that the loss, damage or delay resulted from an act or omission of the multimodal transport operator that is done — ( a ) with the intention to cause such loss, damage or delay; or ( b ) recklessly and with knowledge that such loss, damage or delay would probably result. (2) A servant or an agent of a multimodal transport operator or other person whose services a multimodal transport operator makes use of for the carriage of goods is not entitled to the benefit of the limitation of liability under this Part if it is proved that the loss, damage or delay resulted from an act or omission of such servant, agent or other person that is done — ( a ) with the intention to cause such loss, damage or delay; or ( b ) recklessly and with knowledge that such loss, damage or delay would probably result."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "PART 5 - DUTIES AND LIABILITIES OF CONSIGNOR",
+      "section": "24",
+      "title": "Responsibilities of consignor",
+      "content": "24. —(1) The consignor of any goods that are the subject of a multimodal transport contract is deemed to have guaranteed to the multimodal transport operator of the contract that, at the time the goods were taken in charge by the multimodal transport operator, all of the following particulars specified in the multimodal transport document are accurate: ( a ) the general nature of the goods; ( b ) the marks, number, weight, volume and quantity of the goods; ( c ) if applicable, the dangerous character of the goods as furnished by the consignor or on the consignor’s behalf for insertion in the multimodal transport document relating to the contract. (2) The consignor of any goods that are the subject of a multimodal transport contract must mark or label dangerous goods in accordance with any international conventions or laws applicable in the country in which the goods are taken in charge by the multimodal transport operator of the contract. (3) Where the consignor of any dangerous goods that are the subject of a multimodal transport contract hands over those goods to the multimodal transport operator of the contract, or any servant or agent of the multimodal transport operator, or other person acting on behalf of the multimodal transport operator, the consignor must inform the multimodal transport operator, servant, agent or person (as the case may be) of the dangerous character of the goods and, if necessary, the precautions to be taken. (4) If the consignor fails to so inform the multimodal transport operator, servant, agent or person, and the multimodal transport operator does not otherwise have knowledge of the dangerous character of the goods — ( a ) the consignor is liable to the multimodal transport operator for any loss incurred by the multimodal transport operator in the course of the shipment of such goods and that is related to the dangerous character of the goods; and ( b ) despite section 15, the goods may at any time during the international multimodal transport be unloaded, destroyed or rendered innocuous, as the circumstances may require, without payment of compensation to the consignor or any person to whom the multimodal transport operator is taken to have given an undertaking under section 14. (5) Subsection (4) does not apply if, during the international multimodal transport of the goods, the multimodal transport operator has taken in charge the goods with knowledge of the dangerous character of the goods. (6) If, in a case where subsection (4)( b ) does not apply, the dangerous goods become an actual danger to life or property, they may (despite section 15) be unloaded, destroyed or rendered innocuous at any time during the international multimodal transport, as the circumstances may require, without payment of compensation to the consignor or any person to whom the multimodal transport operator is taken to have given an undertaking under section 14, except where — ( a ) there is an obligation on the multimodal transport operator to contribute in general average; or ( b ) the multimodal transport operator or the servant, agent or person for whose act or omission the multimodal transport operator is liable under section 13, failed to take all reasonable measures to prevent the dangerous goods becoming an actual danger. (7) The consignor of any goods that are the subject of a multimodal transport contract must indemnify the multimodal transport operator of the contract against any loss incurred by the multimodal transport operator resulting from any inadequacy or inaccuracy of any particulars or information provided by the consignor under subsection (1), (2) or (3), as the case may be. (8) The consignor of any goods that are the subject of a multimodal transport contract remains liable to indemnify the multimodal transport operator of the contract under subsection (7) even if the multimodal transport document relating to the contract has been transferred by the consignor. (9) The right of the multimodal transport operator of a multimodal transport contract to indemnity under subsection (7) does not limit the multimodal transport operator’s liability under the multimodal transport contract to any person other than the consignor of the goods."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "PART 6 - MISCELLANEOUS",
+      "section": "25",
+      "title": "Handing over of goods prima facie evidence of delivery",
+      "content": "25. —(1) Unless written notice of loss of or damage to any goods that are the subject of a multimodal transport contract, specifying the general nature of such loss or damage, is given by the consignee of the goods to the multimodal transport operator of the contract when the goods were handed over to the consignee, such handing‑over is prima facie evidence of the delivery by the multimodal transport operator of the goods as described in the multimodal transport document relating to the contract. (2) Where the loss of or damage to the goods is not apparent, subsection (1) applies if the notice in that subsection is not given within 6 consecutive days after the day when the goods were handed over to the consignee of the goods."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "PART 6 - MISCELLANEOUS",
+      "section": "26",
+      "title": "Time bar",
+      "content": "26. Unless otherwise expressly agreed by the parties to a multimodal transport contract, no action in a court or arbitral proceedings relating to the international multimodal transport of any goods that are the subject of the contract may be brought unless the action or proceedings is or are instituted — ( a ) within a period of 9 months after the delivery of the goods that are the subject of the contract; or ( b ) if the goods have not been delivered, within a period of 9 months — (i) after the date on which the goods should have been delivered; or (ii) after the date on which, in accordance with section 15(6), failure to deliver the goods would give the consignee of the goods the right to treat the goods as lost."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "PART 6 - MISCELLANEOUS",
+      "section": "27",
+      "title": "Dispute may be referred to arbitration",
+      "content": "27. —(1) Any dispute relating to the international multimodal transport of any goods is capable of settlement by arbitration in Singapore between parties to the multimodal transport contract relating to the goods but only if — ( a ) the principal place of business of the respondent or, in the absence of such a place, the habitual residence of the respondent is in Singapore; ( b ) the place where the multimodal transport contract was made is in Singapore, but only if the respondent has in Singapore a place of business, branch or an agency through which the contract was made; ( c ) the place the multimodal transport operator takes in charge the goods, or the place of delivery of the goods, is in Singapore; or ( d ) Singapore is the designated place for arbitration in the arbitration clause of the contract or in an arbitration agreement between the parties. (2) The arbitrator, or arbitration tribunal, in Singapore is to apply the provisions of this Act for any arbitration instituted in Singapore pursuant to subsection (1)."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "PART 6 - MISCELLANEOUS",
+      "section": "28",
+      "title": "Multimodal transport document void if it departs from provisions of Act",
+      "content": "28. —(1) Any stipulation in a multimodal transport document relating to any goods is void and of no effect to the extent — ( a ) it is inconsistent with the provisions of this Act; and ( b ) it is prejudicial to the consignor or consignee of the goods. (2) To avoid doubt, subsection (1) does not affect any other stipulations contained in the multimodal transport document. (3) Subsection (1) does not prevent the parties to a multimodal transport contract from agreeing that the multimodal transport operator of the contract should bear a greater liability than that imposed on the multimodal transport operator under this Act."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "PART 6 - MISCELLANEOUS",
+      "section": "29",
+      "title": "Rules of general average",
+      "content": "29. Nothing in this Act prevents the application of any rules pertaining to general average adjustment — ( a ) contained in a multimodal transport contract; or ( b ) under any law, to the extent they are applicable."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "PART 6 - MISCELLANEOUS",
+      "section": "30",
+      "title": "Act does not affect certain written laws",
+      "content": "30. —(1) This Act does not affect any rights or obligations of a multimodal transport operator, carrier, consignor or consignee provided under — ( a ) any written law implementing any treaty, convention or other international agreement or arrangement to which Singapore is a party; or ( b ) any other written law, for the protection of human health, public safety and the environment. (2) This Act also does not affect any written law that implements any treaty, convention or other international agreement or arrangement that is applicable to a multimodal transport contract or any part of a multimodal transport contract."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "PART 6 - MISCELLANEOUS",
+      "section": "31",
+      "title": "Regulations",
+      "content": "31. The Minister may make regulations necessary or convenient for carrying out or giving effect to this Act, and for prescribing anything which under this Act is to be or may be prescribed."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "ASEAN Framework Agreement on Multimodal Transport",
+      "definition": "“ASEAN Framework Agreement on Multimodal Transport” means the ASEAN Framework Agreement on Multimodal Transport, signed at Vientiane, Lao People’s Democratic Republic, on 17 November 2005;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ASEAN member country",
+      "definition": "“ASEAN member country” means a country declared by the Minister, by notification in the Gazette , as having ratified or acceded to the ASEAN Framework Agreement on Multimodal Transport;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "carrier",
+      "definition": "“carrier” , in relation to any goods that are the subject of a multimodal transport contract, means a person who performs or undertakes to perform the carriage, or part of the carriage, of the goods by any mode of transport, whether or not the person is the multimodal transport operator of the contract;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "consignee",
+      "definition": "“consignee” , in relation to any goods that are the subject of a multimodal transport contract, means the person entitled under the multimodal transport contract to receive the goods from the multimodal transport operator of the contract;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "consignor",
+      "definition": "“consignor” , in relation to any goods that are the subject of a multimodal transport contract, means the person who concluded the contract with another person under which the other person is to be the multimodal transport operator;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "deliver",
+      "definition": "“deliver” , in relation to any goods that are the subject of a multimodal transport contract, means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "goods",
+      "definition": "“goods” means any property (including any container, pallet or similar article of transport or packaging not supplied by a multimodal transport operator), whether such property is or is to be carried on or under the deck of a conveyance;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "international multimodal transport",
+      "definition": "“international multimodal transport” means the carriage of goods on the basis of a multimodal transport contract by at least 2 different modes of transport — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mandatory law",
+      "definition": "“mandatory law” means any law of Singapore, or any international convention forming part of the law of Singapore, relating to the carriage of goods, the provisions of which cannot be departed from by contractual stipulations detrimental to the consignor or consignee;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "mode of transport",
+      "definition": "“mode of transport” means transport by road, rail, inland waterways, sea or air;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "multimodal transport contract",
+      "definition": "“multimodal transport contract” means a contract whereby a multimodal transport operator undertakes, against payment of freight, to perform or to procure the performance of international multimodal transport of goods;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "multimodal transport document",
+      "definition": "“multimodal transport document” means a document which evidences — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "multimodal transport operator",
+      "definition": "“multimodal transport operator” means any person who — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registration certificate",
+      "definition": "“registration certificate” means a document issued by the Singapore competent national body certifying that a multimodal transport operator is included in the register of the Singapore competent national body;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Singapore competent national body",
+      "definition": "“Singapore competent national body” means the person or authority authorised by the Minister, by notification in the Gazette , as the competent national body of Singapore, for the purposes of the ASEAN Framework Agreement on Multimodal Transport;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "special drawing right",
+      "definition": "“special drawing right” or “SDR” means the unit of account by that name as defined by the International Monetary Fund on its official website at https://www.imf.org/;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "taking in charge",
+      "definition": "“taking in charge” , in relation to any goods that are the subject of a multimodal transport contract, means the goods have been handed over and accepted for carriage by the multimodal transport operator of the contract;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "writing",
+      "definition": "“writing” — ( a )",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "id": "tsfa-2002",
+  "type": "statute",
+  "title": "Terrorism (Suppression of Financing) Act 2002",
+  "title_en": "Terrorism (Suppression of Financing) Act 2002",
+  "short_name": "TSFA2002",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/TSFA2002",
+  "description": "An Act to suppress the financing of terrorism, to give effect to the International Convention for the Suppression of the Financing of Terrorism and for matters connected therewith.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Terrorism (Suppression of Financing) Act 2002."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. —(1) In this Act, unless the context otherwise requires — “entity” means a person, group, trust, partnership or fund or an unincorporated association or organisation; “police officer” includes a Commercial Affairs Officer mentioned in section 64 of the Police Force Act 2004; “property” means — ( a ) assets of every kind, whether tangible or intangible, movable or immovable, however acquired; and ( b ) legal documents or instruments in any form, including electronic or digital, evidencing title to, or interest in, such assets, including, but not limited to, bank credits, travellers cheques, bank cheques, money orders, shares, securities, bonds, drafts and letters of credit; “terrorism financing offence” means — ( a ) any offence under section 3, 4, 5 or 6; ( b ) conspiracy to commit any of those offences; ( c ) inciting another to commit any of those offences; ( d ) attempting to commit any of those offences; or ( e ) aiding, abetting, counselling or procuring the commission of any of those offences; “terrorist” means any person who — ( a ) commits, or attempts to commit, any terrorist act; or ( b ) participates in or facilitates the commission of any terrorist act, and includes any person set out in the First Schedule; “terrorist entity” means any entity owned or controlled by any terrorist or group of terrorists and includes an association of such entities, and any entity set out in the First Schedule. [17/2013; 4/2014] (2) Subject to subsection (3), for the purposes of this Act, “terrorist act” means the use or threat of action — ( a ) where the action — (i) involves serious violence against a person; (ii) involves serious damage to property; (iii) endangers a person’s life; (iv) creates a serious risk to the health or the safety of the public or a section of the public; (v) involves the use of firearms or explosives; (vi) involves releasing into the environment or any part thereof, or distributing or otherwise exposing the public or any part thereof to — (A) any dangerous, hazardous, radioactive or harmful substance; (B) any toxic chemical; or (C) any microbial or other biological agent, or toxin; (vii) disrupts, or seriously interferes with, any public computer system or the provision of any service directly related to communications infrastructure, banking and financial services, public utilities, public transportation or public key infrastructure; (viii) disrupts, or seriously interferes with, the provision of essential emergency services such as the police, civil defence and medical services; or (ix) involves prejudice to public security or national defence; and ( b ) where the use or threat is intended or reasonably regarded as intending to — (i) influence or compel the Government, any other government, or any international organisation to do or refrain from doing any act; or (ii) intimidate the public or a section of the public, and includes any action specified in the Second Schedule. [17/2013] (3) Despite anything in subsection (2), a terrorist act does not include the activities undertaken by military forces of a State in the exercise of their official duties, to the extent that those activities are governed by other rules of international law. (4) For the purposes of subsection (2) — ( a ) a reference to any person or property is a reference to any person or property wherever situated, within or outside Singapore; and ( b ) a reference to the public includes a reference to the public of a country or territory other than Singapore. (5) In subsection (3), “military forces of a State” means the armed forces of a State which are organised, trained and equipped under its internal law for the primary purpose of national defence or security and persons acting in support of those armed forces who are under their formal command, control and responsibility."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART 2 - TERRORIST PROPERTY",
+      "section": "3",
+      "title": "Prohibition against providing or collecting property for terrorist acts",
+      "content": "3. —(1) Every person who directly or indirectly, wilfully and without lawful excuse, provides or collects property — ( a ) with the intention that the property be used; or ( b ) knowing or having reasonable grounds to believe that the property will be used, in whole or in part, in order to commit any terrorist act, shall be guilty of an offence. [17/2013; 51/2018] (2) Any person who acts reasonably in taking, or omitting to take, measures to avoid committing an offence under subsection (1) shall not be liable in any civil proceedings arising from taking or omitting to take those measures. [51/2018]"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART 2 - TERRORIST PROPERTY",
+      "section": "4",
+      "title": "Prohibition against provision of property and services for terrorist purposes",
+      "content": "4. —(1) Every person who directly or indirectly, collects property, provides or invites a person to provide, or makes available property or financial or other related services — ( a ) intending that they be used, or knowing or having reasonable grounds to believe that they will be used, in whole or in part, for the purpose of facilitating or carrying out any terrorist act, or for benefiting any person who is facilitating or carrying out such an activity; or ( b ) knowing or having reasonable grounds to believe that, in whole or in part, they will be used by or will benefit any terrorist or terrorist entity, shall be guilty of an offence. [17/2013; 51/2018] (2) Any person who acts reasonably in taking, or omitting to take, measures to avoid committing an offence under subsection (1) shall not be liable in any civil proceedings arising from taking or omitting to take those measures. [51/2018] (3) In this section, a reference to facilitating or carrying out any terrorist act includes a reference to financing the travel of an individual to any place other than the state of which the individual is a citizen or in which the individual resides, in order for the individual to provide or receive any training in facilitating or carrying out any terrorist act. [51/2018]"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART 2 - TERRORIST PROPERTY",
+      "section": "5",
+      "title": "Prohibition against use or possession of property for terrorist purposes",
+      "content": "5. —(1) Every person who — ( a ) uses property, directly or indirectly, in whole or in part, for the purpose of facilitating or carrying out any terrorist act; or ( b ) possesses property intending that it be used or knowing or having reasonable grounds to believe that it will be used, directly or indirectly, in whole or in part, for the purpose of facilitating or carrying out a terrorist act, shall be guilty of an offence. [17/2013; 51/2018] (2) Any person who acts reasonably in taking, or omitting to take, measures to avoid committing an offence under subsection (1) shall not be liable in any civil proceedings arising from taking or omitting to take those measures. [51/2018]"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART 2 - TERRORIST PROPERTY",
+      "section": "6",
+      "title": "Prohibition against dealing with property of terrorists",
+      "content": "6. —(1) No person in Singapore and no citizen of Singapore outside Singapore may — ( a ) deal, directly or indirectly, in any property that the person knows or has reasonable grounds to believe is owned or controlled by or on behalf of any terrorist or terrorist entity, including funds derived or generated from property owned or controlled, directly or indirectly, by any terrorist or terrorist entity; ( b ) enter into or facilitate, directly or indirectly, any financial transaction related to a dealing in property mentioned in paragraph ( a ); or ( c ) provide any financial services or any other related services in respect of any property mentioned in paragraph ( a ) to, or for the benefit of, or on the direction or order of, any terrorist or terrorist entity. (2) Any person who contravenes subsection (1) shall be guilty of an offence. [17/2013] (3) Any person who acts reasonably in taking, or omitting to take, measures to comply with subsection (1) shall not be liable in any civil proceedings arising from having taken or omitted to take the measures, if the person took all reasonable steps to satisfy himself, herself or itself that the relevant property was owned or controlled by or on behalf of any terrorist or terrorist entity."
+    },
+    {
+      "provision_ref": "s6A",
+      "chapter": "PART 2 - TERRORIST PROPERTY",
+      "section": "6A",
+      "title": "Penalty",
+      "content": "6A. Any person who is guilty of an offence under section 3, 4, 5 or 6 shall be liable on conviction — ( a ) in the case of an individual, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 10 years or to both; or ( b ) in any other case, to a fine not exceeding the higher of — (i) $1 million; or (ii) twice the value of the property (including funds derived or generated from the property), financial services or other related services, or financial transaction (as the case may be) in respect of which the offence was committed. [17/2013; 51/2018]"
+    },
+    {
+      "provision_ref": "s6B",
+      "chapter": "PART 2 - TERRORIST PROPERTY",
+      "section": "6B",
+      "title": "Abetment, etc., of offence under section 3, 4, 5 or 6",
+      "content": "6B. A person who commits an act or omission that would constitute an abetment of, or a conspiracy or an attempt to commit, an offence under section 3, 4, 5 or 6 shall be guilty of an offence and shall be liable on conviction to the same punishment as for the offence under section 3, 4, 5 or 6, as the case may be. [51/2018]"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART 2 - TERRORIST PROPERTY",
+      "section": "7",
+      "title": "Exemption",
+      "content": "7. —(1) Subject to subsection (2), the Minister may, by order in the Gazette , exempt any person in Singapore, or any citizen of Singapore outside Singapore, from section 4(1)( b ) or 6 or both, in respect of any specified activity or transaction or a class of specified activities or transactions carried out by the person or citizen. [17/2013] [S 759/2022] (2) An exemption under subsection (1) from section 4(1)( b ) may not be made in respect of any activity or transaction involving property or services that will be used by or will benefit a terrorist entity. [17/2013] [S 759/2022] (3) An exemption under subsection (1) may be subject to any terms and conditions, including a condition precedent that the person exempted must have a notice of exemption from the Minister or a public officer authorised by the Minister before the exemption takes effect. [17/2013] (4) If a person is exempted under an order made under subsection (1) in respect of any activity or transaction or class of activities or transactions, any other person involved in carrying out — ( a ) the activity or transaction; or ( b ) any activity or transaction in that class of activities or transactions, to which the exemption relates is also exempt from section 4(1)( b ) or 6 or both (whichever applies to the act carried out by that other person), and section 8, if the terms and conditions of the exemption (if any) are met. [17/2013] [S 759/2022]"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART 3 - DISCLOSURE AND TIPPING-OFF",
+      "section": "8",
+      "title": "Duty to disclose",
+      "content": "8. —(1) Every person in Singapore and every citizen of Singapore outside Singapore who — ( a ) has possession, custody or control of any property belonging to any terrorist or terrorist entity; or ( b ) has information about any transaction or proposed transaction in respect of any property belonging to any terrorist or terrorist entity, must immediately inform the Commissioner of Police of that fact or information. (2) The Commissioner of Police may require the person mentioned in subsection (1) to provide such further information or particulars as the Commissioner may think fit, and the person must comply with the requirement. [51/2018] (3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction — ( a ) if the person is an individual, and the property mentioned in subsection (1)( a ) came into the person’s possession, custody or control, or the information or particulars mentioned in subsection (1)( b ) or (2) came to the person’s attention, in the course of the person’s trade, profession, business or employment — to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 5 years or to both; ( b ) if the person is an individual, but paragraph ( a ) does not apply — to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 5 years or to both; or ( c ) if the person is not an individual, to a fine not exceeding — (i) where subsection (1) was contravened, the higher of — (A) $1 million; or (B) twice the value of the property mentioned in subsection (1)( a ) or ( b ), as the case may be; or (ii) where subsection (2) was contravened, $1 million. [51/2018] (4) It is a defence for a person charged with an offence under subsection (1) to prove that the person had a reasonable excuse for not informing the Commissioner of Police. (5) No criminal or civil proceedings shall lie against a person for any disclosure made in good faith under subsection (1) or (2). (6) In this section, “Commissioner of Police” includes — ( a ) any police officer; and ( b ) any other person authorised by the Commissioner of Police to act for the Commissioner for the purposes of this section."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART 3 - DISCLOSURE AND TIPPING-OFF",
+      "section": "9",
+      "title": "Duty to audit",
+      "content": "9. —(1) The Minister may, by order in the Gazette , require any person or class of persons to determine on a continuing basis whether they are in possession or control of property owned or controlled by or on behalf of any terrorist or terrorist entity. (2) Any order mentioned in subsection (1) may require any person or class of persons specified in the order to report to such persons and within such regular periods as may be specified in the order — ( a ) whether they are in possession or control of any property mentioned in subsection (1); and ( b ) if they are in possession or control of any property mentioned in subsection (1) — (i) the number of persons, contracts or accounts involved; (ii) the total value of the property involved; (iii) the manner by which the property came to be in its possession; and (iv) such other particulars as may be specified in the order. (3) No criminal or civil proceedings shall lie against a person for making a report in good faith under subsection (2). (4) Any person who contravenes any order made under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 5 years or to both."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART 3 - DISCLOSURE AND TIPPING-OFF",
+      "section": "10",
+      "title": "Information about acts of terrorism financing",
+      "content": "10. —(1) Every person in Singapore who has information which the person knows or believes may be of material assistance — ( a ) in preventing the commission by another person of a terrorism financing offence; or ( b ) in securing the apprehension, prosecution or conviction of another person, in Singapore, for an offence involving the commission, preparation or instigation of a terrorism financing offence, who fails to disclose the information immediately to a police officer shall be guilty of an offence. [51/2018] (2) Any person who commits an offence under subsection (1) shall be liable on conviction — ( a ) if the person is an individual, and the information came to the person’s attention in the course of the person’s trade, profession, business or employment — to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 5 years or to both; ( b ) if the person is an individual, but paragraph ( a ) does not apply — to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 5 years or to both; or ( c ) if the person is not an individual, to a fine not exceeding — (i) where a terrorism financing offence was committed, the higher of — (A) $1 million; or (B) twice the value of the property (including funds derived or generated from the property), financial services or other related services, or financial transaction (as the case may be) in respect of which the terrorism financing offence was committed; or (ii) where no terrorism financing offence was committed, $1 million. [51/2018] (3) It is a defence for a person charged with an offence under subsection (1) to prove that the person had a reasonable excuse for not making the disclosure. (4) No criminal or civil proceedings shall lie against a person for any disclosure made in good faith under this section."
+    },
+    {
+      "provision_ref": "s10A",
+      "chapter": "PART 3 - DISCLOSURE AND TIPPING-OFF",
+      "section": "10A",
+      "title": "Information and identity of informers not to be disclosed",
+      "content": "10A. —(1) Except as provided in subsection (3) — ( a ) no information disclosed by an informer pursuant to section 8, 9 or 10 is to be admitted in evidence in any criminal or civil proceedings; and ( b ) no witness in any criminal or civil proceedings is obliged — (i) to disclose the name and address of any informer; or (ii) to answer any question if the answer would lead, or would tend to lead, to the discovery of the name or address of the informer. [17/2013] (2) If any book, document or paper which is in evidence or liable to inspection in any criminal or civil proceedings contains any entry in which any informer is named or described or which may lead to the informer’s discovery, the court must cause those entries to be concealed from view or to be obliterated so far as may be necessary to protect the informer from discovery. [17/2013] (3) If a court — ( a ) in any proceedings before it for an offence under any written law, after full inquiry into the case, is satisfied that an informer wilfully made a material statement which the informer knew or believed to be false or did not believe to be true; or ( b ) in any other proceedings, is of the opinion that justice cannot be fully done between the parties to the proceedings without the disclosure of the name of an informer, the court may permit inquiry and require full disclosure concerning the informer. [17/2013] (4) In this section, “informer” means a person who makes a disclosure or report pursuant to section 8, 9 or 10. [17/2013]"
+    },
+    {
+      "provision_ref": "s10B",
+      "chapter": "PART 3 - DISCLOSURE AND TIPPING-OFF",
+      "section": "10B",
+      "title": "Tipping-off",
+      "content": "10B. —(1) Any person — ( a ) who knows or has reasonable grounds to suspect that a police officer is acting, or is proposing to act, in connection with an investigation which is being, or is about to be, conducted under or for the purposes of this Act; and ( b ) who discloses to any other person information or any other matter which is likely to prejudice that investigation or proposed investigation, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 5 years or to both. [17/2013; 51/2018] (2) Any person — ( a ) who knows or has reasonable grounds to suspect that a disclosure or report has been or is being made under section 8, 9 or 10; and ( b ) who discloses to any other person information or any other matter which is likely to prejudice any investigation which might be conducted following the disclosure or report, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 5 years or to both. [17/2013; 51/2018] (3) Nothing in subsection (1) or (2) makes it an offence for an advocate and solicitor or his or her employee to disclose any information or other matter — ( a ) to, or to a representative of, a client of his or hers in connection with the giving of advice to the client in the course of and for the purpose of the professional employment of the advocate and solicitor; or ( b ) to any person — (i) in contemplation of, or in connection with, legal proceedings; and (ii) for the purpose of those proceedings. [17/2013] (4) Nothing in subsection (1) or (2) makes it an offence for a legal counsel in an entity or a person acting under his or her supervision to disclose any information or other matter — ( a ) to the entity in connection with the giving of advice to the entity, or any officer or employee of the entity, in the course of and for the purpose of his or her employment as such legal counsel; or ( b ) to any person — (i) in contemplation of, or in connection with, legal proceedings; and (ii) for the purpose of those proceedings. [17/2013] (5) Where a legal counsel is employed by one of a number of corporations that are related to each other under section 6 of the Companies Act 1967, subsection (4) applies in relation to the legal counsel and every corporation so related as if the legal counsel were also employed by each of the related corporations. [17/2013] (6) Where a legal counsel is employed by a public agency and is required as part of his or her duties of employment or appointment to provide legal advice or assistance in connection with the application of the law or any form of resolution of legal dispute to another public agency or agencies, subsection (4) applies in relation to the legal counsel and the second-mentioned public agency or agencies as if the legal counsel were also employed by the second-mentioned public agency or agencies. [17/2013] (7) Subsections (3) and (4) do not apply in relation to any information or other matter which is disclosed with a view to furthering any illegal purpose. [17/2013] (8) In proceedings against a person for an offence under subsection (1) or (2), it is a defence to prove that the person did not know and had no reasonable ground to suspect that the disclosure was likely to be prejudicial in the way mentioned in subsection (1) or (2). [17/2013] (9) A person shall not be guilty of an offence under this section in respect of anything done by the person in the course of acting in connection with the enforcement, or intended enforcement, of any provision of this Act or other penal legislation. [17/2013] (10) In this section — “legal counsel” has the meaning given by section 3(7) of the Evidence Act 1893; “public agency” has the meaning given by section 128A(6) of the Evidence Act 1893. [17/2013]"
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART 4 - SEIZURE, FREEZING AND CONFISCATION",
+      "section": "11",
+      "title": "Application for warrant for seizure and order for restraint of property",
+      "content": "11. —(1) A Judge may, on an application without notice by the Public Prosecutor, after examining the application in private and if satisfied that there is in any building, receptacle or place any property in respect of which an order of forfeiture may be made under section 24, issue — ( a ) if the property is situated in Singapore, a warrant authorising any police officer, or person named in the warrant — (i) to search the building, receptacle or place for that property; and (ii) to seize that property and any other property which that police officer or person believes, on reasonable grounds, that an order of forfeiture may be made under section 24; or ( b ) whether the property is situated in or outside Singapore, a restraint order prohibiting any person from disposing of, or otherwise dealing with any interest in, that property, other than as may be specified in the order. [15/2010] [Act 25 of 2021 wef 01/04/2022] (2) For the purpose of subsection (1)( b ), dealing with any interest in any property held by any person includes (without limiting the expression) — ( a ) where a debt is owed to that person, making a payment to any person in reduction of the amount of the debt; and ( b ) removing the property from Singapore. (3) A restraint order issued under subsection (1)( b ) may be subject to any conditions that the Judge thinks fit. (4) A copy of a restraint order issued under subsection (1)( b ) must be served on the person to whom the order is addressed in such manner as the Judge directs or as provided in the Rules of Court."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART 4 - SEIZURE, FREEZING AND CONFISCATION",
+      "section": "12",
+      "title": "Contents of application for warrant or order",
+      "content": "12. An affidavit in support of an application by the Public Prosecutor under section 11 may be sworn or affirmed on information and belief. [15/2010]"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART 4 - SEIZURE, FREEZING AND CONFISCATION",
+      "section": "13",
+      "title": "Undertakings for warrant or order",
+      "content": "13. Before issuing a warrant under section 11(1)( a ) or an order under section 11(1)( b ), the Judge may require the Public Prosecutor to give any undertakings that the Judge considers appropriate with respect to the payment of damages or costs, or both, in relation to the issuance and execution of the warrant or the making and execution of the restraint order. [15/2010]"
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART 4 - SEIZURE, FREEZING AND CONFISCATION",
+      "section": "14",
+      "title": "Contravention of order",
+      "content": "14. Any person on whom an order issued under section 11(1)( b ) is served under section 11(4) who, while the order is in force, contravenes the order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 5 years or to both."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART 4 - SEIZURE, FREEZING AND CONFISCATION",
+      "section": "15",
+      "title": "Appointment of manager, etc.",
+      "content": "15. —(1) On an application under section 11, at the request of the Public Prosecutor, if a Judge is of the opinion that the circumstances so require, the Judge may by order — ( a ) appoint a person to take control of, and manage or otherwise deal with, all or part of the property in accordance with the directions of the Judge; and ( b ) require any person having possession of that property to give possession of the property to the person appointed under paragraph ( a ). [15/2010] (2) When the Public Prosecutor so requests, a Judge appointing a person under subsection (1) is to appoint the Public Trustee. [15/2010]"
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART 4 - SEIZURE, FREEZING AND CONFISCATION",
+      "section": "16",
+      "title": "Power to manage",
+      "content": "16. —(1) The power to manage or otherwise deal with property under section 15 includes — ( a ) in the case of perishable or rapidly depreciating property, the power to sell that property; and ( b ) in the case of property that has little or no value, the power to destroy that property. (2) Before a person appointed under section 15 destroys property mentioned in subsection (1)( b ), the person must apply to a Judge for a destruction order. (3) Before making a destruction order in relation to any property, a Judge must require notice in accordance with subsection (4) to be given to, and may hear, any person who, in the opinion of the Judge, appears to have a valid interest in the property. (4) A notice under subsection (3) must be given in the manner that the Judge directs or as provided in the Rules of Court. (5) A Judge may order that property be destroyed if the Judge is satisfied that the property has little or no financial or other value."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART 4 - SEIZURE, FREEZING AND CONFISCATION",
+      "section": "17",
+      "title": "Cessation of order or appointment",
+      "content": "17. An order issued under section 11(1)( b ) or 15(1) remains in effect until — ( a ) it is revoked or varied under section 18 or 19; ( b ) it ceases to be in force under section 20; or ( c ) the property that is the subject of the order is returned to an applicant in accordance with the law or forfeited to the Government."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART 4 - SEIZURE, FREEZING AND CONFISCATION",
+      "section": "18",
+      "title": "Application by Public Prosecutor to revoke or vary warrant or order",
+      "content": "18. The Public Prosecutor may at any time apply to a Judge to revoke or vary a warrant or order issued or made under this Part, other than an appointment made under section 15(2). [15/2010]"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART 4 - SEIZURE, FREEZING AND CONFISCATION",
+      "section": "19",
+      "title": "Application by interested person to revoke or vary warrant or order",
+      "content": "19. —(1) Any person who has an interest in the property that was seized under a warrant issued under section 11(1)( a ) or in respect of which a restraint order was issued under section 11(1)( b ) may, at any time, apply to a Judge — ( a ) for an order under subsection (4); or ( b ) for permission to examine the property. (2) Where an application is made under subsection (1)( a ) — ( a ) the application must not, without the consent of the Public Prosecutor, be heard by a Judge unless the applicant has given to the Public Prosecutor at least 2 clear days’ notice in writing of the application; and ( b ) the Judge may require notice of the application to be given to and may hear any person who, in the opinion of the Judge, appears to have a valid interest in the property. [15/2010] (3) A Judge may, on an application made to the Judge under subsection (1)( b ), order that the applicant be permitted to examine the property subject to such terms as appear to the Judge to be necessary or desirable to ensure that the property is safeguarded and preserved for any purpose for which it may subsequently be required. (4) On an application made to a Judge under subsection (1)( a ) in respect of any property and after hearing the applicant and the Public Prosecutor and any other person to whom notice was given under subsection (2)( b ), the Judge may order that the property or part thereof be returned to the applicant or, in the case of a restraint order issued under section 11(1)( b ), revoke the order, vary the order to exclude the property or any interest in the property or part thereof from the application of the order or make the order subject to any reasonable conditions that the Judge thinks fit — ( a ) if the applicant enters into a recognizance before the Judge, with or without sureties, in such amount and with such conditions, if any, as the Judge directs and where the Judge considers it appropriate, deposits with the Judge such sum of money or other valuable security as the Judge directs; ( b ) if the condition referred to in subsection (6) is satisfied; or ( c ) for the purpose of — (i) meeting the reasonable living expenses of the person who was in possession of the property at the time the warrant was executed or the order was made or any person who, in the opinion of the Judge, has a valid interest in the property and of that person’s dependants; or (ii) meeting the reasonable business and legal expenses of a person mentioned in sub‑paragraph (i), if the Judge is satisfied that the applicant has no other assets or means available for the purposes set out in this paragraph and that no other person appears to be the lawful owner of or lawfully entitled to possession of the property. [15/2010] (5) For the purpose of determining the reasonableness of expenses mentioned in subsection (4)( c ), the Public Prosecutor may, at the hearing of the application, make representations as to what would constitute the reasonableness of the expenses. [15/2010] (6) An order under subsection (4)( b ) in respect of property may be made by a Judge if the Judge is satisfied — ( a ) where the application is made by — (i) a person charged with a terrorism financing offence; or (ii) any person who acquired title to or a right of possession of that property from a person mentioned in sub-paragraph (i) under circumstances that give rise to a reasonable inference that the title or right was transferred from that person for the purpose of avoiding the forfeiture of the property, that a warrant should not have been issued under section 11(1)( a ) or a restraint order should not have been issued under section 11(1)( b ) in respect of the property; or ( b ) in any other case, that the applicant is the lawful owner of or lawfully entitled to possession of the property and appears innocent of any complicity in any terrorism financing offence or of any collusion in relation to such an offence, and that no other person appears to be the lawful owner of or lawfully entitled to possession of the property, and that the property will no longer be required for the purpose of any investigation or as evidence in any proceedings."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART 4 - SEIZURE, FREEZING AND CONFISCATION",
+      "section": "20",
+      "title": "Expiration of warrants and restraint orders",
+      "content": "20. —(1) Subject to this section, where property has been seized under a warrant issued under section 11(1)( a ) or is the subject of a restraint order issued under section 11(1)( b ), the property may be detained or the order may continue in force (as the case may be) for a period not exceeding 6 months from the seizure or the issuing of the order, as the case may be. (2) The property may continue to be detained, or the order may continue in force, for a period exceeding 6 months if proceedings are instituted in respect of which the property detained may be forfeited. (3) The property may continue to be detained or the order may continue in force for a period or periods exceeding 6 months if the continuation is, on application made by the Public Prosecutor, ordered by a Judge, where the Judge is satisfied that the property is required, after the expiration of the period or periods, for the purpose of this Act or any other Act respecting forfeiture or for the purpose of any investigation or as evidence in any proceedings. [15/2010]"
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART 4 - SEIZURE, FREEZING AND CONFISCATION",
+      "section": "21",
+      "title": "Application for forfeiture of property",
+      "content": "21. The Public Prosecutor may make an application to a Judge for an order of forfeiture in respect of — ( a ) property owned or controlled by or on behalf of any terrorist or terrorist entity; or ( b ) property that has been or will be used, in whole or in part, to facilitate or carry out a terrorist act. [15/2010]"
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART 4 - SEIZURE, FREEZING AND CONFISCATION",
+      "section": "22",
+      "title": "Contents of application for forfeiture of property",
+      "content": "22. An affidavit in support of an application by the Public Prosecutor under section 21 may be sworn or affirmed on information and belief. [15/2010]"
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "PART 4 - SEIZURE, FREEZING AND CONFISCATION",
+      "section": "23",
+      "title": "Respondents and notice",
+      "content": "23. —(1) The Public Prosecutor is required to name as a respondent to an application under section 21 only those persons who are known to own or control the property that is the subject of the application. [15/2010] (2) The Public Prosecutor must give notice of an application under section 21 to named respondents in such manner as the Judge directs or as provided in the Rules of Court. [15/2010] (3) On an application under section 21, a Judge may require notice to be given to any person who, in the opinion of the Judge, appears to have an interest in the property, and any such person must be entitled to be added as a respondent to the application."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "PART 4 - SEIZURE, FREEZING AND CONFISCATION",
+      "section": "24",
+      "title": "Order for forfeiture of property",
+      "content": "24. —(1) If a Judge is satisfied on a balance of probabilities that property is property mentioned in section 21( a ) or ( b ), the Judge is to order that the property be forfeited to the Government. (2) For the purposes of subsection (1), where the property owned or controlled by any terrorist or terrorist entity has been mixed with other property (whether the property of the terrorist or terrorist entity), the order of forfeiture is to relate to the portion of the mixed property which represents the property owned or controlled by the terrorist or terrorist entity."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "PART 4 - SEIZURE, FREEZING AND CONFISCATION",
+      "section": "25",
+      "title": "Implementation of forfeiture orders",
+      "content": "25. —(1) Where any property is ordered to be forfeited to the Government under section 24, the Judge may make such other provision as appears to the Judge to be necessary for giving effect to the order, and, in particular, may — ( a ) require any of the forfeited property to be paid or handed over to the proper officer; ( b ) direct any of the forfeited property (other than money) or land to be sold or otherwise disposed of in such manner as the Judge may direct and the proceeds (if any) to be paid to the proper officer; ( c ) appoint a receiver to take possession, subject to such conditions and exceptions as may be specified by the Judge, of any of the forfeited property, to realise it in such manner as the Judge may direct and to pay the proceeds to the proper officer. (2) For the purposes of subsection (1) — ( a ) a reference to the proceeds of the sale, disposal or realisation of property is a reference to the proceeds after deduction of the costs of sale, disposal or realisation; and ( b ) “proper officer” means any person authorised by the Minister to receive the relevant property."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "PART 4 - SEIZURE, FREEZING AND CONFISCATION",
+      "section": "26",
+      "title": "Order refusing forfeiture of property",
+      "content": "26. —(1) Where a Judge refuses an application under section 21 in respect of any property, the Judge is to make an order that describes the property and declares that it is not property mentioned in that section. (2) If a Judge is satisfied that any respondent mentioned in section 23 has an interest in any property that is subject to an application, has exercised reasonable care to ensure that the property would not be used to facilitate or carry out a terrorist act, and is not a member of a terrorist entity, the Judge is to — ( a ) order that the interest is not affected by the forfeiture; and ( b ) declare the nature and extent of the interest mentioned in paragraph ( a )."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "PART 4 - SEIZURE, FREEZING AND CONFISCATION",
+      "section": "27",
+      "title": "Application to set aside order of forfeiture",
+      "content": "27. —(1) A person who claims an interest in any property that was forfeited and who did not receive notice under section 23(3) may apply to a Judge to vary or set aside an order made under section 24(1) not later than 60 days after the day on which the forfeiture order was made. (2) A Judge must not extend the period set out in subsection (1)."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "PART 4 - SEIZURE, FREEZING AND CONFISCATION",
+      "section": "28",
+      "title": "Interim preservation rights",
+      "content": "28. Pending any appeal of an order made under section 24 — ( a ) any property seized under a warrant issued under section 11(1)( a ) shall continue to be detained; ( b ) any property restrained under an order issued under section 11(1)( b ) shall continue to be restrained; and ( c ) any person appointed to control, manage or otherwise deal with that property under section 15 continues in that capacity."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "PART 4 - SEIZURE, FREEZING AND CONFISCATION",
+      "section": "29",
+      "title": "Voidable transfers",
+      "content": "29. A Judge may — ( a ) prior to ordering any property to be forfeited under section 24; and ( b ) in the case of any property in respect of which a restraint order was issued under section 11(1)( b ), where the order was served in accordance with section 11(4), set aside any conveyance or transfer of the property that occurred after the seizure of the property or the service of the order under section 11(4), unless the conveyance or transfer was for valuable consideration to a person acting in good faith."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "PART 4 - SEIZURE, FREEZING AND CONFISCATION",
+      "section": "30",
+      "title": "Other forfeiture provisions unaffected",
+      "content": "30. This Part does not affect the operation of any other Act respecting the forfeiture of property."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "PART 5 - MUTUAL ASSISTANCE AND EXTRADITION",
+      "section": "31",
+      "title": "Interpretation of this Part",
+      "content": "31. In this Part — “Convention” means the International Convention for the Suppression of the Financing of Terrorism adopted by the General Assembly of the United Nations on 9 December 1999; “country” includes a State or territory, as the case may be."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "PART 5 - MUTUAL ASSISTANCE AND EXTRADITION",
+      "section": "32",
+      "title": "Convention as basis for assistance under Mutual Assistance in Criminal Matters Act 2000",
+      "content": "32. —(1) Where there is no treaty, memorandum of understanding or other agreement in force between Singapore and a country which is a party to the Convention relating to the provision of assistance concerning any terrorism financing offence, an order under section 17 of the Mutual Assistance in Criminal Matters Act 2000 may be made — ( a ) declaring that country as a prescribed foreign country; and ( b ) applying that Act as if there were a treaty, memorandum of understanding or other agreement under which that country has agreed to provide assistance in criminal matters to Singapore. (2) Where the Mutual Assistance in Criminal Matters Act 2000 is applied under subsection (1), the Mutual Assistance in Criminal Matters Act 2000 is, subject to subsection (3), to have effect as if the only foreign serious offences within the meaning of that Act were terrorism financing offences. (3) Subsection (2) does not affect any other order made under section 17 of the Mutual Assistance in Criminal Matters Act 2000. (4) For the purposes of the Mutual Assistance in Criminal Matters Act 2000, a terrorism financing offence — ( a ) wherever committed, is deemed to be a foreign serious offence; and ( b ) is not to be deemed to be an offence of a political character."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "PART 5 - MUTUAL ASSISTANCE AND EXTRADITION",
+      "section": "33",
+      "title": "Extradition",
+      "content": "33. —(1) Every terrorism financing offence is deemed to be an extradition offence under the Extradition Act 1968. [Act 17 of 2022 wef 01/07/2022] (2) Subject to subsection (3), where no extradition treaty is in force between Singapore and a Convention country, a notification in the Gazette under section 4 of the Extradition Act 1968 may be made applying that Act as if there were an extradition treaty between Singapore and that country. [30/2008] (3) Where the Extradition Act 1968 is applied under subsection (2), that Act has effect in relation to that country as if the only extradition offences under that Act were the relevant offences of that country . [30/2008] [Act 17 of 2022 wef 01/07/2022] (4) Subsection (3) does not affect any other notification made under section 4 of the Extradition Act 1968. [30/2008] (5) Where — ( a ) an extradition treaty is in force between Singapore and a Convention country; and ( b ) the treaty does not provide for the extradition of persons accused of or convicted of a relevant offence of that country, a notification in the Gazette under section 4 of the Extradition Act 1968 may be made applying that Act in relation to that country as if the treaty provided for the matter mentioned in paragraph ( b ). [30/2008] (6) Where a notification mentioned in subsection (5) is made, any limitation, condition, exception or qualification specified in any other notification made under section 4 of the Extradition Act 1968, or in any Order in Council mentioned in section 3 of that Act, in relation to that country is, to the extent that it prevents the relevant offence from being considered an extradition offence in relation to that country, to be disregarded in the application of that Act in relation to that country. [30/2008] [Act 17 of 2022 wef 01/07/2022] (7) For the purposes of the Extradition Act 1968 — ( a ) any act, wherever committed, which is a relevant offence of a Convention country in the case of which that Act has been applied by a notification in the Gazette made under section 4 of that Act, is deemed to be an offence within the jurisdiction of that country; and ( b ) any such offence is deemed not to be an offence of a political character. [30/2008] (8) In this section — “Convention country” means a country which is a party to the Convention; “relevant offence”, in relation to a Convention country, means an offence against the law of, or of part of, that country where the act or omission constituting the offence or the equivalent act or omission would, if it took place in or within the jurisdiction of Singapore — ( a ) constitute a terrorism financing offence; or ( b ) be such an offence if the description concerned contained a reference to any intent or state of mind on the part of the person committing the offence, or to any circumstance of aggravation, necessary to constitute the offence. [30/2008]"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "PART 6 - JURISDICTION",
+      "section": "34",
+      "title": "Extraterritoriality",
+      "content": "34. —(1) Every person who, outside Singapore, commits an act or omission that, if committed in Singapore, would constitute an offence, an abetment of an offence, or a conspiracy or attempt to commit an offence under section 3, 4 or 5 is deemed to commit the act or omission in Singapore and may be proceeded against, charged, tried and punished accordingly. (2) Where an offence under section 6 or 8 is committed by a citizen of Singapore in any place outside Singapore, the citizen may be dealt with in respect of that offence as if it had been committed within Singapore."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "PART 7 - MISCELLANEOUS",
+      "section": "35",
+      "title": "Offences by body corporate",
+      "content": "35. Where an offence under this Act has been committed by a company, firm, society or other body of persons, any person who, at the time of the commission of the offence, was a director, manager, secretary or other similar officer or a partner of the company, firm, society or other body of persons or was purporting to act in any such capacity, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly unless he or she proves that — ( a ) the offence was committed without his or her consent or connivance; and ( b ) he or she had exercised all such due diligence to prevent the commission of the offence as he or she ought to have exercised, having regard to the nature of his or her functions in that capacity and to all the circumstances."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "PART 7 - MISCELLANEOUS",
+      "section": "36",
+      "title": "No prosecution without Public Prosecutor’s consent",
+      "content": "36. A prosecution under this Act must not be instituted except by or with the consent of the Public Prosecutor."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "PART 7 - MISCELLANEOUS",
+      "section": "37",
+      "title": "Jurisdiction of District Court",
+      "content": "37. Despite any provision to the contrary in the Criminal Procedure Code 2010, a District Court has jurisdiction to try any offence under this Act and has power to impose the full penalty or punishment in respect of the offence."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "PART 7 - MISCELLANEOUS",
+      "section": "38",
+      "title": "Amendment of Schedules",
+      "content": "38. The Minister may by order in the Gazette — ( a ) amend, add to or vary the First Schedule; and ( b ) amend the Second Schedule to specify any act or omission that is punishable under any law that implements any treaty, convention or other international agreement to which Singapore is a party as a terrorist act. [17/2013]"
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "PART 7 - MISCELLANEOUS",
+      "section": "39",
+      "title": "Regulations",
+      "content": "39. The Minister may make such regulations as are necessary or expedient for the purpose of carrying out or giving effect to the provisions of this Act."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "entity",
+      "definition": "“entity” means a person, group, trust, partnership or fund or an unincorporated association or organisation;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "police officer",
+      "definition": "“police officer” includes a Commercial Affairs Officer mentioned in section 64 of the Police Force Act 2004;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "property",
+      "definition": "“property” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "terrorism financing offence",
+      "definition": "“terrorism financing offence” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "terrorist",
+      "definition": "“terrorist” means any person who — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "terrorist entity",
+      "definition": "“terrorist entity” means any entity owned or controlled by any terrorist or group of terrorists and includes an association of such entities, and any entity set out in the First Schedule. [17/2013; 4/2014]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "legal counsel",
+      "definition": "“legal counsel” has the meaning given by section 3(7) of the Evidence Act 1893;",
+      "source_provision": "s10B"
+    },
+    {
+      "term": "public agency",
+      "definition": "“public agency” has the meaning given by section 128A(6) of the Evidence Act 1893. [17/2013]",
+      "source_provision": "s10B"
+    },
+    {
+      "term": "Convention",
+      "definition": "“Convention” means the International Convention for the Suppression of the Financing of Terrorism adopted by the General Assembly of the United Nations on 9 December 1999;",
+      "source_provision": "s31"
+    },
+    {
+      "term": "country",
+      "definition": "“country” includes a State or territory, as the case may be.",
+      "source_provision": "s31"
+    },
+    {
+      "term": "Convention country",
+      "definition": "“Convention country” means a country which is a party to the Convention;",
+      "source_provision": "s33"
+    },
+    {
+      "term": "relevant offence",
+      "definition": "“relevant offence” , in relation to a Convention country, means an offence against the law of, or of part of, that country where the act or omission constituting the offence or the equivalent act or omission would, if it took place in or within the jurisdiction of Singapore — ( a )",
+      "source_provision": "s33"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "id": "vta-1903",
+  "type": "statute",
+  "title": "Victoria Theatre Act 1903",
+  "title_en": "Victoria Theatre Act 1903",
+  "short_name": "VTA1903",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/VTA1903",
+  "description": "An Act relating to the use of the Victoria Theatre.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Victoria Theatre Act 1903."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Purposes of Victoria Theatre",
+      "content": "2. —(1) The Government shall hold the Victoria Theatre upon trust to use it for such public purposes as it thinks fit, and from time to time, at its discretion, and upon such terms and conditions as it thinks fit, to permit any person or company to use it for the public or private representation of stage plays or the holding of public or private entertainments, theatrical or otherwise, concerts or public meetings. (2) The Government may refuse any application made for the use of the Theatre without assigning any reason for its refusal."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Exemption",
+      "content": "3. The Victoria Theatre shall be exempt from the operation of the Public Entertainments Act 1958."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,81 @@
+{
+  "id": "sao-1939",
+  "type": "statute",
+  "title": "Salvation Army Ordinance 1939",
+  "title_en": "Salvation Army Ordinance 1939",
+  "short_name": "SAO1939",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/SAO1939",
+  "description": "An Ordinance to incorporate the General of the Salvation Army as a corporation sole having perpetual succession and to vest the property of the Salvation Army in the Straits Settlements in such corporation.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Ordinance may be cited as the Salvation Army Ordinance 1939."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "The General of the Salvation Army to be deemed a corporation sole",
+      "content": "2. —(1) The General of the Salvation Army for the time being shall be deemed a corporation sole (hereinafter called “the Corporation”) and shall be known and described as “The General of the Salvation Army” and by this name shall have perpetual succession and shall and may have and use a corporate seal. (2) The said seal may from time to time be broken, changed, altered and made anew as to the Corporation seems fit."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Movable property vested in the Corporation",
+      "content": "3. All movable property in this Colony now vested in the said Evangeline Booth is hereby vested in the Corporation to the like extent to which the same vested in the said Evangeline Booth prior to 15 September 1939."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Power of the Corporation to acquire immovable and movable property",
+      "content": "4. The Corporation shall have full power to acquire by purchase, transfer, donation, exchange, devise, bequest, grant, gift, conveyance, or otherwise any immovable or movable property in this Colony or any estate or interest therein."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "The Corporation entitled to sell, mortgage, etc.",
+      "content": "5. The Corporation shall, subject to any restraint, reservation or condition contained in the document under which it shall acquire title thereto have full power and be entitled to sell, mortgage, lease, exchange, partition, or otherwise dispose of and deal with all property (immovable as well as movable) which may for the time being be vested in or have been acquired by it under any of the provisions of this Ordinance."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Use of corporate seal",
+      "content": "6. —(1) All deeds, documents and other instruments requiring the seal of the Corporation shall be sealed with the seal of the Corporation in the presence of the General for the time being of the Salvation Army or his attorney duly authorised by a power of attorney deposited under section 48 of the Conveyancing and Law of Property Act 1886 and shall also be signed by the General for the time being or his attorney so authorised as aforesaid. (2) Such signing shall be and be taken as sufficient evidence that the said seal was duly and properly affixed and that the same is the lawful seal of the Corporation."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Powers of suing and being sued",
+      "content": "7. The Corporation may sue and be sued and take all legal proceedings in any of the Courts of the Colony and all originating claims, notices and legal process may be served upon the Corporation by being left at the residence in this Colony of the duly appointed Attorney of the General for the time being of the Salvation Army. [Act 25 of 2021 wef 01/04/2022]"
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Change of person holding office of General not to affect property and interest",
+      "content": "8. No change of the person holding the office of General of the Salvation Army shall affect any immovable or movable property or any interest therein vested in the Corporation but the same shall notwithstanding any such change continue to be vested in the Corporation."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Who to be deemed General of the Salvation Army",
+      "content": "9. Upon the lodging at the office of the Minister of a copy or copies certified by the Chief of the Staff of the Salvation Army or the Commissioner acting for the time being as the Chief of the Staff of the Salvation Army of a document or documents purporting to be or to record the appointment of and acceptance of office by a General of the Salvation Army it shall be deemed to be conclusive in evidence that the person named in such certified copy or copies is the person duly authorised to exercise the office of the General for the time being of the Salvation Army until the recording and lodging of a similarly certified copy or copies as aforesaid."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Power to appoint Attorney",
+      "content": "10. The General for the time being of the Salvation Army shall have power to appoint an Attorney for such time and purposes and with such powers as may be stated in the power of attorney and a notarially certified copy of the said power of attorney shall be lodged at the office of the Minister and the donee of the said power of attorney shall be deemed to be the duly authorised Attorney of the General for the time being of the Salvation Army until the recording and lodging of a subsequent and similarly certified copy power of attorney."
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Not to prejudice right of Government, etc.",
+      "content": "11. Nothing in this Ordinance shall prejudice or affect the right of the Government or any body politic or corporate or of any other person or persons, except such as are mentioned in this Ordinance and those claiming by, from, through, or under them. [7/97]"
+    }
+  ],
+  "definitions": []
+}

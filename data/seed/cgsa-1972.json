@@ -1,0 +1,51 @@
+{
+  "id": "cgsa-1972",
+  "type": "statute",
+  "title": "Carriage of Goods by Sea Act 1972",
+  "title_en": "Carriage of Goods by Sea Act 1972",
+  "short_name": "CGSA1972",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/CGSA1972",
+  "description": "An Act to make further provision with respect to the carriage of goods by sea.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Carriage of Goods by Sea Act 1972."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Definition",
+      "content": "2. In this Act, “Rules” means the International Convention for the unification of certain rules of law relating to bills of lading made at Brussels on 25 August 1924, as amended by the Protocol made at Brussels on 23 February 1968, and as set out in the Schedule."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application of Rules",
+      "content": "3. —(1) The provisions of the Rules, as set out in the Schedule to this Act, have the force of law. (2) Without affecting subsection (1), the provisions of the Rules also have effect (and have the force of law) in relation to and in connection with the carriage of goods by sea in ships where the port of shipment is a port in Singapore, whether or not the carriage is between ports in 2 different States within the meaning of Article X of the Rules. (3) Subject to subsection (4), nothing in this section is to be construed as applying anything in the Rules to any contract for the carriage of goods by sea, unless the contract expressly or by implication provides for the issue of a bill of lading or any similar document of title. (4) Without affecting paragraph ( c ) of Article X of the Rules, the Rules have the force of law in relation to — ( a ) any bill of lading if the contract contained in or evidenced by it expressly provides that the Rules govern the contract; and ( b ) any receipt which is a non-negotiable document marked as such if the contract contained in or evidenced by it is a contract for the carriage of goods by sea which expressly provides that the Rules are to govern the contract. (5) Where subsection (4)( b ) applies, the Rules apply — ( a ) as if the receipt mentioned in subsection (4)( b ) were a bill of lading; and ( b ) subject to any necessary modifications and in particular with the omission of — (i) the second sentence of paragraph 4 of Article III of the Rules; and (ii) paragraph 7 of Article III of the Rules. (6) If and so far as the contract contained in or evidenced by a bill of lading or receipt mentioned in paragraph ( a ) or ( b ) of subsection (4) applies to deck cargo or live animals, the Rules as given the force of law by that subsection have effect as if Article I( c ) did not exclude deck cargo and live animals. (7) In subsection (6), “deck cargo” means cargo which by the contract of carriage is stated as being carried on deck and is so carried. (8) The Minister may, by order in the Gazette , specify the respective amounts which, for the purposes of paragraph 5 of Article IV and of Article IV bis of the Rules, are to be taken as equivalent to the sums expressed in francs which are mentioned in paragraph 5( a ) of Article IV."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Absolute warranty of seaworthiness not to be implied in contracts to which Rules apply",
+      "content": "4. There shall not be implied in any contract for the carriage of goods by sea to which the Rules apply any absolute undertaking by the carrier of the goods to provide a seaworthy ship."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Modification of paragraphs 4 and 5 of Article III of Rules in relation to bulk cargoes",
+      "content": "5. Where under the custom of any trade the weight of any bulk cargo inserted in the bill of lading is a weight ascertained or accepted by a third party other than the carrier or the shipper and the fact that the weight is so ascertained or accepted is stated in the bill of lading, then, despite anything in the Rules, the bill of lading is not to be deemed to be prima facie evidence against the carrier of the receipt of goods of the weight so inserted in the bill of lading, and the accuracy thereof at the time of shipment is not to be deemed to have been guaranteed by the shipper."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Saving and operation of other written law",
+      "content": "6. Nothing in this Act affects the operation of sections 135 and 136 of the Merchant Shipping Act 1995 as amended by any subsequent Act, or the operation of any other enactment for the time being in force limiting the liability of the owners of sea-going vessels."
+    }
+  ],
+  "definitions": []
+}

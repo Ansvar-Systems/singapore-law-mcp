@@ -1,0 +1,234 @@
+{
+  "id": "ria-1992",
+  "type": "statute",
+  "title": "Rubber Industry Act 1992",
+  "title_en": "Rubber Industry Act 1992",
+  "short_name": "RIA1992",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/RIA1992",
+  "description": "An Act to provide for the promotion, regulation and control of the rubber trade and industry.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Rubber Industry Act 1992."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. In this Act, unless the context otherwise requires — “Board” means the Enterprise Singapore Board established by section 3 of the Enterprise Singapore Board Act 2018; “deal” means to broke in, purchase or sell rubber but does not include the purchase, sale or brokerage of rubber by means of a commodity futures contract within the meaning of the Commodity Trading Act 1992; “licence” means a licence granted under section 4; “licensee” means any person who holds a licence granted under this Act; “rubber” means marketable rubber prepared from the leaves, bark or latex of any rubber plant, but does not include any manufactured article made wholly or partly of rubber; “rubber plant” includes any of the following plants: ( a ) Heavea brasiliensis (Para rubber); ( b ) Manihot glaziovii (Ceara rubber); ( c ) Castilloa elastica; ( d ) Ficus elastica (Rambong); and ( e ) any other plant which the Minister may, by notification in the Gazette , declare to be a rubber plant for the purposes of this Act; “to pack rubber for export” means to pack rubber in Singapore for export to any country or place; “to ship rubber for export” means to ship rubber in Singapore for export to any country or place; “treat” means to subject to any process whatsoever; “Singapore Rubber Fund” means the Singapore Rubber Fund established under section 14 of the repealed Rubber Association of Singapore (Incorporation) Act (Cap. 278, 1985 Revised Edition) and administered by the Board under section 39 of the Enterprise Singapore Board Act 2018. [10/2018]"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Licence to pack, ship or deal in rubber or manufacture technically specified rubber",
+      "content": "3. —(1) A person must not — ( a ) pack rubber for export; ( b ) ship rubber for export; ( c ) manufacture or otherwise produce technically specified rubber; or ( d ) deal in, treat or store rubber, unless the person is for the time being the holder of a valid licence granted under this Act authorising the person to do so or is a person employed by the holder of such a licence. (2) For the purposes of this section, a person is deemed to have packed rubber for export if it is packed in any manner usually employed in Singapore when packing rubber for export. (3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 2 years or to both. (4) Subsection (1) does not apply to a person who ships rubber for export if the person is the holder of a licence issued to the person under the provisions of the Malaysian Rubber Board (Incorporation) Act 1996. (5) Subsection (4) has force and effect only so long as reciprocal arrangements exist between Singapore and Malaysia by which a licence to ship rubber for export granted under this Act is deemed to be a valid licence to ship rubber for export issued by the competent authority in Malaysia under the provisions of the Malaysian Rubber Board (Incorporation) Act 1996 or any other written law which repeals and re-enacts, with or without modifications, that Act."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Application for a licence",
+      "content": "4. —(1) Any person who desires to obtain a licence must make an application in the prescribed manner to the Board for the grant of a licence. (2) Upon receiving an application under subsection (1), the Board must consider the application and may grant a licence for a period of one year at a time, with or without conditions, or refuse to grant a licence. (3) The Board must refuse to grant a licence if — ( a ) satisfactory evidence has not been produced to show that the applicant is a fit and proper person to hold a licence; ( b ) the applicant or, if the applicant is a company, any of its officers holding a managerial or executive position has been convicted of any offence involving dishonesty, fraud or moral turpitude; or ( c ) the Board considers it in the public interest to do so. (4) A person who is not an incorporated person may not be licensed under this section unless the person is registered under a registered business name under the Business Names Registration Act 2014. [29/2014] (5) Every licensee must pay such annual licence fee as may be prescribed."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Modification of licence conditions",
+      "content": "5. —(1) The Board may at any time vary or revoke any of the existing conditions of a licence granted under section 4 or impose conditions or additional conditions on the licence. (2) The Board must, before taking any action under subsection (1), notify its intention to take such action to the licensee concerned and must give the licensee an opportunity to submit reasons why the conditions of the licence should not be so varied or revoked. (3) Where a licence is subject to conditions, the licensee must comply with those conditions."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Renewal of licence",
+      "content": "6. —(1) An application to renew a licence must be made to the Board one month before the expiry of the licence. (2) The Board may refuse to renew a licence if it is of the opinion that the holder of the licence has contravened or failed to comply with any of the conditions of the licence or the provisions of this Act or any regulations or by‑laws made under this Act. (3) Where the Board is of the opinion that a licence should not be renewed, the Board must notify the holder of the licence in writing of its intention and give the holder a reasonable opportunity of being heard."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Appeal to Minister",
+      "content": "7. Any person who is aggrieved by a decision of the Board under section 4, 5 or 6 may, within one month of being notified of the decision, appeal against that decision to the Minister whose decision is final."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "False statement",
+      "content": "8. Any person who, in connection with an application for a licence under section 4 or for the renewal of a licence under section 6, wilfully makes a statement which is false or misleading in a material particular knowing it to be false or misleading or wilfully omits to state any matter or thing without which the application is misleading in a material respect shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Display of licence",
+      "content": "9. Every licensee must cause the licence to be displayed in a conspicuous place on the premises where the licensee is carrying on the business of packing or shipping rubber for export or dealing in, treating or storing rubber or manufacturing technically specified rubber, as the case may be."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Inspection of premises",
+      "content": "10. —(1) Every licensee must allow at all reasonable times the inspection of the premises in which the licensee is carrying on the business of packing rubber for export or dealing in, treating or storing rubber or manufacturing technically specified rubber (as the case may be) by any officer of the Board authorised in writing in that behalf by the Board. (2) Every licensee must, on demand being made in that behalf by any such authorised officer, produce for inspection — ( a ) such books and other documents as are reasonably necessary to enable that officer to ascertain if the provisions of this Act or any regulations or by‑laws made under this Act have been and are being complied with; and ( b ) all rubber on such premises. (3) Any person who, without lawful excuse, fails to produce any such books, documents or rubber upon demand being made in that behalf by any such officer as aforesaid shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both."
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Suspension or cancellation of licence, etc.",
+      "content": "11. —(1) If the Board is satisfied that a person who is granted a licence under section 4 is contravening, or has contravened and is likely again to contravene, any of the conditions of the licence or the provisions of this Act or any regulations or by‑laws made under this Act, the Board may, by written notice and without any compensation, do any of the following: ( a ) revoke the person’s licence; ( b ) suspend the person’s licence for such period as the Board may determine; ( c ) in the event of an order of suspension being made under paragraph ( b ), prohibit the renewal of the person’s licence for such period as the Board may determine; ( d ) impose a fine not exceeding $25,000, which is recoverable in the same manner as a judgment debt; ( e ) require such person, as security for the person’s future compliance with any of the provisions of this Act or any regulations or by‑laws made under this Act, to deposit or give a bank guarantee for any sum not exceeding $25,000 for such period as the Board may determine, and any such sum or guarantee must be deposited with or given (as the case may be) to the Board; ( f ) warn the person of the consequences of a further contravention; and ( g ) order such person to pay to the Board a sum not exceeding $5,000 to cover the costs incurred by the Board as a result of the contravention by that person. (2) The Board must not proceed under subsection (1) without first giving the licensee a reasonable opportunity of being heard. (3) The amount of any fine imposed under subsection (1)( d ) must be paid into the Singapore Rubber Fund. (4) Execution of any decision of the Board conveyed in the notice given under subsection (1) must be stayed pending the expiry of the period within which a notice of appeal under section 12 may be given or the decision on such appeal, as the case may be."
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "Appeal from decision of Board",
+      "content": "12. —(1) Any person aggrieved by a decision of the Board under section 11(1) may appeal to the Appeal Tribunal established under section 13. (2) Written notice of such appeal together with the grounds of the appeal must be given to the Appeal Tribunal within 14 days of the receipt by the person aggrieved of the notice given under section 11(1), and a copy of the notice of appeal and the grounds of the appeal must be served upon the Board by the appellant. (3) Every notice given to the Appeal Tribunal under subsection (2) must be sent to such address in Singapore as may be specified by the Appeal Tribunal. (4) The appellant may, if the appellant so desires, be present at the hearing of the appellant’s appeal and may be heard either in person or by any person authorised by the appellant in that behalf. (5) At the hearing of an appeal, the Appeal Tribunal may allow the appeal, confirm or vary, within the limits specified in section 11(1), the decision of the Board, and any decision of the Appeal Tribunal is final and conclusive and is enforceable in the same manner as a decision of the Board. (6) The Appeal Tribunal is to regulate its own procedure at the hearing of any such appeal and is not bound by any law or rule of practice relating to the admissibility of evidence. (7) The Appeal Tribunal may extend any limit of time fixed for the giving of a notice of appeal."
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "Appeal Tribunal",
+      "content": "13. —(1) For the purposes of section 12, there is established an Appeal Tribunal, which consists of a Chairperson, who must be an individual qualified to be appointed as a Supreme Court Judge and 2 other individuals, all of whom are to be appointed by the Minister for a term of at least one year and not more than 3 years. [40/2019] (2) The Appeal Tribunal may make rules governing the fees payable to the Board and the procedure to be followed on appeals under section 12."
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "Powers of Board in relation to rubber industry",
+      "content": "14. The Board, its officers and agents may, for the purposes of promoting, supporting, developing, regulating and maintaining the rubber trade and industry in general, particularly as regards the national and individual interests therein — ( a ) conduct a market in Singapore for the sale, purchase and brokerage of rubber and make such arrangements and regulations as may be considered desirable for the proper conduct of the trade and commerce in and for the marketing and distribution of rubber, and for those purposes to secure that such trade, marketing and distribution are so far as possible carried on through the market established by, and under the arrangements and regulations from time to time formulated by, or with the approval of, the Board; ( b ) provide means to facilitate the business and the transaction of the business of the trade, and to set up forms of contract for the transaction of business between licensees and between licensees and others; ( c ) inspect, sample and grade rubber in any part of the world in such manner as may be considered expedient; and ( d ) act as arbitrator and appoint arbitrators and umpires in any dispute affecting rubber or any packing, shipping or dealing therein and otherwise to make arrangements to settle disputes by arbitration."
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "Directions of Minister",
+      "content": "15. The Minister may issue general directions not inconsistent with the provisions of this Act regarding the administration of this Act and the Board must comply with those directions."
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "Entry of premises by officer of Board and seizure of article as evidence",
+      "content": "16. Any officer of the Board duly authorised in writing in that behalf may enter at all reasonable times any premises or place in which he or she has reasonable cause to believe there is evidence of a contravention of any of the provisions of this Act or any regulations made under this Act, and may search the premises or place and seize any article found in the premises or place that may be reasonably necessary as evidence in connection with the contravention."
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "Officer of Board to produce authority for inspection",
+      "content": "17. Any officer of the Board entering any premises or place in exercise of the powers conferred by this Act must produce, for the inspection of the person in charge of the premises or place or (in the person’s absence) that person’s agent, the officer’s authority for such entry."
+    },
+    {
+      "provision_ref": "s18",
+      "section": "18",
+      "title": "Personal immunity of members and officers of Board",
+      "content": "18. A member, an officer or an agent of the Board shall not be personally liable for an act or default of the Board done or omitted to be done in good faith and without negligence in the course of carrying out the functions vested in the Board under this Act."
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "Revenue of Board",
+      "content": "19. The fees and other sums paid to the Board under this Act must be paid into the Singapore Rubber Fund and any expenses incurred by the Board in the administration of this Act may be paid out of moneys in the Fund."
+    },
+    {
+      "provision_ref": "s20",
+      "section": "20",
+      "title": "Obstructing officers of Board",
+      "content": "20. Any person who obstructs or hinders the Chairperson, the chief executive officer or an officer or agent of the Board acting in the discharge of his, her or its duty under this Act or any regulations made under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both."
+    },
+    {
+      "provision_ref": "s21",
+      "section": "21",
+      "title": "Proceedings to be conducted by officers of Board",
+      "content": "21. Any proceedings in respect of an offence under this Act or any regulations made under this Act may, with the authorisation of the Public Prosecutor, be conducted by an officer of the Board or an officer of the Government authorised in writing in that behalf by the chief executive officer of the Board. [15/2010]"
+    },
+    {
+      "provision_ref": "s22",
+      "section": "22",
+      "title": "Consent of Public Prosecutor",
+      "content": "22. A court is not to try an offence under this Act or any regulations made under this Act except with the consent of the Public Prosecutor. [15/2010]"
+    },
+    {
+      "provision_ref": "s23",
+      "section": "23",
+      "title": "General penalties and composition of offences",
+      "content": "23. —(1) A person who commits an offence under this Act or any regulations made under this Act for which no penalty is expressly provided shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both. (2) The Board or any person authorised by the Board in writing may compound any offence under this Act or any regulations made under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $2,000. (3) The Board may, with the approval of the Minister, make regulations to prescribe the offences which may be compounded. (4) All sums collected under this section must be paid to the Board."
+    },
+    {
+      "provision_ref": "s24",
+      "section": "24",
+      "title": "Offence by body corporate",
+      "content": "24. Where an offence under this Act or any regulations made under this Act is committed by a body corporate and it is proved to have been committed with the consent or connivance of, or to be attributable to an act or default on the part of, a director, manager, secretary or other similar officer of the body corporate, or a person who was purporting to act in any such capacity, he or she as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly."
+    },
+    {
+      "provision_ref": "s25",
+      "section": "25",
+      "title": "Jurisdiction of Magistrate’s Court and District Court",
+      "content": "25. Despite anything in any other written law, a Magistrate’s Court or a District Court has power to try any offence under this Act and to impose the full penalty prescribed for the offence."
+    },
+    {
+      "provision_ref": "s26",
+      "section": "26",
+      "title": "Regulations",
+      "content": "26. —(1) The Board may, with the approval of the Minister, make regulations — ( a ) regulating the packing, grading and shipping of rubber; ( b ) regulating the dealing, treatment or storage of rubber; ( c ) for the purpose of ensuring that the quality of rubber to be exported is of the standard required by the contract governing the transaction and for the prevention of fraud or malpractices in connection therewith, and prescribing the marks to be stamped or otherwise inscribed on rubber packed or shipped for export or on technically specified rubber; ( d ) regulating the manufacture of technically specified rubber and to prescribe the specifications for technically specified rubber; ( e ) prescribing the testing and quality control procedures to be adopted and followed by manufacturers of technically specified rubber; ( f ) prescribing the conditions upon which any licence or a class of licences is issued under this Act; ( g ) for the purpose of further securing the effectual control of the sale, purchase, storage and disposal of rubber and the prevention of fraud in connection therewith; ( h ) providing for the form and manner in which accounts and records are to be kept; ( i ) for the maintenance of proper standards of conduct in the carrying on of the rubber trade and industry and to deal with infringements thereof; ( j ) providing for the audit and presentation of accounts; ( k ) prescribing anything which may be prescribed under the provisions of this Act; ( l ) prescribing the fees for licences granted under this Act; ( m ) providing for the form and manner in which a register of licensees is to be kept for the purposes of this Act; ( n ) providing for the determination and designing by the Board of forms for the purposes of this Act and any regulations made under this Act; ( o ) prescribing the fees and travelling and subsistence allowances to be paid to the Chairperson and members of the Appeal Tribunal; and ( p ) generally for the better carrying out of the purposes of this Act. (2) Regulations made under subsection (1) must be published in the Gazette ."
+    },
+    {
+      "provision_ref": "s27",
+      "section": "27",
+      "title": "By-laws",
+      "content": "27. —(1) The Board may, with the approval of the Minister, make and enforce in such manner as may seem expedient by-laws as to the conduct of the rubber trade and industry, and the terms and conditions on which it is to be carried on, and for the maintenance of proper standards of conduct in the carrying on of such trade and industry, and the regulation of transactions between licensees and between licensees and others. (2) Any by-laws made by the Board pursuant to subsection (1) is deemed not to be subsidiary legislation."
+    },
+    {
+      "provision_ref": "s28",
+      "section": "28",
+      "title": "Exemption",
+      "content": "28. The Board may, with the approval of the Minister, if it considers it to be in the public interest and not inconsistent with the purposes of this Act, exempt any person from all or any of the provisions of this Act and may revoke any such exemption."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Board",
+      "definition": "“Board” means the Enterprise Singapore Board established by section 3 of the Enterprise Singapore Board Act 2018;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "deal",
+      "definition": "“deal” means to broke in, purchase or sell rubber but does not include the purchase, sale or brokerage of rubber by means of a commodity futures contract within the meaning of the Commodity Trading Act 1992;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence",
+      "definition": "“licence” means a licence granted under section 4;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licensee",
+      "definition": "“licensee” means any person who holds a licence granted under this Act;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "rubber",
+      "definition": "“rubber” means marketable rubber prepared from the leaves, bark or latex of any rubber plant, but does not include any manufactured article made wholly or partly of rubber;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "rubber plant",
+      "definition": "“rubber plant” includes any of the following plants: ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "to pack rubber for export",
+      "definition": "“to pack rubber for export” means to pack rubber in Singapore for export to any country or place;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "to ship rubber for export",
+      "definition": "“to ship rubber for export” means to ship rubber in Singapore for export to any country or place;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "treat",
+      "definition": "“treat” means to subject to any process whatsoever;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Singapore Rubber Fund",
+      "definition": "“Singapore Rubber Fund” means the Singapore Rubber Fund established under section 14 of the repealed Rubber Association of Singapore (Incorporation) Act (Cap. 278, 1985 Revised Edition) and administered by the Board under section 39 of the Enterprise Singapore Board Act 2018. [10/2018]",
+      "source_provision": "s2"
+    }
+  ]
+}

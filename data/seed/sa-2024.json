@@ -1,0 +1,33 @@
+{
+  "id": "sa-2024",
+  "type": "statute",
+  "title": "Supply Act 2024",
+  "title_en": "Supply Act 2024",
+  "short_name": "SA2024",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/SA2024",
+  "description": "An Act to provide for the issue from the Consolidated Fund and the Development Fund of the sums necessary to meet the estimated expenditure for the financial year 1 April 2024 to 31 March 2025.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title and commencement",
+      "content": "1. This Act is the Supply Act 2024 and comes into operation on 1 April 2024."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Supply from Consolidated Fund",
+      "content": "2. —(1) A sum not more than $128,890,856,700 is authorised to be issued from the Consolidated Fund for the period starting 1 April 2024 and ending 31 March 2025. (2) The sum in subsection (1) is appropriated for the Heads of Expenditure for the public service specified in the Schedule."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Supply from Development Fund",
+      "content": "3. —(1) A sum not more than $37,548,577,800 is authorised to be issued from the Development Fund for the period starting 1 April 2024 and ending 31 March 2025. (2) The sum in subsection (1) is appropriated for development purposes under the Heads of Expenditure specified in the Schedule."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,84 @@
+{
+  "id": "fnecda-1949",
+  "type": "statute",
+  "title": "Foreign National Emblems  (Control of Display) Act 1949",
+  "title_en": "Foreign National Emblems  (Control of Display) Act 1949",
+  "short_name": "FNECDA1949",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/FNECDA1949",
+  "description": "An Act to control the display of foreign national emblems. [Act 29 of 2022 wef 01/08/2023]",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Foreign National Emblems (Control of Display) Act 1949. [Act 29 of 2022 wef 01/08/2023]"
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. In this Act, unless the context otherwise requires — [ Deleted by Act 29 of 2022 wef 01/08/2023 ] “foreign national emblem” means any flag, banner or other emblem being or purporting to be the flag, banner or other emblem of any state, or the flag, banner or other emblem of any political organisation claiming to be a national movement in any state or any likeness or resemblance however reproduced of any national leader or former national leader of any state or the leader or former leader of any such political organisation; [Act 29 of 2022 wef 01/08/2023] “premises” means any land, building, vessel, vehicle or place whatsoever; “school” means any premises or any part of any premises where persons are habitually taught whether in one or more classes; “state” means any state or country, other than Singapore, and includes any dependency, possession or part of any state."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Display of foreign national emblems in public or at schools prohibited",
+      "content": "3. —(1) No person shall display in public or at or within any school any foreign national emblem. [Act 29 of 2022 wef 01/08/2023] (2) For the purposes of this section, an emblem shall be deemed to be displayed in public if it is displayed in any road, street, bridge, passage, footway or place over which the public or any class of the public has a right of way or to which the public has access, whether on payment or otherwise, or if it is displayed in such manner as to be visible from any such road, street, bridge, passage, footway or place by any member of the public using the same or being therein. [Act 29 of 2022 wef 01/08/2023]"
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Exceptions",
+      "content": "4. Nothing in section 3 shall apply to — ( a ) the display of any foreign national emblem of the state of which he is a national by any of the following persons: (i) any person duly accredited as a diplomatic representative of a foreign power or as a consular representative of a foreign power to Singapore to whom an exequatur or provisional or other authorisation has been granted by the Government; (ii) any person in the service of a Commonwealth Government or the government of any British dependency or possession or of the Republic of Ireland and officially recognised as representing that government in Singapore; (iii) any person upon whom the immunities and privileges referred to in Part 2 or Part 3 of the Second Schedule to the International Organisations (Immunities and Privileges) Act 1948 have been conferred under that Act; or [Act 29 of 2022 wef 01/08/2023] ( b ) the display of any foreign national emblem on any ship or aircraft. [16/2016] [Act 29 of 2022 wef 01/08/2023]"
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Exemptions",
+      "content": "5. The Minister may, by order published in the Gazette or by a permit in writing, exempt from section 3 the display of any foreign national emblem specified in the order or permit, and that order or permit may regulate the manner of that display and the period during which that display may be permitted. [Act 29 of 2022 wef 01/08/2023]"
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Arrest without warrant",
+      "content": "6. Any police officer may arrest without warrant any person whom he has reasonable cause to believe has committed or is committing an offence."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Power of entry and search",
+      "content": "7. Any police officer may enter any premises where any foreign national emblem is displayed contrary to the provisions of this Act or of the terms or conditions of any order or permit made or given under section 5 or any school in which he has reasonable cause to believe that an offence is being or has been committed and may search any premises or school so entered or any part thereof and may seize any article found therein which he has reasonable cause to believe to be evidence of the commission of any such offence. [Act 29 of 2022 wef 01/08/2023]"
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Offences and penalties",
+      "content": "8. —(1) Any person who — ( a ) displays any foreign national emblem contrary to the provisions of this Act or of any condition of any order or permit made or given under section 5; or [Act 29 of 2022 wef 01/08/2023] ( b ) being the owner, tenant, lessee, occupier or person in charge of any premises knowingly permits the display of any foreign national emblem on or from those premises or within any school contrary to the provisions of this Act or of any condition of any order or permit made or given under section 5, [Act 29 of 2022 wef 01/08/2023] shall be guilty of an offence and shall be liable on conviction — (i) in the case of a person other than a body corporate to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months or to both; and (ii) in the case of a body corporate to a fine not exceeding $1,000. (2) No prosecution shall be instituted under this Act without the prior consent in writing of the Public Prosecutor."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "foreign national emblem",
+      "definition": "“foreign national emblem” means any flag, banner or other emblem being or purporting to be the flag, banner or other emblem of any state, or the flag, banner or other emblem of any political organisation claiming to be a national movement in any state or any likeness or resemblance however reproduced of any national leader or former national leader of any state or the leader or former leader of any such political organisation; [Act 29 of 2022 wef 01/08/2023]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "premises",
+      "definition": "“premises” means any land, building, vessel, vehicle or place whatsoever;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "school",
+      "definition": "“school” means any premises or any part of any premises where persons are habitually taught whether in one or more classes;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "state",
+      "definition": "“state” means any state or country, other than Singapore, and includes any dependency, possession or part of any state.",
+      "source_provision": "s2"
+    }
+  ]
+}

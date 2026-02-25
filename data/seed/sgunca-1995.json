@@ -1,0 +1,45 @@
+{
+  "id": "sgunca-1995",
+  "type": "statute",
+  "title": "Sale of Goods (United Nations Convention) Act 1995",
+  "title_en": "Sale of Goods (United Nations Convention) Act 1995",
+  "short_name": "SGUNCA1995",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/SGUNCA1995",
+  "description": "An Act to give effect to the United Nations Convention on Contracts for the International Sale of Goods concluded at Vienna on 11 April 1980.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Sale of Goods (United Nations Convention) Act 1995."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. In this Act, “Convention” means the United Nations Convention on Contracts for the International Sale of Goods adopted at Vienna, Austria, on 10 April 1980 and opened for signature and accession on 11 April 1980, the English text of which is set out in the Schedule."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Convention to have force of law",
+      "content": "3. —(1) Subject to subsection (2), the provisions of the Convention have the force of law in Singapore. (2) Sub-paragraph (1)( b ) of Article 1 of the Convention does not have the force of law in Singapore and accordingly the Convention will apply to contracts of sale of goods only between those parties whose places of business are in different States when the States are Contracting States. (3) The Minister may by order delete subsection (2) if the reservation made pursuant to Article 95 of the Convention is withdrawn except that sub-paragraph (1)( b ) of Article 1 of the Convention does not apply to and does not have the force of law in relation to any proposal for concluding the contract made or any contract concluded before the date on which the withdrawal of the reservation takes effect under Article 97(4) of the Convention."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Convention to prevail in event of inconsistency",
+      "content": "4. The provisions of the Convention prevail over any other law in force in Singapore to the extent of any inconsistency."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Convention countries",
+      "content": "5. —(1) A notification made by the Minister and published in the Gazette — ( a ) declaring that the Convention has entered or will enter into force, with effect from a specified date, in respect of a specified country; ( b ) declaring that a specified country has made a declaration under Part IV of the Convention and specifying details of that declaration, including the date the declaration took or will take effect; or ( c ) declaring that a specified country has denounced the Convention or Part II or III of the Convention and specifying the date the denunciation took or will take effect, is evidence of the facts contained in the notification. (2) For the purposes of this Act, a certificate signed by the Minister stating any of the facts referred to in subsection (1) in relation to a State specified in the certificate is, upon mere production, evidence of that fact."
+    }
+  ],
+  "definitions": []
+}

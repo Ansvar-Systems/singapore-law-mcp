@@ -1,0 +1,169 @@
+{
+  "id": "oda-2000",
+  "type": "statute",
+  "title": "Oaths and Declarations Act 2000",
+  "title_en": "Oaths and Declarations Act 2000",
+  "short_name": "ODA2000",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/ODA2000",
+  "description": "An Act to amend and consolidate the law relating to oaths and statutory declarations.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Oaths and Declarations Act 2000."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. In this Act, unless the context otherwise requires — “affirmation” means an affirmation mentioned in section 5; “caution” means a caution mentioned in section 6; “oath” means an oath administered or taken for any purpose, whether in judicial proceedings or otherwise; “person acting judicially” means a person, tribunal, commission, committee or other body having by law or consent of the parties power to receive evidence. [43/2007]"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART 2 - OATHS",
+      "section": "3",
+      "title": "Power to administer oaths, etc.",
+      "content": "3. —(1) A court or person acting judicially may administer, or may empower an officer to administer, any oath, affirmation or caution. (2) Subsection (1) does not affect any other written law conferring on any person the power to administer any oath, affirmation or caution."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART 2 - OATHS",
+      "section": "4",
+      "title": "Oaths to be taken by witnesses and interpreters",
+      "content": "4. —(1) Without affecting any other written law, oaths must be taken by the following persons: ( a ) a person who may be lawfully examined, or who may give or be required to give evidence, by or before a court or person acting judicially; ( b ) an interpreter of questions put to, and of evidence given by, a person mentioned in paragraph ( a ). (2) Subsection (1) does not apply to — ( a ) the official interpreter of a court; or ( b ) a certificated interpreter in the public service, when performing his or her duties as such interpreter, if he or she has taken an oath to faithfully discharge those duties."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART 2 - OATHS",
+      "section": "5",
+      "title": "Affirmation in lieu of oath",
+      "content": "5. Where a person required by section 4 or any other written law to take an oath — ( a ) is a Hindu or Muslim or of some other religion according to which oaths are not of binding force; or ( b ) has a conscientious objection to taking an oath, the person may, instead of taking an oath, make an affirmation."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART 2 - OATHS",
+      "section": "6",
+      "title": "Caution in lieu of oath or affirmation",
+      "content": "6. Where a person required by section 4 or any other written law to take an oath ought not, in the opinion of the court or person acting judicially, to take an oath or make an affirmation by reason of immaturity of age, the person may, instead of taking an oath or making an affirmation, be cautioned by the court or person acting judicially to state the truth, the whole truth, and nothing but the truth."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART 2 - OATHS",
+      "section": "7",
+      "title": "Form of oath and affirmation",
+      "content": "7. An oath under section 4 must be taken and administered, and an affirmation under section 5 must be made and administered, in accordance with the form and manner prescribed by the Rules of Court or any other written law."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART 2 - OATHS",
+      "section": "8",
+      "title": "Proceedings and evidence not invalidated by omission of oath, etc.",
+      "content": "8. No omission to take an oath, make an affirmation or administer a caution, and no irregularity in the form or manner in which an oath is taken, an affirmation is made or a caution is administered, may — ( a ) invalidate any proceedings or render inadmissible any evidence in or in respect of which the omission or irregularity took place; or ( b ) affect any obligation of the person taking the oath or making the affirmation or being cautioned to state the truth."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART 3 - STATUTORY DECLARATIONS",
+      "section": "9",
+      "title": "Persons may make statutory declarations",
+      "content": "9. Any person may voluntarily make a statutory declaration in the manner provided in section 11 or 12 in relation to any matter."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART 3 - STATUTORY DECLARATIONS",
+      "section": "10",
+      "title": "Where law requires or authorises persons to make statutory declarations",
+      "content": "10. Where by any written law (whether made before, on or after 1 January 2001) any person is authorised or required to make a statutory declaration, that statutory declaration must be made in the manner provided in section 11 or 12, as the case may be."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART 3 - STATUTORY DECLARATIONS",
+      "section": "11",
+      "title": "Manner of making statutory declarations in Singapore",
+      "content": "11. —(1) A statutory declaration made in Singapore — ( a ) must be in the form set out in the First Schedule; and ( b ) must be made before a court, a person acting judicially, or a prescribed person. (2) Subsection (1) does not affect any other written law conferring on any other person the power to take or receive a statutory declaration."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART 3 - STATUTORY DECLARATIONS",
+      "section": "12",
+      "title": "Statutory declarations made outside Singapore",
+      "content": "12. —(1) A statutory declaration made in the United Kingdom or any part of the Commonwealth other than Singapore must be made before a notary public or justice of the peace of that country, or other person having authority under any law for the time being in force in that country to take or receive a declaration. (2) A statutory declaration made in any place that is not part of the Commonwealth must be made before a consul or vice consul or before any person having authority under any law for the time being in force in that place to take or receive a declaration."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART 3 - STATUTORY DECLARATIONS",
+      "section": "13",
+      "title": "Statutory declaration sufficient to prove execution of will, etc.",
+      "content": "13. An attesting witness to the execution of a will, deed or document, or any other competent person, may verify and prove the signing, sealing, publication or delivery of the will, deed or document by a statutory declaration made in the manner provided under section 11 or 12, as the case may be."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART 3 - STATUTORY DECLARATIONS",
+      "section": "14",
+      "title": "Making of false statutory declaration an offence",
+      "content": "14. —(1) Any person who — ( a ) makes in a statutory declaration a statement which is false, and which the person knows or has reason to believe is false or does not believe to be true, touching any point material to the object for which the declaration is made or used; or ( b ) corruptly uses or attempts to use as true any statutory declaration made in or outside Singapore knowing the declaration to be false in any material point, shall be guilty of an offence and — ( c ) if the person made the statutory declaration for use in any stage of a judicial proceeding or (as the case may be) used or attempted to use the statutory declaration in any stage of a judicial proceeding, shall be punished with imprisonment for a term which may extend to 7 years and shall also be liable to a fine; or ( d ) in any other case, shall be punished with imprisonment which may extend to 3 years and shall also be liable to a fine. (2) Without limiting subsection (1)( c ) — ( a ) a trial before a subordinate military court within the meaning of the Singapore Armed Forces Act 1972 is a judicial proceeding; and ( b ) each of the following is treated as a stage of a judicial proceeding: (i) an investigation directed by law that is preliminary to a proceeding before a court, whether the investigation takes place before a court or otherwise; (ii) an investigation directed by a court, and conducted under the authority of a court, whether the investigation takes place before a court or otherwise. (3) Subsection (1)( a ) applies to the making of a statutory declaration outside Singapore if the person knows or has reason to believe that the statutory declaration is intended to be used in Singapore; and the person may be dealt with as if the offence had been committed in Singapore. (4) No prosecution may be instituted under this section without the written consent of the Public Prosecutor. [15/2010]"
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART 4 - OATHS OF OFFICE AND ALLEGIANCE",
+      "section": "15",
+      "title": "Manner of taking oath of office, etc.",
+      "content": "15. —(1) The oath of allegiance mentioned in Part 1 of the Second Schedule, and the oath of office mentioned in Part 2 of that Schedule, must be tendered to and taken by all persons required under any written law to take an oath of office. (2) The oath of allegiance mentioned in Part 1 of the Second Schedule, and the judicial oath mentioned in Part 3 of that Schedule, must be tendered to and taken by all persons required under any written law to take a judicial oath. (2A) To avoid doubt, where an oath is required to be tendered to and taken under subsection (1) or (2), or an affirmation in lieu thereof is to be made under section 16, a person may take the oath or make the affirmation by appearing before the person administering the oath or affirmation through a live video link or live television link created using a remote communication technology that allows the person administering the oath or affirmation to — ( a ) maintain visual contact and communicate with the person taking the oath or making the affirmation, and any interpreter present, throughout the process; ( b ) confirm the identity of the person taking the oath or making the affirmation, and any interpreter present; and ( c ) if the oath or affirmation is to be subscribed, verify by inspection the oath or affirmation to be subscribed. [Act 25 of 2023 wef 01/12/2023] (3) This section does not affect any other written law which prescribes the form and manner in which an oath of office or a judicial oath (as the case may be) may be tendered and taken."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART 4 - OATHS OF OFFICE AND ALLEGIANCE",
+      "section": "16",
+      "title": "Circumstances under which affirmation may be made",
+      "content": "16. Any person who — ( a ) is a Hindu or Muslim or of some other religion according to which oaths are not of binding force; or ( b ) has a conscientious objection to taking an oath, and who is required to take an oath of office or judicial oath under any written law may, instead of taking the oaths mentioned in section 15(1) or (2) (as the case may be), make an affirmation in the form of those oaths, substituting the words “solemnly, sincerely and truly declare and affirm” for the word “swear” and omitting the words “So help me God”."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART 5 - GENERAL PROVISIONS",
+      "section": "17",
+      "title": "Regulations",
+      "content": "17. The Minister may make regulations to prescribe anything that is required or authorised to be prescribed under this Act, and generally for carrying out the provisions of this Act."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART 5 - GENERAL PROVISIONS",
+      "section": "18",
+      "title": "Power to amend Schedules",
+      "content": "18. The Minister may, by notification in the Gazette , amend any Schedule."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART 5 - GENERAL PROVISIONS",
+      "section": "19",
+      "title": "Saving provision",
+      "content": "19. Every — ( a ) oath taken, affirmation made or caution administered under the repealed Oaths Act (Cap. 211, 1985 Revised Edition); ( b ) oath taken under the repealed Oaths of Office and Allegiance Act (Cap. 212, 1985 Revised Edition); and ( c ) statutory declaration made under the repealed Statutory Declarations Act (Cap. 320, 1985 Revised Edition), continues and has effect as if it had been taken, made or administered (as the case may be) under the provisions of this Act."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "affirmation",
+      "definition": "“affirmation” means an affirmation mentioned in section 5;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "caution",
+      "definition": "“caution” means a caution mentioned in section 6;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "oath",
+      "definition": "“oath” means an oath administered or taken for any purpose, whether in judicial proceedings or otherwise;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "person acting judicially",
+      "definition": "“person acting judicially” means a person, tribunal, commission, committee or other body having by law or consent of the parties power to receive evidence. [43/2007]",
+      "source_provision": "s2"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "dua-1922",
+  "type": "statute",
+  "title": "Decorations and Uniforms Act 1922",
+  "title_en": "Decorations and Uniforms Act 1922",
+  "short_name": "DUA1922",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/DUA1922",
+  "description": "An Act to prevent the unauthorised use of or wearing of certain orders, decorations, medals, emblems and uniforms and for purposes connected therewith.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Decorations and Uniforms Act 1922."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Unauthorised use of insignia, uniforms, etc.",
+      "content": "2. —(1) If any unauthorised person uses or wears — ( a ) any insignia of any order instituted by the President; ( b ) any decoration or medal, or the ribbon of any decoration or medal, so instituted; ( c ) any naval, military or air force decoration, medal, bar, clasp or ribbon; ( d ) any badge, stripe or emblem supplied or authorised by the Armed Forces Council or by the President; ( e ) any uniform or part of a uniform of the naval, military, air or police forces; or ( f ) anything so nearly resembling any insignia, decoration, medal, bar, clasp, ribbon, badge, stripe, emblem or uniform or part of a uniform as abovementioned that it is calculated to deceive, and if any unauthorised person assumes or uses any title of rank in the military, naval or air forces, or any letters after his name indicating the possession of any order, decoration or medal, that person shall be guilty of an offence and shall be liable on conviction before a Magistrate’s Court to a fine not exceeding $400 or to imprisonment for a term not exceeding 3 months. (2) If any person — ( a ) falsely represents himself to be a person who is or has been entitled to use or wear any such insignia, decoration, medal, bar, clasp, ribbon, badge, stripe, emblem or uniform or part of a uniform; or ( b ) without lawful authority or excuse supplies or offers to supply any insignia, decoration, medal, bar, clasp, ribbon, badge, stripe, emblem or uniform or part of a uniform to any person whom he knows or has good reason to believe not to be authorised to use or wear it, that person shall be guilty of an offence and shall be liable on conviction before a Magistrate’s Court to the like penalties as if he had been convicted of an offence under subsection (1)."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Unauthorised use of foreign insignia and uniforms",
+      "content": "3. —(1) Any unauthorised person who uses or wears any foreign insignia, decoration, medal, bar, clasp, ribbon, badge, stripe, emblem, or foreign uniform or part thereof shall be guilty of an offence and shall be liable on conviction in the like manner and to the like penalties mentioned in section 2(1). (2) If any person — ( a ) falsely represents himself to be a person who is or has been entitled to use or wear any such foreign insignia, decoration, medal, bar, clasp, ribbon, badge, stripe, emblem or foreign uniform or part thereof; or ( b ) without lawful authority or excuse supplies or offers to supply any such foreign insignia, decoration, medal or foreign uniform or part thereof to any person whom he knows or has good reason to believe not to be authorised to use or wear it, that person shall be guilty of an offence and shall be liable on conviction in the like manner and to the like penalties mentioned in section 2(2)."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Exceptions",
+      "content": "4. —(1) Nothing in this Act shall be construed so as to prohibit the wearing, use or supply of ordinary regimental badges or any brooch or ornament representing them. (2) Nothing in this Act shall be construed so as to prohibit the wearing, use or supply of any insignia, decoration or uniform for the purposes of any bona fide theatrical or similar performance."
+    }
+  ],
+  "definitions": []
+}

@@ -1,0 +1,617 @@
+{
+  "id": "pra-2007",
+  "type": "statute",
+  "title": "Pharmacists Registration Act 2007",
+  "title_en": "Pharmacists Registration Act 2007",
+  "short_name": "PRA2007",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/PRA2007",
+  "description": "An Act to establish the Singapore Pharmacy Council, to provide for the registration of pharmacists and for matters connected therewith.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Pharmacists Registration Act 2007."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. In this Act, unless the context otherwise requires — “appropriate register” means any of the registers mentioned in section 15(1), as appropriate; “Board” means the Specialists Accreditation Board established under section 36; “Chief Pharmacist” means the Chief Pharmacist of the Ministry of Health; “Council” means the Singapore Pharmacy Council established under section 3; “practice of pharmacy” means any of the acts or activities specified in the Schedule; “practising certificate” means a practising certificate granted under section 23; “president” means the president of the Council; “registered pharmacist” means a person who is registered as a pharmacist under this Act; “Registrar” means the Registrar of the Council; “Singapore degree” means a degree or diploma in pharmacy conferred by — ( a ) the King Edward VII College of Medicine, Singapore; ( b ) the University of Malaya, Singapore; ( c ) the University of Singapore; ( d ) the National University of Singapore; or ( e ) any other tertiary institution in Singapore which the Minister may, by notification in the Gazette , prescribe; “unauthorised person” means — ( a ) a person who is not a registered pharmacist; or ( b ) a registered pharmacist who does not have a valid practising certificate, and who has not been exempted under section 70 or 71."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART 2 - SINGAPORE PHARMACY COUNCIL",
+      "section": "3",
+      "title": "Establishment and incorporation of Singapore Pharmacy Council",
+      "content": "3. A body called the Singapore Pharmacy Council is established, which is a body corporate with perpetual succession and a common seal and is by that name capable of — ( a ) suing and being sued; ( b ) acquiring, owning, holding and developing or disposing of property, both movable and immovable; and ( c ) doing and performing any other acts or things that bodies corporate may by law do and perform."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART 2 - SINGAPORE PHARMACY COUNCIL",
+      "section": "4",
+      "title": "Constitution of Council",
+      "content": "4. —(1) Subject to section 7, the Council consists of the following members: ( a ) 9 registered pharmacists each of whom is appointed by the Minister; ( b ) the Chief Pharmacist; ( c ) the Head of the Department of Pharmacy of the National University of Singapore or a member of the Department who is a registered pharmacist designated by the Head. (2) Subject to section 7, the members appointed under subsection (1)( a ) hold office for a term of 3 years and are eligible for re-appointment. (3) The Minister may, at any time, revoke the appointment of any member appointed under subsection (1)( a ) without giving any reason."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART 2 - SINGAPORE PHARMACY COUNCIL",
+      "section": "5",
+      "title": "Functions of Council",
+      "content": "5. The functions of the Council are — ( a ) to keep and maintain registers of registered pharmacists; ( b ) to approve or reject applications for registration under this Act or to approve any of those applications subject to any restrictions the Council may think fit; ( c ) to issue certificates of registration and practising certificates to registered pharmacists; ( d ) to make recommendations to the appropriate authorities on the courses of instructions and examinations leading to a Singapore degree; ( e ) to prescribe and implement measures, guidelines and standards for the training of persons seeking registration as pharmacists under this Act; ( f ) to make recommendations to the appropriate authorities for the training and education of registered pharmacists; ( g ) to determine and regulate the conduct and ethics of registered pharmacists; and ( h ) generally to do all such acts and matters and things as are necessary to be carried out under this Act."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART 2 - SINGAPORE PHARMACY COUNCIL",
+      "section": "6",
+      "title": "President of Council",
+      "content": "6. —(1) The Minister must appoint one of the Council members to be the president of the Council. (2) The president serves for such term as the Minister may specify and is eligible for re‑appointment. (3) The president presides at any meeting of the Council and, in the president’s temporary absence, the Council members present must elect from among themselves one Council member to preside over the meeting."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART 2 - SINGAPORE PHARMACY COUNCIL",
+      "section": "7",
+      "title": "Disqualifications from membership of Council",
+      "content": "7. A person must not be appointed or continue to hold office as a Council member if the person — ( a ) is not a citizen or a permanent resident of Singapore; ( b ) is an undischarged bankrupt; ( c ) has been convicted in Singapore or elsewhere of any offence involving fraud, dishonesty or moral turpitude; or ( d ) is totally or partially incapacitated by a mental or physical disability."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART 2 - SINGAPORE PHARMACY COUNCIL",
+      "section": "8",
+      "title": "Filling of vacancies",
+      "content": "8. —(1) The office of a Council member becomes vacant if the member — ( a ) dies; ( b ) resigns his or her office; ( c ) becomes subject to any of the disqualifications specified in section 7; or ( d ) has his or her appointment revoked before the expiry of the term for which the member has been appointed. (2) The Minister may remove from office any Council member who is absent without leave of the Council from 3 consecutive meetings of — ( a ) the Council; or ( b ) any committee appointed by the Council of which he or she is a member. (3) Any question as to whether a person has ceased to be a Council member must be determined by the Minister whose decision is final. (4) If any vacancy arises among the Council members, the Minister may appoint a person to fill the vacancy in the manner in which the appointment to the vacant office was made, and that person holds office for as long as the Council member in whose place that person was appointed would have held office. (5) No act done by or under the authority of the Council is invalid in consequence of any defect that is afterwards discovered in the appointment or qualification of its members or any of them."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART 2 - SINGAPORE PHARMACY COUNCIL",
+      "section": "9",
+      "title": "Meetings and quorum of Council",
+      "content": "9. —(1) The Council must meet at the times and places appointed by the president or the Registrar. (2) At any meeting of the Council, 5 Council members form a quorum and no business may be transacted at any meeting unless a quorum is present. (3) The president or the Council member presiding at any meeting of the Council has an original vote and, in the case of an equality of votes, a casting vote. (4) Subject to subsection (2), the Council may act despite any vacancy in the membership of the Council. (5) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Council may regulate its own procedure. [5/2018] (6) The Council must keep minutes of its proceedings in the form or manner that it thinks fit."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART 2 - SINGAPORE PHARMACY COUNCIL",
+      "section": "10",
+      "title": "Appointment of executive secretary and other employees",
+      "content": "10. The Council may appoint an executive secretary and other employees on such terms as the Council may determine."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART 2 - SINGAPORE PHARMACY COUNCIL",
+      "section": "11",
+      "title": "Appointment of committees",
+      "content": "11. —(1) The Council may — ( a ) appoint one or more committees for any general or special purpose which, in the opinion of the Council, may be better dealt with or managed by a committee; and ( b ) delegate, with or without restrictions or conditions as it thinks fit, any of the powers or functions which may be exercised or performed by the Council to any committee so appointed. (2) The number and term of office of the members of a committee and the number of those members necessary to form a quorum must be fixed by the Council. (3) A committee appointed under this section may include persons who are not Council members. (4) This section does not apply to a Complaints Panel, a Disciplinary Committee, an Interim Orders Committee or a Health Committee. 12. [ Repealed by Act 5 of 2018 ] 13. [ Repealed by Act 5 of 2018 ]"
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART 3 - REGISTRATION OF PHARMACISTS",
+      "section": "14",
+      "title": "Registrar of Council",
+      "content": "14. —(1) For the purposes of this Act, the Chief Pharmacist is the Registrar. (2) The Minister may appoint another person to act as Registrar during the absence from Singapore or incapacity from illness or otherwise of the Registrar."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART 3 - REGISTRATION OF PHARMACISTS",
+      "section": "15",
+      "title": "Registers",
+      "content": "15. —(1) In addition to duties under the Public Sector (Governance) Act 2018, the Registrar must keep and maintain the following registers: ( a ) a register called the “Register of Pharmacists” containing — (i) in Part I of the register, the names of persons registered as fully registered pharmacists under section 16(1) and (2); and (ii) in Part II of the register, the names of persons registered as pharmacists with conditional registration under section 17(1); ( b ) a register called the “Register of Specialists” containing the names of persons registered as specialists under section 18; ( c ) a register called the “Register of Temporarily Registered Pharmacists” containing the names of persons who are registered temporarily as pharmacists under section 19. [5/2018] (2) The particulars to be included in any register mentioned in subsection (1) in respect of a person are — ( a ) the person’s name, residential address and practice address (if any); ( b ) the date of the person’s registration; ( c ) the qualification by virtue of which the person is registered and the date the person obtained the qualification; and ( d ) any other particulars that the Council may determine. (3) The Registrar — ( a ) is responsible for the maintenance and custody of the registers; and ( b ) must publish on the Council’s Internet website a list of the names, addresses, qualifications and date of qualifications and registration of all pharmacists who — (i) are registered under this Act; and (ii) have in force practising certificates. (4) A registered pharmacist must inform the Registrar in writing of — ( a ) any change in his or her name, residential address, practice address or any other particulars that may be prescribed, within 28 days of the change; and ( b ) any alteration or addition to the registered pharmacist’s qualification. (5) A person who contravenes subsection (4)( a ) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000. (6) A person who makes a report of a change in the person’s residential address under section 10 of the National Registration Act 1965 is deemed to have complied with subsection (4) on the date the person makes the report. (7) The Registrar may disclose any information in the registers to any person prescribed by regulations made under this Act, if the disclosure is in accordance with such conditions as may be specified in those regulations. (8) Subsection (7) does not affect any other right or duty to disclose the information under general or written law."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART 3 - REGISTRATION OF PHARMACISTS",
+      "section": "16",
+      "title": "Full registration",
+      "content": "16. —(1) Subject to the provisions of this Act, a person is eligible to be registered as a fully registered pharmacist if the person — ( a ) holds a Singapore degree; and ( b ) has acquired at least 12 months’ practical experience in the practice of pharmacy at any establishment approved by the Council, of which at least 9 months have been acquired under the supervision of a fully registered pharmacist at an establishment in Singapore. (2) Despite subsection (1), a person, not being a Singapore degree holder, who — ( a ) holds any qualifications that may be recognised by the Council; and ( b ) satisfies the Council that the person has special knowledge and skill and sufficient experience in any particular branch of pharmacy, may, if the Council thinks fit so to direct, be registered as a fully registered pharmacist. (3) Despite subsections (1) and (2), the Council may, if it is of the view that it is not in the public interest for a person mentioned in either of those subsections to be registered as a fully registered pharmacist, direct that the person be registered as a pharmacist with conditional registration in Part II of the Register of Pharmacists, and section 17(3) to (8) applies accordingly."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART 3 - REGISTRATION OF PHARMACISTS",
+      "section": "17",
+      "title": "Conditional registration",
+      "content": "17. —(1) Subject to the provisions of this Act, any person who holds a prescribed qualification in pharmacy conferred by a tertiary institution outside Singapore or any other qualification which is, in the opinion of the Council, not lower in standing than a prescribed qualification, is eligible to be registered as a pharmacist with conditional registration. (2) The Council may require a person with a relevant qualification, other than a prescribed qualification, to undergo and pass an examination conducted or arranged by the Council or by such other person as the Council may appoint to satisfy itself that the qualification is not lower in standing than a prescribed qualification. (3) A person is not entitled to registration under subsection (1) unless the person — ( a ) has acquired at least 12 months’ practical experience in the practice of pharmacy at any establishment approved by the Council, of which at least 3 months have been acquired under the supervision of a fully registered pharmacist at an establishment in Singapore; ( b ) has been selected for employment in Singapore as a pharmacist in any hospital or other institution or pharmacy practice approved by the Council; and ( c ) has sat for and passed such examination as the Council may prescribe. (4) The conditions of a person’s registration under this section must be specified in the direction by virtue of which the person is registered. (5) Without affecting the power of the Council to impose conditions, the direction may specify — ( a ) that the person must work for a specified period under the supervision of a fully registered pharmacist approved by the Council; and ( b ) the particular employment or the descriptions of employment for which the person is registered under this section. (6) The Council may cancel the conditional registration of a pharmacist if — ( a ) the pharmacist fails to comply with any of the conditions specified in the direction by virtue of which he or she is registered; or ( b ) the Council is of the opinion, having regard to the report of the supervising pharmacist (if any), that the conditionally registered pharmacist is unable to perform the duties of a pharmacist satisfactorily. (7) A person who is or has been registered with conditional registration may, after the end of the period of supervision specified under subsection (5)( a ), apply to the Council to be registered as a fully registered pharmacist. (8) If the Council thinks fit so to direct, having regard to the knowledge and skill shown and the experience acquired by the person mentioned in subsection (3), the person may be registered under section 16 as a fully registered pharmacist. (9) Upon a pharmacist with conditional registration becoming registered otherwise than conditionally or upon his or her registration being cancelled under subsection (6), the pharmacist’s name must be removed from Part II of the Register of Pharmacists."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART 3 - REGISTRATION OF PHARMACISTS",
+      "section": "18",
+      "title": "Registration of specialists",
+      "content": "18. —(1) Subject to the provisions of this Act, any registered pharmacist who — ( a ) holds such qualification, or has gained such special knowledge, in a specialised branch of pharmacy as the Council may approve; ( b ) has such experience in that branch of pharmacy as the Council may require; and ( c ) has fulfilled such further conditions as the Council may specify, may apply to the Council to be registered as a specialist in that branch of pharmacy. (2) Upon the approval of an application mentioned in subsection (1), the Council must — ( a ) register the applicant as a specialist in the branch of pharmacy in the Register of Specialists that the Council considers appropriate to the applicant’s case, subject to such conditions or restrictions as the Council may impose; and ( b ) issue to the applicant a specialist certificate in respect of that specialised branch of pharmacy. [1/2010]"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART 3 - REGISTRATION OF PHARMACISTS",
+      "section": "19",
+      "title": "Temporary registration",
+      "content": "19. —(1) Subject to the provisions of this Act, any person — ( a ) who is resident temporarily in Singapore for the exclusive purpose of teaching, research or postgraduate study in an institution approved for that purpose by the Council; ( b ) who possesses pharmacy knowledge, experience and skill which the Council considers to be of international standing or are such as to have special value to the people of Singapore; or ( c ) who is not otherwise entitled to be registered as a pharmacist under this Act but who, in the opinion of the Council, possesses other qualifications which are adequate for the purposes of registration under this section, may be registered as a pharmacist in the Register of Temporarily Registered Pharmacists for so long as the person continues to be engaged exclusively in teaching, research or postgraduate study in pharmacy in the approved institution or in the capacity that the Council may specify. (2) The Council may require a person seeking registration under subsection (1) to sit for and pass such examination as the Council may prescribe. (3) Any registration under subsection (1) is for a period not exceeding 2 years which may be renewed, at the discretion of the Council, for a further period or periods each not exceeding 12 months. (4) A person may be registered under subsection (1) subject to such conditions and restrictions as the Council may impose."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART 3 - REGISTRATION OF PHARMACISTS",
+      "section": "20",
+      "title": "Evidence of qualification and entry of additional qualifications",
+      "content": "20. —(1) A qualification must not be entered in an appropriate register unless the Registrar is satisfied by such evidence as the Registrar considers proper that the person claiming the qualification is entitled to it. (2) Every person registered under this Act, who obtains any qualification in addition to the qualification by virtue of which the person has been registered, may apply to the Council to have that additional qualification inserted in the appropriate register. (3) The Council has power to decide what additional qualifications may be entered in an appropriate register."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART 3 - REGISTRATION OF PHARMACISTS",
+      "section": "21",
+      "title": "Application for registration",
+      "content": "21. —(1) An application for registration must be made in the form and manner that the Council may determine and must be accompanied by — ( a ) such documents and particulars as the Council may require; and ( b ) such fees as the Council may prescribe. (2) Before registering an applicant, the Council may require the applicant to submit himself or herself to a medical examination by a medical practitioner approved by the Council to determine if the applicant is fit to practise pharmacy. (3) The costs of any medical examination mentioned in subsection (2) must be borne by the applicant. (4) Subject to subsection (5), where an applicant has complied with subsection (1) and any requirement of the Council referred to in subsection (2), the Council must register the applicant as a pharmacist. (5) The Council may refuse to register any applicant who — ( a ) has had his or her registration as a pharmacist in any other country withdrawn, suspended or cancelled; or ( b ) in the opinion of the Council — (i) is not a person eligible to be registered as a pharmacist; (ii) is not of good reputation and character; or (iii) is unfit to practise as a pharmacist by reason of his or her physical or mental condition. (6) Where the Council refuses to register an applicant, the Council must by written notice inform the applicant of the refusal. (7) Any person who is aggrieved by any refusal of the Council under subsection (5) may, within 30 days of the notice given under subsection (6), appeal to the Minister whose decision is final. (8) For the purpose of subsection (1), the Council may prescribe different fees for different classes of applicants."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART 3 - REGISTRATION OF PHARMACISTS",
+      "section": "22",
+      "title": "Certificate of registration",
+      "content": "22. The Council must issue a certificate of registration to a person who has been registered as a pharmacist."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "PART 3 - REGISTRATION OF PHARMACISTS",
+      "section": "23",
+      "title": "Practising certificate",
+      "content": "23. —(1) Any registered pharmacist who desires to obtain a practising certificate must make an application to the Council in the form and manner determined by the Council and the application must be accompanied by such fee as the Council may prescribe. (2) A practising certificate is granted for a period not exceeding 2 years from the date of issue of the practising certificate. (3) Any application for renewal of a practising certificate must be — ( a ) made no later than one month before the expiry of the practising certificate; ( b ) made in such form and manner as the Council may determine; and ( c ) accompanied by such fee as the Council may prescribe. (4) Any registered pharmacist who applies for a practising certificate later than one month before the expiry of the practising certificate is liable to pay to the Council such late application fee as the Council may prescribe. (5) The Council may refuse to grant a practising certificate to a registered pharmacist, or may refuse to renew a registered pharmacist’s practising certificate, if the registered pharmacist fails to comply with any condition that is prescribed by the Council with the approval of the Minister for the purposes of this section. (6) Where a person has had his or her registration in respect of any practice of pharmacy cancelled or suspended under Part 6, the person must surrender his or her practising certificate to the Council — ( a ) within 14 days of being notified by the Council of the cancellation or suspension; or ( b ) in a case where an appeal is pending under Part 6, within any other period that the Council may specify. (7) Any person who contravenes subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000. (8) For the purposes of subsection (4), the Council may prescribe different late application fees for applications made before, and applications made after, the expiry of practising certificates."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "PART 3 - REGISTRATION OF PHARMACISTS",
+      "section": "24",
+      "title": "Amendment of appropriate register",
+      "content": "24. The Registrar must — ( a ) insert in the appropriate register any alteration which may come to the Registrar’s knowledge to any particulars or qualifications of any person registered under this Act; ( b ) correct any error in any entry in the appropriate register; and ( c ) remove from the appropriate register the name of any person — (i) whose name is ordered to be removed under any provision of this Act; (ii) who is deceased; (iii) who has not renewed his or her practising certificate for a continuous period of at least 5 years; or (iv) who has requested and shown sufficient reason for his or her name to be removed from that appropriate register, unless an inquiry has or proceedings have commenced under Part 6 against that person."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "PART 3 - REGISTRATION OF PHARMACISTS",
+      "section": "25",
+      "title": "Removal of name from appropriate register",
+      "content": "25. —(1) Despite the provisions of this Act, the Council may, upon such evidence as it may require, order the removal from the appropriate register of the name of a registered pharmacist under any of the following circumstances: ( a ) if the registered pharmacist is registered under section 16(1), 17 or 19 and has contravened any condition or restriction imposed by the Council regarding his or her registration; ( b ) if he or she, being a registered pharmacist whose name is in the Register of Specialists — (i) has had his or her name removed from the Register of Pharmacists; or (ii) has contravened any condition or restriction imposed by the Council under section 18; ( c ) if the registered pharmacist has obtained his or her registration by a fraudulent or an incorrect statement or through an error; ( d ) if the registered pharmacist’s registration as a pharmacist in any other country is withdrawn, suspended or cancelled by the authority which registered him or her; or ( e ) if the registered pharmacist’s degree or qualification which entitled him or her to be registered under this Act is withdrawn, suspended or cancelled by the authority through which it was acquired or by which it was awarded. (2) The Council must, before exercising its powers under subsection (1), notify the registered pharmacist concerned of its intention to take that action. (3) The Council must give the registered pharmacist an opportunity to submit reasons, within a period determined by the Council, as to why his or her name should not be removed. (4) Any person aggrieved by an order under subsection (1) may, within 30 days of being notified of the order, appeal to the Minister whose decision is final."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "PART 3 - REGISTRATION OF PHARMACISTS",
+      "section": "26",
+      "title": "Restoration of names removed under section 24 or 25",
+      "content": "26. —(1) Subject to subsection (4), where the name of a person has been removed from an appropriate register under section 24( c )(iii) or 25(1)( a ) or ( b ), the Council may, upon application by the person, direct that — ( a ) the person’s name be restored to the appropriate register; or ( b ) the person be re-registered as a pharmacist in the Register of Temporarily Registered Pharmacists, and section 19(2), (3) and (4) applies accordingly. (2) An application under subsection (1) must not be made to the Council more than once in any period of 6 months by or on behalf of the pharmacist. (3) An application under subsection (1) must not be made to the Council by or on behalf of the pharmacist unless the pharmacist has complied with all the terms of the order made against the pharmacist under section 25(1), where applicable. (4) The Council may require an applicant under this section to sit for and pass any examination prescribed by the Council, before — ( a ) restoring the applicant’s name to the appropriate register; or ( b ) re-registering the applicant as a pharmacist in the Register of Temporarily Registered Pharmacists under subsection (1)( b )."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "PART 3 - REGISTRATION OF PHARMACISTS",
+      "section": "27",
+      "title": "Certificate of Registrar as evidence",
+      "content": "27. A certificate purporting to be under the hand of the Registrar — ( a ) to the effect that at any time or during any period specified in the certificate any person was or was not a registered pharmacist, or had or did not have in force a practising certificate; or ( b ) as to any entry in the appropriate register, or the removal from that register of any entry, is, in the absence of proof to the contrary, and without further proof of the signature appended to the certificate, sufficient evidence of the matters specified in the certificate."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "PART 4 - PRACTICE OF PHARMACY",
+      "section": "28",
+      "title": "Unauthorised person acting as pharmacist",
+      "content": "28. —(1) Subject to sections 70 and 71, an unauthorised person shall be guilty of an offence if the person — ( a ) practises pharmacy; ( b ) wilfully and falsely pretends to be a duly qualified pharmacist; ( c ) practises pharmacy or any branch of pharmacy, under the style or title of a pharmacist or under any name, title, addition or description implying that the person holds any diploma or degree in pharmacy or in any branch of pharmacy; ( d ) takes or uses the name or title of pharmacist, pharmaceutical chemist, druggist, apothecary, or any other word in any language having the same meaning or with similar intent; ( e ) takes or uses any name, title, sign, uniform, badge, or any other addition or description implying, whether in itself or in the circumstances in which it is used, that the person is qualified to practise as a pharmacist; or ( f ) advertises or holds himself or herself out as a pharmacist. (2) It is a defence to a prosecution under subsection (1)( a ) if the defendant proves that he or she did not in any way represent himself or herself as a duly qualified or registered pharmacist."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "PART 4 - PRACTICE OF PHARMACY",
+      "section": "29",
+      "title": "Liability of employer, etc., for practice of pharmacy in contravention of section 28",
+      "content": "29. —(1) Where an offence is committed under section 28 by any unauthorised person acting as an employee, an agent or a partner of another person, that other person shall also be guilty of an offence. (2) It is a defence to a prosecution under subsection (1) if the defendant proves that the firstmentioned offence was committed without the defendant’s knowledge and that the defendant has taken all reasonable precautions and exercised due diligence to prevent the commission of that offence by the unauthorised person."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "PART 4 - PRACTICE OF PHARMACY",
+      "section": "30",
+      "title": "Liability of registered pharmacist for allowing another to act in contravention of section 28, etc.",
+      "content": "30. —(1) A registered pharmacist who allows an unauthorised person to practise pharmacy in contravention of section 28 on any premises used by or under the control of that registered pharmacist shall be guilty of an offence. (2) A registered pharmacist who, by his or her presence, countenance, advice, assistance or cooperation, has knowingly enabled an unauthorised person, whether described as an assistant or otherwise, to practise pharmacy in contravention of section 28 shall be guilty of an offence. (3) It is a defence to a prosecution under subsection (1) or (2) if the defendant proves that — ( a ) the commission of the offence was due to a mistake on the defendant’s part or to reliance on information supplied to the defendant or to the act of another person or some other cause beyond the defendant’s control; and ( b ) the defendant took all reasonable precautions and exercised due diligence to prevent the commission of the offence. (4) A registered pharmacist who practises pharmacy on any premises on which any unauthorised person practises pharmacy in contravention of section 28, knowing or having reason to believe that that person was practising pharmacy on those premises in contravention of section 28, shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "PART 4 - PRACTICE OF PHARMACY",
+      "section": "31",
+      "title": "Suspended persons not to practise pharmacy during period of suspension",
+      "content": "31. —(1) Any person whose registration as a pharmacist under this Act has been suspended under Part 6 must not practise pharmacy during the period of his or her suspension. (2) Any person who contravenes subsection (1) shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "PART 4 - PRACTICE OF PHARMACY",
+      "section": "32",
+      "title": "False assumption of title of specialist",
+      "content": "32. —(1) A person other than a specialist registered under section 18 who has in force a practising certificate must not take or use — ( a ) the name or title of specialist, or any other word in any language having the same meaning or with similar intent; or ( b ) any name, title, sign, uniform, badge, or any other thing implying that the person is qualified to practise any specialised area of pharmacy defined by the Specialists Accreditation Board under section 37. (2) Any person who contravenes subsection (1) shall be guilty of an offence. (3) A registered pharmacist who is not registered under section 18 as a specialist in a branch of pharmacy must not — ( a ) practise pharmacy or that branch of pharmacy under the style or title of a specialist in that branch of pharmacy, or under any name, title, addition or description implying that he or she is such a specialist or has any degree, qualification or experience in that branch of pharmacy; or ( b ) advertise or hold himself or herself out as a specialist in that branch of pharmacy. (4) A registered pharmacist who contravenes subsection (3) may be subject to disciplinary proceedings under this Act."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "PART 4 - PRACTICE OF PHARMACY",
+      "section": "33",
+      "title": "Fraudulent registration, etc.",
+      "content": "33. —(1) A person must not — ( a ) procure or attempt to procure registration as a pharmacist under this Act, a certificate of registration or a practising certificate, by knowingly making or producing or causing to be made or produced any false or fraudulent declaration, certificate, application or representation, whether in writing or otherwise; ( b ) wilfully make or cause to be made any false entry in an appropriate register; ( c ) forge or alter a certificate of registration or a practising certificate; ( d ) fraudulently or dishonestly use as genuine a certificate of registration or a practising certificate which the person knows or has reason to believe is forged or altered; or ( e ) buy, sell or fraudulently obtain a certificate of registration or a practising certificate. (2) Any person who contravenes subsection (1) shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "PART 4 - PRACTICE OF PHARMACY",
+      "section": "34",
+      "title": "Pharmacist to use only qualifications entered in register and approved title, etc.",
+      "content": "34. —(1) A registered pharmacist must not — ( a ) use or exhibit or publish in any card, letter, stationery, nameplate, signboard, placard, circular, handbill or any notice displayed at the premises used by the registered pharmacist for the practice of pharmacy any qualification other than the qualifications which are entered in any register kept under this Act or which have been approved by the Council; or ( b ) use any title, addition or designation other than the title, addition or designation which has been approved by the Council. (2) Any registered pharmacist who contravenes subsection (1) may be subject to disciplinary proceedings under this Act."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "PART 4 - PRACTICE OF PHARMACY",
+      "section": "35",
+      "title": "General penalty",
+      "content": "35. Any person who is guilty of an offence under section 28(1), 29(1), 30(1), (2) or (4), 31(2), 32(2) or 33(2) shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a second or subsequent conviction for an offence under any of those sections, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 6 months or to both."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "PART 5 - SPECIALISTS ACCREDITATION BOARD",
+      "section": "36",
+      "title": "Establishment of Specialists Accreditation Board",
+      "content": "36. —(1) There is to be a board called the Specialists Accreditation Board consisting of — ( a ) a chairperson who is appointed by the Minister from among the members of the Board; and ( b ) at least 6 registered pharmacists who are appointed by the Minister. (2) The chairperson and members of the Board must be appointed for a term not exceeding 3 years but may be eligible for re‑appointment and may at any time be removed from office by the Minister. (3) If any member of the Board dies, resigns or is removed from office, the Minister may fill the vacancy by the appointment of a registered pharmacist and every person so appointed holds office for the remainder of the term for which the person’s predecessor was appointed. (4) The powers of the Board are not affected by any vacancy in its membership. (5) At any meeting of the Board, 3 Board members form a quorum. (6) At any meeting of the Board, the chairperson presides and in the chairperson’s absence the Board members present must elect among themselves one Board member to preside at the meeting. (7) If on any question to be determined by the Board there is an equality of votes, the chairperson or the Board member presiding at the meeting has a casting vote. (8) Subject to the provisions of this Act, the Board may determine its own procedure. (9) The Board may appoint one or more committees consisting of such members as it thinks fit to assist the Board in carrying out its functions under this Act."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "PART 5 - SPECIALISTS ACCREDITATION BOARD",
+      "section": "37",
+      "title": "Functions of Specialists Accreditation Board",
+      "content": "37. —(1) The functions of the Board are — ( a ) to determine the qualifications, experience and other conditions for registration as specialists under this Act; ( b ) to define specialties in the practice of pharmacy for the purposes of maintaining and keeping the Register of Specialists; ( c ) to accredit the training programmes to be recognised for persons who intend to qualify for registration as specialists under this Act; ( d ) to certify persons who have the qualifications for registration as specialists under this Act; ( e ) to recommend to the Council programmes for the continuing pharmacy education of persons who are registered as specialists under this Act; and ( f ) to advise the Council on matters affecting or connected with the registration of specialists under this Act. (2) Any person who desires to have a certificate from the Board certifying that the person has the qualifications for registration as a specialist under this Act may apply to the Board. (3) Any person who is aggrieved by the refusal of the Board to grant a certificate mentioned in subsection (2) may, within 30 days of the notice of the refusal, appeal to the Minister whose decision is final."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "PART 6 - DISCIPLINARY AND HEALTH INQUIRIES",
+      "section": "38",
+      "title": "Appointment of Complaints Panel",
+      "content": "38. —(1) For the purpose of enabling the Complaints Committees and Disciplinary Committees to be constituted in accordance with this Part, the Council must appoint a panel, called the Complaints Panel, consisting of — ( a ) at least 5 members of the Council; ( b ) not less than 10 and not more than 40 registered pharmacists of at least 10 years’ standing who are not members of the Council; and ( c ) not less than 6 and not more than 40 lay persons nominated by the Minister. (2) The term of office of a member of the Complaints Panel referred to in subsection (1)( a ) expires at the end of the member’s term of office as member of the Council, and a member of the Complaints Panel referred to in subsection (1)( b ) or ( c ) must be appointed for a term of 2 years. (3) Any member of the Complaints Panel is eligible for re‑appointment. (4) The Council may at any time remove from office any member of the Complaints Panel or fill any vacancy in its membership. (5) The Council must appoint a member of the Complaints Panel who is a member of the Council to be the chairperson of the Complaints Panel."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "PART 6 - DISCIPLINARY AND HEALTH INQUIRIES",
+      "section": "39",
+      "title": "Complaints against registered pharmacists",
+      "content": "39. —(1) Any — ( a ) complaint made or information given to the Council on the conduct of a registered pharmacist in his or her professional capacity or of a registered pharmacist’s improper act or conduct which brings disrepute to his or her profession; ( b ) information given to the Council on the conviction in Singapore or elsewhere of a registered pharmacist of any offence committed under this Act, the Health Products Act 2007, the Medicines Act 1975, the Medicines (Advertisement and Sale) Act 1955, the Misuse of Drugs Act 1973, the Poisons Act 1938 or any other written law that may be prescribed; ( c ) information given to the Council on the conviction in Singapore or elsewhere of a registered pharmacist of any offence involving fraud or dishonesty, or implying a defect in character which makes him or her unfit for his or her profession; or ( d ) information given to the Council touching upon the physical or mental fitness of a registered pharmacist to practise as a pharmacist, must be in writing and must be supported by such statutory declaration as the Council may require, except that no statutory declaration is required if the complaint or information is made or given by a public officer or an officer of the Council. (2) The Council must refer the complaint or information mentioned in subsection (1), other than a complaint or information touching on the matters referred to in section 25, to the chairperson of the Complaints Panel. (3) The Council may, on its own motion, refer any information on the conviction of a registered pharmacist of any offence implying a defect in character which makes the registered pharmacist unfit for his or her profession to the chairperson of the Complaints Panel. (4) Where a registered pharmacist has been convicted in Singapore or elsewhere of an offence involving fraud or dishonesty or has contravened section 32(3) or 34(1), the Council must, despite subsection (1) or (2), immediately refer the matter to a Disciplinary Committee under section 42. (5) The chairperson of the Complaints Panel may appoint from among members of the Complaints Panel one or more committees comprising — ( a ) a chairperson of the committee who is also a member of the Council; ( b ) 2 registered pharmacists, at least one of whom is not a member of the Council; and ( c ) a lay person, each to be called a Complaints Committee to inquire into any complaint or information mentioned in subsection (2) or (3). (6) A Complaints Committee must be appointed in connection with one or more matters or for a fixed period of time as the chairperson of the Complaints Panel may think fit. (7) Where any complaint or information mentioned in subsection (1)( a ), ( b ) or ( c ) or (3) is referred to the chairperson of the Complaints Panel, that chairperson must lay the complaint or information before a Complaints Committee. (8) Where any complaint or information mentioned in subsection (1)( d ) is referred to the chairperson of the Complaints Panel, that chairperson must — ( a ) if he or she is satisfied, based on any information given in support of the complaint or information, that a formal inquiry is necessary to determine the physical or mental fitness of the registered pharmacist to practise, refer the complaint or information to the Health Committee; or ( b ) in any other case, lay the complaint or information before a Complaints Committee. (9) The chairperson of the Complaints Panel may at any time revoke the appointment of any Complaints Committee or may remove any member of a Complaints Committee or fill any vacancy in a Complaints Committee. (10) No act done by or under the authority of a Complaints Committee is invalid in consequence of any defect that is subsequently discovered in the appointment or qualification of the members or any of them. (11) All the members of a Complaints Committee must be present to constitute a quorum for a meeting of the Complaints Committee and any resolution or decision in writing signed by all the members of a Complaints Committee is as valid and effectual as if it had been made or reached at a meeting of the Complaints Committee where all its members were present. (12) A Complaints Committee may meet for the purposes of its inquiry, adjourn and otherwise regulate the conduct of its inquiry as the members think fit. (13) The chairperson of a Complaints Committee may at any time summon a meeting of the Complaints Committee. (14) All members of a Complaints Committee present at any meeting thereof must vote on any question arising at the meeting and the question must be determined by a majority of votes and, in the case of an equality of votes, the chairperson has a casting vote. (15) A member of a Complaints Committee, despite having ceased to be a member of the Complaints Panel on the expiry of his or her term of office, is deemed to be a member of the Complaints Panel until such time as the Complaints Committee has completed its work. (16) Any person who makes a complaint under this section which the person knows to be false in any material particular shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "PART 6 - DISCIPLINARY AND HEALTH INQUIRIES",
+      "section": "40",
+      "title": "Inquiry by Complaints Committee",
+      "content": "40. —(1) A Complaints Committee must inquire into any complaint or information, or any information or evidence mentioned in subsection (9), and complete its preliminary inquiry not later than 3 months from — ( a ) the date the complaint or information is laid before the Complaints Committee; or ( b ) the date the information or evidence mentioned in subsection (9) is received by the Complaints Committee, as the case may be. (2) Where a Complaints Committee is of the opinion that it will not be able to complete its preliminary inquiry within the period specified in subsection (1) due to the complexity of the matter or serious difficulties encountered by the Complaints Committee in conducting its preliminary inquiry, the Complaints Committee may apply in writing to the chairperson of the Complaints Panel for an extension of time to complete its inquiry and the chairperson may grant such extension of time to the Complaints Committee as the chairperson thinks fit. (3) For the purposes of any inquiry, a Complaints Committee may — ( a ) call upon or appoint any person it considers necessary to assist it in its investigations and deliberations; ( b ) require the production of any book, document, paper or other record which may be related to or be connected with the subject matter of the inquiry for inspection by the Complaints Committee or the person appointed under paragraph ( a ) and for making copies thereof; and ( c ) require the registered pharmacist concerned to give all information in relation to any such book, document, paper or other record which may be reasonably required by the Complaints Committee or by the person so appointed. (4) Any registered pharmacist or any other person who, without lawful excuse — ( a ) refuses or fails to produce to a Complaints Committee or to any person to whom the Complaints Committee may appoint for the purpose of the inquiry any book, document, paper or other record mentioned in subsection (3); or ( b ) fails to give any such information relating thereto, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part of a day during which the offence continues after conviction. (5) All such information, including any book, document, paper or other record used by the Complaints Committee in the course of its deliberations, is confidential and must not be disclosed to any person, including the registered pharmacist, unless the Complaints Committee in its discretion thinks otherwise. (6) The Complaints Committee may, at any time before it makes its findings, seek any legal advice that it thinks necessary. (7) Where a Complaints Committee is of the opinion that a registered pharmacist should be called upon to answer any allegation made against him or her, the Complaints Committee must serve on the registered pharmacist — ( a ) copies of any complaint and any statutory declaration or affidavit that has been made in support of the complaint; or ( b ) any information and any statutory declaration or affidavit that has been made in support of the information, and a notice inviting the registered pharmacist, within the period (not being less than 21 days) specified in the notice, to give to the Complaints Committee any written explanation the registered pharmacist may wish to offer. (8) The registered pharmacist concerned does not have the right to be heard by the Complaints Committee, whether in person or by counsel, unless the Complaints Committee in its absolute discretion otherwise allows. (9) Where, in the course of its inquiry, a Complaints Committee receives information touching on or evidence of the conduct or physical or mental fitness of the registered pharmacist concerned which may give rise to proceedings under this Part, the Complaints Committee may, after giving notice to the registered pharmacist, decide on its own motion to inquire into that matter. (10) Where the complainant withdraws his or her complaint before — ( a ) the Council has referred the complaint to a Complaints Committee or the Health Committee under this Part; or ( b ) the inquiry by a Complaints Committee, Disciplinary Committee or the Health Committee has concluded, the Council may, despite the withdrawal — ( c ) refer the complaint to a Complaints Committee or the Health Committee; or ( d ) direct a Complaints Committee, Disciplinary Committee or the Health Committee to continue the inquiry. (11) The Complaints Committee, Disciplinary Committee or Health Committee (as the case may be) must comply with a direction made under subsection (10)( d ) and all future proceedings thereon must be taken as if the complaint had been made by the Council. (12) Any member of the Council who is employed in the Ministry of Health is not disqualified from being a member of a Complaints Committee, Disciplinary Committee or the Health Committee by reason only that the member or the complainant is so employed."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "PART 6 - DISCIPLINARY AND HEALTH INQUIRIES",
+      "section": "41",
+      "title": "Findings of Complaints Committee",
+      "content": "41. —(1) Upon due inquiry into the complaint or information, or any information or evidence mentioned in section 40(9), a Complaints Committee must — ( a ) if it is of the view that no formal inquiry is necessary — (i) order that the registered pharmacist be issued with a letter of advice; (ii) order that the registered pharmacist be warned; (iii) order that the complaint or matter be dismissed; or (iv) make any other order that it thinks fit; or ( b ) if it is of the view that a formal inquiry is necessary — (i) order that an inquiry be held by the Health Committee; or (ii) order that an inquiry be held by a Disciplinary Committee. (2) Where a Complaints Committee determines that a formal inquiry is necessary, it must order that the inquiry be held by the Health Committee if the complaint, information or evidence touches upon the physical or mental fitness of the registered pharmacist to practise. (3) Where a Complaints Committee has made an order for a formal inquiry to be held by a Disciplinary Committee, the Council must immediately appoint a Disciplinary Committee which must hear and investigate the complaint or matter. (4) Where a Complaints Committee has ordered that a letter of advice be issued, the chairperson of the Complaints Committee must issue a letter of advice in such terms as it thinks fit. (5) A Complaints Committee must notify the registered pharmacist concerned and the person who made the complaint or gave the information under section 39(1) of its decision under subsection (1) and, if it makes an order under subsection (1)( a ), the reason for making the order. (6) Any registered pharmacist who is aggrieved by any order of a Complaints Committee under subsection (1)( a ) may, within 30 days of being notified of the determination of the Complaints Committee, appeal to the Minister whose decision is final. (7) Where the person who has made the complaint or given the information to the Council is dissatisfied with any order of a Complaints Committee under subsection (1)( a ), the person may, within 30 days of being notified of the determination of the Complaints Committee, appeal to the Minister whose decision is final. (8) The Minister may make — ( a ) an order affirming the determination of a Complaints Committee; ( b ) an order directing the Council to immediately appoint a Disciplinary Committee to hear and investigate the complaint or matter; ( c ) an order directing that an inquiry into the matter be held by the Health Committee; or ( d ) any other order that the Minister thinks fit. (9) Every Complaints Committee must immediately report to the Council its findings and the order or orders made."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "PART 6 - DISCIPLINARY AND HEALTH INQUIRIES",
+      "section": "42",
+      "title": "Disciplinary Committee",
+      "content": "42. —(1) The Council may appoint, from among members of the Complaints Panel, one or more committees comprising — ( a ) at least 3 registered pharmacists of at least 10 years’ standing of whom at least 2 must be members of the Council; and ( b ) one observer who is a lay person, each to be called a Disciplinary Committee to inquire into — ( c ) any matter in respect of which the Minister or a Complaints Committee has under section 41 ordered that a formal inquiry be held; or ( d ) any matter referred to it under section 39(4). (2) A member of a Complaints Committee inquiring into any matter concerning a registered pharmacist must not be a member of a Disciplinary Committee inquiring into the same matter. (3) The member of a Disciplinary Committee who is an observer must not vote on any question or matter to be decided by the Disciplinary Committee and need not be present at every meeting of the Disciplinary Committee. (4) A Disciplinary Committee may be appointed in connection with one or more matters or for a fixed period of time as the Council thinks fit. (5) The Council may at any time — ( a ) revoke the appointment of any Disciplinary Committee; ( b ) remove any member of a Disciplinary Committee; or ( c ) fill any vacancy in a Disciplinary Committee. (6) No act done by or under the authority of a Disciplinary Committee is invalid in consequence of any defect that is subsequently discovered in the appointment or qualification of the members or any of them. (7) Except as provided by subsection (3) — ( a ) all members of a Disciplinary Committee must be personally present to constitute a quorum for the transaction of any business; and ( b ) all members of a Disciplinary Committee present at any meeting thereof must vote on any question arising at the meeting and the question is to be determined by a majority of votes and, in the case of an equality of votes, the chairperson has a casting vote. (8) The Council must appoint a member of a Disciplinary Committee who is a registered pharmacist to be the chairperson of the Disciplinary Committee."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "PART 6 - DISCIPLINARY AND HEALTH INQUIRIES",
+      "section": "43",
+      "title": "Proceedings of Disciplinary Committee",
+      "content": "43. —(1) A Disciplinary Committee must meet to inquire into any matter referred to it by the Council and may regulate its own procedure. (2) A member of a Disciplinary Committee, despite having ceased to be a member of the Council or Complaints Panel on the expiry of his or her term of office, continues to be a member of the Disciplinary Committee until such time as the Disciplinary Committee has completed its work. (3) The registered pharmacist concerned may appear in person or be represented by counsel. (4) A Disciplinary Committee is not bound to act in any formal manner and is not bound by the provisions of the Evidence Act 1893 or by any other written law relating to evidence but may inform itself on any matter in such manner as it thinks fit. (5) A Disciplinary Committee may, for the purpose of any proceedings before it, administer oaths and any party to the proceedings may take out a subpoena to testify or to produce documents. (6) The subpoenas referred to in subsection (5) must be served and may be enforced as if they were orders to attend court or orders to produce documents issued in connection with a civil action in the General Division of the High Court. [Act 25 of 2021 wef 01/04/2022] [40/2019] (7) Any person giving evidence before a Disciplinary Committee is legally bound to tell the truth. (8) A witness has the same privileges and immunities in relation to hearings before a Disciplinary Committee as if the hearings were proceedings in a court of law. (9) A Disciplinary Committee must carry out its work expeditiously and may apply to the Council for an extension of time and for directions to be given to the Disciplinary Committee if the Disciplinary Committee fails to make its finding and order within 6 months from the date of its appointment. (10) When an application for extension of time has been made under subsection (9), the Council may grant an extension of time for any period it thinks fit. (11) In sections 172, 173, 174, 175, 177, 179, 182 and 228 of the Penal Code 1871, “public servant” is deemed to include a member of a Disciplinary Committee taking part in any investigation under this section, and in sections 193 and 228 of the Penal Code 1871, “judicial proceeding” is deemed to include any such investigation."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "PART 6 - DISCIPLINARY AND HEALTH INQUIRIES",
+      "section": "44",
+      "title": "Reference and transfer of cases to Health Committee",
+      "content": "44. —(1) Where, in the course of inquiring into the case of a registered pharmacist, it appears to a Disciplinary Committee that the registered pharmacist’s fitness to practise may be impaired by reason of his or her physical or mental condition, the Disciplinary Committee may refer that question to the Health Committee for determination. (2) If, on a reference under this section, the Health Committee determines that the fitness of the registered pharmacist to practise is not impaired by reason of his or her condition, the Health Committee must certify its opinion to the Disciplinary Committee. (3) If, on a reference under this section, the Health Committee determines that the fitness of the registered pharmacist to practise is impaired by reason of his or her condition, the Health Committee must — ( a ) certify its opinion to the Disciplinary Committee; and ( b ) proceed to dispose of the case, and the Disciplinary Committee ceases to exercise its function in relation to the case."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "PART 6 - DISCIPLINARY AND HEALTH INQUIRIES",
+      "section": "45",
+      "title": "Findings of Disciplinary Committee",
+      "content": "45. —(1) A Disciplinary Committee may exercise one or more of the powers mentioned in subsection (2) where a registered pharmacist is found or judged by the Disciplinary Committee — ( a ) to have been convicted in Singapore or elsewhere of an offence under any of the written laws referred to in section 39(1)( b ); ( b ) to have been convicted in Singapore or elsewhere of an offence involving fraud or dishonesty, or implying a defect in character which makes the registered pharmacist unfit for his or her profession; ( c ) to be guilty of such improper act or conduct which, in the opinion of the Council, brings disrepute to his or her profession; ( d ) to be guilty of professional misconduct; or ( e ) to have contravened section 32(3) or 34(1). (2) The powers that the Disciplinary Committee may exercise for the purposes of subsection (1) are as follows: ( a ) by order direct the Registrar to remove the name of the registered pharmacist from the appropriate register; ( b ) by order suspend the registration of the registered pharmacist in the appropriate register for a period of at least 3 months but not more than 3 years; ( c ) by order impose conditions necessary to restrict the practice of the registered pharmacist in the manner that the Disciplinary Committee considers appropriate for a period not exceeding 3 years; ( d ) by order impose on the registered pharmacist a penalty not exceeding $50,000; ( e ) by writing censure the registered pharmacist; ( f ) issue a letter of advice or warning to the registered pharmacist; ( g ) by order require the registered pharmacist to give an undertaking that the Disciplinary Committee considers appropriate to abstain from the conduct complained of in future; ( h ) make any other order that the Disciplinary Committee considers appropriate. (3) In any proceedings instituted under this Part against a registered pharmacist consequent upon his or her conviction for a criminal offence, a Disciplinary Committee and the General Division of the High Court on appeal from any order of the Disciplinary Committee must accept the conviction as final and conclusive. [40/2019] (4) Where a registered pharmacist is not found or judged by the Disciplinary Committee to have been convicted or guilty of any matter referred to in subsection (1), the Disciplinary Committee must dismiss the complaint or matter. (5) The Registrar must serve on the registered pharmacist concerned and the person who made the complaint or gave the information (if any) a notice of the order made by the Disciplinary Committee. (6) A Disciplinary Committee may under subsection (2) order the registered pharmacist concerned to pay to the Council such sums as it thinks fit in respect of the costs and expenses of and incidental to any proceedings before the Disciplinary Committee and, where applicable, an Interim Orders Committee. (7) The General Division of the High Court has jurisdiction to tax the costs mentioned in subsection (6) and any such order for costs made is enforceable as if it were ordered in connection with a civil action in the General Division of the High Court. [40/2019] (8) The Disciplinary Committee, in ordering that costs be paid by the registered pharmacist under this section, may certify that costs for more than one solicitor be paid if it is satisfied that the issues involved in the proceedings are of sufficient complexity, and the certification by the Disciplinary Committee has the same effect as if it were a certification by a Judge in a civil action in the General Division of the High Court. [40/2019] (9) The costs and expenses mentioned in subsection (6) include — ( a ) the costs and expenses of any assessor and advocate and solicitor appointed by the Council for proceedings before the Disciplinary Committee and the Interim Orders Committee; ( b ) reasonable expenses that the Council may pay to witnesses; and ( c ) reasonable expenses that are necessary for the conduct of proceedings before the Disciplinary Committee and the Interim Orders Committee."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "PART 6 - DISCIPLINARY AND HEALTH INQUIRIES",
+      "section": "46",
+      "title": "Orders of Disciplinary Committee",
+      "content": "46. —(1) Where a registered pharmacist in respect of whom an order is made under section 45(2)( c ), or an order for interim restricted registration is made under section 54(1)( b ) or 56(1)( d ), is judged by a Disciplinary Committee (whether, in the case of an order under section 45(2)( c ), it is the Disciplinary Committee that made the order or another Disciplinary Committee appointed in its place) to have failed to comply with any of the requirements imposed on the registered pharmacist as conditions of his or her registration, the Disciplinary Committee may order that — ( a ) the registered pharmacist’s name be removed from the appropriate register; or ( b ) the registered pharmacist’s registration in the appropriate register be suspended for a period not exceeding 12 months as may be specified in the order. (2) Where a Disciplinary Committee has made an order for suspension under subsection (1)( b ) or section 45(2)( b ), the Disciplinary Committee may order that, from the expiry of the current period of suspension, the registration of the person whose registration is suspended be restricted in such manner as it thinks fit for a period not exceeding 3 years. (3) Where a Disciplinary Committee has made an order for suspension under subsection (1)( b ) or section 45(2)( b ) against a person and that person has failed to comply with that order, the Disciplinary Committee or another Disciplinary Committee appointed in its place may order that — ( a ) the person’s name be removed from the appropriate register; or ( b ) from the expiry of the current period of suspension, the person’s registration in the appropriate register be restricted in such manner as it thinks fit for a period not exceeding 3 years. (4) Where a Disciplinary Committee has made an order under section 45(2)( c ), the Disciplinary Committee or another Disciplinary Committee appointed in its place may revoke the order or revoke or vary any of the conditions imposed by the order. (5) Subsection (1) applies to a registered pharmacist whose registration is subject to conditions imposed by an order made under subsection (2) or (3) as it applies to a registered pharmacist whose registration is subject to conditions imposed by an order for restricted registration made under section 45(2)( c ), and subsection (4) applies accordingly. (6) Where a Disciplinary Committee has made an order or has varied the conditions imposed by an order under this section, the Registrar must immediately serve on the person to whom the order applies a notice of the order or the variation. (7) Subject to subsection (8), an order made by a Disciplinary Committee for the removal of any name or for suspension of registration under subsection (1) or (3) or section 45(2) does not take effect until the expiry of 30 days after the order is made. (8) On making an order for the removal of any name or for suspension of registration under subsection (1) or (3) or section 45(2), a Disciplinary Committee may, if satisfied that to do so is necessary for the protection of members of the public or would be in the best interests of the registered pharmacist concerned, order that the registered pharmacist’s registration in the appropriate register be suspended or that the registered pharmacist’s name be removed from the appropriate register immediately. (9) Where an order under subsection (8) is made, the Registrar must immediately serve a notice of the order on the person to whom it applies and if that person was present or represented at the proceedings of the Disciplinary Committee, the order takes effect from the time the order is made. (10) Where the person concerned is neither present nor represented at the proceedings of the Disciplinary Committee, the order made under subsection (8) takes effect from the time of service of the notice of the order on the person. (11) An order of a Disciplinary Committee, other than an order for the removal of any name or for suspension of registration under subsection (1) or (3) or section 45(2), takes effect from the time the order is made. (12) While any order of suspension of registration remains in force, the person concerned is not to be regarded as being registered under this Act even though the person’s name still appears in the appropriate register, but immediately on the expiry of the order the person’s rights and privileges as a registered pharmacist are revived as from the date of the expiry, provided that the pharmacist has complied with all the terms of the order."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "PART 6 - DISCIPLINARY AND HEALTH INQUIRIES",
+      "section": "47",
+      "title": "Appeal against order by Disciplinary Committee",
+      "content": "47. —(1) Any person aggrieved by a decision of the Disciplinary Committee referred to in section 45(2) or (4) or 46 may, within 30 days after the service on him or her of the notice of the order, appeal to the General Division of the High Court against the order. [40/2019] (2) There is no appeal from the decision of the General Division of the High Court. [40/2019] (3) In any appeal to the General Division of the High Court against a decision referred to in section 45(2) or (4) or 46, the General Division of the High Court must accept as final and conclusive any finding of the Disciplinary Committee relating to any issue of ethics or standards of professional conduct, unless the finding is in the opinion of the General Division of the High Court unsafe, unreasonable or contrary to the evidence. [40/2019] (4) Despite section 45 or 46, where a person has appealed to the General Division of the High Court against an order mentioned in section 45(2) or 46, the order does not take effect unless the order is confirmed by the General Division of the High Court or the appeal is for any reason dismissed by the General Division of the High Court or withdrawn. [40/2019]"
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "PART 6 - DISCIPLINARY AND HEALTH INQUIRIES",
+      "section": "48",
+      "title": "Restoration of names to appropriate register",
+      "content": "48. —(1) Where the name of a pharmacist has been removed from an appropriate register pursuant to an order made by a Disciplinary Committee under section 45 or 46, the Council may, upon application by the pharmacist and subject to any conditions it thinks fit, direct that the pharmacist’s name be restored to the appropriate register. (2) An application for the restoration of a name to an appropriate register under this section must not be made to the Council — ( a ) before the expiry of 3 years from the date of the removal of the name; or ( b ) more than once in any period of 12 months by or on behalf of the pharmacist, and unless the pharmacist has complied with all the terms of the order made against him or her."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "PART 6 - DISCIPLINARY AND HEALTH INQUIRIES",
+      "section": "49",
+      "title": "Report of breach",
+      "content": "49. Where any breach of any written law is disclosed to the Disciplinary Committee in the course of an inquiry, the Disciplinary Committee may report the breach to the appropriate authorities."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "PART 6 - DISCIPLINARY AND HEALTH INQUIRIES",
+      "section": "50",
+      "title": "Health Committee",
+      "content": "50. —(1) There is to be a committee called the Health Committee comprising at least 3 members of the Council to be appointed by the Council which must inquire into any case referred to it under this Act. (2) A member of the Health Committee must be appointed for a period of 2 years and is eligible for re-appointment."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "PART 6 - DISCIPLINARY AND HEALTH INQUIRIES",
+      "section": "51",
+      "title": "Unfitness to practise through illness, etc.",
+      "content": "51. —(1) Where the Health Committee is satisfied that the fitness of a registered pharmacist to practise as a pharmacist is impaired by reason of the registered pharmacist’s physical or mental condition, the Health Committee may exercise one or more of the following powers: ( a ) order that the registered pharmacist pays to the Council the costs and expenses of and incidental to the inquiry by the Health Committee and, where applicable, an Interim Orders Committee, including the costs and expenses of any medical examination incurred by the Council and of the medical assessor in respect of the inquiry; ( b ) order that the registered pharmacist’s registration as a pharmacist be suspended for a period not exceeding 12 months as specified in the order; ( c ) order that the registered pharmacist’s registration as a pharmacist be conditional upon his or her compliance, during a period not exceeding 3 years as specified in the order, with any requirements so specified that the Health Committee thinks fit to impose for the protection of members of the public or in the registered pharmacist’s interests (called in this Part a restricted registration); ( d ) recommend to the Council that the registered pharmacist’s name be removed from the appropriate register. (2) An order mentioned in subsection (1)( a ) is enforceable as if it were ordered in connection with a civil action in the General Division of the High Court. [40/2019] (3) Where a registered pharmacist in respect of whom an order for restricted registration is made under subsection (1)( c ), or an order for interim restricted registration is made under section 54(1)( b ) or 56(1)( d ), is judged by the Health Committee to have failed to comply with any of the requirements imposed on him or her as conditions of his or her registration, the Health Committee may, order that the registered pharmacist’s registration in the appropriate register be suspended for a period not exceeding 12 months as specified in the order. (4) Where the Council accepts the recommendation of the Health Committee under subsection (1)( d ), the Council must by order direct that the name of the registered pharmacist be removed from the appropriate register, and that order takes effect from the date the order is made. (5) Where the Health Committee has made an order for suspension under subsection (1) or (3), the Health Committee may order that, from the expiry of the current period of suspension, the registration of the person whose registration is suspended be a restricted registration. (6) Where the Health Committee has made an order for suspension under subsection (1) or (3) against a person and that person has failed to comply with that order, the Health Committee may — ( a ) make a recommendation referred to in subsection (1)( d ) to the Council, and subsection (4) applies accordingly; or ( b ) order that, from the expiry of the current period of suspension, the person’s registration in the appropriate register be restricted in any manner that it thinks fit for a period not exceeding 3 years. (7) Where the Health Committee has made an order for restricted registration, the Health Committee may revoke the order or revoke or vary any of the conditions imposed by the order. (8) Subsection (3) applies to a registered pharmacist whose registration is subject to conditions imposed by an order for restricted registration made under subsection (5) or (6) as it applies to a registered pharmacist whose registration is subject to conditions imposed by an order for restricted registration made under subsection (1)( c ), and subsection (7) applies accordingly. (9) Where the Health Committee has — ( a ) made an order under this section for suspension or for restricted registration, including an order for extending a period of suspension or a period of restricted registration; or ( b ) varied the conditions imposed by a direction for restricted registration, the Registrar must immediately serve on the person to whom the order applies a notice of the order or of the variation. (10) While a person’s registration in the appropriate register is suspended by virtue of this section, the person is to be treated as not being registered in that register even though the person’s name still appears in it. (11) Sections 42(5), (6) and (7) and 43 apply, with the necessary modifications, to the Health Committee and references to a Disciplinary Committee are to be read as references to the Health Committee. (12) Any person who is aggrieved by any order or any variation of the conditions imposed by an order for restricted registration made by the Health Committee under this section may, within 30 days of the service on the person of the notification of the order, appeal to the Minister whose decision is final. (13) Any order or any variation of the conditions imposed by an order for restricted registration made by the Health Committee takes effect from the time the order or variation is made unless the Minister decides otherwise."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "PART 6 - DISCIPLINARY AND HEALTH INQUIRIES",
+      "section": "52",
+      "title": "Restoration of names removed on recommendation of Health Committee",
+      "content": "52. —(1) Where the name of a person has been removed from an appropriate register on the recommendation of the Health Committee under section 51, the Council may, upon application by the person, direct that the person’s name be restored to the appropriate register. (2) An application under subsection (1) must not be made to the Council more than once in any period of 12 months by or on behalf of the person. (3) An application under subsection (1) must not be made to the Council by or on behalf of the person unless the person has complied with all the terms of the order made against him or her."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "PART 6 - DISCIPLINARY AND HEALTH INQUIRIES",
+      "section": "53",
+      "title": "Interim Orders Committee",
+      "content": "53. —(1) The Council may appoint one or more committees comprising 3 of its members, each to be known for the purposes of this Act as an Interim Orders Committee, to inquire into any matter referred by the Council under subsection (3). (2) An Interim Orders Committee may be appointed in connection with one or more matters or for a fixed period of time. (3) The chairperson of the Complaints Panel, a Complaints Committee, a Disciplinary Committee or the Health Committee may refer any complaint or information to the Council for the purpose of determining if an order should be made under section 54; and the Council must refer the complaint or information to an Interim Orders Committee for this purpose. (4) A member of a Complaints Committee or Disciplinary Committee inquiring into any matter must not be a member of an Interim Orders Committee inquiring into or reviewing that matter. (5) A member of an Interim Orders Committee inquiring into or reviewing any matter must not be a member of a Complaints Committee or Disciplinary Committee inquiring into that matter, or take part in any deliberation of the Council under section 51(4) in respect of that matter. (6) Neither the chairperson of the Complaints Panel nor any member of the Health Committee may be a member of an Interim Orders Committee. (7) All members of an Interim Orders Committee must vote on any question arising at a meeting of the Interim Orders Committee and the question must be determined by a majority of votes. (8) A member of an Interim Orders Committee which has commenced any inquiry or review of any case must, despite having ceased to be a member of the Council, continue to be a member of the Interim Orders Committee until the completion of that inquiry or review. (9) Sections 42(5), (6) and (7) and 43(1), (4) to (8) and (11) apply, with the necessary modifications, to an Interim Orders Committee and to proceedings before it as they apply to a Disciplinary Committee and to proceedings before a Disciplinary Committee."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "PART 6 - DISCIPLINARY AND HEALTH INQUIRIES",
+      "section": "54",
+      "title": "Interim orders",
+      "content": "54. —(1) Where, upon due inquiry into any complaint or information referred to it, an Interim Orders Committee is satisfied that it is necessary for the protection of members of the public or is otherwise in the public interest, or is in the interests of a registered pharmacist, for the registered pharmacist’s registration to be suspended or to be made subject to conditions, the Interim Orders Committee may make an order that — ( a ) the registered pharmacist’s registration in the appropriate register be suspended for a period not exceeding 18 months as specified in the order (called in this Part an interim suspension order); or ( b ) the registered pharmacist’s registration be conditional on his or her compliance, during a period not exceeding 18 months as specified in the order, with such requirements so specified as the Interim Orders Committee thinks fit to impose (called in this Part an order for interim restricted registration). (2) The Registrar must immediately serve a notification of the order under subsection (1) on the registered pharmacist."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "PART 6 - DISCIPLINARY AND HEALTH INQUIRIES",
+      "section": "55",
+      "title": "Review of interim orders",
+      "content": "55. —(1) Subject to subsection (2), where an Interim Orders Committee has made an order under section 54, the Interim Orders Committee or another Interim Orders Committee appointed in its place — ( a ) must review it within 6 months beginning on the date on which the order was made, and must then, for so long as the order continues in force, further review it before the end of 3 months beginning on the date of the decision of the immediately preceding review; and ( b ) may review it where new evidence relevant to the order has become available after the order was made. (2) Where the General Division of the High Court has extended the order under section 58(2) or an Interim Orders Committee has made a replacement order under section 56(1)( c ) or ( d ), the first review after the extension or making of the replacement order must take place — ( a ) if the order (or the order which has been replaced) had not been reviewed under subsection (1), within 6 months beginning on the date on which the General Division of the High Court ordered the extension or on which the replacement order was made, as the case may be; or ( b ) if it had been reviewed under subsection (1), within 3 months beginning on the date on which the General Division of the High Court ordered the extension or on which the replacement order was made. [40/2019]"
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "PART 6 - DISCIPLINARY AND HEALTH INQUIRIES",
+      "section": "56",
+      "title": "Interim Orders Committee may revoke, vary or replace interim order",
+      "content": "56. —(1) Where an interim suspension order or an order for interim restricted registration has been made under this section or section 54 in relation to any registered pharmacist, the Interim Orders Committee that made the order or another Interim Orders Committee appointed in its place may, either upon its review mentioned in section 55 or upon the recommendation of a Complaints Committee, a Disciplinary Committee or the Health Committee — ( a ) revoke the order or revoke any condition imposed by the order; ( b ) make an order varying any condition imposed by the order; ( c ) if satisfied that to do so is necessary for the protection of members of the public or is otherwise in the public interest, or is in the interests of the registered pharmacist concerned, or that the registered pharmacist has not complied with any requirement imposed as a condition of his or her registration in the order for interim restricted registration, replace that order with an interim suspension order having effect for the remainder of the period of the former; or ( d ) if satisfied that the public interest or the interests of the registered pharmacist concerned would be more adequately served by an order for interim restricted registration, replace the interim suspension order with an order for interim restricted registration having effect for the remainder of the period of the former. (2) The Registrar must immediately serve a notification of the decision under subsection (1) on the registered pharmacist."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "PART 6 - DISCIPLINARY AND HEALTH INQUIRIES",
+      "section": "57",
+      "title": "Right of hearing",
+      "content": "57. —(1) An order under section 54 or 56(1)( b ), ( c ) or ( d ) must not be made by an Interim Orders Committee in respect of any registered pharmacist unless the registered pharmacist has been afforded an opportunity of appearing before the Interim Orders Committee and being heard on the question whether such an order should be made in his or her case. (2) For the purposes of subsection (1), the registered pharmacist may be represented before the Interim Orders Committee by counsel. (3) Regulations made for the purposes of an Interim Orders Committee may include provision securing that the registered pharmacist in respect of whom an interim suspension order or an order for interim restricted registration has been made is, if the registered pharmacist so requires, entitled to be heard by the Interim Orders Committee on each occasion on which it reviews the order, and be represented by counsel during the review."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "PART 6 - DISCIPLINARY AND HEALTH INQUIRIES",
+      "section": "58",
+      "title": "Application to General Division of High Court",
+      "content": "58. —(1) The Council may apply to the General Division of the High Court for an order made under section 54 or 56(1)( c ) or ( d ) to be extended, and may apply again for further extensions. [40/2019] (2) On such an application, the General Division of the High Court may extend (or further extend) for up to 12 months the period for which the order has effect. [40/2019] (3) The General Division of the High Court may, on application by the registered pharmacist concerned — ( a ) in the case of an interim suspension order, revoke the order; ( b ) in the case of an order for interim restricted registration, revoke the order or vary any condition imposed by the order; and ( c ) in either case, substitute for the period specified in the order (or in the order extending it) some other period which could have been specified in the order when it was made (or in the order extending it). [40/2019]"
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "PART 6 - DISCIPLINARY AND HEALTH INQUIRIES",
+      "section": "59",
+      "title": "Duration of interim orders",
+      "content": "59. —(1) An interim suspension order or an order for interim restricted registration is in force until the earlier of the following: ( a ) the end of the period specified in the order or, if extended under section 58(2), in the order extending it; ( b ) the date on which proceedings are concluded. (2) For the purposes of subsection (1)( b ), proceedings are concluded if — ( a ) the Complaints Committee inquiring into the complaint or information has made an order under section 41(1)( a ) and — (i) no appeal to the Minister under section 41(6) or (7) has been made against that order within the period specified in that section or such an appeal is withdrawn; or (ii) the Minister makes an order under section 41(8)( a ) or ( c ); ( b ) the Disciplinary Committee inquiring into the complaint or information has made an order under section 45(2) which has taken effect, or has dismissed the complaint or matter under section 45(4); or ( c ) the Health Committee has made an order under section 51(1) which has taken effect, the Council has made an order under section 51(4) which has taken effect, or the Health Committee has dismissed the complaint or matter."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "PART 6 - DISCIPLINARY AND HEALTH INQUIRIES",
+      "section": "60",
+      "title": "Person suspended under interim suspension order not regarded as registered",
+      "content": "60. —(1) While a person’s registration in the appropriate register is suspended by virtue of an interim suspension order, the person is not to be regarded as being registered even though the person’s name still appears in that register. (2) Immediately upon the expiry or revocation of the order, the person’s rights and privileges as a registered pharmacist are revived from the date of the expiry or revocation, provided that the person has complied with all the terms of the order. (3) To avoid doubt, the provisions of this Part, where relevant, continue to apply to a person whose registration in the appropriate register is suspended by virtue of an interim suspension order."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "PART 6 - DISCIPLINARY AND HEALTH INQUIRIES",
+      "section": "61",
+      "title": "Council may appoint legal counsel",
+      "content": "61. For the purposes of an inquiry under this Part by a Disciplinary Committee, the Health Committee or an Interim Orders Committee, the Council may appoint an advocate and solicitor and pay him or her, as part of the expenses of the Council, any remuneration determined by the Council."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "PART 6 - DISCIPLINARY AND HEALTH INQUIRIES",
+      "section": "62",
+      "title": "Recovery of penalties and costs",
+      "content": "62. Any financial penalty and costs payable by any person under this Part are recoverable by the Council as a debt due to the Council from that person and the person’s liability to pay is not affected by the person ceasing to be registered with the Council."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "PART 7 - MISCELLANEOUS",
+      "section": "63",
+      "title": "Application of funds of Council",
+      "content": "63. —(1) All fees, penalties and other moneys payable under this Act must be paid to the Council and any fee, penalty or other money not paid is recoverable by the Council as a debt due to the Council. (2) Subject to subsection (2A) and section 69(4), all moneys received by the Council or the Registrar must be paid into the funds of the Council. [Act 19 of 2025 wef 05/12/2025] (2A) All penalties collected or recovered under this Act must be paid into the Consolidated Fund. [Act 19 of 2025 wef 05/12/2025] (3) The costs and expenses of and incidental to the performance of the functions of the Council and any committee appointed by the Council under this Act must be paid by the Council out of its funds. (4) The Minister may pay into the funds of the Council such sum of money out of moneys to be provided by Parliament as the Minister may determine."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "PART 7 - MISCELLANEOUS",
+      "section": "64",
+      "title": "Fees payable to members of Council and members of committees",
+      "content": "64. There must be paid to — ( a ) the members of the Council; and ( b ) the members of any committee appointed by the Council, who are not public officers such fees as the Minister may approve."
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "PART 7 - MISCELLANEOUS",
+      "section": "65",
+      "title": "Inspectors",
+      "content": "65. —(1) The Council may appoint one or more public officers or officers of the Council as inspectors to investigate the commission of an offence under this Act. (2) In any case relating to the commission of an offence under this Act, an inspector has the power to do all or any of the following: ( a ) to require any person whom the inspector has reason to believe has any article, document or information relevant to the carrying out of the provisions of this Act to produce that article or document, or give that information, and to retain that article or document, or make copies of that document; ( b ) to examine orally any person supposed to be acquainted with the facts and circumstances relevant to the carrying out of the provisions of this Act and to reduce into writing the answer given or statement made by that person; ( c ) to require by order in writing the attendance before the inspector of any person who, from information given or otherwise, appears to be acquainted with facts and circumstances relevant to the carrying out of the provisions of this Act. (3) A person examined under subsection (2)( b ) is bound to state truly the facts and circumstances with which the person is acquainted, and the statement made by that person under that subsection must be read over to that person and, after correction, be signed by that person. (4) An inspector may apply to a Magistrate for a search warrant if the inspector has reasonable cause to believe that evidence of the commission of an offence under this Act can be found therein; and the Magistrate may, if satisfied that there are reasonable grounds for doing so, issue the warrant. (5) Any inspector authorised by a search warrant issued under subsection (4) may enter and search the premises referred to in the warrant and seize any thing found on the premises which the inspector reasonably believes is evidence of the commission of an offence under this Act. (6) Any person who — ( a ) intentionally offers any resistance to or wilfully delays an inspector in the exercise of any power under subsection (2) or pursuant to a search warrant issued under subsection (4); or ( b ) fails to comply with any requirement or order of an inspector under subsection (2), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both."
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "PART 7 - MISCELLANEOUS",
+      "section": "66",
+      "title": "Assessors to Council",
+      "content": "66. —(1) For the purposes of advising the Council and any committee appointed by the Council, the Council may appoint a legal assessor who must be an advocate and solicitor of at least 10 years’ standing. (2) The legal assessor must not participate or sit in any deliberation of the Council or any committee appointed by the Council unless invited to do so, and the legal assessor’s participation is limited only to questions of law arising from the proceedings. (3) The Council may appoint a medical assessor to assist the Council and any committee appointed by the Council in proceedings before any of them under the provisions of this Act. (4) The Council may pay to the legal assessor and medical assessor, as part of the expenses of the Council, such remuneration as the Council may determine."
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "PART 7 - MISCELLANEOUS",
+      "section": "67",
+      "title": "Protection against liability",
+      "content": "67. No action shall lie against the Council, any committee or inspector appointed by the Council, or any member or employee of the Council or committee, for any act or thing done under this Act in respect of any matter or thing done in good faith for the purposes of carrying out the provisions of this Act."
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "PART 7 - MISCELLANEOUS",
+      "section": "68",
+      "title": "Jurisdiction of court",
+      "content": "68. Despite anything to the contrary in the Criminal Procedure Code 2010, a District Court has jurisdiction to try any offence under this Act and has power to impose the full penalty or punishment in respect of the offence."
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "PART 7 - MISCELLANEOUS",
+      "section": "69",
+      "title": "Composition of offences",
+      "content": "69. —(1) The Council may compound any offence under this Act that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following: ( a ) one half of the amount of the maximum fine that is prescribed for the offence; ( b ) $2,000. (2) On payment of the sum of money, no further proceedings are to be taken against that person in respect of the offence. (3) The Council may, with the approval of the Minister, make regulations to prescribe the offences that may be compounded. (4) All sums collected under this section must be paid into the Consolidated Fund. [Act 19 of 2025 wef 05/12/2025]"
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "PART 7 - MISCELLANEOUS",
+      "section": "70",
+      "title": "Exemption in respect of pharmacy training",
+      "content": "70. Nothing in this Act prevents the doing of any act within the practice of pharmacy by any person if the act is carried out — ( a ) in the course of the person’s training; ( b ) under the supervision of a pharmacist registered under section 16(1); and ( c ) in an establishment approved by the Council for the purpose of section 16(1)( b ) or 17(3)( a )."
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "PART 7 - MISCELLANEOUS",
+      "section": "71",
+      "title": "General exemption",
+      "content": "71. The Minister may, after consultation with the Council, by order in the Gazette and subject to any conditions that the Minister may impose, exempt any person or class of persons from all or any of the provisions of this Act."
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "PART 7 - MISCELLANEOUS",
+      "section": "72",
+      "title": "Service of documents",
+      "content": "72. —(1) A document that is permitted or required by or under this Act to be served on a person may be served as described in this section. (2) A document permitted or required by or under this Act to be served on an individual may be served — ( a ) by giving it to the individual personally; ( b ) by sending it by prepaid registered post to the address specified by the individual for the service of documents generally, or specifically for the document, or (if no address is so specified) the individual’s residential address or business address; ( c ) by leaving it at the individual’s residential address with an adult apparently resident there, or at the individual’s business address with an adult apparently employed there; ( d ) by affixing a copy of the document in a conspicuous place at the individual’s residential address or business address; or ( e ) by sending it by email to the individual’s last email address. (3) A document permitted or required by or under this Act to be served on a partnership (other than a limited liability partnership) may be served — ( a ) by giving it to any partner or other similar officer, or an authorised representative, of the partnership; ( b ) by leaving it at, or by sending it by prepaid registered post to, the partnership’s business address; or ( c ) by sending it by email to the partnership’s last email address. (4) A document permitted or required by or under this Act to be served on a body corporate (including a limited liability partnership) or an unincorporated association may be served — ( a ) by giving it to the secretary or other similar officer of the body corporate or unincorporated association, or the limited liability partnership’s manager; ( b ) by leaving it at, or by sending it by prepaid registered post to, the registered office or principal office in Singapore of the body corporate or unincorporated association; or ( c ) by sending it by email to the last email address of the body corporate or unincorporated association. (5) Service of a document under this section takes effect — ( a ) if the document is sent by prepaid registered post, 2 days after the day the document was posted (even if it is returned undelivered); or ( b ) if the document is sent by email, at the time that the email becomes capable of being retrieved by the person to whom it is sent. (6) However, service of any document under this Act on a person by email may be effected only with the person’s prior written consent to service in that way. (7) This section does not apply to documents to be served in proceedings in court. (8) In this section — “authorised representative”, in relation to a partnership (other than a limited liability partnership), means any person authorised to accept service of documents on behalf of the partnership; “business address” means — ( a ) in the case of an individual, the individual’s usual or last known place of business in Singapore; or ( b ) in the case of a partnership (other than a limited liability partnership), the partnership’s principal or last known place of business in Singapore; “document” includes a direction, an order or a notice permitted or required by or under this Act to be served; “last email address” means the last email address given by the addressee concerned to the person giving or serving the document as the email address for the service of documents under this Act; “residential address” means an individual’s usual or last known place of residence in Singapore. [Act 19 of 2025 wef 05/12/2025]"
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "PART 7 - MISCELLANEOUS",
+      "section": "73",
+      "title": "Amendment of Schedule",
+      "content": "73. The Minister may, after consultation with the Council, by order in the Gazette , amend the Schedule."
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "PART 7 - MISCELLANEOUS",
+      "section": "74",
+      "title": "Regulations",
+      "content": "74. —(1) Subject to the provisions of this Act, the Council may, with the approval of the Minister, make regulations which are necessary or expedient to give effect to the provisions and purposes of this Act and the due administration of this Act. (2) Without limiting subsection (1), regulations may be made to — ( a ) provide for the duties of the Registrar; ( b ) regulate the registration of pharmacists and specialists; ( c ) regulate the certification of specialists; ( d ) provide for the form of the appropriate register and the mode in which it must be kept; ( e ) regulate the grant and renewal of practising certificates; ( f ) regulate the procedure and the conduct of proceedings of a Complaints Committee, a Disciplinary Committee, the Health Committee, and Interim Orders Committee or any committee appointed by the Council under this Act; ( g ) regulate the professional practice, etiquette, conduct and discipline of registered pharmacists and specialists; ( h ) regulate the removal and restoration of names in an appropriate register; ( i ) prescribe the forms necessary for the administration of this Act; ( j ) prescribe the fees and other charges for the purposes of this Act; ( k ) provide for the duties, functions and payment of the legal assessor and medical assessor appointed under section 66; ( l ) provide that any person who contravenes the regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both; and ( m ) prescribe any other matters necessary or expedient for carrying out the provisions of this Act."
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "PART 7 - MISCELLANEOUS",
+      "section": "75",
+      "title": "Saving and transitional provisions",
+      "content": "75. —(1) To avoid doubt, sections 26, 48 and 52 of this Act also apply to any person whose name was removed from the register kept under the repealed Act. (2) Any certificate of registration issued under section 8(7) of the repealed Act, if still in force immediately before 1 September 2008, is deemed as from that date to be a certificate of registration issued under section 22 of this Act and is subject to the provisions of this Act. (3) This Act does not affect the continued operation or force of any finding or order following every disciplinary proceeding, inquiry or investigation commenced or pending under the repealed Act before 1 September 2008. (4) Any written law or document referring to the repealed Act is, as far as may be necessary for preserving its effect, to be construed as referring or as including a reference to this Act. (5) Any reference in any written law or document to the Pharmacy Board is to be read as a reference to the Singapore Pharmacy Council. (6) Any subsidiary legislation made under the repealed Act and in force immediately before 1 September 2008, so far as it is not inconsistent with the provisions of this Act, continues in force as if made under this Act until it is revoked or repealed. (7) In this section — “Pharmacy Board” means the Pharmacy Board established under section 3 of the repealed Act; “repealed Act” means the Pharmacists Registration Act (Cap. 230, 1985 Revised Edition) repealed by this Act."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "appropriate register",
+      "definition": "“appropriate register” means any of the registers mentioned in section 15(1), as appropriate;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "“Board” means the Specialists Accreditation Board established under section 36;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chief Pharmacist",
+      "definition": "“Chief Pharmacist” means the Chief Pharmacist of the Ministry of Health;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "“Council” means the Singapore Pharmacy Council established under section 3;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "practice of pharmacy",
+      "definition": "“practice of pharmacy” means any of the acts or activities specified in the Schedule;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "practising certificate",
+      "definition": "“practising certificate” means a practising certificate granted under section 23;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "president",
+      "definition": "“president” means the president of the Council;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registered pharmacist",
+      "definition": "“registered pharmacist” means a person who is registered as a pharmacist under this Act;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "“Registrar” means the Registrar of the Council;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Singapore degree",
+      "definition": "“Singapore degree” means a degree or diploma in pharmacy conferred by — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "unauthorised person",
+      "definition": "“unauthorised person” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorised representative",
+      "definition": "“authorised representative” , in relation to a partnership (other than a limited liability partnership), means any person authorised to accept service of documents on behalf of the partnership;",
+      "source_provision": "s72"
+    },
+    {
+      "term": "business address",
+      "definition": "“business address” means — ( a )",
+      "source_provision": "s72"
+    },
+    {
+      "term": "document",
+      "definition": "“document” includes a direction, an order or a notice permitted or required by or under this Act to be served;",
+      "source_provision": "s72"
+    },
+    {
+      "term": "last email address",
+      "definition": "“last email address” means the last email address given by the addressee concerned to the person giving or serving the document as the email address for the service of documents under this Act;",
+      "source_provision": "s72"
+    },
+    {
+      "term": "residential address",
+      "definition": "“residential address” means an individual’s usual or last known place of residence in Singapore. [Act 19 of 2025 wef 05/12/2025]",
+      "source_provision": "s72"
+    },
+    {
+      "term": "Pharmacy Board",
+      "definition": "“Pharmacy Board” means the Pharmacy Board established under section 3 of the repealed Act;",
+      "source_provision": "s75"
+    },
+    {
+      "term": "repealed Act",
+      "definition": "“repealed Act” means the Pharmacists Registration Act (Cap. 230, 1985 Revised Edition) repealed by this Act.",
+      "source_provision": "s75"
+    }
+  ]
+}

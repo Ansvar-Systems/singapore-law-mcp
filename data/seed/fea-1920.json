@@ -1,0 +1,75 @@
+{
+  "id": "fea-1920",
+  "type": "statute",
+  "title": "Fees Act 1920",
+  "title_en": "Fees Act 1920",
+  "short_name": "FeA1920",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/FeA1920",
+  "description": "An Act to provide for the levy of fees and payments for licences.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Fees Act 1920."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Minister for Finance may prescribe fees, etc.",
+      "content": "2. The Minister for Finance may by order prescribe — ( a ) the fees and payments for licences, permits and otherwise; ( b ) the charges and penalties for the late payment of any fee or payment referred to in paragraph ( a ); and ( c ) the interest payable on any outstanding amount of any fee, payment, charge or penalty referred to in paragraph ( a ) or ( b ) or for any payment thereof by instalment, that are leviable or to be leviable, in the subordinate courts of civil and criminal jurisdiction, and in all public offices and departments. [Act 4 of 2008 wef 01/04/2024]"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Publication",
+      "content": "3. Every order under section 2 shall — ( a ) be published in the Gazette ; ( b ) have effect from the date of the publication; and ( c ) be presented to Parliament as soon as possible after publication. [Act 4 of 2008 wef 01/04/2024]"
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Officers may decline to act till payment",
+      "content": "4. The officer of any court, public office or department required to do anything for which a fee or payment is chargeable under this Act may decline to do that thing until the fee is paid or the payment is made."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Fees, etc., recoverable as fines before Magistrate’s Court",
+      "content": "5. —(1) All fees, payments, charges, penalties and interest prescribed in any order under section 2 shall be recoverable when not otherwise provided for by summary procedure before a Magistrate’s Court in the manner provided for the recovery of fines and penalties before a Magistrate’s Court, on complaint by or on behalf of the officer to whom the fees, charges, penalties and interest ought to have been paid or the payments ought to have been made. (2) A certificate by such officer that the fee, charge, penalty or interest has not been paid, or that the payment has not been made, shall be held to be prima facie proof of non-payment. [Act 4 of 2008 wef 01/04/2024]"
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Payments by stamps",
+      "content": "6. The Minister for Finance may by order declare that all or any fees or payments for licences or permits in any of the subordinate courts of civil and criminal jurisdiction, public offices and departments so fixed, or to be fixed, shall be payable by means of stamps under any written law in force relating to the collection of stamp duties."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Minister for Finance may declare fees and payments to be payable in stamps or money",
+      "content": "7. The Minister for Finance may by order declare that all or any fees or payments in any of the public offices and departments now made payable by means of stamps shall be paid in money, notwithstanding any Act in force to the contrary."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Fees, etc., prescribed by written law",
+      "content": "8. Nothing in this Act shall be held to affect the amount of any fee, payment, charge, penalty or interest leviable or chargeable under any written law in force when express provision is made as to the amount of such fee, payment, charge, penalty or interest in that written law. [Act 4 of 2008 wef 01/04/2024]"
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Remission of fees, etc.",
+      "content": "9. —(1) Notwithstanding section 8, it shall be lawful for the Minister for Finance to remit wholly or in part, and either generally or in any particular case or class of cases, any fee, payment, charge, penalty or interest prescribed under this Act or under any other written law. (2) The Minister for Finance may, in making any order under section 2 prescribing fees, payments, charges, penalties or interest, provide for the remission of any such fees, payments, charges, penalties or interest and may specify in the order the person by whom remissions shall be granted. [Act 4 of 2008 wef 01/04/2024]"
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Validation of collection of charge or penalty for late payment of fee or payment, etc.",
+      "content": "10. Every amount collected before the date of commencement of the Statutes (Miscellaneous Amendments) Act 2008 as, or purportedly as — ( a ) a charge or penalty for the late payment of any fee or payment under this Act; or ( b ) interest on any outstanding amount of any such fee or payment or for any payment thereof by instalment, shall be deemed to be and always to have been validly collected, and no legal proceedings shall lie or be instituted or maintained in any court of law on account of or in respect of any such collection. [Act 4 of 2008 wef 01/04/2024]"
+    }
+  ],
+  "definitions": []
+}

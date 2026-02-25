@@ -1,0 +1,522 @@
+{
+  "id": "pspmpmltfpfa-2019",
+  "type": "statute",
+  "title": "Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Act 2019",
+  "title_en": "Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Act 2019",
+  "short_name": "PSPMPMLTFPFA2019",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/PSPMPMLTFPFA2019",
+  "description": "An Act to regulate persons who carry on a business of regulated dealing or as intermediaries for regulated dealing, so as to prevent money laundering, terrorism financing and the financing of proliferation of weapons of mass destruction. [Act 6 of 2024 wef 01/05/2024]",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Act 2019. [Act 6 of 2024 wef 01/05/2024]"
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. In this Act, unless the context otherwise requires — “asset-backed token” means a token, certificate or other instrument backed by one or more precious metals, precious stones or precious products that entitles the holder to the precious metal, precious stone or precious product, or part of it, but excludes — ( a ) securities or derivatives contracts within the meanings of the Securities and Futures Act 2001; [Act 6 of 2024 wef 01/05/2024] ( b ) commodity contracts within the meaning of the Commodity Trading Act 1992; ( c ) digital payment tokens within the meaning of the Payment Services Act 2019; and [Act 6 of 2024 wef 01/05/2024] ( d ) any token, certificate or other instrument that may be prescribed; [Act 6 of 2024 wef 01/05/2024] “Assistant Registrar” means an Assistant Registrar of Regulated Dealers appointed under section 4(1); “authorised officer” means an authorised officer appointed under section 4(2); “cash transaction report” means a cash transaction report under section 17; “company” has the meaning given by section 4(1) of the Companies Act 1967; “compliance officer” means an employee or officer in a management position of a regulated dealer who is responsible for ensuring that the regulated dealer complies with the measures under this Act for — ( a ) the prevention of money laundering; ( b ) the prevention of terrorism financing; and ( c ) the prevention of the financing of proliferation of weapons of mass destruction; [Act 6 of 2024 wef 01/05/2024] “customer” means a person with whom a regulated dealer enters into or intends to enter into a transaction; “Deputy Registrar” means a Deputy Registrar of Regulated Dealers appointed under section 4(1); “FATF” means the intergovernmental body known as the Financial Action Task Force; “FATF Recommendations” means the recommendations issued by the FATF from time to time relating to — ( a ) the prevention of money laundering; [Act 6 of 2024 wef 01/05/2024] ( b ) the prevention of terrorism financing; and [Act 6 of 2024 wef 01/05/2024] ( c ) the prevention of the financing of proliferation of weapons of mass destruction; [Act 6 of 2024 wef 01/05/2024] “financial institution” has the meaning given by section 2 of the Financial Services and Markets Act 2022; [Act 18 of 2022 wef 28/04/2023] “intermediary”, in relation to regulated dealing, means a broker, an auctioneer, an exchange or any provider of a trading or clearing facility, for regulated dealing, whether by electronic means or otherwise; [ Deleted by Act 6 of 2024 wef 01/05/2024 ] “pawnbroker” has the meaning given by section 3 of the Pawnbrokers Act 2015; “precious metal” means any precious metal specified in Part 1 of the Schedule in a manufactured or unmanufactured state; “precious product” means any jewellery, watch, apparel, accessory, ornament or other finished product — ( a ) made up of, containing or having attached to it, any precious stone or precious metal or both; and ( b ) that satisfies either of the following: (i) at least 50% of the value of the jewellery, watch, apparel, accessory, ornament or other finished product (or other percentage of value prescribed in substitution) is attributable to the precious stone or precious metal or both; (ii) the jewellery, watch, apparel, accessory, ornament or other finished product is priced above the prescribed value, but excludes any product or class of products of a type prescribed; [Act 6 of 2024 wef 01/05/2024] “precious stone” means any precious stone specified in Part 2 of the Schedule; “registered dealer” means a regulated dealer who is registered under section 7; “Registrar” means the Registrar of Regulated Dealers appointed under section 4(1); “registration” means registration under section 7; “regulated dealer” means any person who carries on — ( a ) a business of regulated dealing; or ( b ) business as an intermediary for regulated dealing, but excludes a pawnbroker and any other person as may be prescribed; “regulated dealing” means doing any of the following: ( a ) manufacturing any precious stone, precious metal or precious product; ( b ) importing or possessing for sale any precious stone, precious metal or precious product; ( c ) selling or offering for sale any precious stone, precious metal or precious product; ( d ) selling or redeeming asset‑backed tokens; ( e ) purchasing any precious stone, precious metal or precious product for the purposes of resale; “relevant offence” means an offence under — ( a ) Part 2, 3 or 5; ( b ) sections 50 to 57 of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992; ( c ) the Terrorism (Suppression of Financing) Act 2002; ( d ) any regulations made under the United Nations Act 2001; ( e ) any provision of any other written law relating to — (i) the prevention of money laundering; (ii) the prevention of terrorism financing; or (iii) the prevention of the financing of proliferation of weapons of mass destruction; or ( f ) the law of any foreign country or territory relating to — (i) the prevention of money laundering; (ii) the prevention of terrorism financing; or (iii) the prevention of the financing of proliferation of weapons of mass destruction; [Act 6 of 2024 wef 01/05/2024] “sale” includes a supply under a conditional sale agreement or hire‑purchase agreement within the meanings given by section 2(1) of the Hire‑Purchase Act 1969, and “selling” is construed accordingly; “secondhand goods dealer” means a secondhand goods dealer within the meaning given by the Secondhand Goods Dealers Act 2007; “substantial shareholder”, in relation to a company, has the meaning given by section 81 of the Companies Act 1967; “Suspicious Transaction Reporting Officer” has the meaning given by section 2(1) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "3",
+      "title": "Purpose of Act",
+      "content": "3. The purpose of this Act is to combat money laundering, terrorism financing and the financing of proliferation of weapons of mass destruction in the precious stones industry and precious metals industry by — ( a ) regulating the persons who carry on a business of regulated dealing or business as intermediaries for regulated dealing; and ( b ) prescribing measures to prevent regulated dealing from being used to facilitate money laundering, terrorism financing or the financing of proliferation of weapons of mass destruction. [Act 6 of 2024 wef 01/05/2024]"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "4",
+      "title": "Appointment of Registrar, Deputy Registrars, Assistant Registrars and authorised officers",
+      "content": "4. —(1) The Minister may appoint from among public officers — ( a ) a Registrar of Regulated Dealers; and ( b ) one or more Deputy Registrars of Regulated Dealers and Assistant Registrars of Regulated Dealers. (2) The Registrar may appoint any of the following persons to be an authorised officer for the purposes of this Act: ( a ) a public officer; ( b ) an auxiliary police officer appointed under the Police Force Act 2004; ( c ) a public accountant registered or deemed to be registered under the Accountants Act 2004; ( d ) any individual suitably qualified and trained to be an authorised officer. (3) The Registrar is responsible for the administration of this Act, and may exercise all the powers and perform all the duties and functions of the Registrar under this Act, subject to any general or special directions of the Minister. (4) A Deputy Registrar or an Assistant Registrar may exercise all the powers and perform all the duties and functions of the Registrar under any provision of this Act (except the power of appointment and the power of delegation conferred by this section), subject to any condition or limitation that the Registrar may specify; and any reference in the provision of this Act to the Registrar includes a reference to a Deputy Registrar or an Assistant Registrar. (5) The Registrar may delegate the exercise of any of the powers conferred or duties imposed on the Registrar under any provision of this Act (except the power of appointment and the power of delegation conferred by this section) to an authorised officer, subject to any condition or limitation that the Registrar may specify; and any reference in the provision of this Act to the Registrar includes a reference to the authorised officer."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "5",
+      "title": "Public servants",
+      "content": "5. Any authorised officer appointed under section 4(2) is taken to be a public servant for the purposes of the Penal Code 1871 when exercising any power conferred or performing any duty imposed on the authorised officer by the Registrar."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART 2 - REGISTRATION OF REGULATED DEALERS",
+      "section": "6",
+      "title": "No regulated dealing without registration",
+      "content": "6. —(1) A person must not act as or hold out to be a regulated dealer unless the person is a registered dealer. (2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $75,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $7,500 for every day or part of a day during which the offence continues after conviction."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART 2 - REGISTRATION OF REGULATED DEALERS",
+      "section": "7",
+      "title": "Registration and renewal",
+      "content": "7. —(1) An application for registration as a registered dealer, or renewal of registration, must be — ( a ) made to the Registrar in the form and manner specified by the Registrar; ( b ) accompanied by the documents and information required by the Registrar; and ( c ) accompanied by the application fee prescribed, if any. (2) The Registrar may — ( a ) grant the registration or renewal, with such conditions and for such period as may be prescribed; or ( b ) refuse the registration or renewal."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART 2 - REGISTRATION OF REGULATED DEALERS",
+      "section": "8",
+      "title": "Grounds for refusing to grant or renew registration",
+      "content": "8. —(1) The Registrar may refuse to grant or renew registration on any of the following grounds: ( a ) the prescribed fee for the registration or renewal is not paid; ( b ) the application for the registration or renewal — (i) contains materially false or misleading information; or (ii) is materially incomplete; ( c ) the applicant for the registration or renewal is, in the Registrar’s opinion, not a fit and proper person; ( d ) the applicant has an individual in any of the following positions of the applicant who, in the Registrar’s opinion, is not a fit and proper person: (i) where the applicant is a company, a substantial shareholder; (ii) a director, manager, partner, secretary, compliance officer or other person holding an analogous position involved in the management of the applicant; [Act 6 of 2024 wef 01/05/2024] (iii) an employee managing the applicant’s business of regulated dealing or the applicant’s business as an intermediary, as the case may be; ( e ) it is not in the public interest to grant or renew the registration. (2) For the purpose of determining whether or not any person is a fit and proper person under this Part, the Registrar must have regard to, and give the weight he or she considers appropriate to, all of the following matters: ( a ) whether the person has been convicted, whether before, on or after the commencement date — (i) of an offence involving fraud or dishonesty punishable with imprisonment for a term of 3 months or more, whether in Singapore or elsewhere; or (ii) of a relevant offence; [Act 6 of 2024 wef 01/05/2024] ( b ) whether the person is an undischarged bankrupt; ( c ) the person’s record of compliance with requirements for the following to which the person is subject under this Act or any other written law or the law of any foreign country or territory: (i) the prevention of money laundering; (ii) the prevention of terrorism financing; (iii) the prevention of the financing of proliferation of weapons of mass destruction. [Act 6 of 2024 wef 01/05/2024] (3) To avoid doubt, the Registrar is not confined to considering the matters in subsection (2) and may take into account any other matters and evidence as may be relevant. (4) In subsection (2)( a ), “commencement date” means the date of commencement of section 6 of the Prevention of Proliferation Financing and Other Matters Act 2024. [Act 6 of 2024 wef 01/05/2024]"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART 2 - REGISTRATION OF REGULATED DEALERS",
+      "section": "9",
+      "title": "Conditions of registration",
+      "content": "9. —(1) The Registrar may impose any conditions of registration on a registered dealer that the Registrar considers necessary or expedient for the purposes of this Act. (2) The Registrar may, by written notice to a registered dealer and after giving the registered dealer an opportunity to be heard, add to, vary or cancel any condition of registration."
+    },
+    {
+      "provision_ref": "s9A",
+      "chapter": "PART 2 - REGISTRATION OF REGULATED DEALERS",
+      "section": "9A",
+      "title": "Lapsing of registered dealer’s registration",
+      "content": "9A. The registration of a registered dealer lapses — ( a ) when the registered dealer (being an entity) is wound up or otherwise dissolved, whether in Singapore or elsewhere; or ( b ) when the registered dealer (being an individual who is a sole proprietor) dies. [Act 6 of 2024 wef 01/05/2024] Division 2 &#x2014; Regulatory action"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART 2 - REGISTRATION OF REGULATED DEALERS",
+      "section": "10",
+      "title": "Regulatory action",
+      "content": "10. —(1) The Registrar may cancel the registration of a registered dealer, or suspend the registration for a period not exceeding 6 months, if the Registrar is satisfied of any of the following matters: ( a ) the registered dealer has failed to comply with any condition of registration to which the registered dealer is subject; ( b ) the registration was obtained by fraud or misrepresentation; ( c ) there existed at the time the registration was granted or renewed a circumstance that, if known to the Registrar at the time, would have required or permitted the Registrar to refuse to grant or renew the registration; ( d ) the registered dealer is neither carrying on the business of regulated dealing nor business as an intermediary in Singapore; ( e ) the registered dealer or any of the persons mentioned in section 8(1)( d ) is no longer a fit and proper person within the meaning of this Part; ( ea ) the registered dealer has displayed, advertised, stated or otherwise used its registration in a manner which the registered dealer knows, or has reason to believe, is likely to create an erroneous impression that the Registrar regulates the registered dealer for any purpose other than — (i) the prevention of money laundering; (ii) the prevention of terrorism financing; and (iii) the prevention of the financing of proliferation of weapons of mass destruction; [Act 6 of 2024 wef 01/05/2024] ( f ) it is not in the public interest for the registered dealer to continue to carry on the business of regulated dealing or business as an intermediary in Singapore. (1A) For the purposes of subsection (1)( d ), the Registrar may have regard to anything that the Registrar thinks relevant in determining whether a registered dealer is carrying on the business of regulated dealing or business as an intermediary in Singapore, including the occurrence of any event, or whether there exists any circumstances, that may be prescribed. [Act 6 of 2024 wef 01/05/2024] (2) The Registrar may, in addition to or instead of taking any action under subsection (1), order a registered dealer to pay a financial penalty of an amount not exceeding $100,000, where the registered dealer — ( a ) contravenes a provision of this Act, which contravention is not an offence; or ( b ) fails to comply with a condition of registration to which the registered dealer is subject. (3) In any proceedings under this section, or any appeal to the Minister under section 13 against the Registrar’s decision, consequent on the conviction of a registered dealer for an offence, the Registrar or the Minister (as the case may be) must accept the conviction as final and conclusive. (4) Any proceedings started under this section against a registered dealer may continue, and the Registrar may exercise the power under subsection (2) against a former registered dealer, despite the expiry of the registered dealer’s registration. [Act 6 of 2024 wef 01/05/2024]"
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART 2 - REGISTRATION OF REGULATED DEALERS",
+      "section": "11",
+      "title": "Registrar to give opportunity to make representations",
+      "content": "11. —(1) Before exercising any power under section 10, the Registrar must, unless it is not practicable or desirable to do so in the circumstances of the case, give written notice to the registered dealer or former registered dealer concerned — ( a ) stating that the Registrar intends to take regulatory action under section 10 against the registered dealer or former registered dealer; [Act 6 of 2024 wef 01/05/2024] ( b ) specifying the type of regulatory action the Registrar proposes to take and the ground or grounds for the regulatory action; and ( c ) specifying the time (being at least 14 days after the date the written notice is served on the registered dealer or former registered dealer) within which representations may be made to the Registrar with respect to the proposed regulatory action. [Act 6 of 2024 wef 01/05/2024] (2) The Registrar may decide to take the appropriate regulatory action — ( a ) after considering any written representation made to the Registrar pursuant to the written notice mentioned in subsection (1); or ( b ) after the time delimited in the written notice in subsection (1)( c ) lapses, if no representation is made. (3) The Registrar must serve on the registered dealer or former registered dealer a written notice of the Registrar’s decision and the date the decision takes effect. [Act 6 of 2024 wef 01/05/2024] (4) The Registrar’s decision takes effect on the date stated in the written notice under subsection (3) despite any appeal to the Minister under section 13 against the Registrar’s decision. (5) Any cancellation or suspension of registration under section 10(1) does not affect — ( a ) the enforcement by any person of any right or claim against the registered dealer or former registered dealer; or ( b ) the enforcement by the registered dealer or former registered dealer of any right or claim against any person. [Act 6 of 2024 wef 01/05/2024]"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART 2 - REGISTRATION OF REGULATED DEALERS",
+      "section": "12",
+      "title": "Recovery of financial penalties",
+      "content": "12. —(1) Any registered dealer or former registered dealer who fails to pay any financial penalty imposed on the person by the date specified in the written notice under section 11(3) is liable to pay to the Registrar interest on the amount unpaid at the same rate as for a judgment debt. (2) Any financial penalty payable pursuant to an order under section 10, and any interest under subsection (1), is recoverable as a debt due to the Government. (3) The Registrar must, if directed to do so by the Minister on an appeal, and may in any other case the Registrar thinks fit, waive, remit or refund in whole or in part any financial penalty imposed or any interest due on any financial penalty."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART 2 - REGISTRATION OF REGULATED DEALERS",
+      "section": "13",
+      "title": "Appeal to Minister",
+      "content": "13. —(1) A person aggrieved by any of the following decisions may appeal to the Minister within the period and in the manner prescribed: ( a ) the Registrar’s refusal to grant or renew registration; ( b ) the imposition or addition, variation or cancellation of any condition of registration; ( c ) any regulatory action under section 10. (2) An appeal under this section does not affect the validity of the decision appealed against or prevent the taking of action to implement the decision, and the decision appealed against must be complied with until the determination of the appeal. (3) The Minister may designate any of the following persons to hear and determine, in the Minister’s place, any appeal under subsection (1): ( a ) the Second Minister (if any) for his or her Ministry; ( b ) any Minister of State, including a Senior Minister of State, for his or her Ministry; ( c ) any Parliamentary Secretary, including a Senior Parliamentary Secretary, to his or her Ministry. (4) The decision of the Minister, or other person designated by the Minister under subsection (3), on the appeal is final."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART 3 - PREVENTION OF MONEY LAUNDERING,",
+      "section": "14",
+      "title": "Application of this Part",
+      "content": "14. This Part applies to all regulated dealers who carry on in Singapore any part of their business of regulated dealing, or business as an intermediary for regulated dealing."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART 3 - PREVENTION OF MONEY LAUNDERING,",
+      "section": "15",
+      "title": "Interpretation of this Part",
+      "content": "15. In this Part — “cash” means currency notes and coins (whether of Singapore or of a foreign country or territory) which are legal tender and circulate as money in the country or territory of issue; “cash equivalent” means anything used as currency that is prescribed for the purposes of this Part; “designated transaction” means any of the following transactions conducted wholly or partly in Singapore: ( a ) a sale of any precious stone, precious metal, precious product or asset‑backed token by a regulated dealer to a customer, for which cash or a cash equivalent exceeding the threshold amount is received as payment; ( b ) 2 or more sales of any precious stone, precious metal, precious product or asset‑backed token in a single day by a regulated dealer to the same customer, or to customers whom the regulated dealer knows act on behalf of the same person, for which cash or a cash equivalent in total exceeding the threshold amount is received as payment; ( c ) a purchase of any precious stone, precious metal or precious product from a customer (who is not a regulated dealer) by a regulated dealer (who is a secondhand goods dealer), for which cash or a cash equivalent exceeding the threshold amount is received as payment; ( d ) a transaction prescribed as a designated transaction; “threshold amount” means $20,000 or its equivalent in value, or an amount prescribed in substitution."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART 3 - PREVENTION OF MONEY LAUNDERING,",
+      "section": "16",
+      "title": "Customer due diligence",
+      "content": "16. —(1) Subject to subsections (3) and (4), a regulated dealer must perform the prescribed customer due diligence measures in any of the following circumstances: ( a ) before entering into a designated transaction; ( b ) where the regulated dealer has reason to suspect money laundering, terrorism financing or the financing of proliferation of weapons of mass destruction; [Act 6 of 2024 wef 01/05/2024] ( c ) where the regulated dealer has reason to doubt the veracity or adequacy of information obtained from earlier customer due diligence measures; ( d ) under circumstances prescribed for the purposes of this section. (2) Different customer due diligence measures may be prescribed in relation to different regulated dealers or classes of regulated dealers, different types of designated transactions or different customers or classes of customers. (3) A regulated dealer must not proceed with any designated transaction if there exists any circumstances that are prescribed. (4) Unless subsection (3) applies, a regulated dealer may choose not to perform or to complete any measure that the regulated dealer is required by this section to perform if — ( a ) the regulated dealer has reason to suspect that the designated transaction relates to money laundering, terrorism financing or the financing of proliferation of weapons of mass destruction; and [Act 6 of 2024 wef 01/05/2024] ( b ) the regulated dealer has reason to believe that performing the measure will tip off the customer or any other person. (5) Where, in relation to any customer, a regulated dealer is for any reason unable or chooses not to complete performing any measure required to be performed under this section, the regulated dealer must — ( a ) decline to enter into any transaction with the customer; ( b ) terminate any transaction entered into with the customer; ( c ) determine whether to make a disclosure under section 45 of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992 or section 8 or 10 of the Terrorism (Suppression of Financing) Act 2002; ( d ) record the basis of the regulated dealer’s determination under paragraph ( c ); and ( e ) carry out any other measures that may be prescribed. (6) A regulated dealer who fails to comply with subsection (1), (3) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART 3 - PREVENTION OF MONEY LAUNDERING,",
+      "section": "17",
+      "title": "Cash transaction reports",
+      "content": "17. —(1) A regulated dealer who enters into any designated transaction must submit to a Suspicious Transaction Reporting Officer, within the prescribed time, a cash transaction report relating to that transaction in the prescribed form and manner. (1A) A regulated dealer must not, without reasonable excuse, submit a cash transaction report under subsection (1) that is incomplete or inaccurate. [Act 6 of 2024 wef 01/05/2024] (2) A regulated dealer must keep a copy of each cash transaction report submitted under subsection (1) for the prescribed period. (3) A regulated dealer must, at the time of submitting a cash transaction report under subsection (1) or immediately thereafter, submit a copy of the cash transaction report to the Registrar. (4) A regulated dealer who fails to comply with subsection (1), (1A), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both. [Act 6 of 2024 wef 01/05/2024]"
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART 3 - PREVENTION OF MONEY LAUNDERING,",
+      "section": "18",
+      "title": "Keeping of records",
+      "content": "18. —(1) A regulated dealer must keep the following documents and information for the prescribed period: ( a ) a record of every designated transaction (whether or not completed) and every other transaction for which the customer due diligence measures mentioned in section 16 must be performed, containing the prescribed information on that transaction; ( b ) a record of all information relating to a customer which is obtained through the customer due diligence measures performed under section 16; ( c ) a copy of each supporting document relied on in support of any information referred to in paragraph ( b ); ( d ) any other document and information that may be prescribed. (1A) A regulated dealer who becomes a former regulated dealer on or after the commencement date must continue to keep each of the documents and information mentioned in subsection (1), that were required to be kept by the regulated dealer, until the end of the prescribed period applicable to each of those documents and information. [Act 6 of 2024 wef 01/05/2024] (2) For the purposes of subsection (1), different periods may be prescribed for different regulated dealers or classes of regulated dealers, different types of designated transactions or different documents and information. (3) A regulated dealer or former regulated dealer must keep the documents and information mentioned in subsection (1) in the form prescribed. [Act 6 of 2024 wef 01/05/2024] (4) A regulated dealer or former regulated dealer must make the documents and information mentioned in subsection (1) available upon request to the Registrar in the manner prescribed. [Act 6 of 2024 wef 01/05/2024] (5) A regulated dealer or former regulated dealer who contravenes subsection (1), (3) or (4) (read with subsection (1A) where applicable) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000. [Act 6 of 2024 wef 01/05/2024] (6) In this section — “commencement date” means the date of commencement of section 13 of the Prevention of Proliferation Financing and Other Matters Act 2024; “former regulated dealer” means a regulated dealer who has ceased to carry on any business of regulated dealing or business as an intermediary in Singapore. [Act 6 of 2024 wef 01/05/2024]"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART 3 - PREVENTION OF MONEY LAUNDERING,",
+      "section": "19",
+      "title": "Programmes and measures to prevent money laundering, terrorism financing and financing of proliferation of weapons of mass destruction",
+      "content": "19. —(1) A regulated dealer must, in relation to the regulated dealer’s business of regulated dealing or business as an intermediary for regulated dealing, implement adequate programmes and measures to prevent money laundering, terrorism financing and the financing of proliferation of weapons of mass destruction. [Act 6 of 2024 wef 01/05/2024] (2) The type and extent of the measures to be taken under subsection (1) must — ( a ) comply with any requirements that may be prescribed; and ( b ) be appropriate, having regard to — (i) the risks of money laundering, terrorism financing and financing the proliferation of weapons of mass destruction; and (ii) the size of the regulated dealer’s business. [Act 6 of 2024 wef 01/05/2024] (3) A regulated dealer who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000. [Act 6 of 2024 wef 01/05/2024]"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART 3 - PREVENTION OF MONEY LAUNDERING,",
+      "section": "20",
+      "title": "Additional measures relating to targeted financial sanctions, etc.",
+      "content": "20. —(1) A regulated dealer must perform — ( a ) any prescribed measures relating to targeted financial sanctions against terrorism; and ( b ) any additional prescribed measures which are necessary or expedient to give effect to any relevant FATF Recommendation. (2) A regulated dealer who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART 3 - PREVENTION OF MONEY LAUNDERING,",
+      "section": "21",
+      "title": "Disclosure of suspicious transactions, etc.",
+      "content": "21. —(1) A regulated dealer must, if circumstances exist that require the regulated dealer to do so, make a disclosure under whichever of the following is applicable: ( a ) section 45(1) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992; ( b ) section 8 or 10 of the Terrorism (Suppression of Financing) Act 2002. (2) A regulated dealer must, at the time of disclosing a matter under subsection (1) or immediately thereafter, submit a copy of the information so disclosed to the Registrar. (3) A regulated dealer who fails to comply with subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART 3 - PREVENTION OF MONEY LAUNDERING,",
+      "section": "22",
+      "title": "Power to give directions",
+      "content": "22. —(1) The Registrar may give a written direction mentioned in subsection (2) to a regulated dealer in respect of that part of the regulated dealer’s business of regulated dealing or business as an intermediary for regulated dealing conducted in Singapore, where the Registrar considers that — ( a ) the regulated dealer has carried on or is carrying on business in a manner that carries a risk of money laundering, terrorism financing or financing the proliferation of weapons of mass destruction; [Act 6 of 2024 wef 01/05/2024] ( b ) a relevant offence is being committed; or [Act 6 of 2024 wef 01/05/2024] ( c ) it is necessary or expedient for the written direction to be given for — (i) the prevention of money laundering; (ii) the prevention of terrorism financing; or (iii) the prevention of the financing of proliferation of weapons of mass destruction. [Act 6 of 2024 wef 01/05/2024] (2) The Registrar may give a written direction to require the regulated dealer to do one or more of the following: ( a ) to stop or terminate its regulated dealing, or a particular transaction, with a particular customer; ( b ) to stop a particular employee or individual from conducting any part of the regulated dealer’s business as a regulated dealer; ( c ) to do or refrain from doing anything specified in the written direction to mitigate the risk mentioned in subsection (1)( a ) or to stop the commission of the offence mentioned in subsection (1)( b ); ( d ) at the regulated dealer’s own cost, to appoint an auditor to carry out an audit of the regulated dealer’s compliance with the measures under this Act for — (i) the prevention of money laundering; (ii) the prevention of terrorism financing; and (iii) the prevention of the financing of proliferation of weapons of mass destruction, including an audit of any matters that the Registrar may specifically require for that purpose; [Act 6 of 2024 wef 01/05/2024] ( e ) to take specified measures to comply with this Act or to remedy any contravention of or non‑compliance with this Act to which the direction relates. (3) Before giving a written direction under subsection (1), the Registrar must, unless it is not practicable or desirable to do so in the circumstances of the case, give the regulated dealer concerned an opportunity to be heard. (4) To avoid doubt, a written direction under subsection (1) need not be published in the Gazette . (5) A regulated dealer who fails to comply with a written direction given to the regulated dealer under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "PART 4 - MONITORING AND ENFORCEMENT",
+      "section": "23",
+      "title": "Powers of monitoring and investigation",
+      "content": "23. —(1) The Registrar may exercise all or any powers in this section for any of the following purposes: ( a ) ascertaining whether the provisions of Part 3 are being complied with; ( b ) ascertaining whether any condition of registration or a written direction under section 22 is being complied with; ( c ) investigating any offence under this Act. (2) The Registrar may — ( a ) enter and inspect any place that the Registrar believes on reasonable grounds is used for the business of regulated dealing or business as an intermediary for regulated dealing, even if also used as a residence; ( b ) photograph or film, or make any record or sketch of, any part of the premises, or any thing at the place; ( c ) require any person at that place to produce or grant access to, without charge, any document or material reasonably required for any purpose in subsection (1), which is in the possession or under the control of that person; ( d ) require any person, whom the Registrar reasonably believes has any information or any document or material in the person’s possession, custody or control that is relevant for any of the purposes in subsection (1), to provide that information, or produce or grant access to that document or material; ( e ) inspect and make copies of or take extracts from any document or material provided under paragraph ( c ) or ( d ); and ( f ) take possession of the document or material if, in the Registrar’s opinion — (i) the inspection or copying of or extraction from the document or material cannot reasonably be performed without taking possession; (ii) the document or material may be interfered with or destroyed unless possession is taken; or (iii) the document or material may be required as evidence for any regulatory action, or in any proceedings under this Act. (3) Any power under this section to require a person to produce any document or to provide information includes the power — ( a ) to take reasonable steps to require the person to produce the document or provide the information immediately or at a place and time specified in writing; ( b ) to require the person to provide an explanation of the document or information; ( c ) if the document or information is not produced or provided, to require the person to state, to the best of the person’s knowledge and belief, where the document or information is; ( d ) if the document or information is recorded otherwise than in legible form, to require the document or information to be made available in legible form; and ( e ) if the document or information is recorded in electronic form, to require the person to — (i) provide assistance in gaining access to any computer or other equipment in which the document or information is stored; and (ii) provide the document or information, or a copy of the document or information, in a form or format specified by the Registrar. (4) Any thing taken possession of by the Registrar under subsection (2) — ( a ) must be placed in safe custody by the Registrar; and ( b ) unless ordered otherwise by the court, may be retained until the completion of the investigation or any proceedings (including proceedings on appeal) in which it may be in evidence."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "PART 4 - MONITORING AND ENFORCEMENT",
+      "section": "24",
+      "title": "Further powers of investigation",
+      "content": "24. —(1) The Registrar may, for the purposes of investigating an offence under this Act, in addition to exercising the powers in section 23, do all or any of the following: ( a ) issue a written notice requiring any person within the limits of Singapore, who appears to be acquainted with the facts or circumstances of the matter, to attend before the Registrar; ( b ) examine orally any person who appears to be acquainted with the facts or circumstances of the matter — (i) whether before or after that person or anyone else is charged with an offence in connection with the matter; and (ii) whether or not that person is to be called as a witness in any inquiry, trial or other proceeding in connection with the matter; ( c ) without a warrant enter and search any place or premises in which the Registrar reasonably suspects that an offence under this Act has been or is being committed; ( d ) if free entry or access to the place or premises cannot be obtained under paragraph ( c ), the Registrar may, with any assistance that the Registrar considers necessary, break open any door, window, lock or fastener, or use any other reasonable means in order to gain entry or access into the place or premises. (2) Any person examined under this section is bound to state truly what the person knows of the facts and circumstances of the matter, except that the person need not say anything that might expose the person to a criminal charge, penalty or forfeiture. (3) A statement made by any person examined under this section must — ( a ) be reduced to writing; ( b ) be read over to the person; ( c ) if the person does not understand English, be interpreted in a language that the person understands; and ( d ) after correction (if necessary), be signed by the person. (4) If any person fails to comply with a written notice issued to the person under subsection (1)( a ), the Registrar may report the failure to a Magistrate who may then issue a warrant ordering that person to comply with the written notice."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "PART 4 - MONITORING AND ENFORCEMENT",
+      "section": "25",
+      "title": "Power to seize property, etc., in certain circumstances",
+      "content": "25. —(1) The Registrar may seize any property — ( a ) in respect of which a contravention of this Act is suspected to have been committed; ( b ) that is suspected to have been used or intended to be used in a contravention of this Act; or ( c ) that is suspected to constitute evidence of a contravention of this Act. (2) Subsection (1) does not apply to property held or suspected to be held in an account or a safe deposit box in a financial institution. (3) The occupier or person in charge of a place from which property is to be seized under subsection (1), or a representative of the occupier or person in charge, may attend during the seizure. (4) The Registrar must prepare and sign a list of any property seized under subsection (1), recording the location from which each item of property is seized. (5) A signed copy of the list must be given to the occupier or person in charge of the place from which property was seized, or a representative of the occupier or person in charge. (6) Instead of seizing any property under subsection (1), the Registrar may, by written order — ( a ) prohibit any person from dealing with the property; and ( b ) require any person to affix the order or a copy of the order on or near the property."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "PART 4 - MONITORING AND ENFORCEMENT",
+      "section": "26",
+      "title": "Power of court over seized property, etc.",
+      "content": "26. Sections 370, 371 and 372 of the Criminal Procedure Code 2010 are to apply, with the necessary modifications, when the Registrar seizes property or prohibits any dealing in property under section 25."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "PART 5 - GENERAL OFFENCES",
+      "section": "27",
+      "title": "Providing false information to Registrar or authorised officer",
+      "content": "27. A person who, in any application for registration (or renewal of registration) or in compliance or purported compliance with any requirement under Part 3 or 4 — ( a ) provides to the Registrar or an authorised officer any information or document that the person knows or has reason to believe is materially false or misleading; ( b ) omits to provide any information to the Registrar or authorised officer for the purposes of this Act, knowing or having reason to believe that the omission will create a materially false or misleading impression; ( c ) intentionally alters, suppresses or destroys any document or information which the person has been required to produce or provide; or ( d ) in producing any document or providing any information so required, makes any statement which the person knows or ought reasonably to know is, or is reckless as to whether it is, false or misleading in a material particular, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "PART 5 - GENERAL OFFENCES",
+      "section": "28",
+      "title": "Obstruction of investigation, etc.",
+      "content": "28. A person who, without reasonable excuse — ( a ) refuses or fails to provide any information, or produce any document or material, required of the person by the Registrar under section 23; ( b ) fails to comply with any written notice issued to the person under section 24; ( c ) knowingly obstructs or prevents, or attempts to obstruct or prevent — (i) a person from complying with anything required of the person by the Registrar under section 23 or 24; or (ii) the Registrar from exercising any of the Registrar’s powers under section 23 or 24; or ( d ) disposes of or deals in any property contrary to the Registrar’s order under section 25(6), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "PART 6 - GENERAL",
+      "section": "29",
+      "title": "Disclosure of information to foreign authority",
+      "content": "29. —(1) The Registrar may disclose any information or document obtained in the exercise of his or her functions under this Act to a corresponding authority of a foreign country or territory only if the Registrar is satisfied that — ( a ) the information or document is relevant to enable the corresponding authority to carry out any supervision, investigation or enforcement under any law in that country or territory relating to — (i) the prevention of money laundering; [Act 6 of 2024 wef 01/05/2024] (ii) the prevention of terrorism financing; or [Act 6 of 2024 wef 01/05/2024] (iii) the prevention of the financing of proliferation of weapons of mass destruction; [Act 6 of 2024 wef 01/05/2024] ( b ) there exists an arrangement under which the corresponding authority has agreed, or has given an undertaking, to communicate to Singapore, upon Singapore’s request, information received by the corresponding authority that corresponds to any thing required to be disclosed or reported to the Registrar under this Act; ( c ) the corresponding authority has given appropriate undertakings — (i) for protecting the confidentiality of any thing communicated to it; and (ii) for controlling the use that will be made of any information or document disclosed to it (including an undertaking to obtain the prior consent of the Registrar before using or disclosing the information or document for a purpose other than the purpose for which the information or document was requested); and ( d ) any other prescribed conditions are fulfilled. (2) In this section, “corresponding authority”, in relation to a foreign country or territory, means the authority of that foreign country or territory exercising any function that corresponds to the functions of the Registrar under this Act."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "PART 6 - GENERAL",
+      "section": "30",
+      "title": "Protection from personal liability",
+      "content": "30. No liability shall lie personally against the Registrar, a Deputy Registrar, an Assistant Registrar or an authorised officer who, acting in good faith and with reasonable care, does or omits to do anything in the execution or purported execution of this Act."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "PART 6 - GENERAL",
+      "section": "31",
+      "title": "Composition of offences",
+      "content": "31. —(1) The Registrar may compound any offence under this Act that is prescribed as a compoundable offence by collecting, from a person reasonably suspected of having committed the offence, a sum not exceeding half of the amount of the maximum fine for the offence. (2) On payment of the sum of money, no further criminal proceedings are to be taken against that person in respect of the offence."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "PART 6 - GENERAL",
+      "section": "32",
+      "title": "Offences by corporations",
+      "content": "32. —(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of a corporation in relation to a particular conduct, evidence that — ( a ) an officer, employee or agent of the corporation engaged in that conduct within the scope of his or her actual or apparent authority; and ( b ) the officer, employee or agent had that state of mind, is evidence that the corporation had that state of mind. (2) Where a corporation commits an offence under this Act, a person — ( a ) who is — (i) an officer of the corporation; or (ii) an individual involved in the management of the corporation and in a position to influence the conduct of the corporation in relation to the commission of the offence; and ( b ) who — (i) consented or connived, or conspired with others, to effect the commission of the offence; (ii) is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the corporation; or (iii) knew or ought reasonably to have known that the offence by the corporation (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence, shall be guilty of that same offence as is the corporation, and shall be liable on conviction to be punished accordingly. (3) A person mentioned in subsection (2) may rely on a defence that would be available to the corporation if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the corporation would bear. (4) To avoid doubt, this section does not affect the application of — ( a ) Chapters 5 and 5A of the Penal Code 1871; or ( b ) the Evidence Act 1893 or any other law or practice regarding the admissibility of evidence. (5) To avoid doubt, subsection (2) also does not affect the liability of the corporation for an offence under this Act, and applies whether or not the corporation is convicted of the offence. (6) In this section — “corporation” includes a limited liability partnership within the meaning of section 2(1) of the Limited Liability Partnerships Act 2005; “officer”, in relation to a corporation, means any director, partner, chief executive, manager, secretary or other similar officer of the corporation, and includes — ( a ) any person purporting to act in any such capacity; and ( b ) for a corporation whose affairs are managed by its members, any of those members as if the member were a director of the corporation; “state of mind” of a person includes — ( a ) the knowledge, intention, opinion, belief or purpose of the person; and ( b ) the person’s reasons for the intention, opinion, belief or purpose."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "PART 6 - GENERAL",
+      "section": "33",
+      "title": "Offences by unincorporated associations or partnerships",
+      "content": "33. —(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of an unincorporated association or a partnership in relation to a particular conduct, evidence that — ( a ) an officer, partner, employee or agent of the unincorporated association or partnership engaged in that conduct within the scope of his or her actual or apparent authority; and ( b ) the officer, partner, employee or agent had that state of mind, is evidence that the unincorporated association or partnership had that state of mind. (2) Where an unincorporated association or a partnership commits an offence under this Act, a person — ( a ) who is — (i) an officer of the unincorporated association or a member of its governing body; (ii) a partner in the partnership; or (iii) an individual involved in the management of the unincorporated association or partnership and in a position to influence the conduct of the unincorporated association or partnership in relation to the commission of the offence; and ( b ) who — (i) consented or connived, or conspired with others, to effect the commission of the offence; (ii) is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the unincorporated association or partnership; or (iii) knew or ought reasonably to have known that the offence by the unincorporated association or partnership (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence, shall be guilty of the same offence as is the unincorporated association or partnership, and shall be liable on conviction to be punished accordingly. (3) A person mentioned in subsection (2) may rely on a defence that would be available to the unincorporated association or partnership if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the unincorporated association or partnership would bear. (4) To avoid doubt, this section does not affect the application of — ( a ) Chapters 5 and 5A of the Penal Code 1871; or ( b ) the Evidence Act 1893 or any other law or practice regarding the admissibility of evidence. (5) To avoid doubt, subsection (2) also does not affect the liability of an unincorporated association or a partnership for an offence under this Act, and applies whether or not the unincorporated association or partnership is convicted of the offence. (6) In this section — “officer”, in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, and includes — ( a ) any person holding a position analogous to that of president, secretary or member of a committee of the unincorporated association; and ( b ) any person purporting to act in any such capacity; “partner” includes a person purporting to act as a partner; “state of mind” of a person includes — ( a ) the knowledge, intention, opinion, belief or purpose of the person; and ( b ) the person’s reasons for the intention, opinion, belief or purpose."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "PART 6 - GENERAL",
+      "section": "34",
+      "title": "Jurisdiction of court",
+      "content": "34. Despite any provision to the contrary in the Criminal Procedure Code 2010, a District Court has jurisdiction to try any offence under this Act and has power to impose the full punishment in respect of the offence."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "PART 6 - GENERAL",
+      "section": "35",
+      "title": "Codes of practice, guidelines and standards of performance",
+      "content": "35. —(1) The Registrar may issue, approve, amend or revoke one or more codes of practice, guidelines or standards of performance for all or any of the following purposes: ( a ) to provide guidance to regulated dealers in relation to the operation or administration of any provision of this Act; ( b ) to set out best practices — (i) for regulated dealers with respect to measures for — (A) the prevention of money laundering; (B) the prevention of terrorism financing; and (C) the prevention of the financing of proliferation of weapons of mass destruction; and (ii) for giving effect to the relevant FATF Recommendations. [Act 6 of 2024 wef 01/05/2024] (2) If any provision in any code of practice, guideline or standard of performance is inconsistent with this Act, that provision, to the extent of the inconsistency, does not have effect. (3) Where a code of practice, guideline or standard of performance is issued, approved, amended or revoked by the Registrar under subsection (1), the Registrar must — ( a ) publish a notice of the issue, approval, amendment or revocation (as the case may be) in a manner that will secure adequate publicity for the issue, approval, amendment or revocation; ( b ) specify in the notice the date of the issue, approval, amendment or revocation, as the case may be; and ( c ) ensure that, so long as the code of practice, guideline or standard of performance remains in force, copies of that code, guideline or standard, and of all amendments to it, are available free of charge to any regulated dealer to whom that code, guideline or standard applies. (4) No code of practice, guideline or standard of performance, or amendment or revocation, has any effect until the notice relating to it is published in accordance with subsection (3). (5) Any code of practice, guideline or standard of performance has no legislative effect. (6) Any failure by a regulated dealer to comply with any code of practice, guideline or standard of performance applicable to the regulated dealer does not of itself render the regulated dealer liable to criminal proceedings, but the failure may, in any proceedings (criminal or otherwise), be relied on by any party to those proceedings as tending to establish or negate any liability which is in question in those proceedings."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "PART 6 - GENERAL",
+      "section": "36",
+      "title": "Power to publish information",
+      "content": "36. Where the Registrar considers it necessary or expedient in the interest of the public, the Registrar may publish — ( a ) any information relating to any regulated dealer, including — (i) the composition of any offence by a regulated dealer under this Act; (ii) any regulatory action taken against, or condition of registration imposed on, a registered dealer under this Act; (iii) any written direction under section 22 given to a regulated dealer; (iv) any criminal proceedings against a regulated dealer for a relevant offence; and [Act 6 of 2024 wef 01/05/2024] (v) any regulatory action or civil or criminal proceedings against a regulated dealer under the law of a foreign country or territory for a contravention of any law relating to — (A) the prevention of money laundering; [Act 6 of 2024 wef 01/05/2024] (B) the prevention of terrorism financing; or [Act 6 of 2024 wef 01/05/2024] (C) the prevention of the financing of proliferation of weapons of mass destruction; or [Act 6 of 2024 wef 01/05/2024] ( b ) any information which the Registrar has acquired in the performance of his or her duties or in the exercise of his or her powers under this Act."
+    },
+    {
+      "provision_ref": "s36A",
+      "chapter": "PART 6 - GENERAL",
+      "section": "36A",
+      "title": "Service of documents",
+      "content": "36A. —(1) Any document required or authorised by this Act to be served on any person may be served on the person — ( a ) in the case of an individual — (i) by delivering it to the individual personally; (ii) by leaving it with an adult person apparently resident at, or by sending it by prepaid registered post to, the usual or last known address of the individual’s place of residence; (iii) by leaving it with an adult person apparently employed at, or by sending it by prepaid registered post to, the usual or last known address of the individual’s place of business; (iv) by affixing a copy of the notice in a conspicuous place at the usual or last known address of residence or business of the individual; (v) by sending it by fax to the fax number operated at the usual or last known address of the individual’s place of residence or business, or the last fax number given to the Registrar by the individual as the fax number for the service of documents on the individual; or (vi) subject to subsection (5) — (A) by sending it by email to the individual’s last email address; or (B) by sending it by an internet-based messaging service to the individual’s last contact address; ( b ) in the case of a partnership other than a limited liability partnership — (i) by delivering it to any one of the partners or the secretary or other similar officer of the partnership; (ii) by leaving it at, or by sending it by prepaid registered post to, the partnership’s principal or last known place of business in Singapore; (iii) by sending it by fax to the fax number operated at the partnership’s principal or last known place of business in Singapore; or (iv) subject to subsection (5) — (A) by sending it by email to the partnership’s last email address; or (B) by sending it by an internet-based messaging service to the partnership’s last contact address; and ( c ) in the case of any limited liability partnership or any other body corporate — (i) by delivering it to the secretary or other similar officer of the body corporate or, in the case of a limited liability partnership, its manager; (ii) by leaving it at, or by sending it by prepaid registered post to, the registered office or principal office of the limited liability partnership or body corporate in Singapore; (iii) by sending it by fax to the fax number operated at the registered office or principal office of the limited liability partnership or body corporate in Singapore; or (iv) subject to subsection (5) — (A) by sending it by email to the limited liability partnership’s or body corporate’s last email address; or (B) by sending it by an internet-based messaging service to the limited liability partnership’s or body corporate’s last contact address. (2) Unless the contrary is proved, where any document required or authorised by this Act to be served is sent by a fax to the fax number operated at the last known place of residence or business or registered office or principal office in accordance with subsection (1), it is deemed to have been duly served on the person to whom it is addressed on the day of transmission, subject to receipt on the sending fax machine of a notification (by electronic or other means) of a successful transmission to the place of residence or business or registered office or principal office, as the case may be. (3) Unless the contrary is proved, where any document required or authorised by this Act to be served is sent by prepaid registered post, it is deemed to have been duly served on the person to whom it is addressed 2 days after the day the document was posted. (4) Unless the contrary is proved, where any document is sent by email or by an internet-based messaging service under subsection (1), service of the document takes effect at the time that the email or message becomes capable of being retrieved by the person to whom it is sent. (5) Service of any document under this Act on a person by email or by an internet-based messaging service may be effected only — ( a ) with the person’s prior written consent to service in that way; and ( b ) in a file format that the person has agreed to. (6) This section does not apply to documents to be served in proceedings in court. (7) In this section — “document” includes a notice, an order and a direction; “last contact address”, in relation to an internet-based messaging service, means — ( a ) the last contact address, for receipt of messages through the internet-based messaging service, given by the addressee concerned to the person serving the document as the contact address for the service of the document; or ( b ) the last contact address for receipt of messages through the internet-based messaging service, of the addressee concerned, known to the person serving the document; “last email address” means — ( a ) the last email address given by the addressee concerned to the person serving the document as the email address for the service of the document; or ( b ) the last email address of the addressee concerned known to the person serving the document. [Act 6 of 2024 wef 01/05/2024]"
+    },
+    {
+      "provision_ref": "s36B",
+      "chapter": "PART 6 - GENERAL",
+      "section": "36B",
+      "title": "Electronic service",
+      "content": "36B. —(1) The Registrar may — ( a ) provide an electronic service for the service of any document that is required or authorised by this Act to be served on any person; and ( b ) assign to any person an account with the electronic service. (2) Despite section 36A, where a person has given consent for any document to be served on the person through the electronic service — ( a ) the Registrar may serve the document on that person by transmitting an electronic record of the document to that person’s account with the electronic service; and ( b ) the document is treated as having been served at the time when an electronic record of the document is capable of being retrieved by the person. (3) In this section — “account with the electronic service”, in relation to any person, means an account within the electronic service that is assigned by the Registrar to the person for the storage and retrieval of electronic records relating to the person; “document” includes a notice, an order and a direction; “electronic record” has the meaning given by section 2(1) of the Electronic Transactions Act 2010. [Act 6 of 2024 wef 01/05/2024]"
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "PART 6 - GENERAL",
+      "section": "37",
+      "title": "Amendment of Schedule",
+      "content": "37. —(1) The Minister may, by order in the Gazette , amend, add to or vary the Schedule. (2) The Minister may, in any order made under subsection (1), make any saving or transitional provision as may be necessary or expedient. (3) Every order made under subsection (1) must be presented to Parliament as soon as possible after publication in the Gazette ."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "PART 6 - GENERAL",
+      "section": "38",
+      "title": "Exemption",
+      "content": "38. The Minister may, by order in the Gazette , exempt any person or class of persons, or any activity, from all or any provision of this Act, subject to any conditions or restrictions that may be specified in the order."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "PART 6 - GENERAL",
+      "section": "39",
+      "title": "Regulations",
+      "content": "39. —(1) The Minister may make regulations for carrying out the purposes and provisions of this Act. (2) Without limiting subsection (1), the Minister may make regulations for or with respect to all or any of the following matters: ( a ) the registration of regulated dealers; ( b ) the duties of registered dealers; ( c ) measures for the prevention of money laundering, prevention of terrorism financing and prevention of the financing of proliferation of weapons of mass destruction, by regulated dealers, including — (i) the customer due diligence measures which must be conducted by a regulated dealer; (ii) any additional reporting obligations by a regulated dealer; (iii) the specific risks that must be identified and assessed, and specific internal policies, procedures, controls, programmes, measures or standards that must be implemented, in order for a regulated dealer’s programmes and measures to be considered adequate for the purposes of section 19(1); and (iv) any additional measures relating to targeted financial sanctions against terrorism or to give effect to any relevant FATF Recommendation which a regulated dealer must take; [Act 6 of 2024 wef 01/05/2024] ( d ) the records that must be kept by a regulated dealer, the period and manner of keeping the records and the requirement to submit the records to the Registrar; [Act 6 of 2024 wef 01/05/2024] ( e ) the fees to be paid in respect of any application under this Act; ( ea ) the procedure — (i) for the use of the electronic service mentioned in section 36B; and (ii) in circumstances where there is a breakdown or an interruption of the electronic service; [Act 6 of 2024 wef 01/05/2024] ( f ) to prescribe anything required or permitted to be prescribed. (3) Regulations made under this section may — ( a ) provide that any contravention of any provision of the regulations shall be an offence punishable with a fine not exceeding $100,000 or with imprisonment for a term not exceeding 3 years or with both; and ( b ) provide for any saving, transitional or other consequential provision as is necessary or expedient."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "PART 6 - GENERAL",
+      "section": "40",
+      "title": "Saving and transitional provisions",
+      "content": "40. Sections 48I, 48J and 48K of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992 and the Corruption, Drug Trafficking and Other Serious Crimes (Cash Transaction Reports) Regulations 2014 as in force immediately before 10 April 2019, continue to apply to every person who, immediately before that date, was a prescribed person for the purposes of those sections and regulations, in respect of every cash transaction entered into by that person before 10 April 2019."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "asset-backed token",
+      "definition": "“asset-backed token” means a token, certificate or other instrument backed by one or more precious metals, precious stones or precious products that entitles the holder to the precious metal, precious stone or precious product, or part of it, but excludes — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Assistant Registrar",
+      "definition": "“Assistant Registrar” means an Assistant Registrar of Regulated Dealers appointed under section 4(1);",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorised officer",
+      "definition": "“authorised officer” means an authorised officer appointed under section 4(2);",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cash transaction report",
+      "definition": "“cash transaction report” means a cash transaction report under section 17;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "company",
+      "definition": "“company” has the meaning given by section 4(1) of the Companies Act 1967;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "compliance officer",
+      "definition": "“compliance officer” means an employee or officer in a management position of a regulated dealer who is responsible for ensuring that the regulated dealer complies with the measures under this Act for — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "customer",
+      "definition": "“customer” means a person with whom a regulated dealer enters into or intends to enter into a transaction;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Deputy Registrar",
+      "definition": "“Deputy Registrar” means a Deputy Registrar of Regulated Dealers appointed under section 4(1);",
+      "source_provision": "s2"
+    },
+    {
+      "term": "FATF",
+      "definition": "“FATF” means the intergovernmental body known as the Financial Action Task Force;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "FATF Recommendations",
+      "definition": "“FATF Recommendations” means the recommendations issued by the FATF from time to time relating to — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "financial institution",
+      "definition": "“financial institution” has the meaning given by section 2 of the Financial Services and Markets Act 2022; [Act 18 of 2022 wef 28/04/2023]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "intermediary",
+      "definition": "“intermediary” , in relation to regulated dealing, means a broker, an auctioneer, an exchange or any provider of a trading or clearing facility, for regulated dealing, whether by electronic means or otherwise;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pawnbroker",
+      "definition": "“pawnbroker” has the meaning given by section 3 of the Pawnbrokers Act 2015;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "precious metal",
+      "definition": "“precious metal” means any precious metal specified in Part 1 of the Schedule in a manufactured or unmanufactured state;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "precious product",
+      "definition": "“precious product” means any jewellery, watch, apparel, accessory, ornament or other finished product — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "precious stone",
+      "definition": "“precious stone” means any precious stone specified in Part 2 of the Schedule;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registered dealer",
+      "definition": "“registered dealer” means a regulated dealer who is registered under section 7;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "“Registrar” means the Registrar of Regulated Dealers appointed under section 4(1);",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registration",
+      "definition": "“registration” means registration under section 7;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "regulated dealer",
+      "definition": "“regulated dealer” means any person who carries on — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "regulated dealing",
+      "definition": "“regulated dealing” means doing any of the following: ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "relevant offence",
+      "definition": "“relevant offence” means an offence under — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "sale",
+      "definition": "“sale” includes a supply under a conditional sale agreement or hire‑purchase agreement within the meanings given by section 2(1) of the Hire‑Purchase Act 1969, and “selling” is construed accordingly;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "secondhand goods dealer",
+      "definition": "“secondhand goods dealer” means a secondhand goods dealer within the meaning given by the Secondhand Goods Dealers Act 2007;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "substantial shareholder",
+      "definition": "“substantial shareholder” , in relation to a company, has the meaning given by section 81 of the Companies Act 1967;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Suspicious Transaction Reporting Officer",
+      "definition": "“Suspicious Transaction Reporting Officer” has the meaning given by section 2(1) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act 1992.",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cash",
+      "definition": "“cash” means currency notes and coins (whether of Singapore or of a foreign country or territory) which are legal tender and circulate as money in the country or territory of issue;",
+      "source_provision": "s15"
+    },
+    {
+      "term": "cash equivalent",
+      "definition": "“cash equivalent” means anything used as currency that is prescribed for the purposes of this Part;",
+      "source_provision": "s15"
+    },
+    {
+      "term": "designated transaction",
+      "definition": "“designated transaction” means any of the following transactions conducted wholly or partly in Singapore: ( a )",
+      "source_provision": "s15"
+    },
+    {
+      "term": "threshold amount",
+      "definition": "“threshold amount” means $20,000 or its equivalent in value, or an amount prescribed in substitution.",
+      "source_provision": "s15"
+    },
+    {
+      "term": "commencement date",
+      "definition": "“commencement date” means the date of commencement of section 13 of the Prevention of Proliferation Financing and Other Matters Act 2024;",
+      "source_provision": "s18"
+    },
+    {
+      "term": "former regulated dealer",
+      "definition": "“former regulated dealer” means a regulated dealer who has ceased to carry on any business of regulated dealing or business as an intermediary in Singapore. [Act 6 of 2024 wef 01/05/2024]",
+      "source_provision": "s18"
+    },
+    {
+      "term": "corporation",
+      "definition": "“corporation” includes a limited liability partnership within the meaning of section 2(1) of the Limited Liability Partnerships Act 2005;",
+      "source_provision": "s32"
+    },
+    {
+      "term": "officer",
+      "definition": "“officer” , in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, and includes — ( a )",
+      "source_provision": "s33"
+    },
+    {
+      "term": "state of mind",
+      "definition": "“state of mind” of a person includes — ( a )",
+      "source_provision": "s32"
+    },
+    {
+      "term": "partner",
+      "definition": "“partner” includes a person purporting to act as a partner;",
+      "source_provision": "s33"
+    },
+    {
+      "term": "document",
+      "definition": "“document” includes a notice, an order and a direction;",
+      "source_provision": "s36A"
+    },
+    {
+      "term": "last contact address",
+      "definition": "“last contact address” , in relation to an internet-based messaging service, means — ( a )",
+      "source_provision": "s36A"
+    },
+    {
+      "term": "last email address",
+      "definition": "“last email address” means — ( a )",
+      "source_provision": "s36A"
+    },
+    {
+      "term": "account with the electronic service",
+      "definition": "“account with the electronic service” , in relation to any person, means an account within the electronic service that is assigned by the Registrar to the person for the storage and retrieval of electronic records relating to the person;",
+      "source_provision": "s36B"
+    },
+    {
+      "term": "electronic record",
+      "definition": "“electronic record” has the meaning given by section 2(1) of the Electronic Transactions Act 2010. [Act 6 of 2024 wef 01/05/2024]",
+      "source_provision": "s36B"
+    }
+  ]
+}

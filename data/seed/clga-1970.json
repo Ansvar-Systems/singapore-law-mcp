@@ -1,0 +1,84 @@
+{
+  "id": "clga-1970",
+  "type": "statute",
+  "title": "Civil List and Gratuity Act 1970",
+  "title_en": "Civil List and Gratuity Act 1970",
+  "short_name": "CLGA1970",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/CLGA1970",
+  "description": "An Act to provide a civil list and gratuity for the President of the Republic of Singapore. [20/2012]",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Civil List and Gratuity Act 1970. [20/2012] PART 1 CIVIL LIST"
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART 1 - CIVIL LIST",
+      "section": "2",
+      "title": "Civil list of President",
+      "content": "2. —(1) There shall be paid for the civil list of the President so long as he holds office the yearly sums specified in the Schedule. (2) Payments in respect of the amounts for the privy purse and entertainment allowance specified in Class 1 of the Schedule shall be made to the President. (3) Payments of the acting President’s allowance specified in Class 1 of the Schedule shall be made to the person exercising the functions of the office of President pursuant to Article 22N or 22O of the Constitution. (4) Payments in respect of the amounts specified in Classes 2, 3 and 4 of the Schedule shall be made by or on the instructions of the Private Secretary to the President in accordance with any written law governing the disbursement of public funds. (5) No payment in respect of the amounts specified in Class 1 of the Schedule shall be made in respect of any period during which the office of the President is vacant."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART 1 - CIVIL LIST",
+      "section": "3",
+      "title": "Charge on Consolidated Fund",
+      "content": "3. The sums required for payments under section 2 shall be charged on and paid out of the Consolidated Fund."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART 1 - CIVIL LIST",
+      "section": "4",
+      "title": "Payment",
+      "content": "4. The yearly sums payable under Class 1 of the Schedule shall — ( a ) accrue from day to day; and ( b ) be payable monthly on the last day of each month or on such other day as the Minister may from time to time determine."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART 1 - CIVIL LIST",
+      "section": "5",
+      "title": "Appropriation",
+      "content": "5. —(1) In the application of the sums paid in respect of any year under section 2, the amounts specified in the Schedule shall be appropriated to the classes of expenditure specified therein respectively in that year. (2) If it appears that the sum appropriated to any class of expenditure in any year will not be wholly required for the expenditure of that class in that year, the amount not so required may, with the approval of the Minister, be applied as an addition to the sum available for any other class. (3) The sums to be expended by or on the instructions of the Private Secretary to the President in respect of Classes 2, 3 and 4 of the Schedule for any year shall be expended in that year by the Private Secretary to the President in conformity with the detailed estimates for that year submitted by him to, and approved by, the Minister."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART 1 - CIVIL LIST",
+      "section": "6",
+      "title": "Change of holder of office",
+      "content": "6. In the event of there being a change of holder of the office of President, there shall be made such adjustments and distribution of the annual payment due under section 2 in respect of the amounts specified for Class 1 of the Schedule as the circumstances of the case may require."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART 1 - CIVIL LIST",
+      "section": "7",
+      "title": "Variation of Schedule",
+      "content": "7. Parliament may, from time to time, by resolution vary the Schedule."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART 2 - GRATUITY",
+      "section": "10",
+      "title": "Gratuity on death",
+      "content": "10. Where, after 1 July 1970, the President or a former President dies, there may be paid to his dependants or, if there are no dependants, to his legal personal representative a gratuity of such amount as Parliament may by resolution determine. 11. [ Repealed by Act 20 of 2012 ]"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART 2 - GRATUITY",
+      "section": "12",
+      "title": "Gratuity not to be assignable",
+      "content": "12. A gratuity granted under this Act shall not be — ( a ) assignable or transferable except for the purpose of satisfying — (i) a debt due to the Government; or (ii) an order of any court for the payment of periodical sums of money towards the maintenance of the wife, or former wife or minor child of the former President to whom the gratuity has been granted; and ( b ) attached, sequestered or levied upon for or in respect of any debt or claim whatever except a debt due to the Government. [20/2012]"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART 2 - GRATUITY",
+      "section": "13",
+      "title": "Gratuities to be paid out of Pension Fund",
+      "content": "13. There shall be charged on and paid out of the Pension Fund established by the Pension Fund Act 1995 all such sums of money as may, from time to time, be granted by way of gratuity in accordance with this Act. [20/2012]"
+    }
+  ],
+  "definitions": []
+}

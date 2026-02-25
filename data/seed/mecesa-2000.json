@@ -1,0 +1,425 @@
+{
+  "id": "mecesa-2000",
+  "type": "statute",
+  "title": "Medical and Elderly Care Endowment Schemes Act 2000",
+  "title_en": "Medical and Elderly Care Endowment Schemes Act 2000",
+  "short_name": "MECESA2000",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/MECESA2000",
+  "description": "An Act to reconstitute the Medical Endowment Fund and to establish the ElderCare Fund for the purpose of endowment schemes providing financial assistance in connection with medical and healthcare in Singapore and for matters connected therewith.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Medical and Elderly Care Endowment Schemes Act 2000."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. —(1) In this Act, unless the context otherwise requires — “approved institution” means any hospital or other healthcare institution approved by the Minister under section 8; “approved provider” means an organisation providing step‑down care in respect of which an approval under section 23(5)( a ) is in force; “approved services” means step-down care provided by an approved provider in respect of which an approval under section 23(5)( a ) is in force; “authorised officer” means any officer authorised by the Minister in writing to exercise such power or perform such function or duty under this Act as the Minister may specify in writing; “Council” means the Advisory Council established under section 6; “ElderCare Fund” means the ElderCare Fund established under section 18(1); “eligible patient” means a person who is eligible to make an application under section 15; “Medifund” means the Medical Endowment Fund established under the repealed Medical Endowment Scheme Act (Cap. 173A, 1994 Revised Edition) and reconstituted under this Act; “Medifund Account” means the account, mentioned in section 10, of a Medifund committee; “Medifund committee” means any committee appointed under section 14; “organisation” means a society, body or group of persons, whether corporate or unincorporated; “personal care” means assistance of a personal nature given to help a person who, by reason of any sickness, disability or injury, is unable on his or her own to attend to his or her daily needs or carry out his or her daily routine; “recurrent costs”, in relation to the provision of any step‑down care, means all costs incurred or to be incurred by the provider in relation to its ongoing operations in providing such care other than the following costs: ( a ) the cost of acquiring the land on which the premises (whether built or to be built) at which such care is or is to be provided; ( b ) such other costs that are capital in nature as the Minister may prescribe; “step-down care” means — ( a ) accommodation, personal care and health care for any person suffering or recovering from any sickness, disability or injury; ( b ) personal care and health care during the day for any such person; or ( c ) such other forms of health care or care arrangements as the Minister may prescribe for any such person; “step-down care institution” means any premises used (whether or not exclusively) for the purpose of providing step‑down care; “subvention” means a subvention under Part 3 out of the income of the ElderCare Fund. (2) For the purposes of this Act, step‑down care is not taken to include any medical or health care provided in any maternity home or premises used or intended to be used for the accommodation of pregnant women or of women immediately after childbirth. (3) For the purposes of sections 3(2)( c ) and 18(1)( c ), the net income from investments of capital moneys is the amount ascertained by adding to, or deducting from, the income received from the investments of capital moneys any profit derived or loss sustained (as the case may be) from the realisation of those investments."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART 2 - MEDIFUND SCHEME",
+      "section": "3",
+      "title": "Reconstitution of Medical Endowment Fund",
+      "content": "3. —(1) For the purposes of this Part, the Medical Endowment Fund or Medifund continues and is reconstituted in accordance with this Act. (2) There must be paid into the Medifund — ( a ) all capital moneys as are appropriated from time to time from the Consolidated Fund and authorised to be paid into the Medifund by this Act or any other written law; ( b ) gifts or bequests given or made for the purposes of Medifund; and ( c ) the net income from investments of capital moneys in the Medifund. (3) The Minister is responsible for the administration of the Medifund, and all moneys belonging to the Medifund may be deposited in any bank and invested in any investment authorised under the Financial Procedure Act 1966. (4) The Medifund must be regarded as a Government fund and as comprising public moneys for the purposes of any written law."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART 2 - MEDIFUND SCHEME",
+      "section": "4",
+      "title": "Capital moneys of Medifund",
+      "content": "4. —(1) For the purposes of this Part, the Minister for Finance may, from time to time, pay into the Medifund such sums of capital money as the Minister may determine out of moneys to be provided by Parliament. (2) Despite the terms of any gift or bequest, all gifts and bequests given or made for the purposes of the Medifund must be paid into the Medifund as capital moneys. (3) The capital moneys of the Medifund must not be used for any purpose other than for investment. (4) Where at any time there is a permanent diminution of the capital moneys of the Medifund, the Minister must, before paying out the income of the Medifund, make good the diminution from that income."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART 2 - MEDIFUND SCHEME",
+      "section": "5",
+      "title": "Application of income of Medifund",
+      "content": "5. The income of the Medifund may be paid out and applied for all or any of the following purposes only: ( a ) for the provision of grants to Medifund committees to be applied for the purpose of defraying in whole or in part the hospital charges, fees and other expenses incurred by patients of approved institutions who are unable to pay those charges, fees or other expenses and are approved by the relevant Medifund committee; ( b ) for other purposes authorised under this Act to be paid out from the Medifund or that may be prescribed."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART 2 - MEDIFUND SCHEME",
+      "section": "6",
+      "title": "Advisory Council",
+      "content": "6. —(1) For the purpose of advising the Minister as to the application of the income of the Medifund, an Advisory Council is established, comprising members appointed by the Minister. (2) The Minister must appoint one of the members as chairperson. (3) The Schedule has effect with respect to the Council."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART 2 - MEDIFUND SCHEME",
+      "section": "7",
+      "title": "Functions of Council and directions by Minister",
+      "content": "7. —(1) The Council may, from time to time, make recommendations to the Minister on all matters relating to the application of the income of the Medifund. (2) The Minister may, on the recommendations of the Council, issue to any Medifund committee directives or guidelines on the approval of applications from eligible patients and on the administration of the Medifund Account of that committee. Division 2 &#x2014; Grants to Medifund committees"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART 2 - MEDIFUND SCHEME",
+      "section": "8",
+      "title": "Approved institutions",
+      "content": "8. The Minister may, by notification in the Gazette , approve or revoke the approval of any hospital or other healthcare institution for the purposes of this Part."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART 2 - MEDIFUND SCHEME",
+      "section": "9",
+      "title": "Conditions on payment of grants",
+      "content": "9. —(1) The Minister may, from time to time, authorise the payment of grants in such amount and to such Medifund committee as the Minister may think fit. (2) The Minister may, in authorising payment for any purpose under section 5 to any Medifund committee or other person, impose such terms and conditions as the Minister may think fit. (3) The Minister may require any Medifund committee or other person who fails to comply with such terms or conditions to repay into the Medifund any moneys paid under section 5."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART 2 - MEDIFUND SCHEME",
+      "section": "10",
+      "title": "Medifund Account",
+      "content": "10. —(1) Every Medifund committee which receives a grant under section 5 must establish and maintain an account to be called a Medifund Account with a bank in Singapore. (2) The Medifund committee must pay into the Medifund Account all moneys received as a grant under section 5 and any interest accruing on the moneys must be paid into and form part of the moneys in the Medifund Account."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART 2 - MEDIFUND SCHEME",
+      "section": "11",
+      "title": "Withdrawal from Medifund Account",
+      "content": "11. —(1) No money may be withdrawn from any Medifund Account unless the withdrawal is authorised in accordance with section 17. (2) A Medifund committee must repay into the Medifund Account any moneys withdrawn in contravention of subsection (1)."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART 2 - MEDIFUND SCHEME",
+      "section": "12",
+      "title": "Dissolution, etc., of Medifund committee or approved institution",
+      "content": "12. —(1) Despite any other written law to the contrary, all moneys in the Medifund Account of any Medifund committee designated to approve applications from eligible patients of any approved institution — ( a ) are deemed not to form part of the property of the Medifund committee or approved institution if the committee is dissolved or the institution goes into voluntary or compulsory liquidation; and ( b ) are not available for payment of the debts of the Medifund committee or approved institution or liable to be paid or taken under or pursuant to an enforcement order or process of any court. [Act 25 of 2021 wef 01/04/2022] (2) The moneys in the Medifund Account must, after deduction of any payment to the approved institution which has been authorised under section 17, be vested in and paid into the Medifund if the Medifund committee is dissolved."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART 2 - MEDIFUND SCHEME",
+      "section": "13",
+      "title": "Accounts of Medifund Account",
+      "content": "13. —(1) Every Medifund committee must cause to be kept proper accounts and records of all transactions and affairs relating to its Medifund Account and must do all things necessary to ensure that all payments are correctly made and properly authorised and that adequate control is maintained over the moneys and receipts of its Medifund Account. (2) Every Medifund committee must, as soon as practicable after the close of the accounting period of its Medifund Account but not later than 30 June of each year, cause to be prepared and submitted financial statements in respect of that year to the auditor of the Medifund Account. (3) The accounting period of a Medifund Account begins on 1 April of each year and ends on 31 March of the succeeding year. Division 3 &#x2014; Medifund committees"
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART 2 - MEDIFUND SCHEME",
+      "section": "14",
+      "title": "Medifund committees",
+      "content": "14. —(1) The Minister may, by order in the Gazette , appoint one or more Medifund committees, comprising persons appointed by the Minister, to consider and approve applications from eligible patients in approved institutions and to administer payments out of their Medifund Accounts. (2) The order under subsection (1) must designate the approved institutions and the classes of eligible patients in relation to which a Medifund committee may approve applications under section 15 and exercise any other powers or duties under this Part. (3) A Medifund committee may sue or be sued in the name by which it is described in an order under subsection (1)."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART 2 - MEDIFUND SCHEME",
+      "section": "15",
+      "title": "Applications by eligible patients",
+      "content": "15. —(1) Every person who — ( a ) is a citizen of Singapore; ( b ) has received treatment or requires treatment from any approved institution; ( c ) is unable to pay the hospital charges, fees or other expenses incurred by the person; and ( d ) satisfies such other requirements as may be prescribed, may apply to the Medifund committee designated to approve the person’s application for a payment out of the Medifund Account of the Medifund committee to defray in whole or in part the hospital charges, fees and other expenses incurred by the person. (2) Every application under subsection (1) must be supported by such evidence as may be prescribed and by any further evidence that the Medifund committee may reasonably require."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART 2 - MEDIFUND SCHEME",
+      "section": "16",
+      "title": "Application made on behalf of patient",
+      "content": "16. If an eligible patient, by reason of incapacity by physical or mental illness or any other cause, is unable to make an application under section 15, any member of the patient’s immediate family or the medical social worker in charge of the patient’s case may submit the application on the patient’s behalf."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART 2 - MEDIFUND SCHEME",
+      "section": "17",
+      "title": "Payments authorised by Medifund committee",
+      "content": "17. —(1) Upon receipt of an application made under section 15, the Medifund committee designated to approve applications from such class of eligible patients of such approved institutions for the purposes of this Part may, if it thinks fit and subject to the availability of moneys in the Medifund Account — ( a ) approve the application of any eligible patient of any approved institution in that class; and ( b ) authorise in writing payments of such amount as it thinks fit out of the Medifund Account to the approved institution to defray in whole or in part the hospital charges, fees and other expenses incurred by that eligible patient. (2) The Medifund committee must, in considering any application and authorising payment, comply with any regulations made under this Act and any directive and guideline issued by the Minister under section 7(2). (3) The Medifund committee may consider any other circumstances which, in the opinion of the committee, is relevant to the application. (4) Despite subsection (1), a Medifund committee may authorise any person to approve the application by any eligible patient in exceptional circumstances and when the payment does not exceed such amount as may be specified in any directive or guideline issued under section 7(2). (5) Nothing in this Act is to be construed to require a Medifund committee or an authorised person referred to in subsection (4) to approve the application of every patient who satisfies the requirements under section 15."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART 3 - ELDERCARE SCHEME",
+      "section": "18",
+      "title": "Establishment of ElderCare Fund",
+      "content": "18. —(1) A fund called the ElderCare Fund is established, into which must be paid — ( a ) all capital moneys as are appropriated from time to time from the Consolidated Fund and authorised to be paid into the ElderCare Fund by this Act or any other written law; ( b ) gifts or bequests given or made for the purpose of the ElderCare Fund; and ( c ) the net income from investments of capital moneys in the ElderCare Fund. (2) The ElderCare Fund must be regarded as a Government fund and as comprising public moneys for the purposes of any other written law."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART 3 - ELDERCARE SCHEME",
+      "section": "19",
+      "title": "Administration of ElderCare Fund",
+      "content": "19. The Minister is responsible for the administration of the ElderCare Fund and all moneys belonging to that Fund may be deposited in any bank and invested in any investment authorised under the Financial Procedure Act 1966."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART 3 - ELDERCARE SCHEME",
+      "section": "20",
+      "title": "Capital moneys of ElderCare Fund",
+      "content": "20. —(1) As from 27 March 2000, a sum that the Minister for Finance may determine out of moneys to be provided by Parliament must be paid into the ElderCare Fund as capital moneys. (2) The Minister for Finance may, from time to time, after 27 March 2000 pay into the ElderCare Fund such sums of capital money as the Minister may determine out of moneys to be provided by Parliament. (3) Despite the terms of any gift or bequest, all gifts and bequests given or made for the purposes of the ElderCare Fund must be paid into the Fund as capital moneys. (4) The capital moneys of the ElderCare Fund must not be used for any purpose other than for investment. (5) Where at any time there is a permanent diminution of the capital moneys of the ElderCare Fund, the Minister must, before paying out the income of the ElderCare Fund, make good such diminution from that income."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART 3 - ELDERCARE SCHEME",
+      "section": "21",
+      "title": "Application of income of ElderCare Fund",
+      "content": "21. The income of the ElderCare Fund may be paid out and expended for all or any of the following purposes only: ( a ) for the provision of subventions to any approved providers of step-down care for the purpose of defraying in whole or in part the recurrent costs in providing step‑down care; ( b ) for purposes authorised under this Act to be paid out from the Fund; ( c ) for any other purposes relating to step-down care that may be prescribed. Division 2 &#x2014; Approved providers"
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART 3 - ELDERCARE SCHEME",
+      "section": "22",
+      "title": "Subvention only for approved providers",
+      "content": "22. Payments of subvention cannot be made under this Part to any person providing step‑down care unless the person is an approved provider in respect of — ( a ) all types of step-down care provided or proposed to be provided by the person; ( b ) one or more specific types of step‑down care provided or proposed to be provided by the person; ( c ) all types of step-down care provided or proposed to be provided by the person at specific premises; or ( d ) one or more specific types of step‑down care provided or proposed to be provided by the person at specific premises."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "PART 3 - ELDERCARE SCHEME",
+      "section": "23",
+      "title": "Application to be approved provider",
+      "content": "23. —(1) Any organisation which is a provider of any step-down care may make an application in the prescribed manner for approval to be an approved provider in respect of — ( a ) all types of step-down care provided or proposed to be provided by the applicant; ( b ) one or more specific types of step‑down care provided or proposed to be provided by the applicant; ( c ) all types of step-down care provided or proposed to be provided by the applicant at specific premises; or ( d ) one or more specific types of step‑down care provided or proposed to be provided by the applicant at specific premises. (2) Where an application is made under subsection (1), the Minister may request the applicant — ( a ) to permit an authorised officer to inspect the premises to which the application relates at any reasonable time; or ( b ) to furnish specified particulars about the operations of the applicant at those premises or the step‑down care provided or proposed to be provided or both. (3) The Minister may defer consideration of the application until the premises have been so inspected or the particulars have been furnished, as the case requires. (4) In determining whether or not to approve any applicant as an approved provider, whether in respect of all types of step‑down care or specific types of step‑down care and whether in respect of the provision of such step‑down care at specific premises, the Minister must have regard to all matters the Minister considers relevant. (5) The Minister may — ( a ) approve, with or without conditions, the applicant to be an approved provider in respect of — (i) all types of step-down care provided or proposed to be provided by the applicant; (ii) one or more specific types of step‑down care provided or proposed to be provided by the applicant; (iii) all types of step-down care provided or proposed to be provided by the applicant at specific premises; or (iv) one or more specific types of step‑down care provided or proposed to be provided by the applicant at specific premises; or ( b ) refuse to give the approval. (6) The approval of any person under this section as an approved provider of step-down care is in force for such period as the Minister may specify. (7) Where the Minister approves any organisation providing step‑down care to be an approved provider, the Minister must, by notification in the Gazette, declare the organisation to be an approved provider in respect of all types or specific types of step‑down care or in respect of the provision of such step‑down care at specific premises, as the case may be."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "PART 3 - ELDERCARE SCHEME",
+      "section": "24",
+      "title": "Cessation of approval",
+      "content": "24. An approval of an organisation providing step-down care as an approved provider ceases to have effect if — ( a ) the approval is revoked under section 25; or ( b ) the period (if any) to which the approval is limited under section 23(6) expires."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "PART 3 - ELDERCARE SCHEME",
+      "section": "25",
+      "title": "Revocation and suspension of approval",
+      "content": "25. —(1) The Minister may revoke, or suspend for a period not exceeding 6 months, any approval of an organisation providing step‑down care as an approved provider if — ( a ) in the opinion of the Minister, the organisation has ceased to be suitable to be an approved provider; ( b ) the application for approval contained information that was false or misleading in a material particular; ( c ) [ Deleted by Act 19 of 2025 wef 05/12/2025 ] ( ca ) where the organisation is the holder of a licence granted under the Healthcare Services Act 2020, the licence is revoked or suspended or otherwise ceases to be in force; [Act 3 of 2020 wef 03/01/2022] ( cb ) where approved services are provided — (i) at any permanent premises within the meaning given by section 2(1) of the Healthcare Services Act 2020 — the approval granted to the organisation to provide those services at those premises under that Act is cancelled or suspended or otherwise ceases to be in force; (ii) using any conveyance within the meaning given by section 2(1) of the Healthcare Services Act 2020 — the approval granted to the organisation to use the conveyance for the provision of those services under that Act is cancelled or suspended or otherwise ceases to be in force; or (iii) by any other service delivery mode within the meaning given by section 2(1) of the Healthcare Services Act 2020 — the approval granted to the organisation to provide those services by the service delivery mode under that Act is cancelled or suspended or otherwise ceases to be in force; [Act 11 of 2023 wef 26/06/2023] ( d ) the organisation is convicted of an offence under section 31(3) or (5); ( e ) the organisation fails to comply with any terms or conditions of the approval; or ( f ) the organisation fails to comply with any conditions of any subvention paid in respect of any of its approved services, and the Minister is of the opinion that the organisation is again likely to so fail to comply. (2) Before revoking or suspending any approval under this section, the Minister must notify the organisation concerned that revocation or suspension (as the case may be) is being considered, and must — ( a ) give the reasons for considering the revocation or suspension; ( b ) invite the organisation to make written submissions to the Minister within 7 days after receiving the notice, or any further period that the Minister may allow; and ( c ) inform the organisation that if no such submission is made within that period, any revocation or suspension (as the case may be) will take effect on the day after the last day for making submissions. (3) The Minister must notify the organisation concerned in writing of the Minister’s decision within 7 days after the end of the period allowed by subsection (2) for making submissions. (4) A revocation or suspension of any approval takes effect — ( a ) if no submission was made under subsection (2) — on the day after the last day for making submissions; or ( b ) if such submission was made — 7 days after the day on which the notice under subsection (3) was given. (5) The Minister may revoke an approval (subject to such conditions as the Minister may think fit) if the approved provider requests the Minister in the prescribed manner to revoke the approval. (6) Where any suspension of approval made under this section is in force, the organisation concerned is not for the purposes of this Part regarded as an approved provider, but on expiry of the suspension, the organisation immediately reverts to being an approved provider. Division 3 &#x2014; Subventions"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "PART 3 - ELDERCARE SCHEME",
+      "section": "26",
+      "title": "Amount of subvention",
+      "content": "26. —(1) The Minister may grant a subvention to an approved provider of such amount as the Minister may determine. (2) The Minister may determine different amounts of subvention for different classes of patients of approved providers, different classes of step‑down care or different classes of approved providers. (3) In determining the amount of subvention under subsection (1) to be granted to an approved provider, the Minister must have regard to all matters the Minister considers relevant, including but not limited to — ( a ) the recurrent costs of approved providers in providing step‑down care of the same class; and ( b ) the number of relevant patients to whom step‑down care is provided by the approved provider during any period determined by the Minister. (4) In this section, “relevant patient” means a person who, in the opinion of the Minister, requires step‑down care and is assessed by the Minister to be financially disadvantaged. (5) Any opinion or assessment of the Minister under subsection (4) that a person requires step‑down care or is financially disadvantaged is final and conclusive and must not be reviewed in any court of law."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "PART 3 - ELDERCARE SCHEME",
+      "section": "27",
+      "title": "Conditions of subventions",
+      "content": "27. —(1) A subvention may be paid to an approved provider on any condition that the Minister may determine, including but not limited to conditions for repayment of subventions and admission of persons to any step‑down care institution under the control and management of the approved provider. (2) The Minister may, at any time after giving reasonable notice to an approved provider, vary or cancel any of the conditions imposed under subsection (1) or impose new conditions in respect of any subvention paid or payable to the approved provider."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "PART 3 - ELDERCARE SCHEME",
+      "section": "28",
+      "title": "Payment of subvention",
+      "content": "28. —(1) A subvention is payable to an approved provider quarterly or at such other payment period as the Minister may allow. (2) Subject to the provisions of this Act, a subvention may be paid to an approved provider in advance in respect of any payment period mentioned in subsection (1) at such times and on such terms as the Minister may think fit."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "PART 3 - ELDERCARE SCHEME",
+      "section": "29",
+      "title": "Consequences for non-compliance",
+      "content": "29. —(1) The Minister may, by written notice, impose one or more of the following sanctions on an approved provider that has not complied, or is not complying, with section 31(1) or with any condition of any subvention paid to the approved provider under section 27: ( a ) revoke or suspend the approval of the organisation as an approved provider; ( b ) restrict the approval as an approved provider in respect of a certain type or types of step‑down care or in respect of a type of step‑down care provided by the approved provider at specific premises; ( c ) reduce the total amount of subvention payable to the approved provider in any subsequent payment period; ( d ) require repayment of part or all of the subvention paid to the approved provider. (2) Before imposing any sanction mentioned in subsection (1) on an approved provider, the Minister must notify the approved provider that the imposition of sanction is being considered, and must — ( a ) give to the approved provider a notice of non‑compliance setting out the details of non‑compliance; ( b ) set out the sanctions that can be imposed in this section on the approved provider for non‑compliance; ( c ) invite the approved provider to make written submissions to the Minister within 7 days after receiving the notice, or such further period as the Minister may allow; and ( d ) inform the approved provider that if no such submission is made within that period, any sanction the Minister decides to impose will take effect on the day after the last day for making submissions. (3) The Minister must notify the approved provider in writing of the Minister’s decision within 7 days after the end of the period allowed by subsection (2) for making submissions. (4) Any sanction imposed takes effect — ( a ) if no submission was made under subsection (2) — on the day after the last day for making submissions; or ( b ) if such submission was made — 7 days after the day on which the notice under subsection (3) was given. (5) This section does not affect the operation of section 25."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "PART 3 - ELDERCARE SCHEME",
+      "section": "30",
+      "title": "Recovery of overpayments of subventions",
+      "content": "30. —(1) If the Minister pays an amount to an approved provider by way of subvention, any part of the amount that is an overpayment is recoverable as a debt due to the Government and may be recovered by the Government in a court of competent jurisdiction. (2) If the Minister pays an amount to an approved provider by way of subvention and a condition to which the subvention is subject is not met, the amount of subvention as the Minister determines under section 29(1)( d ) is recoverable as a debt due to the Government and may be recovered by the Government in a court of competent jurisdiction. (3) If an approved provider is liable to repay any amount under subsection (1) or (2), the amount (or part of it) may be deducted from one or more other subventions payable to the approved provider under this Part."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "PART 3 - ELDERCARE SCHEME",
+      "section": "31",
+      "title": "Duties of approved providers",
+      "content": "31. —(1) Every approved provider must — ( a ) keep records (whether in written or electronic form) that enable — (i) claims for payments of subvention to be properly verified; and (ii) proper assessments to be made whether the approved provider has complied, or is complying, with the conditions of any subvention paid to it and with its duties under this Act; ( b ) in relation to each of those records, retain the record for a period ending 3 years (or such other period as an authorised officer may allow) after the close of the financial year in which the record was made; and ( c ) comply with any other duties that may be prescribed. (2) Every approved provider must, as soon as practicable after the close of each financial year, cause to be prepared and submitted audited annual financial statements in respect of that year to the Minister or an authorised officer designated by the Minister. (3) An approved provider who fails to comply with subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000. (4) An approved provider must not, in purported compliance with this section, make a record that is false or misleading in a material particular. (5) An approved provider who contravenes or fails to comply with subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "PART 3 - ELDERCARE SCHEME",
+      "section": "32",
+      "title": "Monitoring powers",
+      "content": "32. —(1) An authorised officer may, to the extent reasonably necessary for any of the purposes specified in subsection (2), do all or any of the following: ( a ) enter during the day any step-down care institution under the control and management of an approved provider with the consent of the approved provider; ( b ) take photographs of the premises of the step-down care institution; ( c ) request the approved provider or any other person on the premises to answer any question, or to produce any document or record requested by the authorised officer; ( d ) inspect any document or record kept by the approved provider connected with the provision of step-down care, whether or not kept or maintained on those premises; ( e ) take extracts from, or make copies of, any such document or record; ( f ) in relation to any such document or record — (i) operate equipment on the premises where the document or record is kept or maintained to see whether the equipment, or a disk, tape or other storage device that is on those premises and can be used or associated with the equipment, contains information that is relevant, in respect of the approved provider, to making the assessments referred to in subsection (2); and (ii) if the authorised officer, after operating equipment at those premises finds that the equipment, or disk, tape or other storage device at the premises, contains information of that kind, to — (A) operate facilities on the premises to put the information in documentary form and copy the document or record so produced; or (B) if the information can be transferred to a disk, tape or other storage device that is brought to the premises by the authorised officer, operate the equipment or other facilities to copy the information to the storage device and remove the storage device from the premises. (2) An authorised officer may act as provided for under subsection (1) for all or any of the following purposes: ( a ) to assess whether records have been kept as required by this Part; ( b ) to assess whether the provisions of this Act relating to, or the conditions of the subvention in respect of, the approved provider concerned have been complied with."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "PART 4 - GENERAL FINANCIAL PROVISIONS",
+      "section": "33",
+      "title": "Administrative expenses",
+      "content": "33. —(1) All expenses incurred in connection with the administration of the Medifund and the ElderCare Fund, including the costs of auditing the accounts of the Medifund and the ElderCare Fund, must be defrayed out of the income of the Medifund and the ElderCare Fund, respectively. (2) The costs of auditing the accounts of any Medifund Account must be defrayed out of the income of the Medifund."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "PART 4 - GENERAL FINANCIAL PROVISIONS",
+      "section": "34",
+      "title": "Financial year of Medifund and ElderCare Fund",
+      "content": "34. —(1) The financial year of the Medifund begins on 1 April of each year and ends on 31 March of the succeeding year. (2) The financial year of the ElderCare Fund begins on 1 April of each year and ends on 31 March of the succeeding year."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "PART 4 - GENERAL FINANCIAL PROVISIONS",
+      "section": "35",
+      "title": "Accounts",
+      "content": "35. —(1) The Minister must cause to be kept proper accounts and records of all transactions and affairs relating to the Medifund and the ElderCare Fund and must do all things necessary to ensure that all payments out of the Medifund and the ElderCare Fund are correctly made and properly authorised and that adequate control is maintained over the assets and receipts of the Medifund and the ElderCare Fund. (2) The Minister must, as soon as practicable after the close of each financial year, cause to be prepared and submitted financial statements in respect of that year to the auditor of the Medifund and the ElderCare Fund."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "PART 4 - GENERAL FINANCIAL PROVISIONS",
+      "section": "36",
+      "title": "Mode of payment out of Funds",
+      "content": "36. A payment must not be made out of the Medifund or the ElderCare Fund unless the payment is authorised by the Minister."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "PART 4 - GENERAL FINANCIAL PROVISIONS",
+      "section": "37",
+      "title": "Appointment, powers and duties of auditor",
+      "content": "37. —(1) The accounts of the Medifund, the ElderCare Fund and every Medifund Account must be audited by — ( a ) the Auditor-General; or ( b ) such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General. (2) A person is not qualified for appointment as an auditor under subsection (1)( b ) unless the person is a public accountant within the meaning of the Companies Act 1967. (3) The auditor or any person authorised by the auditor is entitled at all reasonable times to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Medifund, the ElderCare Fund and every Medifund Account and may make copies of, or take extracts from, any of those accounting and other records. (4) The auditor must in the auditor’s report state — ( a ) whether the financial statements show fairly the financial transactions and the state of affairs of the Medifund, the ElderCare Fund or the Medifund Account, as the case may be; ( b ) whether proper accounting and other records have been kept, including records of all assets of the Medifund, the ElderCare Fund or the Medifund Account, as the case may be; ( c ) whether the receipts, expenditure and investment of moneys and the acquisition and disposal of assets on account of the Medifund, the ElderCare Fund or the Medifund Account (as the case may be) during the financial year were in accordance with the provisions of this Act; and ( d ) any other matters arising from the audit that the auditor considers necessary. (5) The auditor must — ( a ) as soon as practicable after the accounts of the Medifund, the ElderCare Fund or Medifund Account (as the case may be) have been submitted for audit, send a report of the audit to the Minister; and ( b ) submit such periodical and special reports to the Minister as appear to the auditor to be necessary or as the Minister may require. (6) Where the Auditor-General is not the auditor of the Medifund, the ElderCare Fund or any Medifund Account, a copy of the audited financial statements and any report made by the auditor must be forwarded to the Auditor‑General."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "PART 4 - GENERAL FINANCIAL PROVISIONS",
+      "section": "38",
+      "title": "Failure to provide information to auditor",
+      "content": "38. —(1) The auditor or any person authorised by the auditor may require any other person to provide such information in that other person’s possession or to which that other person has access as the auditor considers necessary for the purposes of the auditor’s duties under this Act. (2) Any person who, without reasonable excuse, fails to comply with any requirement of the auditor under subsection (1) or who otherwise hinders, obstructs or delays the auditor in the performance of the duties or the exercise of the powers of the auditor shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "PART 4 - GENERAL FINANCIAL PROVISIONS",
+      "section": "39",
+      "title": "Presentation of annual report, financial statements and auditor’s report to Parliament",
+      "content": "39. The Minister must, as soon as practicable, cause an annual report in respect of the administration of the Medifund, the ElderCare Fund and every Medifund Account during the preceding financial year to be prepared and must present a copy of the report and of the audited financial statements and the auditor’s report to Parliament."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "PART 5 - MISCELLANEOUS",
+      "section": "40",
+      "title": "Obstructing authorised officers in execution of their duties",
+      "content": "40. —(1) Any person who obstructs, hinders or impedes any authorised officer in the performance or execution of the officer’s duty or anything which the officer is authorised, empowered or required to do under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both. (2) Any person who, without reasonable excuse, fails to answer any question, to provide any information or to produce any document or record to an authorised officer in contravention of section 32(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "PART 5 - MISCELLANEOUS",
+      "section": "41",
+      "title": "False or misleading information",
+      "content": "41. Any person who knowingly or recklessly — ( a ) makes a statement that is false or misleading in a material particular in respect of any application for approval as an approved provider; or ( b ) gives to the Minister or any authorised officer exercising a power or performing a duty or function under this Act any information, or any document or record that contains information, that is false or misleading in a material particular, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "PART 5 - MISCELLANEOUS",
+      "section": "42",
+      "title": "Protection against personal liability",
+      "content": "42. No suit or other legal proceedings shall lie against any member of any Medifund committee or any person acting under the directions or authorisation of the Medifund committee for anything which is in good faith done or intended to be done by him or her in the execution or purported execution of this Act."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "PART 5 - MISCELLANEOUS",
+      "section": "43",
+      "title": "Confidentiality of information",
+      "content": "43. —(1) Except in the case of prosecution of an offence under this Act, an authorised officer is not compellable in any proceedings to give evidence in respect of, or to produce any document containing, any information which has been obtained from any approved provider or approved institution in the course of carrying out any inspection, assessment or performing any duty or function under this Act. (2) Despite subsection (1), an authorised officer must not disclose any information which is contained in the medical records, or which relates to the condition, treatment or diagnosis, of any person, as may have come to the officer’s knowledge in the course of carrying out any inspection or assessment or performing any duty or function under this Act unless the disclosure is made — ( a ) under or for the purpose of administering and enforcing this Act or the Infectious Diseases Act 1976; ( b ) for the purpose of any disciplinary proceedings under the Medical Registration Act 1997; or ( c ) for any other purpose with the consent of the person to whom the information relates or the representative of that person. (3) In subsection (2)( c ), “representative” means — ( a ) the executor, administrator or next‑of‑kin of a deceased person; or ( b ) in relation to a person who lacks capacity within the meaning of the Mental Capacity Act 2008 — (i) a donee of a lasting power of attorney which is granted by that person under that Act, and under which that person confers on the donee authority to consent on that person’s behalf to such disclosure; or (ii) a deputy who is appointed or deemed to be appointed for that person by the court under that Act, and who is conferred power to consent on that person’s behalf to such disclosure. [16/2016]"
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "PART 5 - MISCELLANEOUS",
+      "section": "44",
+      "title": "Service of documents",
+      "content": "44. Any notice, order or other document that is required by this Act to be served or given to any approved provider, Medifund committee or any other organisation may be served on or given to that approved provider, committee or organisation by delivering or sending it by registered post — ( a ) to the registered or principal office of the approved provider, committee or organisation; or ( b ) if the approved provider, committee or organisation has no such office, to any place in Singapore where it carries on business or conducts its activities, as the case may be."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "PART 5 - MISCELLANEOUS",
+      "section": "45",
+      "title": "Offences by bodies corporate, etc.",
+      "content": "45. —(1) Where any offence under this Act is committed by a body corporate, a partnership or an unincorporated association of persons, any person who, at the time of the commission of the offence, was a director, manager, partner, secretary or other similar officer, or was purporting to act in any such capacity, shall also be guilty of that offence and shall be liable to be proceeded against and punished accordingly unless the person proves that — ( a ) the offence was committed without his or her consent or connivance; and ( b ) the person had exercised all such diligence to prevent the commission of the offence as he or she ought to have exercised having regard to the nature of his or her functions in that capacity and to all the circumstances. (2) In relation to a body corporate whose affairs are managed by its members, “director” means a member of the body corporate."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "PART 5 - MISCELLANEOUS",
+      "section": "46",
+      "title": "Regulations",
+      "content": "46. The Minister may make any regulations that are necessary or expedient for the purpose of carrying out the provisions of this Act and, in particular, the regulations may — ( a ) prescribe the procedure for payments out of the Medifund Account and the criteria for approval of applications by eligible patients; ( b ) prescribe the procedure for the repayment of grants or subventions to the Medifund or ElderCare Fund, as the case may be; ( c ) prescribe the membership, terms of office and procedure of Medifund committees; ( d ) provide for the disposal of amounts which are unpaid or otherwise remain in any Medifund Account; ( e ) prescribe the proceedings of the Council; and ( f ) prescribe anything which may be prescribed under this Act."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "PART 5 - MISCELLANEOUS",
+      "section": "47",
+      "title": "Transitional and saving provisions",
+      "content": "47. —(1) Any approval, decision, notice or other document prepared, made, granted, issued, and any act or thing done or given, under or pursuant to the repealed Medical Endowment Scheme Act (Cap. 173A, 1994 Revised Edition) (called in this section the repealed Act) and valid immediately before 27 March 2000 are deemed to have been prepared, made, granted, issued, done or given under or pursuant to the corresponding provision of this Act and continue to have effect accordingly. (2) All directives or guidelines made by the Minister under section 9 of the repealed Act are deemed to have been made under section 7 of this Act. (3) Every Hospital Medifund committee appointed under section 12 of the repealed Act is deemed to be appointed as a Medifund committee by the Minister in accordance with section 14 of this Act. (4) Every Hospital Medifund Account established under section 11 of the repealed Act is deemed to be a Medifund Account established under section 10 of this Act. (5) A person who, immediately before 27 March 2000, is a member of the Advisory Council under the repealed Act, continues as such member as if the person had been appointed under section 6 of this Act. (6) Any reference in any document to the repealed Act is construed as a reference to this Act."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "approved institution",
+      "definition": "“approved institution” means any hospital or other healthcare institution approved by the Minister under section 8;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "approved provider",
+      "definition": "“approved provider” means an organisation providing step‑down care in respect of which an approval under section 23(5)( a ) is in force;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "approved services",
+      "definition": "“approved services” means step-down care provided by an approved provider in respect of which an approval under section 23(5)( a ) is in force;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorised officer",
+      "definition": "“authorised officer” means any officer authorised by the Minister in writing to exercise such power or perform such function or duty under this Act as the Minister may specify in writing;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Council",
+      "definition": "“Council” means the Advisory Council established under section 6;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ElderCare Fund",
+      "definition": "“ElderCare Fund” means the ElderCare Fund established under section 18(1);",
+      "source_provision": "s2"
+    },
+    {
+      "term": "eligible patient",
+      "definition": "“eligible patient” means a person who is eligible to make an application under section 15;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Medifund",
+      "definition": "“Medifund” means the Medical Endowment Fund established under the repealed Medical Endowment Scheme Act (Cap. 173A, 1994 Revised Edition) and reconstituted under this Act;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Medifund Account",
+      "definition": "“Medifund Account” means the account, mentioned in section 10, of a Medifund committee;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Medifund committee",
+      "definition": "“Medifund committee” means any committee appointed under section 14;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "organisation",
+      "definition": "“organisation” means a society, body or group of persons, whether corporate or unincorporated;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "personal care",
+      "definition": "“personal care” means assistance of a personal nature given to help a person who, by reason of any sickness, disability or injury, is unable on his or her own to attend to his or her daily needs or carry out his or her daily routine;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "recurrent costs",
+      "definition": "“recurrent costs” , in relation to the provision of any step‑down care, means all costs incurred or to be incurred by the provider in relation to its ongoing operations in providing such care other than the following costs: ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "step-down care",
+      "definition": "“step-down care” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "step-down care institution",
+      "definition": "“step-down care institution” means any premises used (whether or not exclusively) for the purpose of providing step‑down care;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "subvention",
+      "definition": "“subvention” means a subvention under Part 3 out of the income of the ElderCare Fund.",
+      "source_provision": "s2"
+    }
+  ]
+}

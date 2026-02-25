@@ -1,0 +1,759 @@
+{
+  "id": "rbda-2021",
+  "type": "statute",
+  "title": "Registration of Births and Deaths Act 2021",
+  "title_en": "Registration of Births and Deaths Act 2021",
+  "short_name": "RBDA2021",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/RBDA2021",
+  "description": "An Act to provide for registration of births, deaths and stillbirths, to repeal the Registration of Births and Deaths Act (Chapter 267 of the 1985 Revised Edition) and to make consequential amendments to certain other Acts.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "1",
+      "title": "Short title and commencement",
+      "content": "1. This Act is the Registration of Births and Deaths Act 2021 and comes into operation on a date that the Minister appoints by notification in the Gazette ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. —(1) In this Act, unless the context otherwise requires — “authorised registration officer” means a registration officer authorised by the Registrar‑General to exercise all or any of the powers of an authorised registration officer mentioned in Part 8; “birth” does not include stillbirth; “birth particulars”, for a child, means — ( a ) any particulars relating to the child required by or under this Act for the purposes of birth registration; and [Act 2 of 2024 wef 16/04/2024] ( b ) any other particulars relating to the child that the Registrar‑General specifies on a prescribed website for the purposes of birth registration; “birth registration” means registration of the birth of a child under this Act; “Coroner” has the meaning given by section 2(1) of the Coroners Act 2010; “Coroner’s certificate” means a certificate issued by a Coroner under the Coroners Act 2010 in respect of a death; “death” does not include stillbirth; “death particulars”, for a deceased person, means — ( a ) any particulars relating to the deceased person required by or under this Act for the purposes of death registration, including the cause of death of the deceased person; and ( b ) any other particulars relating to the deceased person that the Registrar‑General specifies on a prescribed website for the purposes of death registration; “death registration” means registration of a death under this Act; “forensic pathologist” has the meaning given by section 2(1) of the Coroners Act 2010; “information” includes documents; “legal guardian”, for a child or minor, means a person who is lawfully appointed by deed or will or by the order of a competent court to be the guardian of the child or minor; “limited liability partnership” has the meaning given by the Limited Liability Partnerships Act 2005; “master” means — ( a ) for an aircraft — the captain of the aircraft; ( b ) for a train — the driver, or any person having for the time being control or charge, of the train; and ( c ) for a vessel — any person (except a pilot or harbour master) having for the time being control or charge of the vessel; “medical practitioner” means a registered medical practitioner under the Medical Registration Act 1997 who holds a valid practising certificate granted under that Act; “minor” means a person who is below 21 years of age; “occupier”, for any premises, means a person in occupation of, or having control or charge of, or managing, the premises (either on the person’s own account or as an agent of another person); “pathologist” has the meaning given by section 2(1) of the Coroners Act 2010; “permitted character”, for a name, means a character that the Registrar-General specifies by notification in the Gazette ; [Act 2 of 2024 wef 16/04/2024] “protector” has the meaning given by section 2(1) of the Children and Young Persons Act 1993; “register” means the register of births, register of deaths or register of stillbirths; “registered event” means any birth, death or stillbirth that is registered under this Act; “registrable event” means any birth, death or stillbirth that is required to be, or may be, registered under this Act; “Registrar‑General” means the Registrar‑General of Births and Deaths appointed under section 3(1); “registration officer” means a person appointed as a registration officer under section 5(1); “repealed Act” means the Registration of Births and Deaths Act (Cap. 267) that is repealed by section 62; “reportable death” has the meaning given by section 2(1) of the Coroners Act 2010; “stillbirth” means the birth of a stillborn child; “stillbirth particulars”, for a stillborn child, means — ( a ) any particulars relating to the stillborn child required by or under this Act for the purposes of stillbirth registration, including the cause of death of the stillborn child; and ( b ) any other particulars relating to the stillborn child that the Registrar‑General specifies on a prescribed website for the purposes of stillbirth registration; “stillbirth registration” means registration of a stillbirth under this Act; “stillborn child” means a child that — ( a ) issues from the child’s mother after the twenty-fourth week of pregnancy; and ( b ) does not show any sign of life at any time after being completely expelled or extracted from the mother, and, to avoid doubt, does not include a foetus that is aborted by or through treatment carried out for termination of pregnancy. [Act 2 of 2024 wef 16/04/2024] (2) The Registrar‑General may specify — ( a ) different birth particulars under paragraph ( b ) of the definition of “birth particulars” in subsection (1) for children in different circumstances; ( b ) different death particulars under paragraph ( b ) of the definition of “death particulars” in subsection (1) for deceased persons in different circumstances; and ( c ) different stillbirth particulars under paragraph ( b ) of the definition of “stillbirth particulars” in subsection (1) for stillborn children in different circumstances. (3) In this Act, unless the context otherwise requires, a reference to — ( a ) registration of a birth includes a reference to re‑registration of a birth; ( b ) a birth registered under this Act includes a reference to — (i) a birth registered under the repealed Act; or (ii) a birth registered or re‑registered under the Adoption of Children Act 1939, or a birth re‑registered under the Legitimacy Act 1934; ( c ) a death registered under this Act includes a reference to a death registered under the repealed Act; ( d ) a stillbirth registered under this Act includes a reference to a stillbirth registered under the repealed Act; ( e ) a registered event includes a reference to — (i) a birth, death or stillbirth registered under the repealed Act; or (ii) a birth registered or re‑registered under the Adoption of Children Act 1939, or a birth re‑registered under the Legitimacy Act 1934; ( f ) a certificate issued under this Act includes a reference to a replacement certificate issued under this Act, a certificate issued under the repealed Act or an equivalent document issued under the Adoption of Children Act 1939; ( g ) an extract issued under this Act includes a reference to an extract issued under the repealed Act or an equivalent document issued under the Adoption of Children Act 1939; ( h ) a country or territory includes a reference to the territorial waters of that country or territory; and ( i ) any premises includes a reference to a part of those premises. (4) In this Act — “Adoption of Children Act 1939” includes the Adoption of Children Act (Cap. 4, 2012 Ed.) until it is revised and citable by the short title “Adoption of Children Act 1939”; “Children and Young Persons Act 1993” includes the Children and Young Persons Act (Cap. 38, 2001 Ed.) until it is revised and citable by the short title “Children and Young Persons Act 1993”; “Coroners Act 2010” includes the Coroners Act (Cap. 63A, 2012 Ed.) until it is revised and citable by the short title “Coroners Act 2010”; “Criminal Procedure Code 2010” includes the Criminal Procedure Code (Cap. 68, 2012 Ed.) until it is revised and citable by the short title “Criminal Procedure Code 2010”; “Evidence Act 1893” includes the Evidence Act (Cap. 97, 1997 Ed.) until it is revised and citable by the short title “Evidence Act 1893”; “Financial Procedure Act 1966” includes the Financial Procedure Act (Cap. 109, 2012 Ed.) until it is revised and citable by the short title “Financial Procedure Act 1966”; “Infectious Diseases Act 1976” includes the Infectious Diseases Act (Cap. 137, 2003 Ed.) until it is revised and citable by the short title “Infectious Diseases Act 1976”; “Legitimacy Act 1934” includes the Legitimacy Act (Cap. 162, 1985 Ed.) until it is revised and citable by the short title “Legitimacy Act 1934”; “Limited Liability Partnerships Act 2005” includes the Limited Liability Partnerships Act (Cap. 163A, 2006 Ed.) until it is revised and citable by the short title “Limited Liability Partnerships Act 2005”; “Medical Registration Act 1997” includes the Medical Registration Act (Cap. 174, 2014 Ed.) until it is revised and citable by the short title “Medical Registration Act 1997”; “Merchant Shipping Act 1995” includes the Merchant Shipping Act (Cap. 179, 1996 Ed.) until it is revised and citable by the short title “Merchant Shipping Act 1995”; “National Registration Act 1965” includes the National Registration Act (Cap. 201, 1992 Ed.) until it is revised and citable by the short title “National Registration Act 1965”; “Penal Code 1871” includes the Penal Code (Cap. 224, 2008 Ed.) until it is revised and citable by the short title “Penal Code 1871”; “Status of Children (Assisted Reproduction Technology) Act 2013” includes the Status of Children (Assisted Reproduction Technology) Act (Cap. 317A, 2015 Ed.) until it is revised and citable by the short title “Status of Children (Assisted Reproduction Technology) Act 2013”."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART 2 - ADMINISTRATION",
+      "section": "3",
+      "title": "Registrar‑General of Births and Deaths",
+      "content": "3. —(1) The Minister must appoint, from among public officers, a Registrar‑General of Births and Deaths. (2) The Registrar‑General is responsible for the administration of this Act. (3) The Minister may give the Registrar‑General directions of a general character, and not inconsistent with the provisions of this Act, as to the performance of the functions and the exercise of the powers of the Registrar‑General under this Act or any other written law; and the Registrar‑General must give effect to such directions."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART 2 - ADMINISTRATION",
+      "section": "4",
+      "title": "Registrars, deputies and assistants",
+      "content": "4. —(1) The Registrar‑General may appoint, by name or office, any number of public officers to be Registrars, Supervising Deputy Registrars and Assistant Registrars as the Registrar‑General considers necessary for the purposes of this Act. (2) A Registrar, a Supervising Deputy Registrar or an Assistant Registrar may perform the functions and exercise the powers of the Registrar‑General under this Act (except the power of delegation conferred by section 6(1)) and any other written law, subject to any condition or restriction the Registrar‑General specifies. (3) An appointment under subsection (1), and any condition or restriction specified under subsection (2), must be in writing. (4) Subject to any condition or restriction specified under subsection (2), a reference to the Registrar‑General in this Act or any other written law includes a reference to a Registrar, a Supervising Deputy Registrar or an Assistant Registrar mentioned in that subsection."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART 2 - ADMINISTRATION",
+      "section": "5",
+      "title": "Registration officers",
+      "content": "5. —(1) The Registrar‑General may, for the purposes of this Act, appoint, by name or office, any of the following persons to be a registration officer, subject to any condition or restriction the Registrar‑General specifies: ( a ) a public officer; ( b ) an officer of a statutory body; ( c ) an employee of a prescribed institution. (2) An appointment under subsection (1) (including any condition or restriction specified under that subsection) must be in writing. (3) Without affecting sections 20 and 21 of the Public Sector (Governance) Act 2018, a registration officer — ( a ) is taken to be a public servant for the purposes of the Penal Code 1871 when performing a function or exercising a power of the Registrar‑General; and ( b ) is, in relation to the registration officer’s administration, collection or enforcement of payment of any fee, charge or composition sum under this Act or any other written law, taken to be a public officer for the purposes of the Financial Procedure Act 1966; and section 20 of that Act applies to the registration officer even though the registration officer is not or was not in the employment of the Government. (4) In subsection (1)( c ), “prescribed institution” means an institution prescribed by the Minister by order in the Gazette ."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART 2 - ADMINISTRATION",
+      "section": "6",
+      "title": "Delegation to registration officers",
+      "content": "6. —(1) The Registrar‑General may delegate any function or power of the Registrar‑General under this Act (except the power of delegation conferred by this subsection) or any other written law to a registration officer or class of registration officers, subject to any condition or restriction the Registrar‑General specifies. (2) A delegation under subsection (1) (including any condition or restriction specified under that subsection) must be in writing. (3) A delegation under subsection (1) does not prevent or affect the performance of any function or the exercise of any power by the Registrar‑General under this Act or any other written law. (4) Where any function or power of the Registrar‑General under this Act or any other written law is delegated under subsection (1) to a registration officer (whether specifically or as a member of a class of registration officers), a reference to the Registrar‑General in this Act or that other written law in relation to that function or power includes (subject to any condition or restriction specified under that subsection) a reference to that registration officer. (5) The Registrar‑General may also designate any appropriate registration officer as a chief registration officer, and require the chief registration officer to — ( a ) ensure that adequate systems, processes and facilities are implemented or provided to enable another registration officer or a class of registration officers (under the direct or indirect supervision of the chief registration officer) to perform any function or exercise any power delegated to that other registration officer or class of registration officers under subsection (1); and ( b ) perform related administrative duties."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART 3 - BIRTHS",
+      "section": "7",
+      "title": "Report of birth in Singapore",
+      "content": "7. —(1) The birth of every child born in Singapore must be reported in accordance with this section. (2) The following persons are responsible for reporting the birth of a child in Singapore: ( a ) where the child is born in a hospital — every medical practitioner who attends to the birth, and the hospital (or the person having general management and control of the hospital); ( b ) where the child is born outside a hospital and is brought to a hospital within 24 hours after the child’s birth — every medical practitioner who attends to the child at the hospital, and the hospital (or the person having general management and control of the hospital); ( c ) where the child is born in any premises (other than in a hospital) — the child’s parents, and every occupier of the premises who knows of the child’s birth in the premises; ( d ) where the child is born in an aircraft, a vessel or a train (called in this section the conveyance) while the conveyance is in Singapore — the child’s parents, and the master of the conveyance; ( e ) where the child is born in any other place — the child’s parents. (3) To avoid doubt, a person mentioned in subsection (2)( c ), ( d ) or ( e ) continues to be responsible for reporting the birth of a child despite that the child is brought to a hospital within 24 hours after the child’s birth. (4) A person responsible under subsection (2) for reporting the birth of a child (called in this section the responsible person) must report the child’s birth to the Registrar‑General as soon as practicable after the child’s birth. (5) Where there is more than one responsible person in respect of a birth and any of the responsible persons complies with subsection (4) in respect of the birth, the duty of every other responsible person under that subsection in respect of the birth is discharged by that compliance. (6) A person who, without reasonable excuse, contravenes subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding one month or to both."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART 3 - BIRTHS",
+      "section": "8",
+      "title": "Responsibility to provide birth particulars",
+      "content": "8. —(1) A responsible person for a child born in Singapore must provide to the Registrar‑General — ( a ) the birth particulars for the child, within 42 days after the child’s birth; and ( b ) any information or evidence the Registrar‑General requires that supports, or verifies the accuracy of, the birth particulars for the child, within the time the Registrar‑General requires. (1A) If the Registrar-General registers a child’s birth under section 9(2) — ( a ) where the child’s birth is registered without a name for the child — the duty of a responsible person for the child under subsection (1)( a ) to provide the child’s name continues despite the registration until the end of 7 years after the child’s birth; ( b ) where the child’s birth is registered without any other birth particular — the duty of a responsible person for the child under subsection (1)( a ) to provide that birth particular continues despite the registration until that birth particular is provided to the Registrar-General; and ( c ) the registration does not affect the liability of a responsible person for the child for an offence under subsection (4). [Act 2 of 2024 wef 16/04/2024] (2) Subsection (1) does not apply in the case of a child who dies within 42 days after the child’s birth. (3) Where there is more than one responsible person for the child and any of the responsible persons complies with subsection (1)( a ) or ( b ) in respect of the child, the duty of every other responsible person under that provision in respect of the child is discharged by that compliance. [Act 2 of 2024 wef 16/04/2024] (4) A person who, without reasonable excuse, contravenes subsection (1)( a ) or ( b ) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding one month or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part of a day during which the offence continues after conviction. [Act 2 of 2024 wef 16/04/2024] (5) In this section, “responsible person”, for a child, means the following: ( a ) every parent of the child; ( b ) where the child has a legal guardian, the legal guardian; ( c ) where the child is the subject of an order under section 49(1)( b ) or 49B(2), or section 49C (read with section 49B), of the Children and Young Persons Act 1993, and an additional order is made under section 49A(4) or 49D(2) (as the case may be) of that Act that enables the Director‑General of Social Welfare or a protector to make a decision relating to the child’s name — the Director‑General of Social Welfare or the protector, as the case may be."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART 3 - BIRTHS",
+      "section": "9",
+      "title": "Registration of birth in Singapore",
+      "content": "9. —(1) The Registrar‑General must register the birth of a child born in Singapore, as soon as practicable after receiving the child’s birth particulars (whether from a responsible person mentioned in section 8(1) or any other person). [Act 2 of 2024 wef 16/04/2024] (2) The Registrar-General may (at any time during or after the period mentioned in section 8(1)( a )) register a child’s birth despite receiving incomplete birth particulars for the child, if the Registrar-General — ( a ) is satisfied that the child is born in Singapore; and ( b ) is of the opinion that the child’s birth is capable of being registered based on the birth particulars available to the Registrar-General at that time. [Act 2 of 2024 wef 16/04/2024] (3) Where the Registrar‑General registers a child’s birth under subsection (2) without a name for the child, the Registrar‑General may enter an identifier for the child (in the form the Registrar‑General thinks fit) in the register of births. (4) [ Deleted by Act 2 of 2024 wef 16/04/2024 ] Division 2 &#x2014; Birth in conveyance bound for Singapore"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART 3 - BIRTHS",
+      "section": "10",
+      "title": "Report of birth in aircraft, vessel or train bound for Singapore",
+      "content": "10. —(1) The birth of every child born in an aircraft, a vessel or a train (called in this section the conveyance) outside, but bound for, Singapore must be reported in accordance with this section if — ( a ) the birth occurs — (i) in the case of an aircraft — during the flight of the aircraft to an airport or any other place in Singapore; (ii) in the case of a vessel — during the voyage of the vessel to a port or any other place in Singapore; or (iii) in the case of a train — during the passage of the train to a station or any other place in Singapore; and ( b ) the child (or where the child dies before arriving in Singapore, the child’s body) arrives in Singapore, and the child (or the child’s body, as the case may be) was not taken to any foreign country or territory during the period between the time of the child’s birth and the arrival of the child (or the child’s body, as the case may be) in Singapore. (2) The following persons are responsible for reporting the birth of a child mentioned in subsection (1): ( a ) in every case — the master of the conveyance in which the child (or the child’s body, as the case may be) arrives in Singapore, and every parent of the child who arrives in Singapore with the child (or the child’s body, as the case may be) in the conveyance; ( b ) in the case where the child is brought to a hospital in Singapore within 24 hours after the child’s birth — every medical practitioner who attends to the child at the hospital, and the hospital (or the person having general management and control of the hospital). (3) To avoid doubt, a person mentioned in subsection (2)( a ) continues to be responsible for reporting the birth of a child despite that the child is brought to a hospital within 24 hours after the child’s birth. (4) A person responsible under subsection (2) for reporting the birth of a child (called in this section the responsible person) must report the child’s birth to the Registrar‑General as soon as practicable after the child (or the child’s body, as the case may be) arrives in Singapore. (5) Where there is more than one responsible person in respect of a birth and any of the responsible persons complies with subsection (4) in respect of the birth, the duty of every other responsible person under that subsection in respect of the birth is discharged by that compliance. (6) A person who, without reasonable excuse, contravenes subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding one month or to both."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART 3 - BIRTHS",
+      "section": "11",
+      "title": "Application of sections 12 and 13",
+      "content": "11. Sections 12 and 13 apply to a child whose birth is required to be and is reported to the Registrar‑General under section 10."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART 3 - BIRTHS",
+      "section": "12",
+      "title": "Application for registration of birth mentioned in section 11",
+      "content": "12. —(1) A responsible person for a child mentioned in section 11 may apply to the Registrar‑General for the child’s birth to be registered. (2) The application by the responsible person (called in this section the applicant) under subsection (1) — ( a ) must be made within 42 days after the child’s birth; and ( b ) must contain the birth particulars for the child. (3) The applicant must also provide to the Registrar‑General any information or evidence the Registrar‑General requires that supports the application, or verifies the accuracy of the matters contained in or accompanying the application, within the time the Registrar‑General requires. (4) In this section, “responsible person”, for a child mentioned in section 11, has the meaning given by section 8(5)."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART 3 - BIRTHS",
+      "section": "13",
+      "title": "Registration of birth mentioned in section 11",
+      "content": "13. —(1) The Registrar‑General may, on an application made under section 12, register the birth of a child mentioned in section 11 if — ( a ) the Registrar‑General is satisfied that the applicant mentioned in section 12 has complied with the requirements relating to the application; ( b ) there is no uncertainty or dispute as to the birth particulars for the child or registration of the birth in Singapore; ( c ) the name provided by the applicant for the child complies with section 19(1), and the Registrar‑General does not refuse the name under section 19(2); ( d ) the Registrar‑General is satisfied that the child’s birth is not registered under any corresponding law of a foreign country or territory; and ( e ) the child is in Singapore at the time of registration. (2) Despite subsection (1) and section 12, the Registrar‑General may, on the Registrar‑General’s own volition, register the birth of a child mentioned in section 11, at any time during or after the period mentioned in section 12(2)( a ), if the Registrar‑General — ( a ) is satisfied that the child’s birth is not registered under any corresponding law of a foreign country or territory; [Act 2 of 2024 wef 16/04/2024] ( b ) is of the opinion that registration of the child’s birth is necessary — (i) where the child is in Singapore — in the interest of the child; or (ii) where the child is deceased — to facilitate registration of the child’s death under Part 4 (where applicable); and [Act 2 of 2024 wef 16/04/2024] ( c ) where the birth particulars for the child are incomplete — is of the opinion that the child’s birth is capable of being registered based on the birth particulars available to the Registrar-General at that time. [Act 2 of 2024 wef 16/04/2024] (3) Where the Registrar‑General registers a child’s birth under subsection (2) without a name for the child, the Registrar‑General may enter an identifier for the child (in the form the Registrar‑General thinks fit) in the register of births. Division 3 &#x2014; Registration of birth in other cases\nand related matters"
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART 3 - BIRTHS",
+      "section": "14",
+      "title": "Registration or re‑registration of birth of adopted child",
+      "content": "14. —(1) Subject to subsection (3), if an adoption order is made by a court in respect of a child under the Adoption of Children Act 2022 or any corresponding previous written law, the Registrar‑General must, as soon as practicable after receiving (from the Registrar of the court) a copy of the adoption order and the particulars mentioned in section 44(1) of the Adoption of Children Act 2022 — ( a ) in the case where the birth of the adopted child has not been registered under this Act — register the birth of the adopted child; or [Act 2 of 2024 wef 16/04/2024] ( b ) in the case where the birth of the adopted child has been registered under this Act — indicate on the record of such registration in the register of births that the child is adopted, and re‑register the birth of the child. [Act 2 of 2024 wef 16/04/2024] [Act 20 of 2022 wef 15/10/2024] (2) The particulars to be entered in the register for registration or re‑registration (as the case may be) of the birth of an adopted child under subsection (1) include the following: ( a ) subject to subsection (3), the name conferred by the adoption order for the child must be entered in the register as the child’s name; [Act 2 of 2024 wef 16/04/2024] ( b ) the particulars of the adopting parent or parents mentioned in the adoption order must be entered in the register as the particulars of the child’s parent or parents, as the case may be. (3) If the name of an adopted child, as conferred by the adoption order, does not comply with section 19(1), or is refused by the Registrar-General under section 19(2), the Registrar-General may — ( a ) withhold registration or re-registration (as the case may be) of the child’s birth under subsection (1) until the adoption order is amended to confer a name for the child that complies with section 19(1) and is not refused by the Registrar General under section 19(2); or ( b ) register or re-register (as the case may be) the child’s birth under subsection (1) without a name for the child. [Act 2 of 2024 wef 16/04/2024] (4) If the Registrar-General registers or re-registers a child’s birth under subsection (1) without a name for the child, the Registrar-General may enter an identifier for the child (in the form the Registrar-General thinks fit) in the register of births. [Act 2 of 2024 wef 16/04/2024]"
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART 3 - BIRTHS",
+      "section": "15",
+      "title": "Re‑registration of birth of person legitimated by Legitimacy Act 1934",
+      "content": "15. —(1) This section applies to a person (called in this section the subject person) — ( a ) whose birth is registered under section 9 or 13 (or section 9, 17 or 23 of the repealed Act); and ( b ) who is legitimated by the Legitimacy Act 1934, on the marriage of the subject person’s parents, after the birth registration. (2) An application may be made to the Registrar‑General for re‑registration of the subject person’s birth by any of the following persons (called in this section the applicant): ( a ) where the subject person is a minor — a parent of the subject person; ( b ) where the subject person is not a minor — (i) the subject person; or (ii) a parent of the subject person, with the consent of the subject person. (3) The application under subsection (2) may include a change of name for the subject person, but only to the extent of altering the subject person’s name entered in the register of births to reflect the paternity of the subject person. (4) The applicant must also provide to the Registrar‑General any information or evidence the Registrar‑General requires that supports the application, or verifies the accuracy of the matters contained in or accompanying the application, within the time the Registrar‑General requires. (5) The Registrar‑General may re‑register the birth of the subject person if — ( a ) the Registrar‑General is satisfied that — (i) the applicant has complied with the requirements relating to the application; and (ii) the subject person is legitimated by the Legitimacy Act 1934; and ( b ) where the application includes a change of name for the subject person — (i) the new name complies with the requirements of subsection (3), and with section 19(1); and (ii) the Registrar‑General does not refuse the new name under section 19(2). (6) This section does not affect the legitimation of a person by the Legitimacy Act 1934."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART 3 - BIRTHS",
+      "section": "16",
+      "title": "Birth registration and Status of Children (Assisted Reproduction Technology) Act 2013",
+      "content": "16. —(1) If the Registrar‑General is informed at or before registration of a child’s birth under section 9 or 13 that the Status of Children (Assisted Reproduction Technology) Act 2013 applies to the child, the particulars of the child’s parents to be entered in the register of births for registration of the child’s birth must be — ( a ) in the case where a court order is made under that Act declaring or determining the child’s parenthood — in accordance with the court order; or ( b ) in any other case — subject to subsection (2), in accordance with that Act. (2) Subsection (1)( b ) does not apply if the Registrar‑General — ( a ) is not satisfied as to the parenthood of the child under the Status of Children (Assisted Reproduction Technology) Act 2013; or ( b ) is informed of any dispute as to the parenthood of the child under that Act. (3) If subsection (2)( a ) or ( b ) applies in respect of the child, the Registrar-General may — ( a ) in the case of registration under section 9 or 13(2) — register the child’s birth under section 9(2) or 13(2) (as the case may be) without entering the particulars of either or both of the parents in the register; or ( b ) in the case of registration being considered under section 13(1) — refuse to register the child’s birth under that provision. [Act 2 of 2024 wef 16/04/2024] (4) This section does not affect the parenthood of a person under the Status of Children (Assisted Reproduction Technology) Act 2013."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART 3 - BIRTHS",
+      "section": "17",
+      "title": "Re‑registration of birth in relation to Status of Children (Assisted Reproduction Technology) Act 2013",
+      "content": "17. —(1) This section applies to a person (called in this section the subject person) — ( a ) to whom the Status of Children (Assisted Reproduction Technology) Act 2013 applies; and ( b ) whose birth is registered under section 9 or 13 (or section 9, 17 or 23 of the repealed Act) — (i) without the Registrar‑General being informed of the application of the Status of Children (Assisted Reproduction Technology) Act 2013 to the subject person; or (ii) without entering the particulars of either or both of the subject person’s parents in the register of births due to the application of section 16(2)( a ) or ( b ) at the time of the birth registration. (2) An application may be made to the Registrar‑General for re‑registration of the subject person’s birth by any of the following persons (called in this section the applicant): ( a ) a person who is a parent, or claiming to be a parent, of the subject person; ( b ) where the subject person is a minor and has a legal guardian — the legal guardian; ( c ) where the subject person is not a minor — the subject person; ( d ) where a court order is made under the Status of Children (Assisted Reproduction Technology) Act 2013 declaring or determining the subject person’s parenthood — the person who applied for the court order. (3) The application under subsection (2) may include a change of name for the subject person, but only to the extent of altering the subject person’s name entered in the register of births to reflect the parenthood of the subject person. (4) The applicant must also provide to the Registrar‑General any information or evidence the Registrar‑General requires that supports the application, or verifies the accuracy of the matters contained in or accompanying the application, within the time the Registrar‑General requires. (5) Where a court order is made under the Status of Children (Assisted Reproduction Technology) Act 2013 declaring or determining the subject person’s parenthood, the Registrar‑General may re‑register the subject person’s birth in accordance with the court order if — ( a ) the Registrar‑General is satisfied that the applicant has complied with the requirements relating to the application; and ( b ) where the application includes a change of name for the subject person — (i) the new name complies with the requirements of subsection (3), and with section 19(1); (ii) the Registrar‑General does not refuse the new name under section 19(2); and (iii) where the subject person is not a minor and is not the applicant — the subject person consents to the new name. (6) Where there is no court order declaring or determining the subject person’s parenthood under the Status of Children (Assisted Reproduction Technology) Act 2013, the Registrar‑General may re‑register the subject person’s birth in accordance with that Act if — ( a ) the Registrar‑General — (i) is satisfied that the applicant has complied with the requirements relating to the application; (ii) is satisfied as to the parenthood of the subject person under that Act; and (iii) is not informed of any dispute as to the parenthood of the subject person under that Act; and ( b ) where the application includes a change of name for the subject person — (i) the new name complies with the requirements of subsection (3), and with section 19(1); (ii) the Registrar‑General does not refuse the new name under section 19(2); and (iii) where the subject person is not a minor and is not the applicant — the subject person consents to the new name. (7) This section does not affect the parenthood of a person under the Status of Children (Assisted Reproduction Technology) Act 2013."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART 3 - BIRTHS",
+      "section": "18",
+      "title": "Re‑registration of birth of person legitimated by Status of Children (Assisted Reproduction Technology) Act 2013",
+      "content": "18. —(1) This section applies to a person (called in this section the subject person) — ( a ) whose birth is registered under section 9 or 13 (or section 9, 17 or 23 of the repealed Act), or re‑registered under section 17 (or rule 8A or 8B of the Registration of Births and Deaths Rules (Cap. 267, R 1) as in force immediately before the date of commencement of this section), in accordance with the Status of Children (Assisted Reproduction Technology) Act 2013 or an order made under that Act declaring or determining the subject person’s parenthood; and ( b ) who is legitimated by the Status of Children (Assisted Reproduction Technology) Act 2013 after the birth registration or re‑registration. (2) An application may be made to the Registrar‑General for re‑registration of the subject person’s birth by any of the following persons (called in this section the applicant): ( a ) where the subject person is a minor — a parent of the subject person; ( b ) where the subject person is not a minor — (i) the subject person; or (ii) a parent of the subject person, with the consent of the subject person. (3) The application under subsection (2) may include a change of name for the subject person, but only to the extent of altering the subject person’s name entered in the register of births to reflect the paternity of the subject person. (4) The applicant must also provide to the Registrar‑General any information or evidence the Registrar‑General requires that supports the application, or verifies the accuracy of the matters contained in or accompanying the application, within the time the Registrar‑General requires. (5) The Registrar‑General may re‑register the birth of the subject person if — ( a ) the Registrar‑General is satisfied that — (i) the applicant has complied with the requirements relating to the application; and (ii) the subject person is legitimated by the Status of Children (Assisted Reproduction Technology) Act 2013; and ( b ) where the application includes a change of name for the subject person — (i) the new name complies with the requirements of subsection (3), and with section 19(1); and (ii) the Registrar‑General does not refuse the new name under section 19(2). (6) This section does not affect the legitimation of a person by the Status of Children (Assisted Reproduction Technology) Act 2013. Division 4 &#x2014; Name in register of births"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART 3 - BIRTHS",
+      "section": "19",
+      "title": "Name in register of births",
+      "content": "19. —(1) The name of a person to be entered in the register of births or, where the person’s name in the register is to be altered, the person’s altered name to be entered in the register — ( a ) must be in a form expressed in characters in the modern English alphabet; ( b ) may include a permitted character; and ( c ) must not exceed the number of characters permitted in the electronic form of the register for the entry of a name. (2) The Registrar‑General may refuse to enter or alter a person’s name in the register if the name or altered name (as the case may be) — ( a ) contains anything that represents or resembles a title, a rank or an award; ( b ) where the name or altered name (as the case may be) adopts a patronymic or matronymic naming system to signify lineage — includes any expression or abbreviation (for the purposes of that naming system) that does not correspond to the child’s sex entered or to be entered in the register; ( c ) is obscene or offensive; or ( d ) is contrary to the public interest. (3) [ Deleted by Act 2 of 2024 wef 16/04/2024 ]"
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART 3 - BIRTHS",
+      "section": "20",
+      "title": "Child’s name omitted during birth registration",
+      "content": "20. —(1) Where a child’s birth is registered without a name, a responsible person for the child may apply to the Registrar‑General for a name to be entered for the child in the register of births. (2) The responsible person (called in this section the applicant) must make the application under subsection (1) within 7 years after the child’s birth. (3) The applicant must also provide to the Registrar‑General any information or evidence the Registrar‑General requires that supports the application, or verifies the accuracy of the matters contained in or accompanying the application, within the time the Registrar‑General requires. (4) The Registrar‑General may enter the child’s name in the register if — ( a ) the Registrar‑General is satisfied that the applicant has complied with the requirements relating to the application; and ( b ) the name provided by the applicant for the child complies with section 19(1), and the Registrar‑General does not refuse the name under section 19(2). (5) In this section, “responsible person”, for a child, has the meaning given by section 8(5)."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART 3 - BIRTHS",
+      "section": "21",
+      "title": "Alteration of child’s name in register of births",
+      "content": "21. —(1) This section applies to a child whose name is entered in the register of births at the time of registration of the child’s birth, but does not affect any application for change of name under section 15(3), 17(3) or 18(3). (2) A responsible person for a child mentioned in subsection (1) may apply to the Registrar‑General to alter the name of the child entered in the register of births. (3) The application by the responsible person (called in this section the applicant) under subsection (2) must be made within one year after the child’s birth. (4) The applicant must also provide to the Registrar‑General any information or evidence the Registrar‑General requires that supports the application, or verifies the accuracy of the matters contained in or accompanying the application, within the time the Registrar‑General requires. (5) The Registrar‑General may alter the child’s name in the register of births if — ( a ) the Registrar‑General is satisfied that the applicant has complied with the requirements relating to the application; ( b ) the altered name provided by the applicant for the child complies with section 19(1), and the Registrar‑General does not refuse the altered name under section 19(2); ( c ) the child’s name entered in the register has not been altered before under this section or section 11(1) of the repealed Act; and ( d ) the child is not deceased. (6) In this section, “responsible person”, for a child, has the meaning given by section 8(5)."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART 4 - DEATHS",
+      "section": "22",
+      "title": "Report of death in Singapore",
+      "content": "22. —(1) The death of every person who dies in Singapore must be reported in accordance with this section if the death is not, or does not appear to be, a reportable death. (2) The following persons are responsible for reporting a death mentioned in subsection (1): ( a ) where the death occurs in a hospital — the hospital (or the person having general management and control of the hospital); ( b ) where the death occurs in any premises (other than in a hospital) — (i) every relative of the deceased person who is present at the death; and (ii) every occupier of the premises who knows of the death in the premises; ( c ) where the death occurs in an aircraft, a vessel or a train (called in this section the conveyance) while the conveyance is in Singapore — (i) every relative of the deceased person who is in the conveyance at the time and knows of the death; and (ii) the master of the conveyance; ( d ) where the death occurs in any other place — (i) every relative of the deceased person who knows of the death; (ii) every person who is present at the death; and (iii) every person who takes charge of the body of the deceased person. (3) A person responsible under subsection (2) for reporting a death mentioned in subsection (1) (called in this section the responsible person) must, as soon as practicable after the death, report the death to a medical practitioner. (4) Where there is more than one responsible person in respect of a death and any of the responsible persons complies with subsection (3) in respect of the death, the duty of every other responsible person under that subsection in respect of the death is discharged by that compliance. (5) A person who, without reasonable excuse, contravenes subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding one month or to both."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "PART 4 - DEATHS",
+      "section": "23",
+      "title": "Duties of medical practitioner who receives report of death under section 22(3)",
+      "content": "23. —(1) A medical practitioner who receives a report of a death under section 22(3) must, as soon as practicable — ( a ) examine the body of the deceased person; and ( b ) ascertain relevant information about the deceased person’s medical history and the circumstances of the death. (2) If the death is not, or does not appear to be, a reportable death, the medical practitioner must provide the cause of death and the other death particulars to the Registrar‑General within 24 hours after complying with subsection (1). (3) A person who, without reasonable excuse, contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "PART 4 - DEATHS",
+      "section": "24",
+      "title": "Registration of death in Singapore",
+      "content": "24. The Registrar‑General must register the death of a person in Singapore, as soon as practicable — ( a ) where section 23(2) applies — after receiving from a medical practitioner mentioned in that provision the cause of death and the other death particulars; ( b ) where a pathologist or forensic pathologist examines the body of the deceased person — after receiving from the pathologist or forensic pathologist (as the case may be) such death particulars as the pathologist or forensic pathologist (as the case may be) is able to ascertain; or ( c ) where a Coroner’s certificate is issued for the death — after receiving the Coroner’s certificate."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "PART 4 - DEATHS",
+      "section": "25",
+      "title": "Registration of reportable death in Singapore without Coroner’s certificate",
+      "content": "25. —(1) Where the Registrar‑General is informed that a death has occurred in Singapore but that the body of the deceased person is destroyed, is not recoverable or cannot be located, the Registrar‑General may register the death before a Coroner’s certificate is issued for the death if the Registrar‑General is satisfied, from the information and evidence made available to the Registrar‑General, as to — ( a ) the occurrence of death in Singapore; and ( b ) the identity of the deceased person. (2) Where a reportable death in Singapore does not require a Coroner’s certificate under the Coroners Act 2010, the Registrar‑General may register the death if the Registrar‑General is satisfied, from the information and evidence made available to the Registrar‑General, as to — ( a ) the occurrence of death in Singapore; and ( b ) the identity of the deceased person. Division 2 &#x2014; Death outside Singapore"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "PART 4 - DEATHS",
+      "section": "26",
+      "title": "Report of death in aircraft, vessel or train bound for Singapore",
+      "content": "26. —(1) The death of every person who dies in an aircraft, a vessel or a train (called in this section the conveyance) outside, but bound for, Singapore must be reported in accordance with this section if — ( a ) the death occurs — (i) in the case of an aircraft — during the flight of the aircraft to an airport or any other place in Singapore; (ii) in the case of a vessel — during the voyage of the vessel to a port or any other place in Singapore; or (iii) in the case of a train — during the passage of the train to a station or any other place in Singapore; and ( b ) the body of the deceased person arrives in Singapore, and was not taken to any foreign country or territory during the period between the time of the death and the arrival of the body in Singapore. (2) The following persons are responsible for reporting a death mentioned in subsection (1): ( a ) the master of the conveyance in which the body of the deceased person arrives in Singapore; ( b ) every relative of the deceased person who knows of the death and arrives in Singapore with the body of the deceased person in the conveyance mentioned in paragraph ( a ). (3) A person responsible under subsection (2) for reporting a death (called in this section the responsible person) must report the death to the police as soon as practicable after the body of the deceased person arrives in Singapore. (4) Where there is more than one responsible person in respect of a death and any of the responsible persons complies with subsection (3) in respect of the death, the duty of every other responsible person under that subsection in respect of the death is discharged by that compliance. (5) A person who, without reasonable excuse, contravenes subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding one month or to both."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "PART 4 - DEATHS",
+      "section": "27",
+      "title": "Registration of death in conveyance reported under section 26",
+      "content": "27. —(1) A relative of a deceased person whose death is required to be and is reported under section 26 may apply to the Registrar‑General for the death to be registered. (2) The application by the relative (called in this section the applicant) under subsection (1) must — ( a ) be made within 3 months after the death; ( b ) be accompanied by a document issued by a medical practitioner (including a pathologist) in Singapore certifying the cause of death; and ( c ) contain the other death particulars for the deceased person. (3) The applicant must also provide to the Registrar‑General any information or evidence the Registrar‑General requires that supports the application, or verifies the accuracy of the matters contained in or accompanying the application, within the time the Registrar‑General requires. (4) The Registrar‑General may register the death if the Registrar‑General is satisfied that — ( a ) the applicant has complied with the requirements relating to the application; ( b ) there is no uncertainty or dispute as to the death particulars or registration of the death in Singapore; and ( c ) the death is not registered under any corresponding law of a foreign country or territory."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "PART 4 - DEATHS",
+      "section": "28",
+      "title": "Registration of death of Singapore citizen or permanent resident outside Singapore",
+      "content": "28. —(1) Where a Singapore citizen or permanent resident dies outside Singapore and the body of the deceased person is brought to Singapore, a relative of the deceased person may apply to the Registrar‑General for the death to be registered. (2) The application by the relative (called in this section the applicant) under subsection (1) must — ( a ) be made within 3 months after the death; ( b ) be accompanied by a document issued by a medical practitioner (including a pathologist), whether in Singapore or elsewhere, certifying the cause of death; and ( c ) contain the other death particulars for the deceased person. (3) The applicant must also provide to the Registrar‑General any information or evidence the Registrar‑General requires that supports the application, or verifies the accuracy of the matters contained in or accompanying the application, within the time the Registrar‑General requires. (4) The Registrar‑General may register the death if the Registrar‑General is satisfied that — ( a ) the applicant has complied with the requirements relating to the application; ( b ) there is no uncertainty or dispute as to the death particulars or registration of the death in Singapore; and ( c ) the death is not registered under any corresponding law of a foreign country or territory. (5) This section does not apply to a death that is required to be reported under section 26. (6) In subsection (2)( b ), “medical practitioner” includes any person who is authorised to practise as a medical practitioner in a foreign country or territory under the law of that country or territory."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "PART 4 - DEATHS",
+      "section": "29",
+      "title": "Registration of death under Coroner’s certificate",
+      "content": "29. If a Coroner’s certificate is issued for a death that occurs outside Singapore (including a death mentioned in section 26 or 28), the Registrar‑General must register the death as soon as practicable after receiving the Coroner’s certificate. Division 3 &#x2014; Related matters"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "PART 4 - DEATHS",
+      "section": "30",
+      "title": "Coroner’s certificate issued after death registration",
+      "content": "30. If the Registrar‑General receives a Coroner’s certificate for a death after the death has been registered, the Registrar‑General must, as soon as practicable after receiving the Coroner’s certificate — ( a ) where the death particulars stated in the Coroner’s certificate are not entered in the register of deaths — enter those death particulars in the register; and ( b ) where the death particulars stated in the Coroner’s certificate differ from the death particulars entered in the register — alter the record of the death in the register in accordance with the Coroner’s certificate."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "PART 4 - DEATHS",
+      "section": "31",
+      "title": "Duty to report death under other written law not affected",
+      "content": "31. This Part does not affect the duty of any person to report a death under any other written law."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "PART 5 - STILLBIRTHS",
+      "section": "32",
+      "title": "Report of stillbirth in Singapore",
+      "content": "32. —(1) The birth of every stillborn child in Singapore must be reported in accordance with this section. (2) The following persons are responsible for reporting the birth of a stillborn child in Singapore: ( a ) where the stillbirth occurs in a hospital — the hospital (or the person having general management and control of the hospital); ( b ) where the stillbirth occurs in any premises (other than in a hospital) — (i) every relative of the stillborn child who is present at the stillbirth; and (ii) every occupier of the premises who knows of the stillbirth in the premises; ( c ) where the stillbirth occurs in an aircraft, a vessel or a train (called in this section the conveyance) while the conveyance is in Singapore — (i) every relative of the stillborn child who is in the conveyance at the time and knows of the stillbirth; and (ii) the master of the conveyance; ( d ) where the stillbirth occurs in any other place — (i) every relative of the stillborn child who knows of the stillbirth; (ii) every person who is present at the stillbirth; and (iii) every person who takes charge of the body of the stillborn child. (3) A person responsible under subsection (2) for reporting a stillbirth (called in this section the responsible person) must, as soon as practicable after the stillbirth, report the stillbirth to a medical practitioner. (4) Where there is more than one responsible person in respect of a stillbirth and any of the responsible persons complies with subsection (3) in respect of the stillbirth, the duty of every other responsible person under that subsection in respect of the stillbirth is discharged by that compliance. (5) A person who, without reasonable excuse, contravenes subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding one month or to both."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "PART 5 - STILLBIRTHS",
+      "section": "33",
+      "title": "Duties of medical practitioner who receives report of stillbirth under section 32(3)",
+      "content": "33. —(1) A medical practitioner who receives a report of a stillbirth under section 32(3) must — ( a ) examine the body of the child as soon as practicable to ascertain whether the child was stillborn; and ( b ) where the medical practitioner is satisfied that the child was stillborn, provide the cause of death of the stillborn child and the other stillbirth particulars to the Registrar‑General, within 24 hours after complying with paragraph ( a ). (2) A person who, without reasonable excuse, contravenes subsection (1)( b ) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "PART 5 - STILLBIRTHS",
+      "section": "34",
+      "title": "Registration of stillbirth in Singapore",
+      "content": "34. The Registrar‑General must register the birth of a stillborn child in Singapore, as soon as practicable after receiving the cause of death and the other stillbirth particulars from a medical practitioner under section 33. Division 2 &#x2014; Stillbirth in conveyance bound for Singapore"
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "PART 5 - STILLBIRTHS",
+      "section": "35",
+      "title": "Report of stillbirth in aircraft, vessel or train bound for Singapore",
+      "content": "35. —(1) The birth of every stillborn child in an aircraft, a vessel or a train (called in this section the conveyance) outside, but bound for, Singapore must be reported in accordance with this section if — ( a ) the stillbirth occurs — (i) in the case of an aircraft — during the flight of the aircraft to an airport or any other place in Singapore; (ii) in the case of a vessel — during the voyage of the vessel to a port or any other place in Singapore; or (iii) in the case of a train — during the passage of the train to a station or any other place in Singapore; and ( b ) the body of the stillborn child arrives in Singapore, and was not taken to any foreign country or territory during the period between the time of the stillbirth and the arrival of the body in Singapore. (2) The following persons are responsible for reporting a stillbirth mentioned in subsection (1): ( a ) the master of the conveyance in which the body of the stillborn child arrives in Singapore; ( b ) every relative of the stillborn child who knows of the stillbirth and arrives in Singapore with the body of the stillborn child in the conveyance mentioned in paragraph ( a ). (3) A person responsible under subsection (2) for reporting a stillbirth (called in this section the responsible person) must report the stillbirth to the police as soon as practicable after the body of the stillborn child arrives in Singapore. (4) Where there is more than one responsible person in respect of a stillbirth and any of the responsible persons complies with subsection (3) in respect of the stillbirth, the duty of every other responsible person under that subsection in respect of the stillbirth is discharged by that compliance. (5) A person who, without reasonable excuse, contravenes subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding one month or to both."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "PART 5 - STILLBIRTHS",
+      "section": "36",
+      "title": "Registration of stillbirth in conveyance reported under section 35",
+      "content": "36. —(1) A parent of a stillborn child whose stillbirth is required to be and is reported under section 35 may apply to the Registrar‑General for the stillbirth to be registered. (2) The application by the parent (called in this section the applicant) under subsection (1) must — ( a ) be made within 3 months after the stillbirth; ( b ) be accompanied by a document issued by a medical practitioner in Singapore certifying the cause of death of the stillborn child; and ( c ) contain the other stillbirth particulars for the stillborn child. (3) The applicant must also provide to the Registrar‑General any information or evidence the Registrar‑General requires that supports the application, or verifies the accuracy of the matters contained in or accompanying the application, within the time the Registrar‑General requires. (4) The Registrar‑General may register the stillbirth if the Registrar‑General is satisfied that — ( a ) the applicant has complied with the requirements relating to the application; ( b ) there is no uncertainty or dispute as to the stillbirth particulars or registration of the stillbirth in Singapore; and ( c ) the stillbirth is not registered under any corresponding law of a foreign country or territory."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "PART 6 - REGISTERS AND RELATED MATTERS",
+      "section": "37",
+      "title": "Registers",
+      "content": "37. —(1) The Registrar‑General must provide and maintain, in the form and manner that the Registrar‑General thinks fit, the following registers: ( a ) a register of births; ( b ) a register of deaths; ( c ) a register of stillbirths. (2) The registers are not open to inspection by the public."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "PART 6 - REGISTERS AND RELATED MATTERS",
+      "section": "38",
+      "title": "Alteration of record in register",
+      "content": "38. —(1) Any record of a registered event in a register must not be altered except as authorised by or under this Act. (2) A reference in this section to the alteration of a record of a registered event in a register includes a reference to the recording in the register of the particulars of the registered event that had been omitted from the register at the time of registration of the registered event."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "PART 6 - REGISTERS AND RELATED MATTERS",
+      "section": "39",
+      "title": "Correction of clerical error in record in register",
+      "content": "39. —(1) The Registrar‑General may correct any clerical error in any record in a register that the Registrar‑General discovers or is informed of. (2) A person informing the Registrar‑General of any clerical error in any record in a register must do so in the form and manner that the Registrar‑General requires. (3) The correction of an error under this section may be made in the form and manner that the Registrar‑General thinks fit."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "PART 6 - REGISTERS AND RELATED MATTERS",
+      "section": "40",
+      "title": "Correction of error of fact or substance in record in register",
+      "content": "40. —(1) The Registrar‑General may correct an error of fact or substance in any record in the register of deaths — ( a ) in the case where the death registration is based on death particulars submitted by a medical practitioner under section 23(2) — subject to subsection (2), after receiving from that medical practitioner or any other medical practitioner information (given in the form and manner required by the Registrar‑General) that specifies the death particulars to be corrected in the record; or ( b ) in any case — (i) after receiving a Coroner’s certificate or an amended Coroner’s certificate that contains death particulars that differ from those in the record; or (ii) after receiving a request from any person. (2) Subsection (1)( a ) does not apply to a death if a Coroner’s certificate is issued for the death after the death particulars are submitted by a medical practitioner under section 23(2). (3) The Registrar‑General may correct an error of fact or substance in any record in the register of births or register of stillbirths after receiving a request from any person. (4) A request mentioned in subsection (1)( b )(ii) or (3) must contain and be accompanied by the information and evidence required by the Registrar‑General. (5) A person who makes a request mentioned in subsection (1)( b )(ii) or (3) must also provide to the Registrar‑General any information or evidence the Registrar‑General requires that supports the request, or verifies the accuracy of the matters contained in or accompanying the request, within the time the Registrar‑General requires. (6) Despite subsections (1) and (3), the Registrar‑General may, on the Registrar‑General’s own volition, correct any error of fact or substance in any record in a register that the Registrar‑General discovers or is informed of. (7) The correction of an error under this section may be made in the form and manner that the Registrar‑General thinks fit."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "PART 6 - REGISTERS AND RELATED MATTERS",
+      "section": "41",
+      "title": "Cancellation of registration",
+      "content": "41. The Registrar‑General may cancel the registration of any birth, death or stillbirth if the Registrar‑General is satisfied that the registration has been — ( a ) obtained by means of fraud, false representation or the concealment of any material fact; or ( b ) made by mistake."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "PART 7 - INFORMATION AND RELATED MATTERS",
+      "section": "42",
+      "title": "Power to obtain information",
+      "content": "42. —(1) The Registrar‑General may, by written notice, require any person to provide, within the time specified in the notice, any information that the Registrar‑General requires for the purpose of — ( a ) ascertaining whether a registrable event has occurred, or the particulars of a registrable event or registered event; ( b ) ascertaining whether a provision of this Act or the repealed Act has been complied with; or ( c ) the performance of the Registrar‑General’s functions under this Act or any other written law. (2) A person who is given a written notice under subsection (1) must comply with the notice. (3) A person who, without reasonable excuse, contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding one month or to both."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "PART 7 - INFORMATION AND RELATED MATTERS",
+      "section": "43",
+      "title": "Form and manner of information, etc.",
+      "content": "43. —(1) Any information, report, particulars or evidence required to be provided to the Registrar‑General, and any application or request to be made to the Registrar‑General, by or under any provision of this Act, or any other written law, must be provided or made in the form and manner that the Registrar‑General requires. (2) Without limiting subsection (1), the Registrar‑General may require any thing mentioned in that subsection to be provided or made electronically (including by using any electronic service provided or specified by the Registrar‑General for such purpose)."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "PART 8 - INVESTIGATIONS, GENERAL OFFENCES",
+      "section": "44",
+      "title": "Taking possession of false or invalid documents",
+      "content": "44. The Registrar‑General may take possession of any document that is produced in connection with any of the following if the Registrar‑General reasonably suspects that the document is false or invalid: ( a ) reporting of a birth to the Registrar‑General; ( b ) registration of a birth, death or stillbirth; ( c ) alteration of any particulars recorded, or the recording of any omitted particulars, in a register."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "PART 8 - INVESTIGATIONS, GENERAL OFFENCES",
+      "section": "45",
+      "title": "Powers of search, etc.",
+      "content": "45. —(1) If an authorised registration officer reasonably suspects that any evidence of the commission of an offence under this Act is likely to be found in any premises, or in any vehicle, aircraft, vessel or train (called in this section the conveyance), or on any person, the officer may, without warrant and with such assistance as the officer thinks necessary — ( a ) enter and search the premises; ( b ) stop, board and search the conveyance (whether in a public or private place); or ( c ) stop and search the person (whether in a public or private place), as the case may be. (2) An authorised registration officer exercising any power under subsection (1) may, if the circumstances so warrant and with such assistance as the officer thinks necessary — ( a ) break open any door, window, lock, fastener, compartment, box, container or other thing; or ( b ) remove by force any obstruction to the exercise of that power. (3) An authorised registration officer carrying out a search under subsection (1) may take possession or make copies of any document found during the search that the officer reasonably believes to be connected to the commission of an offence under this Act. (4) A woman must not be searched except by a woman. (5) A person in charge of a conveyance who, without reasonable excuse, does not stop the conveyance when required to do so by an authorised registration officer under subsection (1)( b ) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,500 or to imprisonment for a term not exceeding 3 months or to both."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "PART 8 - INVESTIGATIONS, GENERAL OFFENCES",
+      "section": "46",
+      "title": "Powers of investigation",
+      "content": "46. —(1) For the purpose of investigating any offence or suspected offence under this Act, an authorised registration officer may do all or any of the following: ( a ) require, by written notice, any person, whom the authorised registration officer reasonably believes has any information, in the person’s custody or control, that is relevant to the investigation, to provide that information, within the time and in the manner specified in the notice; ( b ) where the information provided by the person mentioned in paragraph ( a ) is in the form of a document — retain the document or make, or cause to be made, without payment, any copy of or extract from the document; ( c ) require, by written notice, the attendance before the authorised registration officer of any person in Singapore who appears to be acquainted with the facts or circumstances of the matter; ( d ) examine orally any person who appears to be acquainted with the facts or circumstances of the matter — (i) whether before or after that person or anyone else is charged with an offence in connection with the matter; and (ii) whether or not that person is to be called as a witness in any inquiry, trial or other proceedings in connection with the matter. (2) A person examined under subsection (1)( d ) is bound to state truly the facts and circumstances with which the person is acquainted concerning the matter except that the person need not say anything that might expose the person to a criminal charge, penalty or forfeiture. (3) A statement made by a person examined under subsection (1)( d ) must — ( a ) be reduced to writing; ( b ) be read over to the person; ( c ) if the person does not understand English, be interpreted in a language that the person understands; and ( d ) after correction (if necessary), be signed by the person. (4) If any person fails to attend as required by a written notice under subsection (1)( c ), the authorised registration officer may report the failure to a Magistrate who may then issue a warrant ordering the person to comply with the notice. (5) A person who, without reasonable excuse, fails to comply with any written notice under subsection (1)( a ) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,500 or to imprisonment for a term not exceeding 3 months or to both."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "PART 8 - INVESTIGATIONS, GENERAL OFFENCES",
+      "section": "47",
+      "title": "Authorised registration officer to produce evidence of identity and authority",
+      "content": "47. —(1) When exercising any power under this Part, an authorised registration officer must, if so required by any person affected by the exercise of that power, produce to that person evidence of the officer’s identity and authority to exercise that power. (2) Despite anything in or under this Act, it is not an offence for any person to refuse to comply with any request or notice made or given by an authorised registration officer if the officer does not comply with subsection (1)."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "PART 8 - INVESTIGATIONS, GENERAL OFFENCES",
+      "section": "48",
+      "title": "False or misleading statement or information",
+      "content": "48. A person who makes any statement, or provides any information, to the Registrar‑General or an authorised registration officer under this Act, that is false or misleading in a material particular — ( a ) knowing it to be false or misleading in a material particular; or ( b ) being reckless as to whether it is false or misleading in a material particular, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 10 years or to both."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "PART 8 - INVESTIGATIONS, GENERAL OFFENCES",
+      "section": "49",
+      "title": "Offences relating to register",
+      "content": "49. —(1) A person who, without lawful authority — ( a ) makes, alters or deletes, or permits to be made, altered or deleted, any record (or any part of it) in a register; ( b ) obtains, or provides any person, access to a register (or any part of it); or ( c ) interferes with a register (or any part of it), or permits a register (or any part of it) to be interfered with, in any other way, shall be guilty of an offence. (2) A person who wilfully destroys or defaces, or permits to be destroyed or defaced, a register (or any part of it) shall be guilty of an offence. (3) A public officer or registration officer who publishes or communicates to any person any information contained in a register shall be guilty of an offence unless such publication or communication — ( a ) is authorised by or under this Act; ( b ) is in the public interest and authorised by the Registrar‑General; or ( c ) is for the purpose of investigations into an offence under this Act or any other written law, or proceedings in respect of the offence. (4) A person who is guilty of an offence under subsection (1), (2) or (3) shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 10 years or to both."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "PART 8 - INVESTIGATIONS, GENERAL OFFENCES",
+      "section": "50",
+      "title": "Offences relating to certificates or extracts",
+      "content": "50. A person who — ( a ) forges a document, purporting to be a birth certificate, death certificate or stillbirth certificate, or an extract from any record in a register; ( b ) alters, or otherwise tampers with, a birth certificate, death certificate or stillbirth certificate, or an extract from any record in a register; or ( c ) knowingly obtains, possesses or uses a forged, altered or tampered certificate or extract mentioned in paragraph ( a ) or ( b ), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 10 years or to both."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "PART 8 - INVESTIGATIONS, GENERAL OFFENCES",
+      "section": "51",
+      "title": "Obstruction",
+      "content": "51. —(1) A person commits an offence if the person, without reasonable excuse, obstructs or hinders the Registrar‑General or an authorised registration officer in the performance of any function or exercise of any power under this Act or any other written law. (2) A person who is guilty of an offence under subsection (1) shall be liable on conviction to a fine not exceeding $2,500 or to imprisonment for a term not exceeding 3 months or to both."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "PART 8 - INVESTIGATIONS, GENERAL OFFENCES",
+      "section": "52",
+      "title": "Offences by corporations",
+      "content": "52. —(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of a corporation in relation to a particular conduct, evidence that — ( a ) an officer, employee or agent of the corporation engaged in that conduct within the scope of his or her actual or apparent authority; and ( b ) the officer, employee or agent had that state of mind, is evidence that the corporation had that state of mind. (2) Where a corporation commits an offence under this Act, a person — ( a ) who is — (i) an officer of the corporation; or (ii) an individual involved in the management of the corporation and in a position to influence the conduct of the corporation in relation to the commission of the offence; and ( b ) who — (i) consented or connived, or conspired with others, to effect the commission of the offence; (ii) is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the corporation; or (iii) knew or ought reasonably to have known that the offence by the corporation (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence, shall be guilty of that same offence as is the corporation, and shall be liable on conviction to be punished accordingly. (3) A person mentioned in subsection (2) may rely on a defence that would be available to the corporation if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the corporation would bear. (4) To avoid doubt, this section does not affect the application of — ( a ) Chapters 5 and 5A of the Penal Code 1871; or ( b ) the Evidence Act 1893 or any other law or practice regarding the admissibility of evidence. (5) To avoid doubt, subsection (2) does not affect the liability of a corporation for an offence under this Act, and applies whether or not the corporation is convicted of the offence. (6) In this section — “corporation” includes a limited liability partnership; “officer”, in relation to a corporation, means any director, partner, chief executive, manager, secretary or other similar officer of the corporation, and includes — ( a ) any person purporting to act in any such capacity; and ( b ) for a corporation whose affairs are managed by its members, any of those members as if the member were a director of the corporation; “state of mind” of a person includes — ( a ) the knowledge, intention, opinion, belief or purpose of the person; and ( b ) the person’s reasons for the intention, opinion, belief or purpose."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "PART 8 - INVESTIGATIONS, GENERAL OFFENCES",
+      "section": "53",
+      "title": "Offences by unincorporated associations or partnerships",
+      "content": "53. —(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of an unincorporated association or a partnership in relation to a particular conduct, evidence that — ( a ) an employee or agent of the unincorporated association or partnership engaged in that conduct within the scope of his or her actual or apparent authority; and ( b ) the employee or agent had that state of mind, is evidence that the unincorporated association or partnership (as the case may be) had that state of mind. (2) Where an unincorporated association or a partnership commits an offence under this Act, a person — ( a ) who is — (i) an officer of the unincorporated association or a member of its governing body; (ii) a partner in the partnership; or (iii) an individual involved in the management of the unincorporated association or partnership and in a position to influence the conduct of the unincorporated association or partnership in relation to the commission of the offence; and ( b ) who — (i) consented or connived, or conspired with others, to effect the commission of the offence; (ii) is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the unincorporated association or partnership; or (iii) knew or ought reasonably to have known that the offence by the unincorporated association or partnership (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence, shall be guilty of that same offence as is the unincorporated association or partnership (as the case may be), and shall be liable on conviction to be punished accordingly. (3) A person mentioned in subsection (2) may rely on a defence that would be available to the unincorporated association or partnership if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the unincorporated association or partnership would bear. (4) To avoid doubt, this section does not affect the application of — ( a ) Chapters 5 and 5A of the Penal Code 1871; or ( b ) the Evidence Act 1893 or any other law or practice regarding the admissibility of evidence. (5) To avoid doubt, subsection (2) does not affect the liability of an unincorporated association or a partnership for an offence under this Act, and applies whether or not the unincorporated association or partnership is convicted of the offence. (6) In this section — “officer”, in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, and includes — ( a ) any person holding a position analogous to that of president, secretary or member of a committee of the unincorporated association; and ( b ) any person purporting to act in any such capacity; “partner” includes a person purporting to act as a partner; “state of mind” of a person includes — ( a ) the knowledge, intention, opinion, belief or purpose of the person; and ( b ) the person’s reasons for the intention, opinion, belief or purpose."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "PART 8 - INVESTIGATIONS, GENERAL OFFENCES",
+      "section": "54",
+      "title": "Jurisdiction of courts",
+      "content": "54. Despite the Criminal Procedure Code 2010, a District Court or a Magistrate’s Court has jurisdiction to try any offence under this Act and has power to impose the full punishment for any such offence."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "PART 8 - INVESTIGATIONS, GENERAL OFFENCES",
+      "section": "55",
+      "title": "Composition of offences",
+      "content": "55. —(1) The Registrar‑General may compound any offence under this Act that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $500. (2) On payment of the sum of money, no further proceedings are to be taken against that person in respect of the offence."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "PART 9 - MISCELLANEOUS",
+      "section": "56",
+      "title": "Police officer’s functions or powers under other written law",
+      "content": "56. To avoid doubt, this Act does not affect a police officer’s functions or powers under the Criminal Procedure Code 2010 or any other written law."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "PART 9 - MISCELLANEOUS",
+      "section": "57",
+      "title": "Authorisation to provide information, etc., on behalf of person",
+      "content": "57. Any person who is unable, by reason of illness or other sufficient cause, to make a report, or provide any particulars, information or evidence, required by or under this Act may authorise another person to make the report, or provide the particulars, information or evidence, on behalf of the firstmentioned person."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "PART 9 - MISCELLANEOUS",
+      "section": "58",
+      "title": "Payments into Consolidated Fund",
+      "content": "58. All fees, charges and composition sums collected under this Act must be paid into the Consolidated Fund."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "PART 9 - MISCELLANEOUS",
+      "section": "59",
+      "title": "Service of documents",
+      "content": "59. —(1) A document that is permitted or required by this Act to be served on a person may be served as described in this section. (2) A document permitted or required by this Act to be served on an individual may be served — ( a ) by giving it to the individual personally; ( b ) by sending it by prepaid registered post to the address specified by the individual for the service of documents or, if no address is so specified, the individual’s residential address or business address; ( c ) by leaving it at the individual’s residential address with an adult apparently resident there, or at the individual’s business address with an adult apparently employed there; ( d ) by affixing a copy of the document in a conspicuous place at the individual’s residential address or business address; ( e ) by sending it by fax to the fax number last known to the person giving or serving the document as the fax number for the service of documents on the individual; or ( f ) by sending it by email to the individual’s email address. (3) A document permitted or required by this Act to be served on a partnership (other than a limited liability partnership) may be served — ( a ) by giving it to any partner or other similar officer of the partnership; ( b ) by leaving it at, or by sending it by prepaid registered post to, the partnership’s business address; ( c ) by sending it by fax to the fax number used at the partnership’s business address; or ( d ) by sending it by email to the partnership’s email address. (4) A document permitted or required by this Act to be served on a body corporate (including a limited liability partnership) or an unincorporated association may be served — ( a ) by giving it to the secretary or other similar officer of the body corporate or unincorporated association, or the limited liability partnership’s manager; ( b ) by leaving it at, or by sending it by prepaid registered post to, the body corporate’s or unincorporated association’s registered office or principal office in Singapore; ( c ) by sending it by fax to the fax number used at the body corporate’s or unincorporated association’s registered office or principal office in Singapore; or ( d ) by sending it by email to the body corporate’s or unincorporated association’s email address. (5) Service of a document under this section takes effect — ( a ) if the document is sent by fax and a notification of successful transmission is received, on the day of transmission; ( b ) if the document is sent by email, at the time that the email becomes capable of being retrieved by the person; and ( c ) if the document is sent by prepaid registered post, 2 days after the day the document was posted (even if it is returned undelivered). (6) However, service of any document under this Act on a person by email may be effected only with the person’s prior consent to service in that way. (7) This section does not apply to documents to be served in proceedings in court. (8) In this section — “business address” means — ( a ) in the case of an individual, the individual’s usual or last known place of business in Singapore; or ( b ) in the case of a partnership (other than a limited liability partnership), the partnership’s principal or last known place of business in Singapore; “email address” means the last email address given by the addressee concerned to the person giving or serving the document as the email address for the service of documents under this Act; “residential address” means an individual’s usual or last known place of residence in Singapore."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "PART 9 - MISCELLANEOUS",
+      "section": "60",
+      "title": "Exemption",
+      "content": "60. The Minister may, by order in the Gazette , exempt any person or class of persons, or exclude any event or class of events, from all or any of the provisions of this Act, either generally or in a particular case and subject to any condition the Minister specifies."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "PART 9 - MISCELLANEOUS",
+      "section": "61",
+      "title": "Regulations",
+      "content": "61. —(1) The Minister may make regulations necessary or convenient to be prescribed for carrying out or giving effect to this Act. (2) Without limiting subsection (1), the Minister may make regulations for any of the following: ( a ) matters relating to registration of births, deaths and stillbirths, including reporting and registration requirements and procedures, particulars to be recorded in registers, recording of particulars in registers after registration, and alteration of records in registers; ( b ) matters relating to certificates for registered events, including issue, collection, receipt, custody, use, surrender, cancellation and replacement of certificates; ( c ) matters relating to extracts from records in registers, including applications for, and issue, collection, receipt, custody, use and surrender of, extracts; ( d ) in the case of re‑registration of births of adopted children — applications for, and issue, collection, receipt, custody, use and surrender of, extracts from or copies of former records in the register of births superseded by such re‑registration; ( e ) in the case of records in registers containing entries made in a language other than English, or entries made during the Japanese occupation of Singapore — the Registrar‑General’s power to translate or substitute such entries when issuing extracts from or copies of (mentioned in paragraph ( c ) or ( d )) such records; ( f ) appeals that may be made to the Minister (or any other specified person) from specified decisions of the Registrar‑General under this Act, and the powers, practice and procedures in relation to such appeals; ( g ) the fees to be paid in respect of any matter under or in connection with the administration of this Act, and the waiver, reduction or refund of fees charged. (3) Regulations made under this section may provide that a contravention of any provision of the regulations shall be an offence punishable with a fine not exceeding $3,000 or with imprisonment for a term not exceeding 2 years or with both."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "PART 9 - MISCELLANEOUS",
+      "section": "62",
+      "title": "Repeal",
+      "content": "62. The Registration of Births and Deaths Act (Cap. 267) is repealed."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "PART 9 - MISCELLANEOUS",
+      "section": "63",
+      "title": "Saving and transitional provisions",
+      "content": "63. —(1) Subject to the provisions of this Act, this Act extends to and applies in respect of — ( a ) a birth, death or stillbirth that is registered under the repealed Act, as if the birth, death or stillbirth (as the case may be) were registered under this Act; ( b ) a birth that is registered or re‑registered under the Adoption of Children Act 1939, or re‑registered under the Legitimacy Act 1934, as if the birth were registered or re‑registered (as the case may be) under this Act; and ( c ) a birth, death or stillbirth that occurs before the appointed date and is required to be registered under the repealed Act but is not so registered before the appointed date. (2) If the birth of a child in Singapore before the appointed date is not registered under the repealed Act before that date, the child’s birth must be registered under, and in accordance with, this Act, and (to avoid doubt) section 8 applies to a responsible person mentioned in that section for the child. (3) If an adoption order is made for a child under the Adoption of Children Act 1939 before the appointed date, but the child’s birth is not registered or re‑registered (as the case may be) under that Act before that date, the child’s birth must be registered or re‑registered (as the case may be) under, and in accordance with, this Act. (4) Sections 7 and 10 only apply to births that occur on or after the appointed date. (5) If a person dies before the appointed date and the death is required to be registered under the repealed Act but is not so registered before that date — ( a ) in the case where the cause of death is certified by a medical practitioner before that date — the death must be registered under, and in accordance with, the repealed Act as if this Act had not been enacted; or ( b ) in any other case — the death must be registered under, and in accordance with, this Act, and section 23 applies to a medical practitioner who receives a report of the death under the repealed Act as if the report were received under section 22(3). (6) Sections 22 and 26 only apply to deaths that occur on or after the appointed date. (7) Section 28 applies to a death that occurs before, on or after the appointed date. (8) If a child is stillborn in Singapore before the appointed date but the stillbirth is not registered under the repealed Act before that date — ( a ) in the case where a certificate mentioned in section 14 of the repealed Act is issued for the stillbirth before the appointed date by a medical practitioner or a registered midwife mentioned in that section — the stillbirth must be registered under, and in accordance with, the repealed Act as if this Act had not been enacted; or ( b ) in any other case — the stillbirth must be registered under, and in accordance with, this Act, and section 33 applies to a medical practitioner who receives a report of the stillbirth under the repealed Act as if the report were received under section 32(3). (9) Sections 32 and 35 only apply to stillbirths that occur on or after the appointed date. (10) Every register provided under the repealed Act continues under this Act as if the register were provided under this Act. (11) An application made under section 25 of the repealed Act that is pending immediately before the appointed date is to be dealt with under, and in accordance with, the repealed Act as if this Act had not been enacted. (12) An appeal made under section 25 of the repealed Act that is pending immediately before the appointed date is to be dealt with under, and in accordance with, the repealed Act as if this Act had not been enacted. (13) Any written law or document that refers to the repealed Act or a provision of the repealed Act is to be construed, as far as it is necessary to preserve the effect of the written law or document, as referring to or including a reference to this Act or the corresponding provision of this Act, as the case may be. (14) A police officer who is appointed as a deputy registrar under the repealed Act continues in that appointment for the purposes of registration of deaths mentioned in subsection (5)( a ), as if this Act had not been enacted, until the appointment is revoked by the Registrar‑General. (15) For a period of 2 years after the appointed date, the Minister may, by regulations, prescribe any additional provision of a saving or transitional nature consequent on the enactment of any provision of this Act that the Minister considers necessary or expedient. (16) In this section, “appointed date” means the date of commencement of this section."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "PART 10 - CONSEQUENTIAL AMENDMENTS TO OTHER ACTS",
+      "section": "64",
+      "title": "Amendment of Adoption of Children Act 1939",
+      "content": "64. The Adoption of Children Act 1939 is amended — ( a ) by deleting subsection (1) of section 12 and substituting the following subsection: “ (1) If an adoption order is made, the Registrar of the court that makes the adoption order must, as soon as practicable, provide to the Registrar‑General of Births and Deaths a copy of the adoption order and the particulars (as far as they are known to the court) that the Registrar‑General requires for the purposes of registration or re‑registration of the adopted child’s birth under the Registration of Births and Deaths Act 2021. ”; ( b ) by deleting the word “infant’s” in section 12(2)( a ) and substituting the words “adopted child’s”; ( c ) by deleting the word “infant” in section 12(2)( b ) and substituting the words “adopted child”; ( d ) by deleting subsections (3), (4), (5), (6), (7), (8) and (9) of section 12; ( e ) by deleting the section heading of section 12 and substituting the following section heading: “ Matters relating to registration or re‑registration of birth of adopted child ”; and ( f ) by repealing the Schedule."
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "PART 10 - CONSEQUENTIAL AMENDMENTS TO OTHER ACTS",
+      "section": "65",
+      "title": "Amendment of Infectious Diseases Act 1976",
+      "content": "65. Section 46(2) of the Infectious Diseases Act 1976 is amended by deleting the words “Registrar of Births and Deaths” and substituting the words “Registrar‑General of Births and Deaths”."
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "PART 10 - CONSEQUENTIAL AMENDMENTS TO OTHER ACTS",
+      "section": "66",
+      "title": "Amendment of Legitimacy Act 1934",
+      "content": "66. The Legitimacy Act 1934 is amended — ( a ) by deleting subsection (4) of section 3; and ( b ) by repealing the Schedule."
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "PART 10 - CONSEQUENTIAL AMENDMENTS TO OTHER ACTS",
+      "section": "67",
+      "title": "Amendment of Merchant Shipping Act 1995",
+      "content": "67. Section 91 of the Merchant Shipping Act 1995 is amended — ( a ) by deleting the words “Registrar of Births and Deaths” in subsection (2) and substituting the words “Registrar‑General of Births and Deaths”; and ( b ) by deleting subsections (3) and (4)."
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "PART 10 - CONSEQUENTIAL AMENDMENTS TO OTHER ACTS",
+      "section": "68",
+      "title": "Amendment of National Registration Act 1965",
+      "content": "68. The National Registration Act 1965 is amended — ( a ) by deleting the word “gender” in sections 4(2)( a ) and 6A(2)( b ) and substituting in each case the word “sex”; and ( b ) by deleting subsection (3) of section 6A and substituting the following subsection: “ (3) In subsection (1)( b ), “permitted character” has the meaning given by section 19(3) of the Registration of Births and Deaths Act 2021. ”."
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "PART 10 - CONSEQUENTIAL AMENDMENTS TO OTHER ACTS",
+      "section": "69",
+      "title": "Amendment of Status of Children (Assisted Reproduction Technology) Act 2013",
+      "content": "69. Section 12 of the Status of Children (Assisted Reproduction Technology) Act 2013 is repealed."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authorised registration officer",
+      "definition": "“authorised registration officer” means a registration officer authorised by the Registrar‑General to exercise all or any of the powers of an authorised registration officer mentioned in Part 8;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "birth",
+      "definition": "“birth” does not include stillbirth;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "birth particulars",
+      "definition": "“birth particulars” , for a child, means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "birth registration",
+      "definition": "“birth registration” means registration of the birth of a child under this Act;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Coroner",
+      "definition": "“Coroner” has the meaning given by section 2(1) of the Coroners Act 2010;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Coroner’s certificate",
+      "definition": "“Coroner’s certificate” means a certificate issued by a Coroner under the Coroners Act 2010 in respect of a death;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "death",
+      "definition": "“death” does not include stillbirth;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "death particulars",
+      "definition": "“death particulars” , for a deceased person, means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "death registration",
+      "definition": "“death registration” means registration of a death under this Act;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "forensic pathologist",
+      "definition": "“forensic pathologist” has the meaning given by section 2(1) of the Coroners Act 2010;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "information",
+      "definition": "“information” includes documents;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "legal guardian",
+      "definition": "“legal guardian” , for a child or minor, means a person who is lawfully appointed by deed or will or by the order of a competent court to be the guardian of the child or minor;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "limited liability partnership",
+      "definition": "“limited liability partnership” has the meaning given by the Limited Liability Partnerships Act 2005;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "master",
+      "definition": "“master” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "medical practitioner",
+      "definition": "“medical practitioner” means a registered medical practitioner under the Medical Registration Act 1997 who holds a valid practising certificate granted under that Act;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "minor",
+      "definition": "“minor” means a person who is below 21 years of age;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "occupier",
+      "definition": "“occupier” , for any premises, means a person in occupation of, or having control or charge of, or managing, the premises (either on the person’s own account or as an agent of another person);",
+      "source_provision": "s2"
+    },
+    {
+      "term": "pathologist",
+      "definition": "“pathologist” has the meaning given by section 2(1) of the Coroners Act 2010;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "permitted character",
+      "definition": "“permitted character” , for a name, means a character that the Registrar-General specifies by notification in the Gazette ; [Act 2 of 2024 wef 16/04/2024]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "protector",
+      "definition": "“protector” has the meaning given by section 2(1) of the Children and Young Persons Act 1993;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "register",
+      "definition": "“register” means the register of births, register of deaths or register of stillbirths;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registered event",
+      "definition": "“registered event” means any birth, death or stillbirth that is registered under this Act;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registrable event",
+      "definition": "“registrable event” means any birth, death or stillbirth that is required to be, or may be, registered under this Act;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar‑General",
+      "definition": "“Registrar‑General” means the Registrar‑General of Births and Deaths appointed under section 3(1);",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registration officer",
+      "definition": "“registration officer” means a person appointed as a registration officer under section 5(1);",
+      "source_provision": "s2"
+    },
+    {
+      "term": "repealed Act",
+      "definition": "“repealed Act” means the Registration of Births and Deaths Act (Cap. 267) that is repealed by section 62;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "reportable death",
+      "definition": "“reportable death” has the meaning given by section 2(1) of the Coroners Act 2010;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "stillbirth",
+      "definition": "“stillbirth” means the birth of a stillborn child;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "stillbirth particulars",
+      "definition": "“stillbirth particulars” , for a stillborn child, means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "stillbirth registration",
+      "definition": "“stillbirth registration” means registration of a stillbirth under this Act;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "stillborn child",
+      "definition": "“stillborn child” means a child that — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Adoption of Children Act 1939",
+      "definition": "“Adoption of Children Act 1939” includes the Adoption of Children Act (Cap. 4, 2012 Ed.) until it is revised and citable by the short title “Adoption of Children Act 1939”;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Children and Young Persons Act 1993",
+      "definition": "“Children and Young Persons Act 1993” includes the Children and Young Persons Act (Cap. 38, 2001 Ed.) until it is revised and citable by the short title “Children and Young Persons Act 1993”;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Coroners Act 2010",
+      "definition": "“Coroners Act 2010” includes the Coroners Act (Cap. 63A, 2012 Ed.) until it is revised and citable by the short title “Coroners Act 2010”;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Criminal Procedure Code 2010",
+      "definition": "“Criminal Procedure Code 2010” includes the Criminal Procedure Code (Cap. 68, 2012 Ed.) until it is revised and citable by the short title “Criminal Procedure Code 2010”;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Evidence Act 1893",
+      "definition": "“Evidence Act 1893” includes the Evidence Act (Cap. 97, 1997 Ed.) until it is revised and citable by the short title “Evidence Act 1893”;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Financial Procedure Act 1966",
+      "definition": "“Financial Procedure Act 1966” includes the Financial Procedure Act (Cap. 109, 2012 Ed.) until it is revised and citable by the short title “Financial Procedure Act 1966”;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Infectious Diseases Act 1976",
+      "definition": "“Infectious Diseases Act 1976” includes the Infectious Diseases Act (Cap. 137, 2003 Ed.) until it is revised and citable by the short title “Infectious Diseases Act 1976”;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Legitimacy Act 1934",
+      "definition": "“Legitimacy Act 1934” includes the Legitimacy Act (Cap. 162, 1985 Ed.) until it is revised and citable by the short title “Legitimacy Act 1934”;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Limited Liability Partnerships Act 2005",
+      "definition": "“Limited Liability Partnerships Act 2005” includes the Limited Liability Partnerships Act (Cap. 163A, 2006 Ed.) until it is revised and citable by the short title “Limited Liability Partnerships Act 2005”;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Medical Registration Act 1997",
+      "definition": "“Medical Registration Act 1997” includes the Medical Registration Act (Cap. 174, 2014 Ed.) until it is revised and citable by the short title “Medical Registration Act 1997”;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Merchant Shipping Act 1995",
+      "definition": "“Merchant Shipping Act 1995” includes the Merchant Shipping Act (Cap. 179, 1996 Ed.) until it is revised and citable by the short title “Merchant Shipping Act 1995”;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "National Registration Act 1965",
+      "definition": "“National Registration Act 1965” includes the National Registration Act (Cap. 201, 1992 Ed.) until it is revised and citable by the short title “National Registration Act 1965”;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Penal Code 1871",
+      "definition": "“Penal Code 1871” includes the Penal Code (Cap. 224, 2008 Ed.) until it is revised and citable by the short title “Penal Code 1871”;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Status of Children (Assisted Reproduction Technology) Act 2013",
+      "definition": "“Status of Children (Assisted Reproduction Technology) Act 2013” includes the Status of Children (Assisted Reproduction Technology) Act (Cap. 317A, 2015 Ed.) until it is revised and citable by the short title “Status of Children (Assisted Reproduction Technology) Act 2013”.",
+      "source_provision": "s2"
+    },
+    {
+      "term": "corporation",
+      "definition": "“corporation” includes a limited liability partnership;",
+      "source_provision": "s52"
+    },
+    {
+      "term": "officer",
+      "definition": "“officer” , in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, and includes — ( a )",
+      "source_provision": "s53"
+    },
+    {
+      "term": "state of mind",
+      "definition": "“state of mind” of a person includes — ( a )",
+      "source_provision": "s52"
+    },
+    {
+      "term": "partner",
+      "definition": "“partner” includes a person purporting to act as a partner;",
+      "source_provision": "s53"
+    },
+    {
+      "term": "business address",
+      "definition": "“business address” means — ( a )",
+      "source_provision": "s59"
+    },
+    {
+      "term": "email address",
+      "definition": "“email address” means the last email address given by the addressee concerned to the person giving or serving the document as the email address for the service of documents under this Act;",
+      "source_provision": "s59"
+    },
+    {
+      "term": "residential address",
+      "definition": "“residential address” means an individual’s usual or last known place of residence in Singapore.",
+      "source_provision": "s59"
+    }
+  ]
+}

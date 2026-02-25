@@ -1,0 +1,102 @@
+{
+  "id": "dcoofa-1968",
+  "type": "statute",
+  "title": "Diplomatic and Consular Officers (Oaths and Fees) Act 1968",
+  "title_en": "Diplomatic and Consular Officers (Oaths and Fees) Act 1968",
+  "short_name": "DCOOFA1968",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/DCOOFA1968",
+  "description": "An Act to provide for the administration of oaths and the levy of fees by diplomatic and consular officers.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Diplomatic and Consular Officers (Oaths and Fees) Act 1968."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. In this Act, unless the context otherwise requires — “affidavit” includes any affirmation, statutory or other declaration, acknowledgment, examination, and attestation or protestation of honour; “consular officer” includes any consul general, consul, vice‑consul, pro‑consul and consular agent of Singapore; “diplomatic officer” includes any ambassador, high commissioner, minister, charge d’affaires, deputy high commissioner, secretary and attache of a diplomatic mission of Singapore; “swear” includes affirm, declare and protest."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Powers as to oaths and notarial acts abroad",
+      "content": "3. —(1) Every diplomatic officer and consular officer exercising his functions outside Singapore may in that country — ( a ) administer any oath or affirmation; ( b ) take any affidavit; and ( c ) do any notarial acts which any notary public can do in Singapore, and every oath, affirmation, affidavit and notarial act administered, sworn or done by or before any such person shall be as effectual as if duly administered, sworn or done by or before any lawful authority in Singapore. (2) Any document purporting to have affixed, impressed or subscribed thereon or thereto the seal and signature of any person authorised by this section to administer an oath or affirmation in testimony of any oath, affirmation, affidavit or act being administered, taken or done by or before him, shall be admitted in evidence without proof of the seal or signature being the seal or signature of that person, or of the official character of that person. (3) The President may by order direct that so much of subsection (2) as relates to the proof of notarial acts done in any country or place outside Singapore by diplomatic officers and consular officers of Singapore shall apply in relation to notarial acts done by such persons as may be specified in that order, being persons serving in the diplomatic, consular or other foreign service of a Power which, by arrangement with the President, has undertaken to represent the interests of Singapore in any country or place in which Singapore has no diplomatic or consular representatives. (4) For the purposes of this section, “oath” includes any oath required to be taken for the purposes of the Constitution provided that such oath is taken before a diplomatic officer or consular officer who is himself a citizen of Singapore."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Power to fix fees",
+      "content": "4. The Minister may by order published in the Gazette — ( a ) fix the fees to be taken in respect of any matter or thing done in the execution of his office by a diplomatic officer or consular officer entrusted with consular duties; and ( b ) prescribe the manner in which the fees may be levied, accounted for, applied or remitted."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Exhibition of table of fees",
+      "content": "5. Every diplomatic officer and consular officer entrusted with consular duties shall exhibit any subsisting order under section 4 prominently in his office and shall permit such order to be inspected by any person wishing to do so at any reasonable time."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Excessive or improper fees",
+      "content": "6. —(1) Subject to any order made under section 4, a diplomatic officer or consular officer entrusted with consular duties shall not ask for or take any fee or reward for or on account of any act, thing or service done, performed or rendered by him in the execution of his office. (2) Any diplomatic officer or consular officer who acts in contravention of subsection (1) shall, without prejudice to any other liability, be guilty of an offence."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Offences",
+      "content": "7. Any person who — ( a ) swears falsely in any oath or affidavit taken or made in accordance with the provisions of this Act; ( b ) forges or fraudulently alters the seal or signature of any person authorised by or under this Act to administer an oath; or ( c ) tenders in evidence or otherwise uses any affidavit having any seal or signature so forged or counterfeited or fraudulently altered, knowing the same to be forged, counterfeited or fraudulently altered, shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Penalty",
+      "content": "8. Any person who is guilty of an offence shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Savings of acts done prior to this Act",
+      "content": "9. Any oath, affirmation, affidavit and notarial act administered, sworn or done by any diplomatic officer or consular officer exercising his functions in any country or place outside Singapore prior to 6 January 1969 shall be deemed to have been administered, sworn or done under the provisions of this Act."
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Consent of Public Prosecutor",
+      "content": "10. No prosecution shall be instituted in respect of any offence under this Act without the consent of the Public Prosecutor."
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Trial of offences",
+      "content": "11. Any offence under this Act may, subject to section 10, be inquired into, dealt with, tried and punished in Singapore in the same manner and to the same extent as if the offence had been committed in Singapore."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "affidavit",
+      "definition": "“affidavit” includes any affirmation, statutory or other declaration, acknowledgment, examination, and attestation or protestation of honour;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "consular officer",
+      "definition": "“consular officer” includes any consul general, consul, vice‑consul, pro‑consul and consular agent of Singapore;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "diplomatic officer",
+      "definition": "“diplomatic officer” includes any ambassador, high commissioner, minister, charge d’affaires, deputy high commissioner, secretary and attache of a diplomatic mission of Singapore;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "swear",
+      "definition": "“swear” includes affirm, declare and protest.",
+      "source_provision": "s2"
+    }
+  ]
+}

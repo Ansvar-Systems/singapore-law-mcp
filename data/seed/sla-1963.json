@@ -1,0 +1,27 @@
+{
+  "id": "sla-1963",
+  "type": "statute",
+  "title": "Service Lands Act 1963",
+  "title_en": "Service Lands Act 1963",
+  "short_name": "SLA1963",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/SLA1963",
+  "description": "An Act for the ejectment of persons unlawfully occupying any land used or to be used for the purposes of any Malaysian forces.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Service Lands Act 1963."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Removal of unlawful occupants of lands used for the purposes of any Malaysian forces",
+      "content": "2. —(1) The provisions of this section shall apply to lands used or to be used for the purposes of any military, naval or air forces of Malaysia. (2) A Magistrate’s Court, on the information of the Federal Lands Commissioner or a person authorised by him that any person is in unlawful occupation of any land to which this section applies, may issue a summons for the appearance before the Court of the person informed against; and on his appearing to the summons or (in default of his appearance thereto) on proof of service of the summons the Court may proceed in a summary way to hear and determine the information. (3) If on the hearing of the information the Court is satisfied of the truth thereof, the Court shall by warrant require any police officer specified in the warrant forthwith to dispossess and remove such person from the land, and on behalf of the Federal Lands Commissioner to take possession of the land together with all crops growing thereon and all buildings and other immovable property upon and affixed to the land; and the warrant may be executed by any police officer into whose hands the warrant may come, whether or not it is addressed to him."
+    }
+  ],
+  "definitions": []
+}

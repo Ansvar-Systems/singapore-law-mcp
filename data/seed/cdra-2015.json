@@ -1,0 +1,609 @@
+{
+  "id": "cdra-2015",
+  "type": "statute",
+  "title": "Community Disputes Resolution Act 2015",
+  "title_en": "Community Disputes Resolution Act 2015",
+  "short_name": "CDRA2015",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/CDRA2015",
+  "description": "An Act to facilitate the resolution of community disputes by providing for a statutory tort for community disputes, a community disputes management framework and for the establishment of Community Disputes Resolution Tribunals to deal with such disputes, and for matters connected therewith. [Act 43 of 2024 wef 24/03/2025]",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Community Disputes Resolution Act 2015."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "2",
+      "title": "General interpretation",
+      "content": "2. —(1) In this Act, unless the context otherwise requires — “auxiliary community relations officer” means an auxiliary community relations officer appointed under section 13D; [Act 43 of 2024 wef 24/03/2025] “claim” includes a counterclaim; “Community Disputes Resolution Tribunal” or “tribunal” means a District Court designated under section 14 as a Community Disputes Resolution Tribunal; [Act 43 of 2024 wef 24/03/2025] “Community Mediation Centre” means a Community Mediation Centre established under section 3 of the Community Mediation Centres Act 1997; “community relations officer” means a community relations officer appointed under section 13C; [Act 43 of 2024 wef 24/03/2025] “Deputy Director” means a Deputy Director of Community Relations appointed under section 13B; [Act 43 of 2024 wef 24/03/2025] “Director” means a Director of Community Relations appointed under section 13B; [Act 43 of 2024 wef 24/03/2025] “Director-General” means the Director-General of Community Relations appointed under section 13B; [Act 43 of 2024 wef 24/03/2025] “Registrar” means the registrar of the State Courts appointed under section 12 of the State Courts Act 1970 and includes a deputy registrar appointed under that section; “Registry” means the Registry of the State Courts; [Act 43 of 2024 wef 24/03/2025] “Senior Assistant Director” means a Senior Assistant Director of Community Relations appointed under section 13B; [Act 43 of 2024 wef 24/03/2025] “statutory body” means a body corporate established by or under a public Act for the purposes of a public function; [Act 43 of 2024 wef 24/03/2025] “unreasonable interference”, in relation to a neighbour of an individual, means unreasonable interference with the enjoyment or use of the place of residence that the neighbour resides in. [Act 43 of 2024 wef 24/03/2025] (2) For the purposes of the definition of “unreasonable interference” in subsection (1) — ( a ) whether an act or omission causes interference with a neighbour’s enjoyment or use of his or her place of residence is to be construed in accordance with section 4(2); and ( b ) whether a person is a neighbour of an individual is to be construed in accordance with section 4(4) and (5). [Act 43 of 2024 wef 24/03/2025]"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART 2 - TORT OF INTERFERENCE WITH ENJOYMENT OR USE",
+      "section": "3",
+      "title": "Interpretation of this Part",
+      "content": "3. In this Part, unless the context otherwise requires — “court” means a court of competent jurisdiction and includes a Community Disputes Resolution Tribunal; “exclusion order” means an order made under section 9(2) excluding a contravening party (within the meaning of that section) from his or her place of residence; “place of residence” means a house, a flat, an apartment or other dwelling place used for the purpose of residence; “special direction” means a direction made by a court under section 6(2) against a contravening party (within the meaning of that section); “vicinity”, in relation to a place of residence, includes any common corridor, common space or common property, any road, or any building or other property, in the surrounding area of the place of residence."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART 2 - TORT OF INTERFERENCE WITH ENJOYMENT OR USE",
+      "section": "4",
+      "title": "Tort of interference with enjoyment or use of place of residence",
+      "content": "4. —(1) An individual who resides in a place of residence (called in this Part the respondent) must not, by his or her act or omission, directly or indirectly, and whether intentionally, recklessly or negligently, cause unreasonable interference with his or her neighbour’s enjoyment or use of the place of residence that the neighbour resides in. (2) An act or omission by a respondent which may cause interference with his or her neighbour’s enjoyment or use of the neighbour’s place of residence may include (but is not limited to) any of the following: ( a ) causing excessive noise, smell, smoke, light or vibration; ( b ) littering at or in the vicinity of the neighbour’s place of residence; ( c ) obstructing the neighbour’s place of residence, by placing any thing or object, or by any other manner, at or in the vicinity of the neighbour’s place of residence; ( d ) interfering with the neighbour or the neighbour’s movable property, at or in the vicinity of the neighbour’s place of residence; ( e ) surveillance of the neighbour or of the neighbour’s place of residence, where the surveillance is done at or in the vicinity of that place of residence; ( f ) trespassing on the neighbour’s place of residence; ( g ) allowing an animal owned by or under the care or control of the respondent to trespass on the neighbour’s place of residence, to cause excessive noise or smell, or to defecate or urinate at or in the vicinity of the neighbour’s place of residence. (3) A neighbour of a respondent may bring civil proceedings in a court against the respondent for the respondent’s wrongful act or omission in subsection (1). (4) For the purposes of this section, a neighbour of a respondent is an individual who lawfully resides in a place of residence — ( a ) that is in the same building as the respondent’s place of residence; or ( b ) that is within 100 metres of the respondent’s place of residence, but does not include an individual who occupies the same place of residence as the respondent. Illustrations ( a ) X and Y live in the same apartment but in different rooms. X and Y occupy the same place of residence. ( b ) An apartment with the same registered address is partitioned into sub-divided units with separate entrances. X and Y live in different sub-divided units in this apartment with the same registered address. X and Y occupy the same place of residence. [Act 43 of 2024 wef 24/03/2025] (5) For the purposes of subsection (4)( b ), that distance is to be measured from any part of the boundary of one place of residence to any part of the boundary of the other place of residence."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART 2 - TORT OF INTERFERENCE WITH ENJOYMENT OR USE",
+      "section": "5",
+      "title": "Orders of court",
+      "content": "5. —(1) A court may make one or more of the following orders if the court is satisfied on a balance of probabilities that a claim under section 4 by a respondent’s neighbour has been made out against the respondent, and is satisfied that it is just and equitable to do so: ( a ) an order for damages; ( b ) an order granting an injunction; ( c ) an order for specific performance; ( d ) an order that the respondent provide an apology to the neighbour, in such form or manner as the court thinks fit; ( da ) any other order that the court may make under this Act; [Act 43 of 2024 wef 24/03/2025] ( e ) any ancillary order as may be necessary to give effect to any of the court’s orders. (2) In deciding whether it is just and equitable for any order to be made under subsection (1), the court is to consider all the following matters: ( a ) the impact of the order, if made, on — (i) the respondent; (ii) any individual who, at the time of the making of the order, resides in the same place of residence as the respondent; and (iii) any other person who can reasonably be expected to be affected by the order; ( b ) the ordinary instances of daily living that can be expected to be tolerated by reasonable persons living in Singapore; ( c ) any other matters as the court deems fit. (3) To avoid doubt, an order made under this section by the consent of the parties or in the absence of a party, in accordance with Rules of Court made under section 32, has the same force and effect as if the order were made by the court under this section after a hearing by the court. [Act 43 of 2024 wef 24/03/2025]"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART 2 - TORT OF INTERFERENCE WITH ENJOYMENT OR USE",
+      "section": "6",
+      "title": "Special direction on breach of court order, etc.",
+      "content": "6. —(1) Where a respondent (called in this Part the contravening party) fails to comply with an order of court made under section 5 (called in this section the disobeyed order), the party in whose favour the disobeyed order was made may apply to a relevant court for a direction that the contravening party must comply with the disobeyed order. (2) Any court (at first instance or on appeal) may make a direction that a contravening party comply with a disobeyed order within a specified time if the court is satisfied on a balance of probabilities that the contravening party has, without reasonable excuse, failed to comply with the disobeyed order. (3) Where a court in subsection (2) makes a special direction, the court may also order any person as the court may specify, to enter into a bond to ensure that the contravening party complies with that direction. (4) The court may, in making an order under subsection (3) for a person to enter into a bond, impose such conditions on or give such directions to that person, as part of the bond, as the court thinks fit, for the purpose of ensuring that the contravening party complies with the special direction. (5) No order under subsection (3) may be made without giving the person mentioned in that subsection an opportunity to attend and be heard. (6) Despite subsection (5), an order under subsection (3) may be made if the person mentioned in subsection (3), having been given an opportunity to attend and be heard, has failed to do so or cannot be found within a reasonable time. (7) A person who fails to comply with an order to enter into a bond under subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000. (8) Where a person is convicted of an offence under subsection (7) for failure to comply with an order to enter into a bond, the failure to comply with that order is not punishable as a contempt of court. (9) A person is not to be convicted of an offence under subsection (7) in respect of any non‑compliance which has been punished as a contempt of court. (10) In this section, “relevant court”, in relation to an application for a special direction, means the court of first instance which heard the claim under section 4 (whether or not the claim was allowed), or its equivalent."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART 2 - TORT OF INTERFERENCE WITH ENJOYMENT OR USE",
+      "section": "7",
+      "title": "Breach of special direction an offence",
+      "content": "7. —(1) A contravening party who, without reasonable excuse, fails to comply with a special direction shall be guilty of an offence and shall be liable on conviction — ( a ) to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both; and ( b ) in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction, but not exceeding $10,000 in total. (2) It is not a defence for a person charged with an offence under subsection (1) that the court which made an order under section 5 or the court which made a special direction should not have, for whatever reason, made that order or direction. (3) Where a person is convicted of an offence under subsection (1) for failure to comply with a special direction, the failure to comply with the special direction as well as the failure to comply with the order of court made under section 5 which is the subject of that special direction is not punishable as a contempt of court. (4) A person shall not be convicted of an offence under subsection (1) in respect of any non‑compliance which has been punished as a contempt of court."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART 2 - TORT OF INTERFERENCE WITH ENJOYMENT OR USE",
+      "section": "8",
+      "title": "Section 6 not to apply to certain court orders",
+      "content": "8. Section 6 does not apply to an order of court made under section 5 which requires a contravening party to pay damages."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART 2 - TORT OF INTERFERENCE WITH ENJOYMENT OR USE",
+      "section": "9",
+      "title": "Exclusion order",
+      "content": "9. —(1) Where a contravening party fails to comply with a special direction, the party in whose favour the special direction was made may apply to a court (called in this section a second court) for an order that the contravening party be excluded from his or her place of residence. (2) A second court may make an exclusion order if the court is satisfied on a balance of probabilities that the contravening party has, without reasonable excuse, failed to comply with a special direction, and is satisfied that it is just and equitable to do so. (3) A second court may make an exclusion order on such terms and conditions as the court thinks fit. (4) In deciding whether it is just and equitable for an exclusion order to be made, the court is to consider all the following matters: ( a ) the impact of the order, if made, on — (i) the contravening party; (ii) any individual who, at the time of the making of the order, resides in the same place of residence as the contravening party; and (iii) any other person who can reasonably be expected to be affected by the order; ( b ) any other matters as the court deems fit. (5) To avoid doubt, a court may make more than one exclusion order under this section against the same contravening party. [Act 43 of 2024 wef 24/03/2025]"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART 2 - TORT OF INTERFERENCE WITH ENJOYMENT OR USE",
+      "section": "10",
+      "title": "Breach of exclusion order an offence",
+      "content": "10. —(1) A contravening party who, without reasonable excuse, fails to comply with an exclusion order shall be guilty of an offence and shall be liable on conviction — ( a ) to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both; and ( b ) in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction, but not exceeding $10,000 in total. (2) Where a person is convicted of an offence under subsection (1) for failure to comply with an exclusion order, the failure to comply with the exclusion order is not punishable as a contempt of court. (3) A person shall not be convicted of an offence under subsection (1) in respect of any non‑compliance which has been punished as a contempt of court."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART 2 - TORT OF INTERFERENCE WITH ENJOYMENT OR USE",
+      "section": "11",
+      "title": "Termination of tenancy, etc.",
+      "content": "11. —(1) Where a person who is ordered to enter into a bond under section 6(3) is a landlord of the place of residence a contravening party resides in (called in this section the specified residence), the landlord is entitled to terminate, in accordance with subsection (2), any tenancy relating to that specified residence to which the landlord is party. (2) A tenancy may be terminated by giving written notice which must specify a date of re‑possession that is at least 14 days after the date on which the notice is given. (3) A landlord is entitled to terminate a tenancy in accordance with this section despite anything in any other law or in any agreement, and section 18 of the Conveyancing and Law of Property Act 1886 does not apply to or in relation to any tenancy which is lawfully terminated under this section. (4) A landlord is not liable in respect of any termination of a tenancy in accordance with this section. (5) Where a landlord terminates a tenancy for a specified residence in accordance with this section and there is a subtenancy derived out of that tenancy in relation to that specified residence — ( a ) the tenant is not liable in respect of any termination of that subtenancy, if the tenant is not a contravening party; and ( b ) section 18 of the Conveyancing and Law of Property Act 1886 does not apply in relation to that subtenancy. Illustrations ( a ) X lets out a place of residence to Y. Y, or another person occupying that place of residence, is a contravening party. If a court orders X to enter into a bond under section 6(3), X is entitled to terminate the entire tenancy with Y, even if the contravening party only occupies a part of that place of residence. ( b ) X lets out one part of a place of residence to Y under a tenancy with Y. X lets out another part of the place of residence to Z under a separate tenancy with Z. Y, or a person occupying the part of the place of residence which is the subject of Y’s tenancy with X, is a contravening party. If a court orders X to enter into a bond under section 6(3), X is entitled to terminate the tenancy which X has entered into with Y but may not terminate the tenancy which X has entered into with Z."
+    },
+    {
+      "provision_ref": "s11A",
+      "chapter": "PART 2 - TORT OF INTERFERENCE WITH ENJOYMENT OR USE",
+      "section": "11A",
+      "title": "Order to address hoarding",
+      "content": "11A. —(1) A tribunal may, on the application of the Director-General, make an order to authorise a community relations officer or any other person specified in the order to remove and dispose of any thing or material in a place of residence specified in the order if the tribunal is satisfied on a balance of probabilities that — ( a ) there are accumulated or stockpiled, excessive or unconstrained things or material in the place of residence that a reasonable person would consider to be of low or no value or no utility in the circumstances; ( b ) the individual residing in the place of residence is unwilling or unable to remove or dispose of those things or material despite a notice or advisory to do so given by a community relations officer, a public officer, an officer or employee of a statutory body or a person exercising a public official function; ( c ) the accumulation or stockpiling of those things or material in the place of residence is of a nature or in a quantity that is causing unreasonable interference to the individual’s neighbour; and ( d ) an order for specific performance had been made under section 5(1)( c ) whether before, on or after the appointed date but prior to the Director-General’s application, for the removal and disposal of the things or material mentioned in paragraphs ( a ), ( b ) and ( c ) but any term of the order has not been complied with. (2) The order of the tribunal made under subsection (1) may authorise a community relations officer or any other person specified in the order to do any of the following with or without the consent of the owner or occupier of the place of residence: ( a ) enter a place of residence at any reasonable time of the day for the purpose of enforcing the order; ( b ) remove and dispose of any thing or material in the place of residence, that if not removed or disposed of would in the opinion of a reasonable person cause unreasonable interference to the individual’s neighbour; ( c ) do any other act that may be specified in the order. (3) The tribunal may vary, suspend or revoke the order made under subsection (1) on the application of the Director-General or any party to the order. (4) In this section, “appointed date” means the date of commencement of section 11 of the Community Disputes Resolution (Amendment) Act 2024. [Act 43 of 2024 wef 24/03/2025]"
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART 2 - TORT OF INTERFERENCE WITH ENJOYMENT OR USE",
+      "section": "12",
+      "title": "Community order",
+      "content": "12. Where a court convicts any person for an offence under section 6, 7 or 10, the court has the power to make a community order under Part 17 of the Criminal Procedure Code 2010 despite any provision to the contrary in section 337(1)( h ) of that Code."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART 2 - TORT OF INTERFERENCE WITH ENJOYMENT OR USE",
+      "section": "13",
+      "title": "Exemption",
+      "content": "13. The Minister may exempt from the application of section 6(3) any person or class of persons as the Minister may, by order in the Gazette , prescribe."
+    },
+    {
+      "provision_ref": "s13A",
+      "chapter": "PART 2A - COMMUNITY RELATIONS OFFICERS",
+      "section": "13A",
+      "title": "Interpretation of this Part",
+      "content": "13A. In this Part, unless the context otherwise requires — “abate”, in relation to an act or omission causing unreasonable interference, includes to prevent, reduce, eliminate or control the act or omission; “auxiliary police officer” means an auxiliary police officer appointed under Part 9 of the Police Force Act 2004; “court” means a court of competent jurisdiction and includes a Community Disputes Resolution Tribunal; “detection and monitoring equipment” means any equipment or device (including any software) or a combination of such equipment and devices (including any software) that is capable of detecting, monitoring or recording any activity causing unreasonable interference in a place of residence or the vicinity of a place of residence; “entity responsible for the vicinity of a place of residence” means a person, agency or other entity that has the charge, management or control of the vicinity of the place of residence either on his, her or its own account or as agent of another person, including but not limited to, the Housing and Development Board established under the Housing and Development Act 1959, a Town Council established under the Town Councils Act 1988 or a management corporation for a strata title plan; “occupier”, in relation to a place of residence, means a person in occupation of the place of residence or having the charge, management or control of the place either on his, her or its own account or as agent of another person, but does not include a lodger; “owner”, in relation to a place of residence, means a person other than the mortgagee or chargee not in possession, who is for the time being entitled to dispose of the freehold of the place of residence whether in possession or reversion, or who holds under a leasehold or is entitled to the rents and profits of the place of residence; “place of residence” means a house, a flat, an apartment or other dwelling place used for the purpose of residence; “prescribed limitations” means the limitations prescribed under section 13G; “suspected individual” means an individual who is suspected of an act or omission which causes unreasonable interference with his or her neighbour’s enjoyment or use of the place of residence that the neighbour resides in; “vicinity”, in relation to a place of residence, includes any common corridor, common space or common property, any road, or any building or other property, in the surrounding area of the place of residence. [Act 43 of 2024 wef 24/03/2025] Division 2 &#x2014; Director-General of\nCommunity Relations, community relations officers\nand auxiliary community relations officers"
+    },
+    {
+      "provision_ref": "s13B",
+      "chapter": "PART 2A - COMMUNITY RELATIONS OFFICERS",
+      "section": "13B",
+      "title": "Appointment of Director-General, Directors, Deputy Directors and Senior Assistant Directors of Community Relations",
+      "content": "13B. —(1) The Minister may appoint any person to be the Director-General of Community Relations who is responsible for the administration of this Part and to perform the following functions: ( a ) to facilitate the amicable and early resolution of disputes relating to unreasonable interference with an individual’s enjoyment or use of his or her place of residence; ( b ) to administer this Part subject to the general or special directions of the Minister; ( c ) to inform and advise the Minister on matters relating to this Part; ( d ) to perform such other functions and duties as the Minister may assign to the Director-General. (2) The Minister may in writing appoint such numbers of Directors of Community Relations, Deputy Directors of Community Relations and Senior Assistant Directors of Community Relations as the Minister may consider expedient or necessary for the purposes of this Part. (3) An appointment under subsection (1) must be published in the Gazette . (4) Subject to the directions of the Director-General, the powers and duties of the Director-General under this Act may be exercised and discharged by a Director, Deputy Director or Senior Assistant Director of Community Relations. [Act 43 of 2024 wef 24/03/2025]"
+    },
+    {
+      "provision_ref": "s13C",
+      "chapter": "PART 2A - COMMUNITY RELATIONS OFFICERS",
+      "section": "13C",
+      "title": "Appointment of community relations officers",
+      "content": "13C. —(1) The Director-General may in writing appoint any of the following individuals to be a community relations officer to facilitate the amicable and early resolution of disputes relating to unreasonable interference with an individual’s enjoyment or use of his or her place of residence in any particular area or areas in Singapore: ( a ) a police officer; ( b ) a public officer; ( c ) an officer or employee of a statutory body. (2) The Director-General may, for any reason that appears to the Director-General to be sufficient, at any time revoke an individual’s appointment as a community relations officer. (3) An individual who is appointed as a community relations officer under subsection (1) does not, only because of the appointment, become an employee or agent of the Government. [Act 43 of 2024 wef 24/03/2025]"
+    },
+    {
+      "provision_ref": "s13D",
+      "chapter": "PART 2A - COMMUNITY RELATIONS OFFICERS",
+      "section": "13D",
+      "title": "Appointment of auxiliary community relations officers",
+      "content": "13D. —(1) The Director-General may in writing appoint any of the following individuals who is at least 18 years of age to be an auxiliary community relations officer to facilitate the amicable and early resolution of disputes relating to unreasonable interference with an individual’s enjoyment or use of his or her place of residence in any particular area or areas in Singapore: ( a ) an auxiliary police officer; ( b ) an individual who is not mentioned in section 13C(1) but who has the suitable training to properly exercise the powers of an auxiliary community relations officer. (2) The Director-General may, for any reason that appears to the Director-General to be sufficient, at any time revoke an individual’s appointment as an auxiliary community relations officer. (3) An individual who is appointed as an auxiliary community relations officer under subsection (1) does not, only because of the appointment, become an employee or agent of the Government. [Act 43 of 2024 wef 24/03/2025]"
+    },
+    {
+      "provision_ref": "s13E",
+      "chapter": "PART 2A - COMMUNITY RELATIONS OFFICERS",
+      "section": "13E",
+      "title": "Identification cards and equipment",
+      "content": "13E. —(1) The Director-General must issue to each community relations officer and auxiliary community relations officer an identification card, which must be carried at all times by the community relations officer or auxiliary community relations officer (as the case may be) when exercising powers under any provision in this Act or in any other written law. (2) A community relations officer and an auxiliary community relations officer whose appointment as such ceases must return any identification card issued to him or her under subsection (1) to the Director-General. (3) A community relations officer and an auxiliary community relations officer must produce his or her identification card for inspection — ( a ) before exercising a power under this Act; and ( b ) at any time during the exercise of a power under this Act, if asked to do so. (4) A community relations officer and an auxiliary community relations officer is to be issued with such equipment, or such description of equipment, as the Director-General may determine to be necessary for the effectual discharge of the duties of a community relations officer or an auxiliary community relations officer, as the case may be. [Act 43 of 2024 wef 24/03/2025]"
+    },
+    {
+      "provision_ref": "s13F",
+      "chapter": "PART 2A - COMMUNITY RELATIONS OFFICERS",
+      "section": "13F",
+      "title": "Public servants",
+      "content": "13F. A community relations officer and an auxiliary community relations officer who, in the course of his or her duty as a community relations officer or an auxiliary community relations officer (as the case may be), exercises any power under this Part, in accordance with the written authorisation of the Director-General is taken to be a public servant for the purposes of the Penal Code 1871 when exercising the power. [Act 43 of 2024 wef 24/03/2025] Division 3 &#x2014; Powers and duties of Director-General,\ncommunity relations officers\nand auxiliary community relations officers"
+    },
+    {
+      "provision_ref": "s13G",
+      "chapter": "PART 2A - COMMUNITY RELATIONS OFFICERS",
+      "section": "13G",
+      "title": "Powers and duties under this Part subject to prescribed limitations",
+      "content": "13G. —(1) The powers and duties of the Director-General, Directors, Deputy Directors, Senior Assistant Directors, community relations officers and auxiliary community relations officers under this Part (called in this section the powers and duties) are subject to the following limitations that the Minister may prescribe by regulations made under section 13Z: ( a ) limitations as to the categories or types of unreasonable interference in relation to which the powers and duties may be exercised or performed; ( b ) limitations as to the degree of seriousness or severity of the unreasonable interference before certain powers and duties may be exercised or performed; ( c ) limitations as to the conduct of any relevant person or other circumstances in which the powers and duties may be exercised or performed; ( d ) limitations as to the geographical area or location in which the powers and duties may be exercised or performed; ( e ) limitations as to the types and capabilities of the detection and monitoring equipment that may be used or installed. (2) The regulations mentioned in subsection (1) may — ( a ) make different provisions for different categories or types of unreasonable interference; ( b ) make different provisions for different classes of powers and duties that may be exercised or performed under different provisions of this Part; ( c ) provide for the scope and application of any of the prescribed limitations to be determined by the Director-General including but not limited to determining the degree of seriousness or severity of the unreasonable interference before certain powers and duties may be exercised; and ( d ) provide for factors which may be taken into account by the Director-General in determining whether a particular complaint or circumstance falls within the scope of the prescribed limitations. [Act 43 of 2024 wef 24/03/2025]"
+    },
+    {
+      "provision_ref": "s13H",
+      "chapter": "PART 2A - COMMUNITY RELATIONS OFFICERS",
+      "section": "13H",
+      "title": "Authorisation of community relations officers and auxiliary community relations officers to exercise powers",
+      "content": "13H. —(1) The Director-General must issue each community relations officer and auxiliary community relations officer a written authorisation specifying each power mentioned in section 13I, 13J, 13L or 13M that the community relations officer or auxiliary community relations officer (as the case may be) may exercise subject to the prescribed limitations. (2) A community relations officer or an auxiliary community relations officer (as the case may be) who is authorised to exercise any power under section 13I, 13J, 13L or 13M may only exercise the power — ( a ) to the extent authorised by the Director-General under this section and subject to the prescribed limitations; and ( b ) in any case where an individual is suspected of an act or omission which causes unreasonable interference with his or her neighbour’s enjoyment or use of the place of residence that the neighbour resides in. (3) The Director-General’s authorisation under subsection (1) for a community relations officer or an auxiliary community relations officer (as the case may be) may also do all or any of the following: ( a ) limit the powers in section 13I, 13J, 13L or 13M that the community relations officer or auxiliary community relations officer (as the case may be) may exercise; ( b ) limit when the community relations officer or auxiliary community relations officer (as the case may be) may exercise those powers; ( c ) limit the geographical area or location in Singapore in which the community relations officer or auxiliary community relations officer (as the case may be) may exercise those powers; ( d ) limit the categories or types of unreasonable interference in relation to which those powers may be exercised by the community relations officer or auxiliary community relations officer, as the case may be; ( e ) limit the circumstances in which the community relations officer or auxiliary community relations officer (as the case may be) may exercise those powers. (4) A community relations officer or an auxiliary community relations officer who is authorised under subsection (1) to exercise any power under section 13I, 13J, 13L or 13M (as the case may be) must obey all lawful directions (general or specific) of the Director-General when exercising that power. (5) Nothing in section 13I, 13J, 13L or 13M and this section limits the Director-General of Public Health’s powers under Part 5 of the Environmental Public Health Act 1987 or a Magistrate Court’s powers under section 15 of the Miscellaneous Offences (Public Order and Nuisance) Act 1906. [Act 43 of 2024 wef 24/03/2025]"
+    },
+    {
+      "provision_ref": "s13I",
+      "chapter": "PART 2A - COMMUNITY RELATIONS OFFICERS",
+      "section": "13I",
+      "title": "Powers of community relations officers",
+      "content": "13I. —(1) The powers that a community relations officer may be authorised under section 13H to exercise are all or any of the following: ( a ) to require a suspected individual to state the suspected individual’s name and residential address; ( b ) to require any person present or residing in a place of residence to provide information on the identity and particulars of the owner of or any person residing in the same place of residence, where an act or omission causing unreasonable interference was reasonably suspected to have been committed in that place; ( c ) to require any of the following individuals to attend before a community relations officer, if any prior reasonable attempt to meet and communicate with the individual has not been successful: (i) a suspected individual; (ii) any complainant against the suspected individual; (iii) any other individual who may assist in the investigation of the complaint against the suspected individual; ( d ) to advise a suspected individual to abate the act or omission causing unreasonable interference; ( e ) to photograph or film, or otherwise make an audio or visual recording in the place or the vicinity of the place where, or in respect of which, an act or omission causing unreasonable interference was committed or was reasonably suspected to have been committed, and any individual, thing, document or record in that place and to retain the photograph, film or recording; ( f ) to make a copy of and retain the copy of any document or record mentioned in paragraph ( e ); ( g ) to take statements from — (i) a suspected individual; (ii) any complainant against the suspected individual; or (iii) any other individual who may assist in the investigation of the complaint against the suspected individual; ( h ) to require any individual or complainant mentioned in paragraph ( g ) to make and sign a declaration of the truth of the statement that he or she makes; ( i ) to issue a written warning to a suspected individual to cease any act or omission causing unreasonable interference; ( j ) to issue written advisories to residents to maintain neighbourly relations and community peace; ( k ) to carry out an order made by a tribunal under section 11A and for this purpose the community relations officer may exercise the powers mentioned in this section; ( l ) to serve or deliver to a suspected individual, if he or she is alleged to have committed an offence, an offer of composition made by the Director-General or a person authorised by the Director-General; ( m ) to enter a place of residence at any reasonable time of the day, with the consent of the owner or occupier of the place of residence, for the purpose — (i) of installing detection and monitoring equipment; or (ii) of exercising any power under paragraph ( e ) or ( f ); ( n ) to install detection and monitoring equipment in the vicinity of a place of residence without entering the place of residence and with the consent of the entity responsible for the vicinity of the place of residence; ( o ) to serve or deliver any other direction, notice, order or requirement issued by the Director-General, a community relations officer or a tribunal under this Act. (2) The powers that a community relations officer may be authorised under section 13H to exercise, with the Director-General’s prior written approval, are all or any of the following: ( a ) to require any person, organisation or public agency to provide information on the identity and particulars of the owner of or any person or tenant residing in a place of residence in respect of which an act or omission causing unreasonable interference was reasonably suspected to have been committed; ( b ) to require any person to provide any other information in the possession or within the knowledge of that person that in the opinion of the Director-General is required to investigate an act or omission causing unreasonable interference that was reasonably suspected to have been committed; ( c ) to enter a place of residence at any reasonable time of the day, without the consent of the owner or occupier of the place of residence for the purpose of exercising any power under subsection (1)( e ) or ( f ). (3) A community relations officer may, in the exercise of his or her powers under subsection (1)( m )(i) and ( n ) and (2)( c ), be accompanied by a person authorised by the Director-General to render technical and other assistance. (4) The Director-General or a community relations officer may disclose or provide any information, statement, image, audio or visual recording, document or other evidence obtained under this section — ( a ) to any court in relation to or in support of any claim or application under this Act; or ( b ) for the purposes of exercising the functions or powers of the Director-General or a community relations officer under this Act. (5) To avoid doubt, it is not necessary to obtain the consent of the owner or occupier of the place of residence mentioned in subsection (1)( n ) in exercising the power in that provision to install detection and monitoring equipment in the vicinity of that place of residence. [Act 43 of 2024 wef 24/03/2025]"
+    },
+    {
+      "provision_ref": "s13J",
+      "chapter": "PART 2A - COMMUNITY RELATIONS OFFICERS",
+      "section": "13J",
+      "title": "Powers of auxiliary community relations officers",
+      "content": "13J. —(1) The powers that an auxiliary community relations officer may be authorised under section 13H to exercise are all or any of the following: ( a ) to require a suspected individual to state the suspected individual’s name and residential address; ( b ) to advise a suspected individual to abate the act or omission causing unreasonable interference; ( c ) to photograph or film, or otherwise make an audio or visual recording in the place or the vicinity of the place where, or in respect of which, an act or omission causing unreasonable interference was committed or was reasonably suspected to have been committed, and any individual, thing, document or record in that place and to retain the photograph, film or recording; ( d ) to make a copy of and retain the copy of any document or record mentioned in paragraph ( c ); ( e ) to take statements from — (i) a suspected individual; (ii) any complainant against the suspected individual; or (iii) any other individual who may assist in the investigation of the complaint against the suspected individual; ( f ) to require any individual or complainant mentioned in paragraph ( e ) to make and sign a declaration of the truth of the statement which he or she makes; ( g ) to serve or deliver a written warning to cease any act or omission causing unreasonable interference; ( h ) to serve or deliver written advisories to residents to maintain neighbourly relations and community peace; ( i ) to accompany and assist a community relations officer in the exercise of the community relations officer’s powers under this Part, subject to the directions of the community relations officer; ( j ) to serve or deliver to a suspected individual, if he or she is alleged to have committed an offence, an offer of composition made by the Director-General or a person authorised by the Director-General; ( k ) to serve or deliver any other direction, notice, order or requirement issued by the Director-General, a community relations officer or a tribunal under this Act. (2) The powers that an auxiliary community relations officer may be authorised under section 13H to exercise, with the Director-General’s prior written approval, are all or any of the following: ( a ) to install detection and monitoring equipment in the vicinity of a place of residence without entering the place of residence and with the consent of the entity responsible for the vicinity of the place of residence; ( b ) to enter a place of residence at any reasonable time to install detection and monitoring equipment with the consent of the owner or occupier of the place of residence. (3) An auxiliary community relations officer may, in the exercise of his or her powers under subsection (2), be accompanied by a person authorised by the Director-General to render technical and other assistance. (4) The Director-General or an auxiliary community relations officer may disclose or provide any information, statement, image, audio or visual recording, document or other evidence obtained under this section — ( a ) to any court in relation to or in support of any claim or application under this Act; or ( b ) for the purposes of exercising the functions or powers of the Director-General or an auxiliary community relations officer under this Act. (5) To avoid doubt, it is not necessary to obtain the consent of the owner or occupier of the place of residence mentioned in subsection (2)( a ) in exercising the power in that provision to install detection and monitoring equipment in the vicinity of that place of residence. [Act 43 of 2024 wef 24/03/2025]"
+    },
+    {
+      "provision_ref": "s13K",
+      "chapter": "PART 2A - COMMUNITY RELATIONS OFFICERS",
+      "section": "13K",
+      "title": "Discretion not to investigate or take further action",
+      "content": "13K. —(1) The Director-General or a community relations officer may dismiss any complaint relating to unreasonable interference without any investigation or further action, if the Director-General or the officer is satisfied that the complaint is trivial, frivolous or vexatious or not made in good faith. (2) The Director-General may in writing direct that a person be prohibited from making any further complaint if the Director-General is satisfied that the person had habitually and persistently, and without any reasonable ground, made trivial, frivolous or vexatious complaints relating to unreasonable interference. (3) In deciding whether to issue a direction against a person under subsection (2), the Director-General may consider all the circumstances of the case including whether any civil restraint order under section 31C, 31D or 31E has been made against the person. (4) Any person who without reasonable excuse fails to comply with a direction issued under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000. (5) Without affecting subsections (1) and (2), the Director-General or a community relations officer may dismiss any complaint relating to unreasonable interference without any investigation or further action after considering the following factors: ( a ) the likelihood that an amicable resolution to the dispute may be achieved; ( b ) the availability and need to prioritise the resources available; ( c ) the degree of seriousness or severity of the alleged unreasonable interference. [Act 43 of 2024 wef 24/03/2025] Division 4 &#x2014; Abatement orders"
+    },
+    {
+      "provision_ref": "s13L",
+      "chapter": "PART 2A - COMMUNITY RELATIONS OFFICERS",
+      "section": "13L",
+      "title": "Powers to issue and enforce abatement orders",
+      "content": "13L. —(1) The Director-General may issue an abatement order in writing against any suspected individual or any other individual residing in the same place of residence as the suspected individual if — ( a ) the Director-General is satisfied after considering any complaint and the evidence and information obtained by the community relations officer or auxiliary community relations officer under section 13I or 13J (as the case may be) that the suspected individual or another individual residing in the same place of residence was responsible for the act or omission causing unreasonable interference; ( b ) the suspected individual or another individual residing in the same place of residence was given a reasonable opportunity to make representations to the Director-General; and ( c ) the suspected individual or another individual residing in the same place of residence was previously issued a written warning to cease that act or omission causing unreasonable interference but failed to do so. (2) Despite subsection (1), where the Director-General — ( a ) has reasonable grounds to believe that the act or omission causing unreasonable interference mentioned in subsection (1)( a ) poses a serious and imminent threat or risk to the mental or physical health or welfare of other persons in the vicinity of the place of residence; and ( b ) is satisfied that it is impracticable in the circumstances of the particular case for the requirements in subsection (1)( b ) and ( c ) to be complied with, the Director-General may issue an abatement order in writing under subsection (1) without complying with subsection (1)( b ) and ( c ) except that a reasonable opportunity to make representations to the Director-General must be given immediately after the abatement order is issued. (3) An abatement order may for the purpose of abating the act or omission causing unreasonable interference — ( a ) require the individual specified in the abatement order to stop or to take any reasonable steps to stop any act specified in the order within a reasonable time specified in the order; ( b ) require the individual specified in the abatement order to take any reasonable steps to stop any act, specified in the order, by any other individual residing in the same place of residence within a reasonable time specified in the order; ( c ) require any other specified steps to be taken to abate the act or omission causing unreasonable interference; and ( d ) impose any conditions that the Director-General thinks fit. (4) The Director-General may vary or revoke any abatement order issued under subsection (1). (5) Any person who, without reasonable excuse, fails to comply with an abatement order within the time specified in the order shall be guilty of an offence and shall be liable on conviction — ( a ) to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction; and ( b ) in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction. (6) The Director-General may (even though proceedings for an offence under subsection (5) have not started) authorise in writing a community relations officer to exercise the powers set out in subsection (7) if the Director-General is satisfied that — ( a ) an individual has, without any reasonable excuse, failed (in whole or in part) to comply with an abatement order within the time specified in the order; ( b ) at least 2 written warnings have been given to the individual to comply with the order; and ( c ) in the case where any instrument or object was used to cause the unreasonable interference, the removal of the instrument or object will reduce the unreasonable interference. (7) The powers mentioned in subsection (6) are all or any of the following: ( a ) to enter a place of residence at any reasonable time of the day (with or without the consent of the owner or occupier of the place of residence) for the purpose of taking reasonable steps to abate or investigate the act or omission causing unreasonable interference; ( b ) to require an owner or occupier of the place of residence to produce and surrender any instrument or object suspected to have been used to cause the unreasonable interference; ( c ) to take reasonable steps, with or without the consent of the owner or occupier of the place of residence — (i) to abate or investigate the act or omission causing unreasonable interference in any appropriate manner; or (ii) to seize and remove any instrument or object suspected to have been used to cause the unreasonable interference; ( d ) to retain or dispose of, in accordance with regulations made under section 13Z, any instrument or object that has been seized or removed under paragraph ( c )(ii). (8) Despite subsection (6), where the Director-General — ( a ) has reasonable grounds to believe that the failure to comply with an abatement order mentioned in subsection (6)( a ) poses a serious and imminent threat or risk to the mental or physical health or welfare of other persons in the vicinity of the place of residence; and ( b ) is satisfied that it is impracticable in the circumstances of the particular case for the requirement in subsection (6)( b ) to be complied with, the Director-General may authorise in writing a community relations officer to exercise any of the powers set out in subsection (7) without complying with subsection (6)( b ). (9) An auxiliary community relations officer may accompany and assist a community relations officer in the exercise of the community relations officer’s powers under subsection (7), subject to the directions of the community relations officer. (10) To avoid doubt, any reasonable step taken under subsection (7) does not affect any proceedings for an offence under subsection (5) but may be taken into consideration by the court in those proceedings. (11) Where the abatement order under subsection (1) is issued to an individual who is not the owner of the place of residence in which that individual resides, the Director-General must cause a copy of the order to be given to the owner. [Act 43 of 2024 wef 24/03/2025] Division 5 &#x2014; Referral for mediation"
+    },
+    {
+      "provision_ref": "s13M",
+      "chapter": "PART 2A - COMMUNITY RELATIONS OFFICERS",
+      "section": "13M",
+      "title": "Referral for mediation by community relations officer, etc.",
+      "content": "13M. —(1) Despite any written law, the persons mentioned in subsection (2) may in writing direct all or any of the following persons to a Community Mediation Centre or to any other prescribed person or entity for mediation (called in this section a mediation entity), with or without the consent of the persons to be directed for mediation: ( a ) the individuals involved in a complaint or dispute involving alleged unreasonable interference with a neighbour’s enjoyment or use of the neighbour’s place of residence; ( b ) a landlord of the place of residence of an individual mentioned in paragraph ( a ). (2) The persons who may issue a direction under subsection (1) are — ( a ) a community relations officer so authorised under this Part; ( b ) where the complaint or dispute involves an allegation that a person who is a party to a settlement agreement breached the settlement agreement — a person authorised in writing by the mediation entity that administered the mediation where the settlement agreement was made; ( c ) a person authorised in writing by a mediation entity that administers a mediation under a direction issued under subsection (1); and ( d ) any of the following persons appointed in writing by the Minister to issue a direction under subsection (1) subject to any condition or limitation that the Minister may impose: (i) a public officer; (ii) an officer or employee of a statutory body. (3) The persons mentioned in subsection (2) may, in issuing a direction under subsection (1), direct all or any of the persons referred for mediation to attend (personally or by a representative permitted under section 14 of the Community Mediation Centres Act 1997 or under a prescribed written law) before a mediation entity — ( a ) at a time and place to be specified in the direction; or ( b ) in the case where the mediation is to be conducted by electronic communication, video conferencing or other electronic means, at a time to be specified in the direction and in accordance with the electronic means specified in the direction. (4) A direction issued under subsection (1) is final. (5) Without affecting section 30, a direction under subsection (1) must not be made with respect to a complaint or dispute involving alleged unreasonable interference with a neighbour’s enjoyment or use of the neighbour’s place of residence where — ( a ) an action on a claim under section 4 has been brought in any court; and ( b ) the subject of the claim is substantially the same as that of the complaint or dispute. [Act 43 of 2024 wef 24/03/2025] Division 6 &#x2014; Offences"
+    },
+    {
+      "provision_ref": "s13N",
+      "chapter": "PART 2A - COMMUNITY RELATIONS OFFICERS",
+      "section": "13N",
+      "title": "Obstructing community relations officer or auxiliary community relations officer",
+      "content": "13N. —(1) Any person who without reasonable excuse — ( a ) refuses to give access to, or obstructs, hinders or delays; or ( b ) refuses to comply with any request, demand or order made or given by, a community relations officer or an auxiliary community relations officer in the discharge of his or her duties under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both. (2) However, it is not an offence under subsection (1) for any person to refuse to comply with any request, demand or order made or given by a community relations officer or an auxiliary community relations officer (as the case may be) who — ( a ) fails to declare his or her office; or ( b ) refuses to produce his or her identification card on demand being made by that person. [Act 43 of 2024 wef 24/03/2025]"
+    },
+    {
+      "provision_ref": "s13O",
+      "chapter": "PART 2A - COMMUNITY RELATIONS OFFICERS",
+      "section": "13O",
+      "title": "Damaging, altering, etc., detection and monitoring equipment",
+      "content": "13O. Any person who without reasonable excuse — ( a ) damages or alters; or ( b ) obstructs or impairs the proper functioning of, any detection and monitoring equipment that has been installed in a place of residence or in the vicinity of a place of residence by a community relations officer or an auxiliary community relations officer pursuant to his or her powers under section 13I or 13J shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both. [Act 43 of 2024 wef 24/03/2025]"
+    },
+    {
+      "provision_ref": "s13P",
+      "chapter": "PART 2A - COMMUNITY RELATIONS OFFICERS",
+      "section": "13P",
+      "title": "Offence of providing false information, etc.",
+      "content": "13P. —(1) If — ( a ) a person provides a document, or makes a statement (whether orally, in writing or any other way) or gives information, to the Director-General, a Director, a Deputy Director, a Senior Assistant Director, a community relations officer or an auxiliary community relations officer; ( b ) the document, statement or information is false or misleading, or the statement or information omits any matter or thing without which the statement or information (as the case may be) is misleading; ( c ) the person knows, or ought reasonably to know, that the document is false or misleading, or that the statement or information is as described in paragraph ( b ); and ( d ) the document is provided, or the statement is made or the information is given, for or in connection with a question or request of the Director-General, a Director, a Deputy Director, a Senior Assistant Director, a community relations officer or an auxiliary community relations officer (as the case may be) under this Act, the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both. (2) Subsection (1) does not apply if the document, statement or information is not false or misleading in a material particular, or if the statement or information did not omit any matter or thing without which the statement or information (as the case may be) would be misleading in a material particular. [Act 43 of 2024 wef 24/03/2025]"
+    },
+    {
+      "provision_ref": "s13Q",
+      "chapter": "PART 2A - COMMUNITY RELATIONS OFFICERS",
+      "section": "13Q",
+      "title": "Impersonating community relations officer or auxiliary community relations officer",
+      "content": "13Q. —(1) An individual who represents himself or herself, by word or conduct to be a community relations officer or an auxiliary community relations officer, when he or she is not a community relations officer or an auxiliary community relations officer (as the case may be), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,500 or to imprisonment for a term not exceeding 6 months or to both. (2) However, it is a defence in any proceedings for an offence under subsection (1) where the accused proves, on a balance of probabilities, that the accused used or possessed the equipment or identification card issued under section 13E for the purposes of a public entertainment provided in compliance with the Public Entertainments Act 1958. [Act 43 of 2024 wef 24/03/2025]"
+    },
+    {
+      "provision_ref": "s13R",
+      "chapter": "PART 2A - COMMUNITY RELATIONS OFFICERS",
+      "section": "13R",
+      "title": "Failure to comply with mediation direction",
+      "content": "13R. —(1) A person served a direction under section 13M(1) (called in this section a mediation direction) commits an offence if he or she does not attend the mediation (personally or by a representative) at the time specified in the direction. (2) A person ( A ) who attends a mediation (personally or by a representative) at a time specified in a mediation direction commits an offence if A or A ’s representative (as the case may be) withdraws from the mediation before the person conducting the mediation in accordance with that direction allows A or A ’s representative (as the case may be) to do so. (3) It is a defence for any person charged with an offence for contravening subsection (1) or (2) to prove that the person had a reasonable excuse for the contravention. (4) A person who is guilty of an offence under subsection (1) or (2) shall be liable on conviction to a fine not exceeding $1,500. (5) In this section, “representative”, in relation to a person A who is served a mediation direction, means another person permitted, under section 14 of the Community Mediation Centres Act 1997 or under a prescribed written law, to represent A at the mediation. [Act 43 of 2024 wef 24/03/2025] Division 7 &#x2014; Enforcement"
+    },
+    {
+      "provision_ref": "s13S",
+      "chapter": "PART 2A - COMMUNITY RELATIONS OFFICERS",
+      "section": "13S",
+      "title": "Power to investigate offences under this Part",
+      "content": "13S. —(1) For the purpose of investigating any offence under this Part, the Director-General or a community relations officer may — ( a ) examine orally any person supposed to be acquainted with the facts and circumstances of the case; and ( b ) by written order require any person within the limits of Singapore, who appears to be acquainted with the facts and circumstances of the case, to attend before the Director-General or community relations officer. (2) The person mentioned in subsection (1)( a ) is bound to state truly the facts and circumstances with which the person is acquainted concerning the case except only that the person may decline to make, with regard to any fact or circumstance, a statement which would have a tendency to expose the person to a criminal charge or to penalty or forfeiture. (3) A statement made by any person examined under this section must — ( a ) be reduced to writing; ( b ) be read over to the person; ( c ) if the person does not understand English, be interpreted for the person in a language that the person understands; and ( d ) after correction, if necessary, be signed by the person. (4) If any person fails to attend before the Director-General or a community relations officer as required by a written order under subsection (1)( b ), the Director-General or community relations officer may report such failure to a Magistrate who may issue a warrant to secure the attendance of that person as required by the order. [Act 43 of 2024 wef 24/03/2025]"
+    },
+    {
+      "provision_ref": "s13T",
+      "chapter": "PART 2A - COMMUNITY RELATIONS OFFICERS",
+      "section": "13T",
+      "title": "Notice to attend court",
+      "content": "13T. —(1) Where the Director-General or a community relations officer has reasonable grounds for believing that a person has committed an offence under this Part, the Director-General or community relations officer may, in lieu of applying to a court for a summons, serve upon that person a prescribed notice requiring that person to attend at the court described, at the hour and on the date specified in the notice. (2) A duplicate of the notice must be prepared by the Director-General or a community relations officer and, if so required by a court, produced to the court. (3) The notice may be served on the person alleged to have committed the offence in the same manner as the service of a summons under section 116 of the Criminal Procedure Code 2010. (4) On an accused person appearing before a court pursuant to a notice under subsection (1), the court is to take cognizance of the offence alleged, and is to proceed as though the accused person were produced before it pursuant to section 153 of the Criminal Procedure Code 2010. (5) If a person upon whom a notice has been served under subsection (1) fails to appear before a court in person or by counsel as required by that notice, the court may, if satisfied that the notice was duly served, issue a warrant for the arrest of the person unless, in the case of an offence which may be compounded, that person has before that date been permitted to compound the offence. (6) Upon a person arrested pursuant to a warrant issued under subsection (5) being produced before a court, the court is to proceed as though the person were produced before it pursuant to section 153 of the Criminal Procedure Code 2010. (7) The Director-General or a community relations officer may, at any time before the date specified in the notice under subsection (1), cancel the notice. [Act 43 of 2024 wef 24/03/2025]"
+    },
+    {
+      "provision_ref": "s13U",
+      "chapter": "PART 2A - COMMUNITY RELATIONS OFFICERS",
+      "section": "13U",
+      "title": "Composition of offences under this Part",
+      "content": "13U. —(1) The Director-General or a person authorised by the Director-General may compound any offence under this Part that is prescribed as a compoundable offence — ( a ) by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following: (i) one half of the amount of the maximum fine that is prescribed for the offence; (ii) $2,000; and ( b ) by requiring the person reasonably suspected of having committed the offence to do, or to refrain from doing, such things as may be specified in an offer of composition (called conditions of composition) by the Director-General with the concurrence (general or specific) of the Public Prosecutor. (2) On payment of the sum of money and on full compliance with the conditions of composition, no further proceedings are to be taken against that person in respect of the offence. (3) The Minister may make regulations to prescribe the offences that may be compounded under this section. (4) All sums collected under this section must be paid into the Consolidated Fund. [Act 43 of 2024 wef 24/03/2025]"
+    },
+    {
+      "provision_ref": "s13V",
+      "chapter": "PART 2A - COMMUNITY RELATIONS OFFICERS",
+      "section": "13V",
+      "title": "Community Order for offences under this Part",
+      "content": "13V. Where a court convicts any person for an offence under this Part, the court has the power to make a community order under Part 17 of the Criminal Procedure Code 2010 despite any provision to the contrary in section 337(1)( h ) of that Code. [Act 43 of 2024 wef 24/03/2025] Division 8 &#x2014; General"
+    },
+    {
+      "provision_ref": "s13W",
+      "chapter": "PART 2A - COMMUNITY RELATIONS OFFICERS",
+      "section": "13W",
+      "title": "Appeal to Minister",
+      "content": "13W. —(1) A person who is aggrieved by an order issued under section 13L may, within 14 days after receiving the order, appeal in the prescribed manner to the Minister. (2) Despite any appeal made under subsection (1), the order appealed against takes effect and must be complied with unless otherwise provided in this Act or ordered by the Minister. (3) The Minister may, after considering the appeal — ( a ) dismiss or allow the appeal; ( b ) confirm, vary or revoke the order; or ( c ) impose such conditions as the Minister thinks fit. (4) The Minister may, in considering an appeal under this section, give the appellant an opportunity to make representations in writing. (5) The Minister’s decision on any appeal is final. [Act 43 of 2024 wef 24/03/2025]"
+    },
+    {
+      "provision_ref": "s13X",
+      "chapter": "PART 2A - COMMUNITY RELATIONS OFFICERS",
+      "section": "13X",
+      "title": "Preservation of secrecy",
+      "content": "13X. —(1) An individual who is or has been — ( a ) a public officer; ( b ) an officer or employee of a statutory body; ( c ) a police officer or other officer of any law enforcement agency; ( d ) a community relations officer or an auxiliary community relations officer; or ( e ) a contractor engaged by the Government or an employee of that contractor, must not disclose any information relating to the affairs of the Director-General, a Director, a Deputy Director or a Senior Assistant Director or of any other person which has been obtained by the individual in the performance of his or her duties or the exercise of his or her functions under this Act, except — ( f ) for the purposes of the performance of his or her duties or the exercise of his or her functions under this Act or other written law; ( g ) for the purpose of assisting any person (being a public officer, officer or employee of a statutory body or person exercising a public official function) who is responsible for administering or enforcing any written law, to administer or enforce that written law; ( h ) with the prior authorisation of the Minister; ( i ) where permitted or authorised under this Act; or ( j ) when lawfully required to do so by any court or where required or allowed to do so by the provisions of any written law. (2) Any individual who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both. (3) Subject to this section, any monitoring data is to be used by the Director-General, a Director, a Deputy Director, a Senior Assistant Director, a community relations officer or an auxiliary community relations officer only for the purposes of this Part and for the purposes of a claim or an application to a tribunal or court under this Act. (4) In this section, “monitoring data” means — ( a ) any photograph, image or audio or visual recording taken or captured by a community relations officer or an auxiliary community relations officer pursuant to his or her powers under section 13I or 13J; or ( b ) any information and data recorded in any detection and monitoring equipment installed pursuant to section 13I or 13J. [Act 43 of 2024 wef 24/03/2025]"
+    },
+    {
+      "provision_ref": "s13Y",
+      "chapter": "PART 2A - COMMUNITY RELATIONS OFFICERS",
+      "section": "13Y",
+      "title": "Protection from personal liability",
+      "content": "13Y. No liability shall lie against the Director-General, a Director, a Deputy Director, a Senior Assistant Director, a community relations officer, an auxiliary community relations officer or any other person authorised under this Act for anything which is done or intended to be done with reasonable care and in good faith in — ( a ) the exercise or purported exercise of any power under this Act; or ( b ) the performance or purported performance of any function under this Act. [Act 43 of 2024 wef 24/03/2025]"
+    },
+    {
+      "provision_ref": "s13Z",
+      "chapter": "PART 2A - COMMUNITY RELATIONS OFFICERS",
+      "section": "13Z",
+      "title": "Regulations",
+      "content": "13Z. —(1) The Minister may make regulations for carrying out the purposes and provisions of this Part and for any matter which is required under this Part to be prescribed. (2) Without limiting subsection (1), the Minister may make regulations for all or any of the following matters: ( a ) the fees to be paid in respect of any application under this Part and otherwise in connection with the administration of this Part, and the waiver, remission or refund (in whole or in part) of the fees; ( b ) the manner in which fees are to be paid; ( c ) the form, manner and procedure by which an application or a complaint relating to unreasonable interference is to be made to the Director-General, a community relations officer or an auxiliary community relations officer, and the persons who may make such applications or complaints; ( d ) to provide for the manner and procedure for the retention or disposal of any instrument or object mentioned in section 13L(7) including for the manner of disposal to be determined by the Director-General; ( e ) to provide for such saving, transitional and other consequential, incidental and supplemental provisions as are necessary or expedient for the purposes of this Part. (3) The powers conferred by this section do not extend to any matter for which Rules of Court may be made under section 32. [Act 43 of 2024 wef 24/03/2025]"
+    },
+    {
+      "provision_ref": "s13ZA",
+      "chapter": "PART 2A - COMMUNITY RELATIONS OFFICERS",
+      "section": "13ZA",
+      "title": "Designation of persons to exercise Minister’s duties and powers",
+      "content": "13ZA. —(1) The Minister may designate any of the following persons to perform any of the duties or exercise any of the powers of the Minister under this Part (except for the powers under this section and section 13Z) as the Minister may specify: ( a ) the Second Minister (if any) for his or her Ministry; ( b ) any Minister of State, including a Senior Minister of State, for his or her Ministry; ( c ) any Parliamentary Secretary, including a Senior Parliamentary Secretary, to his or her Ministry. (2) Without affecting subsection (1), the Minister may designate any public officer in his or her Ministry not subordinate to the Director-General whose decision or order is appealed against, to hear and determine (in the Minister’s place) any appeal under section 13W. (3) A reference to the Minister in this Part (except for this section and section 13Z) includes a reference to a person designated under subsection (1). [Act 43 of 2024 wef 24/03/2025]"
+    },
+    {
+      "provision_ref": "s13ZB",
+      "chapter": "PART 2A - COMMUNITY RELATIONS OFFICERS",
+      "section": "13ZB",
+      "title": "Exemption",
+      "content": "13ZB. The Minister may, by order in the Gazette , exempt any person or class of persons from all or any of the provisions of this Part, either generally or in a particular case and subject to any condition that the Minister may impose. [Act 43 of 2024 wef 24/03/2025]"
+    },
+    {
+      "provision_ref": "s13ZC",
+      "chapter": "PART 2A - COMMUNITY RELATIONS OFFICERS",
+      "section": "13ZC",
+      "title": "Service of directions, orders or notices",
+      "content": "13ZC. —(1) A direction, order or notice issued under this Part must be served as described in this section. (2) The direction, order or notice may be served — ( a ) by giving it to the individual personally; ( b ) by sending it by post to the address specified by the individual for the service of the direction, order or notice or, if no address is so specified, the individual’s residential address or business address; ( c ) by leaving it at the individual’s residential address with an adult apparently resident there, or at the individual’s business address with an adult apparently employed there; ( d ) by affixing a copy of the direction, order or notice in a conspicuous place at the individual’s residential address or business address; or ( e ) by sending it by email to the individual’s last email address. (3) Service of the direction, order or notice takes effect — ( a ) if the direction, order or notice is sent by email, at the time that the email becomes capable of being retrieved by the person to whom it is sent; or ( b ) if the direction, order or notice is sent by post, 2 days after the day the direction, order or notice was posted (even if it is returned undelivered). (4) However, service of a direction, order or notice on an individual by email may be effected only with the individual’s prior written consent to service in that way. (5) This section does not apply to documents to be served in proceedings in court. (6) In this section — “business address” means the individual’s usual or last known place of business in Singapore; “last email address” means the last email address given by the individual to the person serving the direction, order or notice as the email address to serve a direction, order or notice; “residential address” means an individual’s usual or last known place of residence in Singapore. [Act 43 of 2024 wef 24/03/2025]"
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART 3 - COMMUNITY DISPUTES RESOLUTION TRIBUNALS",
+      "section": "14",
+      "title": "Community Disputes Resolution Tribunals",
+      "content": "14. —(1) For the purposes of this Act, the Presiding Judge of the State Courts may — ( a ) designate one or more District Courts as Community Disputes Resolution Tribunals; and [Act 43 of 2024 wef 24/03/2025] ( b ) designate so many District Judges, as may be necessary, as tribunal judges for the Community Disputes Resolution Tribunals. (2) A tribunal is to be presided over by a tribunal judge designated under subsection (1)( b )."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART 3 - COMMUNITY DISPUTES RESOLUTION TRIBUNALS",
+      "section": "15",
+      "title": "Jurisdiction, powers and duties of Registrar",
+      "content": "15. The Registrar is, subject to this Act and any other written law, to have such jurisdiction, powers and duties as may be prescribed by the Rules of Court."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART 3 - COMMUNITY DISPUTES RESOLUTION TRIBUNALS",
+      "section": "16",
+      "title": "Application of State Courts Act 1970 and other written laws",
+      "content": "16. Subject to this Act and except as otherwise provided in any regulations made under section 33 — ( a ) the provisions of the State Courts Act 1970 apply to the Community Disputes Resolution Tribunals; ( b ) unless the context otherwise requires, any reference in any written law to a District Court or a State Court includes a reference to a Community Disputes Resolution Tribunal; and ( c ) unless the context otherwise requires, any reference in any written law to a District Judge or a judicial officer includes a reference to a tribunal judge. [Act 43 of 2024 wef 24/03/2025]"
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART 3 - COMMUNITY DISPUTES RESOLUTION TRIBUNALS",
+      "section": "17",
+      "title": "Jurisdiction of tribunal",
+      "content": "17. —(1) Subject to the provisions of this Act, a tribunal has jurisdiction only to hear and determine any claim under section 4. (2) Where an action brought by a claimant includes a claim or matter which is not within the tribunal’s jurisdiction under subsection (1) (called in this section the non‑relevant claim), the tribunal must dismiss the action in its entirety if — ( a ) the claimant does not first withdraw, discontinue or abandon the non‑relevant claim; or [Act 25 of 2021 wef 01/04/2022] ( b ) an application under section 20 is not first made to transfer the whole proceedings or the proceedings on the non‑relevant claim. [Act 25 of 2021 wef 01/04/2022] (3) Except where this Act expressly provides otherwise, the tribunal’s jurisdiction does not extend to a claim under section 4 — ( a ) which exceeds the prescribed limit; or ( b ) which is brought more than 2 years after the cause of action has accrued. (4) Where the amount of a claim exceeds the prescribed limit, the claimant may abandon the excess amount and thereafter — ( a ) the amount of the claim is deemed to be within the prescribed limit; ( b ) the tribunal has jurisdiction to hear and determine the claim; ( c ) the claimant may not obtain in the claim any remedy or relief, in respect of the action, the value of which exceeds the prescribed limit; and [Act 25 of 2021 wef 01/04/2022] ( d ) an order of the tribunal in relation to the claim will be in full discharge of all demands in respect of the claim. [Act 25 of 2021 wef 01/04/2022] (5) The prescribed limit, in relation to the jurisdiction of the tribunal, is $20,000 or such other amount as the Minister may, after consultation with the Chief Justice, substitute by order in the Gazette ."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART 3 - COMMUNITY DISPUTES RESOLUTION TRIBUNALS",
+      "section": "18",
+      "title": "Exclusion of other jurisdictions",
+      "content": "18. —(1) Where an action on a claim (called in this section the firstmentioned proceedings) is commenced in a tribunal, no other civil proceedings relating to that claim (called in this section the second‑mentioned proceedings) may be commenced in any other court except — ( a ) where the second‑mentioned proceedings were commenced in that other court before the firstmentioned proceedings were commenced in the tribunal; or ( b ) where the claim before the tribunal is withdrawn, discontinued or abandoned, or is dismissed for lack of jurisdiction. (2) No action for a claim may be brought before a tribunal if civil proceedings relating to that claim are pending in or have been heard and determined by any other court."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART 3 - COMMUNITY DISPUTES RESOLUTION TRIBUNALS",
+      "section": "19",
+      "title": "No division of claims",
+      "content": "19. A claim may not be split or divided and pursued in separate proceedings before a tribunal for the sole purpose of bringing the sum claimed in each of such proceedings within the jurisdiction of a tribunal."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART 3 - COMMUNITY DISPUTES RESOLUTION TRIBUNALS",
+      "section": "20",
+      "title": "Transfer of claim, etc., from tribunal to court",
+      "content": "20. —(1) Where any claim, counterclaim or set-off and counterclaim in proceedings before a tribunal is or includes a claim or matter not within the tribunal’s jurisdiction (called in this section the non-relevant claim), the tribunal may, on its own motion or on the application of any party in the proceedings, order that the whole proceedings, or the proceedings on the non-relevant claim, be transferred to the appropriate court. (2) Where an order is made under subsection (1) and the tribunal gives judgment to the claimant in proceedings related to the claim or matter in which the tribunal has jurisdiction, enforcement of the judgment is to be stayed until the proceedings transferred to the appropriate court have been concluded, unless that court at any time orders otherwise. [Act 43 of 2024 wef 24/03/2025]"
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART 3 - COMMUNITY DISPUTES RESOLUTION TRIBUNALS",
+      "section": "21",
+      "title": "Costs in transferred cases",
+      "content": "21. Where the whole or any part of the proceedings are transferred pursuant to an order of court under section 20(1) — ( a ) the costs of the proceedings which are transferred (both before and after the transfer) are, subject to any order made by the court which ordered the transfer, to be in the discretion of the court to which those proceedings are transferred; and ( b ) the court to which those proceedings are transferred may make orders with respect to the costs and as to the scales on which the costs of the several parts of those proceedings are to be paid. [Act 43 of 2024 wef 24/03/2025] Division 2 &#x2014; Proceedings before tribunal"
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART 3 - COMMUNITY DISPUTES RESOLUTION TRIBUNALS",
+      "section": "22",
+      "title": "Sittings in private, etc.",
+      "content": "22. —(1) Subject to subsection (2), all matters and proceedings in a tribunal are to be heard in private. [Act 25 of 2021 wef 01/04/2022] (2) A tribunal has the power to hear any matter or part of a matter in an open and public manner to which the public generally may have access, if the tribunal is satisfied that it is expedient in the interests of justice, or for other sufficient reason to do so. (3) A tribunal may, in any matter or proceeding or any part of it which is tried or held or to be tried or held before the tribunal, if satisfied that it is expedient in the interests of justice, public safety, public security or propriety, or for other sufficient reason to do so, order that any of the following, which is contained in any tribunal document or intended to be produced before the tribunal, be removed or be sufficiently redacted: ( a ) the name, address or photograph of any witness in that matter or proceeding; ( b ) any evidence or any other thing likely to lead to the identification of any such witness by any person other than a party to that matter or proceeding. (4) A tribunal may make an order under subsection (3) on its own motion or on the application of any party to the matter or proceeding before the tribunal. (5) A tribunal may, on its own motion or on the application of any party to a matter or proceeding before the tribunal, at any time order that no person is to — ( a ) publish the name, address or photograph of any witness in the matter or proceeding or any part of it tried or held or to be tried or held before the tribunal, or any evidence or any other thing likely to lead to the identification of any such witness; or ( b ) do any other act which is likely to lead to the identification of any such witness. (6) Any person who acts in contravention of any order under subsection (3) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both. [Act 25 of 2021 wef 01/04/2022]"
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "PART 3 - COMMUNITY DISPUTES RESOLUTION TRIBUNALS",
+      "section": "23",
+      "title": "Evidence",
+      "content": "23. —(1) A tribunal is not to be bound by the rules of evidence but may inform itself on any matter in such manner as the tribunal thinks fit. (2) Evidence tendered to a tribunal by or on behalf of a party to any proceedings need not be given on oath but the tribunal may, at any stage of the proceedings, require that such evidence or any part of it be given on oath whether orally or in writing. (3) For the purposes of subsection (2), a tribunal judge is empowered to administer an oath. (4) A tribunal may require any written evidence given in the proceedings before the tribunal to be verified by statutory declaration."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "PART 3 - COMMUNITY DISPUTES RESOLUTION TRIBUNALS",
+      "section": "24",
+      "title": "Enforcement of orders, etc.",
+      "content": "24. A decision, a direction or an order of a tribunal or the Registrar may be enforced in any manner which may be prescribed under this Act or by any other written law."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "PART 3 - COMMUNITY DISPUTES RESOLUTION TRIBUNALS",
+      "section": "25",
+      "title": "No costs allowed except as provided in Act",
+      "content": "25. Except as otherwise provided in this Act, costs, other than disbursements, must not be granted to or awarded against any party to any proceedings before a tribunal or the Registrar. Division 3 &#x2014; Appeals from tribunal"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "PART 3 - COMMUNITY DISPUTES RESOLUTION TRIBUNALS",
+      "section": "26",
+      "title": "Appeals from tribunal",
+      "content": "26. —(1) Subject to subsection (2), an appeal lies to the General Division of the High Court only against a decision, a direction or an order of a tribunal — ( a ) on any ground involving a question of law; ( b ) on the ground that the claim was outside the jurisdiction of the tribunal; ( c ) made under section 6(2) or (3) or 9(2); or ( d ) which is a final order. [40/2019] (2) An appeal lies to the General Division of the High Court under this section only if permission to appeal is given by a tribunal. [40/2019] [Act 25 of 2021 wef 01/04/2022] (3) An order of the tribunal giving or refusing permission under subsection (2) is final and is not subject to any appeal. [Act 25 of 2021 wef 01/04/2022]"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "PART 3 - COMMUNITY DISPUTES RESOLUTION TRIBUNALS",
+      "section": "27",
+      "title": "Appeal not to operate as stay of execution or enforcement",
+      "content": "27. —(1) An appeal from a tribunal does not operate as a stay of execution or enforcement of a decision, a direction or an order (as the case may be) of the tribunal appealed from, unless the tribunal or the General Division of the High Court otherwise orders. [40/2019] [Act 25 of 2021 wef 01/04/2022] (2) An order of a stay of execution or enforcement may be subject to such conditions as to costs, payment into a tribunal or the General Division of the High Court, the giving of security or otherwise, as the tribunal or the General Division of the High Court thinks fit. [40/2019] [Act 25 of 2021 wef 01/04/2022]"
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "PART 3 - COMMUNITY DISPUTES RESOLUTION TRIBUNALS",
+      "section": "28",
+      "title": "Judgment or order of General Division of High Court to be final",
+      "content": "28. A judgment or an order of the General Division of the High Court, on an appeal under section 26, is final and is not subject to any appeal. [40/2019] Division 4 &#x2014; Miscellaneous"
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "PART 3 - COMMUNITY DISPUTES RESOLUTION TRIBUNALS",
+      "section": "29",
+      "title": "Right of audience",
+      "content": "29. —(1) Subject to this section, a party to proceedings before the Registrar or a tribunal must present his or her own case. (2) The following persons may present a case on behalf of a party to proceedings before the Registrar or a tribunal: ( a ) where the party is a minor and is, in the opinion of the Registrar or tribunal, unable to present his or her own case, the minor’s parent or guardian, or any other person as may be approved by the Registrar or tribunal (as the case may be); ( b ) where the party is not resident in Singapore and is unable to remain in Singapore until the hearing of the case, any other person who is duly authorised in writing by that party and who is approved by the Registrar or tribunal (as the case may be); ( c ) where the party who, in the opinion of the Registrar or tribunal (as the case may be), is unable to present his or her own case by reason of old age, illiteracy or infirmity of mind or body, any other person who is duly authorised in writing by that party or who is approved by the Registrar or tribunal (as the case may be); [Act 43 of 2024 wef 24/03/2025] ( d ) where the party is the Director-General, a public officer or any other person who is approved by the Registrar or tribunal, as the case may be. [Act 43 of 2024 wef 24/03/2025] (3) Despite subsection (2), no party (other than the Director-General) to any proceedings before the Registrar or a tribunal may be represented by an advocate and solicitor unless — ( a ) all the parties to the proceedings otherwise agree to that party being represented by an advocate and solicitor; and ( b ) the Registrar or tribunal (as the case may be) grants permission. [Act 25 of 2021 wef 01/04/2022] [Act 43 of 2024 wef 24/03/2025] (4) Except as provided in subsection (2), no party to any proceedings before the Registrar or a tribunal may be represented by an agent, whether paid or otherwise. (5) Despite subsection (2), the Registrar or tribunal must, before approving any person referred to in that subsection to represent a party, be satisfied that the person has sufficient knowledge of the case and sufficient authority to bind that party whom the person represents."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "PART 3 - COMMUNITY DISPUTES RESOLUTION TRIBUNALS",
+      "section": "30",
+      "title": "Referral of cases to Community Mediation Centre, etc.",
+      "content": "30. —(1) Despite any written law, the Registrar or a tribunal judge may refer a claim commenced in a tribunal to a Community Mediation Centre or to any other person for mediation, with or without the consent of the parties to the claim, if the Registrar or tribunal judge is satisfied that there is a reasonable prospect that the parties will be able to resolve the claim through mediation. [Act 43 of 2024 wef 24/03/2025] (1A) In considering whether there is a reasonable prospect that the parties will be able to resolve the claim through mediation under subsection (1), the Registrar or tribunal judge is to consider whether the parties have previously attempted to resolve the matter through mediation. [Act 43 of 2024 wef 24/03/2025] (2) The Registrar or tribunal judge may, in making a referral under subsection (1), order all or any of the parties to the claim to attend (personally or by a representative permitted under section 14 of the Community Mediation Centres Act 1997 or under a prescribed written law) before a mediator of a Community Mediation Centre or any other person — ( a ) at a time and place to be specified in the Registrar’s or tribunal judge’s order; and ( b ) in a case where the mediation is to be conducted by electronic communication, video conferencing or other electronic means, at a time to be specified in the Registrar’s or tribunal judge’s order and according to the electronic means specified in that order. [Act 43 of 2024 wef 24/03/2025] (3) Any person who fails to comply with the Registrar’s or tribunal judge’s order made under subsection (2) commits contempt of court and action may be taken against that person under the Administration of Justice (Protection) Act 2016. [19/2016]"
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "PART 3 - COMMUNITY DISPUTES RESOLUTION TRIBUNALS",
+      "section": "31",
+      "title": "Person not precluded from filing claim in court",
+      "content": "31. Subject to section 18, nothing in this Act is to be construed as precluding a person from commencing proceedings for a claim that is within the jurisdiction of a tribunal in any other court if that person elects to institute proceedings in that other court to hear and determine that claim."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "PART 4 - GENERAL",
+      "section": "32",
+      "title": "Rules of Court",
+      "content": "32. —(1) The Rules Committee appointed under section 80(3) of the Supreme Court of Judicature Act 1969 may make Rules of Court to — ( a ) regulate and prescribe the procedure and practice to be followed in the tribunals and the Registry, including any procedure and practice to be followed in any proceedings or hearings (including mediation), and any matters incidental to or relating to any such procedure and practice; ( b ) regulate the enforcement of decisions, directions and orders of the tribunals and the Registrar; and ( c ) prescribe such matters as are required by this Act to be prescribed or as are necessary for carrying out the provisions of this Act. (2) Without limiting subsection (1), the Rules of Court may provide for the following: ( a ) what part of the business which may be transacted and the jurisdiction and powers which may be exercised by a tribunal judge may be exercised by the Registrar; ( b ) the form and content of documents to be used for the purposes under this Act, the service of documents and the giving of notices; ( c ) the manner and time within which any act, application, claim or appeal under this Act is to be done or made; ( d ) the functions, powers and duties of the tribunals, the Registrar and other officers including but not limited to — (i) the service of documents and giving of notices; (ii) the enlargement and abridgement of time for the doing of any act or taking any proceedings; and (iii) the conduct of proceedings; ( e ) the manner in and the time within which an application or a claim may be heard, and the circumstances and manner in which claims may be heard together; ( f ) the withdrawal and amendment of claims; ( g ) the summoning of witnesses and the payment of witnesses from public funds or otherwise; ( h ) the means by which particular facts may be proved, and the mode in which evidence of such facts may be given, in any proceedings or on any application in connection with or at any stage of any proceedings; ( i ) the commission of offences by, and the punishment of, persons who refuse to give evidence or obey a summons to witness; ( j ) the transfer of proceedings from a tribunal to a court; ( k ) to regulate the joinder of parties and to prescribe in what cases persons absent, but having an interest in the claim, are to be bound by any order made in that claim, and the circumstances in which orders may be made for the representation of absent persons by one or more parties to a cause or matter; ( l ) the circumstances in which a decision, a direction or an order of the Registrar or a tribunal may be set aside and the procedure for setting aside such decisions, directions or orders; ( m ) the circumstances in which a decision, a direction or an order of the Registrar may be appealed against and the procedure for appeals from the Registrar to a tribunal and from a tribunal to the General Division of the High Court; ( n ) the scales of allowances, costs and fees to be taken or paid to any party or witness in any proceedings in a tribunal or before the Registrar, the fees to be charged in respect of anything done or any service rendered under or by virtue of this Act, the circumstances in which costs may be awarded in any proceedings in a tribunal or before the Registrar and for regulating any matters relating to the costs of such proceedings. [40/2019] (3) The Rules of Court may, instead of providing for any matter, refer to any provision made or to be made for that matter by practice directions issued for the time being by the Registrar of the Supreme Court or the Registrar of the State Courts, as the case may be. (4) All Rules of Court made under this section are to be presented to Parliament as soon as possible after publication in the Gazette ."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "PART 4 - GENERAL",
+      "section": "33",
+      "title": "Regulations",
+      "content": "33. —(1) The Minister may make regulations for carrying out the purposes and provisions of this Act and for any matter which is required under this Act to be prescribed. (2) Without limiting subsection (1), the Minister may make regulations for all or any of the following matters: ( a ) the fees to be paid in respect of any application under this Act and otherwise in connection with the administration of this Act, and the waiver, remission or refund (in whole or in part) of the fees; ( b ) the manner in which fees are to be paid. [Act 43 of 2024 wef 24/03/2025] (3) The powers conferred by this section do not extend to any matter for which — ( a ) regulations may be made under section 13Z; and ( b ) Rules of Court may be made under section 32. [Act 43 of 2024 wef 24/03/2025]"
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "PART 4 - GENERAL",
+      "section": "34",
+      "title": "Composition of offences",
+      "content": "34. —(1) A person authorised by the Minister may compound any offence under this Act (except Part 2A) that is prescribed as a compoundable offence — ( a ) by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following: (i) one half of the amount of the maximum fine that is prescribed for the offence; (ii) $2,000; and ( b ) by requiring the person reasonably suspected of having committed the offence to do, or to refrain from doing, such things as may be specified in an offer of composition (called conditions of composition) by the authorised officer with the concurrence (general or specific) of the Public Prosecutor. (2) On payment of the sum of money and on full compliance with the conditions of composition, no further proceedings are to be taken against that person in respect of the offence. (3) The Minister may make regulations to prescribe the offences that may be compounded under this section. (4) All sums collected under this section must be paid into the Consolidated Fund. [Act 43 of 2024 wef 24/03/2025]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "auxiliary community relations officer",
+      "definition": "“auxiliary community relations officer” means an auxiliary community relations officer appointed under section 13D; [Act 43 of 2024 wef 24/03/2025]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "claim",
+      "definition": "“claim” includes a counterclaim;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Community Disputes Resolution Tribunal",
+      "definition": "“Community Disputes Resolution Tribunal” or “tribunal” means a District Court designated under section 14 as a Community Disputes Resolution Tribunal; [Act 43 of 2024 wef 24/03/2025]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Community Mediation Centre",
+      "definition": "“Community Mediation Centre” means a Community Mediation Centre established under section 3 of the Community Mediation Centres Act 1997;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "community relations officer",
+      "definition": "“community relations officer” means a community relations officer appointed under section 13C; [Act 43 of 2024 wef 24/03/2025]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Deputy Director",
+      "definition": "“Deputy Director” means a Deputy Director of Community Relations appointed under section 13B; [Act 43 of 2024 wef 24/03/2025]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Director",
+      "definition": "“Director” means a Director of Community Relations appointed under section 13B; [Act 43 of 2024 wef 24/03/2025]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Director-General",
+      "definition": "“Director-General” means the Director-General of Community Relations appointed under section 13B; [Act 43 of 2024 wef 24/03/2025]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registrar",
+      "definition": "“Registrar” means the registrar of the State Courts appointed under section 12 of the State Courts Act 1970 and includes a deputy registrar appointed under that section;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Registry",
+      "definition": "“Registry” means the Registry of the State Courts; [Act 43 of 2024 wef 24/03/2025]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Senior Assistant Director",
+      "definition": "“Senior Assistant Director” means a Senior Assistant Director of Community Relations appointed under section 13B; [Act 43 of 2024 wef 24/03/2025]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "statutory body",
+      "definition": "“statutory body” means a body corporate established by or under a public Act for the purposes of a public function; [Act 43 of 2024 wef 24/03/2025]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "unreasonable interference",
+      "definition": "“unreasonable interference” , in relation to a neighbour of an individual, means unreasonable interference with the enjoyment or use of the place of residence that the neighbour resides in. [Act 43 of 2024 wef 24/03/2025]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "court",
+      "definition": "“court” means a court of competent jurisdiction and includes a Community Disputes Resolution Tribunal;",
+      "source_provision": "s3"
+    },
+    {
+      "term": "exclusion order",
+      "definition": "“exclusion order” means an order made under section 9(2) excluding a contravening party (within the meaning of that section) from his or her place of residence;",
+      "source_provision": "s3"
+    },
+    {
+      "term": "place of residence",
+      "definition": "“place of residence” means a house, a flat, an apartment or other dwelling place used for the purpose of residence;",
+      "source_provision": "s3"
+    },
+    {
+      "term": "special direction",
+      "definition": "“special direction” means a direction made by a court under section 6(2) against a contravening party (within the meaning of that section);",
+      "source_provision": "s3"
+    },
+    {
+      "term": "vicinity",
+      "definition": "“vicinity” , in relation to a place of residence, includes any common corridor, common space or common property, any road, or any building or other property, in the surrounding area of the place of residence. [Act 43 of 2024 wef 24/03/2025]",
+      "source_provision": "s13A"
+    },
+    {
+      "term": "abate",
+      "definition": "“abate” , in relation to an act or omission causing unreasonable interference, includes to prevent, reduce, eliminate or control the act or omission;",
+      "source_provision": "s13A"
+    },
+    {
+      "term": "auxiliary police officer",
+      "definition": "“auxiliary police officer” means an auxiliary police officer appointed under Part 9 of the Police Force Act 2004;",
+      "source_provision": "s13A"
+    },
+    {
+      "term": "detection and monitoring equipment",
+      "definition": "“detection and monitoring equipment” means any equipment or device (including any software) or a combination of such equipment and devices (including any software) that is capable of detecting, monitoring or recording any activity causing unreasonable interference in a place of residence or the vicinity of a place of residence;",
+      "source_provision": "s13A"
+    },
+    {
+      "term": "entity responsible for the vicinity of a place of residence",
+      "definition": "“entity responsible for the vicinity of a place of residence” means a person, agency or other entity that has the charge, management or control of the vicinity of the place of residence either on his, her or its own account or as agent of another person, including but not limited to, the Housing and Development Board established under the Housing and Development Act 1959, a Town Council established under the Town Councils Act 1988 or a management corporation for a strata title plan;",
+      "source_provision": "s13A"
+    },
+    {
+      "term": "occupier",
+      "definition": "“occupier” , in relation to a place of residence, means a person in occupation of the place of residence or having the charge, management or control of the place either on his, her or its own account or as agent of another person, but does not include a lodger;",
+      "source_provision": "s13A"
+    },
+    {
+      "term": "owner",
+      "definition": "“owner” , in relation to a place of residence, means a person other than the mortgagee or chargee not in possession, who is for the time being entitled to dispose of the freehold of the place of residence whether in possession or reversion, or who holds under a leasehold or is entitled to the rents and profits of the place of residence;",
+      "source_provision": "s13A"
+    },
+    {
+      "term": "prescribed limitations",
+      "definition": "“prescribed limitations” means the limitations prescribed under section 13G;",
+      "source_provision": "s13A"
+    },
+    {
+      "term": "suspected individual",
+      "definition": "“suspected individual” means an individual who is suspected of an act or omission which causes unreasonable interference with his or her neighbour’s enjoyment or use of the place of residence that the neighbour resides in;",
+      "source_provision": "s13A"
+    },
+    {
+      "term": "business address",
+      "definition": "“business address” means the individual’s usual or last known place of business in Singapore;",
+      "source_provision": "s13ZC"
+    },
+    {
+      "term": "last email address",
+      "definition": "“last email address” means the last email address given by the individual to the person serving the direction, order or notice as the email address to serve a direction, order or notice;",
+      "source_provision": "s13ZC"
+    },
+    {
+      "term": "residential address",
+      "definition": "“residential address” means an individual’s usual or last known place of residence in Singapore. [Act 43 of 2024 wef 24/03/2025]",
+      "source_provision": "s13ZC"
+    }
+  ]
+}

@@ -1,0 +1,299 @@
+{
+  "id": "nra-1965",
+  "type": "statute",
+  "title": "National Registration Act 1965",
+  "title_en": "National Registration Act 1965",
+  "short_name": "NRA1965",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/NRA1965",
+  "description": "An Act for the registration of persons in Singapore, for the issue of identity cards and for purposes connected therewith.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the National Registration Act 1965."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. —(1) In this Act, unless the context otherwise requires — “Commissioner” means the Commissioner of National Registration appointed under section 3; “document” means anything in which information of any description is recorded, whether in electronic or other form; “false identity card” means — ( a ) a document that is not an identity card but purports to be an identity card; or ( b ) an identity card that has been altered by an unauthorised person; “householder” means the owner, tenant, subtenant or occupier of a house, shophouse, flat, apartment, hut or other dwelling place; “identity card” means an identity card issued under this Act, and includes an identity card issued or deemed to be issued under the Registration of Persons Ordinance 1955 (Ordinance 32 of 1955); “immigration officer” means an immigration officer appointed under section 3 of the Immigration Act 1959; “personal identifier” means a personal identifier in any form (including digital form) that is specified in the Schedule; “police officer” has the meaning given by section 2(1) of the Police Force Act 2004; “public authority” means a body established or constituted by or under a public Act to perform or discharge a public function; “register” means the register specified in section 5; “registration officer”, in relation to any provision of this Act, means — ( a ) the Commissioner; ( b ) the Deputy Commissioner of National Registration; ( c ) an Assistant Commissioner of National Registration; or ( d ) a person appointed as a registration officer under section 3(4) for the purposes of that provision. [32/2016] (2) Unless the context otherwise requires — ( a ) a reference to the registration of a person under this Act includes a reference to the re‑registration of a person under this Act; and ( b ) a reference to a person who is registered, or required to be registered, under this Act includes a reference to a person who is re‑registered, or required to be re‑registered, under this Act. [32/2016] (3) The Minister may, by order in the Gazette , amend the Schedule, except that any other personal identifier so prescribed in the order — ( a ) must be an image, a measurement or a recording of an external part of the human body, or a measurement or a recording of a person’s voice; and ( b ) must not be an identifier the obtaining of which would involve the taking of an invasive sample from the human body within the meaning given by section 8 of the Registration of Criminals Act 1949. [32/2016] [Act 26 of 2022 wef 12/06/2023]"
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Appointment of officers",
+      "content": "3. —(1) The Minister may, from among public officers, appoint a Commissioner of National Registration, a Deputy Commissioner of National Registration and such number of Assistant Commissioners of National Registration as the Minister considers necessary for the purposes of this Act. [32/2016] (2) The Commissioner is, subject to the general or special directions of the Minister, responsible for the administration of this Act. [32/2016] (3) The Deputy Commissioner of National Registration and every Assistant Commissioner of National Registration may, subject to any conditions or restrictions that the Commissioner may impose, perform the functions and exercise the powers of the Commissioner under this Act. [32/2016] (4) The Commissioner may, subject to subsection (5) and any conditions or restrictions that the Commissioner thinks fit, appoint, by name or office, any of the following persons to be a registration officer for the purposes of this Act or any particular provision of this Act: ( a ) a public officer; ( b ) an employee of a public authority; ( c ) an employee of a prescribed institution. [32/2016] (5) Under subsection (4), only a public officer may be appointed as a registration officer for the purposes of section 21, 22, 24 or 25. [32/2016] (6) The Commissioner may delegate any of the Commissioner’s functions or powers under this Act (except the power to appoint registration officers or the power to delegate conferred by this section), either generally or specially and subject to any conditions or restrictions that the Commissioner thinks fit, to a registration officer described in subsection (4)( a ) or ( b ). [32/2016] (7) Every appointment and every delegation under this section must be in writing, and the instrument of appointment or delegation must be given to the appointee or delegate, as the case may be. [32/2016] (8) Where an officer specified in subsection (3) or a delegate of the Commissioner under subsection (6), in accordance with that subsection, performs (or is to perform) any function or exercises (or is to exercise) any power of the Commissioner under this Act, any reference to the Commissioner in this Act in respect of that function or power includes that officer or delegate, as the case may be. [32/2016]"
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Public servants and public officers, etc.",
+      "content": "4. Every registration officer — ( a ) is deemed to be a public servant for the purposes of the Penal Code 1871; and ( b ) is, in relation to his or her administration, collection or enforcement of payment of any fee, charge or composition sum under this Act, deemed to be a public officer for the purposes of the Financial Procedure Act 1966; and section 20 of that Act applies to him or her even though he or she is not or was not in the employment of the Government. [3A [32/2016]"
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Establishment of register",
+      "content": "5. —(1) The Commissioner must cause to be kept and maintained a register of all persons in Singapore who are registered or required to be registered under this Act. [32/2016] (2) The register is to be in the form that the Commissioner thinks fit, and must contain — ( a ) the name and sex of every person registered or required to be registered under this Act; and [Act 17 of 2021 wef 29/05/2022] ( b ) any other particulars of that person that the Commissioner considers necessary. [32/2016] (3) A copy of or extract from any document, including a copy produced by way of microfilm or computer print-out, filed or lodged at the office of the Commissioner, certified to be a true copy or an extract under the hand and seal of the Commissioner is in any proceedings admissible in evidence as of equal validity with the original document. [4"
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Registration",
+      "content": "6. Subject to section 7 and any exemptions which may be granted by regulations made under section 33, every person lawfully resident within Singapore must be registered under and in accordance with this Act. [5 [32/2016]"
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Re-registration of persons in possession of identity cards",
+      "content": "7. —(1) Every person who, on 3 June 1990, is in possession of a valid identity card issued under this Act must re‑register under this Act within the period that the Minister may, by notification in the Gazette , specify. (2) All identity cards issued under this Act before 3 June 1990 cease to be valid on the expiry of the period within which persons in possession of the identity cards are required to be re-registered under subsection (1). (3) Nothing in this section prevents the re‑registration of a person who fails to re-register within the period specified in subsection (1). [6 [28/94]"
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Entry or alteration of names in register",
+      "content": "8. —(1) The name of a person to be entered in the register and, where the person’s name in the register is to be altered, the person’s altered name to be entered in the register — ( a ) must be in a form expressed in characters in the modern English alphabet; ( b ) may include a permitted character; and ( c ) must not exceed the number of characters permitted in the electronic form of the register for the entry of a name. [32/2016] (2) The Commissioner may refuse to enter or alter the name of a person in the register if the name (including the altered name) — ( a ) contains anything that represents or resembles a title, a rank or an award; ( b ) where the name adopts a patronymic or matronymic naming system to signify lineage, includes any expression or abbreviation (for the purpose of that naming system) that does not correspond to the person’s sex entered or to be entered in the register; [Act 17 of 2021 wef 29/05/2022] ( c ) is obscene or offensive; or ( d ) is contrary to the public interest. [32/2016] (3) In subsection (1)( b ), “permitted character” has the meaning given by section 2(1) of the Registration of Births and Deaths Act 2021. [6A [Act 17 of 2021 wef 29/05/2022] [Act 2 of 2024 wef 16/04/2024]"
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Issue of identity cards",
+      "content": "9. Subject to this Act, every person registered under this Act must be issued with an identity card. [7 [32/2016]"
+    },
+    {
+      "provision_ref": "s10",
+      "section": "10",
+      "title": "Change of residence",
+      "content": "10. —(1) Any person registered under this Act who changes his or her place of residence must, within 28 days thereof, report the change to a registration officer. [19/2001; 32/2016] (2) Where a person registered under this Act has changed or changes his or her place of residence to a place outside Singapore, he or she may inform a registration officer of his or her contact address in Singapore, which must be — ( a ) the address of any premises in Singapore which he or she still owns an estate or interest in and which is used or permitted under written law to be used as residence; or ( b ) the address of the place of residence in Singapore of — (i) his or her spouse, grandparent, parent, sibling, child or grandchild; (ii) any grandparent, parent or sibling of his or her spouse; or (iii) any sibling of any of his or her parents or his or her spouse’s parents or any child of any of his or her siblings or spouse’s siblings. [8 [19/2001; 32/2016]"
+    },
+    {
+      "provision_ref": "s11",
+      "section": "11",
+      "title": "Transmission of information of change of person’s place of residence to Government departments, public authorities and public officers",
+      "content": "11. —(1) Where — ( a ) any person is required by any written law to inform any Government department, public authority or public officer of any change of his or her place of residence; and ( b ) it is provided by that written law that that person is deemed to have complied with the requirement thereunder to inform the Government department, public authority or public officer of any change of his or her place of residence if he or she makes a report of the change under section 10, the Commissioner must, upon that person making a report of a change of his or her place of residence under section 10, transmit to the Government department, public authority or public officer information of the change of that person’s place of residence as reported by him or her. [28/94; 32/2016] (2) Where the Commissioner has transmitted information of a change of a person’s place of residence to any Government department, public authority or public officer under subsection (1) — ( a ) neither the Government nor any registration officer nor any authorised person involved in the transmission of the information shall be liable for any loss or damage suffered by any person as a result of any error or omission of whatever nature appearing in the information transmitted or however caused if such error or omission was made in good faith and in the ordinary course of the discharge of the duties of such registration officer or authorised person; and ( b ) the Government department, public authority or public officer to which or to whom the information has been transmitted shall not be liable for any loss or damage suffered by any person as a result of any error or omission of whatever nature appearing in the information transmitted or however caused by any registration officer or authorised person involved in the transmission of the information. [28/94; 32/2016] (3) In this section, “public officer” includes the holder of any statutory office. [8A [28/94]"
+    },
+    {
+      "provision_ref": "s12",
+      "section": "12",
+      "title": "Returns by householders",
+      "content": "12. —(1) Every householder must, when so required in writing by a registration officer, submit in respect of his or her household the returns, at the times during the year, that may be prescribed for the carrying out of the provisions of this Act. (2) Such returns must be sent by a householder to any public officer or public authority that may be declared by the Minister by notification in the Gazette to be a public officer or public authority for the purposes of this section. [32/2016] (3) The owner, manager or other person in charge of a hotel, boarding house, hostel or other like dwelling place may be required by a registration officer to submit the returns required under subsection (1). [9"
+    },
+    {
+      "provision_ref": "s13",
+      "section": "13",
+      "title": "Cancellation of registration",
+      "content": "13. —(1) Where a person has been registered under this Act and the Minister is satisfied that the registration — ( a ) was obtained by means of fraud, false representation or the concealment of any material fact; or ( b ) was effected by mistake, the Minister may by order require the Commissioner to cancel the registration of that person. [32/2016] (2) Any person whose registration is cancelled under this section must forthwith surrender his or her identity card to the Commissioner. [10"
+    },
+    {
+      "provision_ref": "s14",
+      "section": "14",
+      "title": "Onus of proof of contents of written applications and of identity cards, etc.",
+      "content": "14. The onus of proving the truth of the contents of any written application for registration made under this Act or the contents of an identity card is on the applicant or on the person to whom the identity card was issued or on any other person alleging the truth of the contents. [11 [32/2016]"
+    },
+    {
+      "provision_ref": "s15",
+      "section": "15",
+      "title": "Proof of citizenship by birth",
+      "content": "15. —(1) No claim by a person seeking to be registered under this Act that he or she is a citizen of Singapore by birth may, subject to subsection (3), be accepted by a registration officer if the person making the claim does not produce a birth certificate or other evidence to the registration officer’s satisfaction. (2) The onus of proving the status of citizenship of Singapore by birth is on the person who makes the claim. (3) The evidence of — ( a ) a birth certificate without the name of the child; ( b ) a birth certificate without the name of the child, but supported by a statutory declaration to the effect that the birth certificate refers to the birth of the person referred to in the statutory declaration; or ( c ) an identity card issued or deemed to be issued under the Registration of Persons Ordinance 1955 (Ordinance 32 of 1955), in which the holder of the identity card is stated to have been born in Singapore, is not necessarily sufficient evidence for the purposes of subsection (1). [12 [32/2016]"
+    },
+    {
+      "provision_ref": "s16",
+      "section": "16",
+      "title": "Offences and penalties",
+      "content": "16. —(1) Any person who — ( a ) is required to register under this Act, or being registered under this Act, is required to re-register under this Act fails to register or re-register within the prescribed time or period; ( b ) fails to report his or her change of residence as required under section 10; ( c ) informs a registration officer of an address as a contact address that is false or is not an address described in section 10(2)( a ) or ( b ); ( d ) fails to submit, or fails to submit within the time prescribed, any returns that are required to be submitted under section 12; ( e ) without lawful authority or reasonable excuse, is in possession of one or more identity cards; ( f ) unlawfully deprives any person of an identity card; ( g ) fails or refuses to surrender his or her identity card to the Commissioner as required under section 13(2); or ( h ) defaces, mutilates or destroys an identity card, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 5 years or to both. [19/2001] (2) Any person who — ( a ) without lawful authority, parts with possession of any identity card to any person; ( b ) without lawful authority or reasonable excuse, knowingly obtains or is in possession of or makes use of a forged identity card or an identity card other than his or her own; ( c ) unlawfully issues or reproduces an identity card or any part of an identity card; or ( d ) forges, erases, alters or falsifies any entry in or tampers with an identity card, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 10 years or to both. (3) Any person who aids or abets in the commission of any offence under this Act shall be guilty of an offence. (4) Every offence under this Act is deemed to be an arrestable offence for the purposes of the Criminal Procedure Code 2010. [13"
+    },
+    {
+      "provision_ref": "s17",
+      "section": "17",
+      "title": "Provision of information by Housing and Development Board",
+      "content": "17. —(1) Any registration officer duly authorised by the Commissioner may, if the registration officer considers it necessary for administering or enforcing any requirement under this Act relating to the registration of any person or to the reporting of any change of residence, by written notice require the Board to disclose any secret or confidential document or information which is in the possession or control of the Board. [5/2010; 32/2016] (2) The Board must disclose the document or information required by a registration officer under subsection (1) despite any obligation as to secrecy or confidentiality imposed by any law. [5/2010] (3) Any registration officer to whom any document or information has been disclosed under subsection (2) must not disclose that document or information to any other person except — ( a ) to another law enforcement officer for the performance of his or her official duties in administering or facilitating the administration of any written law, provided the Board consents to the disclosure; or ( b ) for the purpose of criminal proceedings. [5/2010] (4) Any registration officer who contravenes subsection (3), or any law enforcement officer who discloses any document or information obtained under that subsection to any other person other than for the purpose specified in paragraph ( a ) or ( b ) of that subsection, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both. [5/2010] (5) In this section, unless the context otherwise requires — “Board” means the Housing and Development Board established under section 3 of the Housing and Development Act 1959; “disclose”, in relation to any document or information, includes allowing access to the document or information; “law enforcement officer” means — ( a ) any police officer; ( b ) any immigration officer; or ( c ) any registration officer. [13A [5/2010; 32/2016] 18. [ Repealed by Act 26 of 2022 wef 12/06/2023 ]"
+    },
+    {
+      "provision_ref": "s19",
+      "section": "19",
+      "title": "Attempt to commit offences and assisting offenders",
+      "content": "19. —(1) Without affecting the operation of Chapters 5 and 23 of the Penal Code 1871, any person who attempts to commit or does any act preparatory to the commission of an offence under this Act shall be deemed to be guilty of the offence under this Act. (2) A person knowing or having reasonable cause to believe that another person is guilty of an offence under this Act must not give that other person any assistance with intent thereby to prevent, hinder or interfere with the apprehension, trial or punishment of that person for that offence. [15"
+    },
+    {
+      "provision_ref": "s20",
+      "section": "20",
+      "title": "False or invalid documents in connection with registration, etc.",
+      "content": "20. A registration officer may take possession of any document produced to the registration officer in connection with the registration of a person, or the alteration of any particulars of the person entered in the register, under this Act if the registration officer reasonably suspects that the document is false or invalid. [15A [32/2016]"
+    },
+    {
+      "provision_ref": "s21",
+      "section": "21",
+      "title": "Demand for surrender of suspicious identity cards",
+      "content": "21. —(1) A registration officer or a police officer may demand that a person having possession or control of an identity card (including a document purporting to be an identity card) to surrender the identity card to the registration officer or police officer if there are reasonable grounds to suspect that — ( a ) the identity card has been obtained by means of any false or misleading information, document or statement; ( b ) the identity card has been used in the commission of an offence under this Act; or ( c ) the identity card is a false identity card. [32/2016] (2) Any person who receives a demand from a registration officer or a police officer under subsection (1) must comply with the demand. [32/2016] (3) Any person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both. [15B [32/2016]"
+    },
+    {
+      "provision_ref": "s22",
+      "section": "22",
+      "title": "Arrest, search and detention",
+      "content": "22. —(1) Where any person — ( a ) is reasonably suspected by a registration officer or police officer of the commission of any offence under this Act; or ( b ) on demand by a registration officer or a police officer — (i) does not give his or her name and address; (ii) gives a name or address which the officer has reason to believe is false; or (iii) gives as his or her address a place outside Singapore, that person may be arrested without warrant by the registration officer or police officer. [32/2016] (2) If a registration officer or a police officer reasonably suspects that any evidence of the commission of an offence under this Act is likely to be found on any premises, or in any vehicle, train, vessel or aircraft, or on any person, the officer may, without warrant and with any assistance that the officer thinks necessary — ( a ) enter and search the premises; ( b ) stop, board and search the vehicle, train, vessel or aircraft (whether in a public or private place); or ( c ) stop and search the person (whether in a public or private place), as the case may be. [32/2016] (3) A registration officer or a police officer exercising any power under subsection (2) may, if the circumstances so warrant, with any assistance that the officer thinks necessary — ( a ) break open any door, window, lock, fastener, compartment, box, container or other thing; or ( b ) remove by force any obstruction to the exercise of that power. [32/2016] (4) A registration officer or a police officer carrying out a search under subsection (2) may take possession or make copies of any document found during the search that the officer reasonably believes to be connected to the commission of an offence under this Act. [32/2016] (5) A woman must not be searched under this section except by a woman. [16 (6) Any person arrested under subsection (1) may be detained at — ( a ) a lock-up appointed as a place of confinement under section 4(1) of the Prisons Act 1933; or ( b ) an immigration depot designated under the Immigration Act 1959. [Act 16 of 2024 wef 17/06/2024] [Act 16 of 2024 wef 17/06/2024]"
+    },
+    {
+      "provision_ref": "s23",
+      "section": "23",
+      "title": "How arrested person is to be dealt with",
+      "content": "23. —(1) A registration officer or a police officer who makes an arrest under section 22(1) must comply with sections 67 and 68 of the Criminal Procedure Code 2010. [32/2016] (2) In subsection (1), a reference to a police officer in sections 67 and 68 of the Criminal Procedure Code 2010 includes a reference to a registration officer. [16A [32/2016]"
+    },
+    {
+      "provision_ref": "s23A",
+      "section": "23A",
+      "title": "Bail and bond",
+      "content": "23A. —(1) A person who has been arrested by a registration officer or police officer under section 22(1) may be released on bail or on personal bond granted by any registration officer. (2) Division 5 (Bails and bonds) of Part 6 of the Criminal Procedure Code 2010 applies to the release of a person on bail or on personal bond under this section or section 92 or 93 of the Criminal Procedure Code 2010 (as the case may be) with the following modifications: ( a ) any reference to “officer”, “police officer” or “police officer of or above the rank of sergeant” is to be read to include a registration officer; ( b ) the reference to the Commissioner of Police in section 92(1) of the Criminal Procedure Code 2010 is to be read to include the Commissioner. [Act 16 of 2024 wef 17/06/2024]"
+    },
+    {
+      "provision_ref": "s24",
+      "section": "24",
+      "title": "Investigation powers",
+      "content": "24. —(1) A registration officer may investigate an offence under this Act. [32/2016] (2) In any case relating to the commission of an offence under this Act, a registration officer — ( a ) has all the powers of a police officer under the Criminal Procedure Code 2010 in relation to an investigation into an arrestable offence; and ( b ) when exercising the powers of a police officer under the Criminal Procedure Code 2010, is deemed to be an officer not below the rank of inspector of police. [16B [32/2016]"
+    },
+    {
+      "provision_ref": "s25",
+      "section": "25",
+      "title": "Notice to attend court",
+      "content": "25. —(1) Where a registration officer has reasonable grounds to believe that a person has committed an offence under this Act (called in this section the alleged offender), the registration officer may, instead of applying to a court for a summons under the Criminal Procedure Code 2010, immediately serve upon the alleged offender a prescribed notice, requiring the alleged offender to attend at the court and on the date and time specified in the notice. [32/2016] (2) A duplicate of the notice must be prepared by the registration officer and, if so required by a court, produced to the court. [32/2016] (3) The registration officer may serve the notice on the alleged offender in the same manner as the service of a summons under section 116 of the Criminal Procedure Code 2010. [32/2016] (4) Where the alleged offender appears before the court, the court is to take cognizance of the alleged offence and proceed as though the alleged offender were produced before the court under a summons issued under section 153 of the Criminal Procedure Code 2010. [32/2016] (5) If the alleged offender fails to appear before the court in person or by counsel on the date and time specified in the notice, the court may, if satisfied that the notice was duly served on the alleged offender, issue a warrant for the arrest of the alleged offender unless before that date — ( a ) in the case of an offence which may be compounded, the alleged offender has been permitted to compound the offence; or ( b ) the notice has been cancelled under subsection (7). [32/2016] (6) Where the alleged offender is arrested under a warrant issued under subsection (5) — ( a ) the alleged offender must be produced before a court; and ( b ) the court is to proceed as though the alleged offender were produced before the court under a summons issued under section 153 of the Criminal Procedure Code 2010. [Act 31 of 2022 wef 01/11/2022] (7) A registration officer may cancel a notice issued under subsection (1) at any time before the date specified in that notice for the alleged offender named in that notice to attend court. [16C [32/2016]"
+    },
+    {
+      "provision_ref": "s26",
+      "section": "26",
+      "title": "Registration officers and police officers to produce identification",
+      "content": "26. —(1) When exercising any power under this Act, every registration officer and police officer must — ( a ) if not in uniform, declare his or her office; and ( b ) on demand by any person affected by the exercise of that power, produce to that person any identification card or other document that the Commissioner (in the case of registration officers) or the Commissioner of Police (in the case of police officers) may direct to be carried. [32/2016] (2) Despite any provision of this Act, it is not an offence for a person to refuse to comply with any request, demand or order made or given by a registration officer or a police officer who does not comply with subsection (1). [16D [32/2016]"
+    },
+    {
+      "provision_ref": "s27",
+      "section": "27",
+      "title": "Report of certain persons admissible as evidence",
+      "content": "27. —(1) Any document purporting to be a report under the hand of any of the persons mentioned in subsection (2) upon any matter or thing duly submitted to that person for examination, analysis or report, may be used as evidence in any trial or other proceedings under this Act, unless the court requires that person to be called as a witness: Provided that in any case in which the Public Prosecutor intends to give in evidence any such report, the Public Prosecutor must deliver a copy of the report to the accused not less than 10 clear days before the commencement of the trial or other proceedings. [32/2016] (2) The following are persons to whom this section applies: ( a ) any officer or any person duly authorised to issue identity cards by virtue of any written law, including subsidiary legislation, in force in Malaysia; and ( b ) any police officer of Malaysia charged with the registration or collation of fingerprints. [17"
+    },
+    {
+      "provision_ref": "s28",
+      "section": "28",
+      "title": "Composition of offences",
+      "content": "28. —(1) The Commissioner or a registration officer may compound any offence under this Act that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $500. [32/2016] (2) On payment of the sum of money, no further proceedings are to be taken against that person in respect of the offence. [17A [32/2016]"
+    },
+    {
+      "provision_ref": "s29",
+      "section": "29",
+      "title": "Police officers’ functions and powers under Criminal Procedure Code 2010",
+      "content": "29. To avoid doubt, nothing in this Act affects a police officer’s functions or powers under the Criminal Procedure Code 2010 or any other written law. [17B [32/2016]"
+    },
+    {
+      "provision_ref": "s30",
+      "section": "30",
+      "title": "Obligation to be in possession of travel document",
+      "content": "30. Nothing in this Act relieves any person of any obligation under any other written law to be in possession of a passport or any other travel document whatsoever. [18 [32/2016]"
+    },
+    {
+      "provision_ref": "s31",
+      "section": "31",
+      "title": "Payments into Consolidated Fund",
+      "content": "31. All fees, charges and composition sums collected under this Act are to be paid into the Consolidated Fund. [18A [32/2016]"
+    },
+    {
+      "provision_ref": "s32",
+      "section": "32",
+      "title": "Service of documents",
+      "content": "32. —(1) A document permitted or required by this Act to be served on an individual may be served — ( a ) by giving it to the individual personally; ( b ) by sending it by prepaid registered post to the address specified by the individual for the service of documents or, if no address is so specified, the individual’s residential address or business address; ( c ) by leaving it at the individual’s residential address with an adult apparently resident there, or at the individual’s business address with an adult apparently employed there; ( d ) by affixing a copy of the document in a conspicuous place at the individual’s residential address or business address; ( e ) by sending it by fax to the fax number given by the individual as the fax number for the service of documents; or ( f ) by sending it by email to the individual’s email address. [32/2016] (2) Service of a document under this section takes effect — ( a ) if the document is sent by fax and a notification of successful transmission is received, on the day of transmission; ( b ) if the document is sent by email, at the time that the email becomes capable of being retrieved by the individual; and ( c ) if the document is sent by prepaid registered post, 2 days after the day the document was posted (even if it is returned undelivered). [32/2016] (3) However, this section does not apply to documents to be served in proceedings in court. [32/2016] (4) In this section — “business address”, in relation to an individual, means the individual’s usual or last known place of business in Singapore; “email address”, in relation to an individual, means the last email address given by the individual to the person serving the document as the email address for the service of documents under this Act; “residential address”, in relation to an individual, means the individual’s usual or last known place of residence in Singapore. [18B [32/2016]"
+    },
+    {
+      "provision_ref": "s33",
+      "section": "33",
+      "title": "Regulations",
+      "content": "33. —(1) The Minister may make regulations for or in respect of any purpose which is considered by the Minister necessary for carrying out the provisions of this Act and for the prescribing of any matter which is authorised or required under this Act to be prescribed. (2) Without limiting subsection (1), the Minister may, by such regulations, provide for — ( a ) the manner in which and the places at which applications for registration of persons under this Act must be made; ( b ) the establishment of a central registry; ( c ) the obligation of a person to furnish information and documents for the purposes of the person’s registration, or the alteration of any particulars of the person entered in the register, under this Act; ( d ) the taking and recording of personal identifiers of persons registered or required to be registered under this Act; ( e ) the issue of identity cards and the particulars to be entered on the identity cards and the different categories of identity cards that may be issued to any categories or classes of persons that may be prescribed; ( f ) the inspection of identity cards by persons in charge of hotels, boarding houses, hostels and any other classes or descriptions of persons that may be prescribed; ( g ) the replacement and cancellation of identity cards which have been issued under this Act; ( h ) the re-registration of persons who have obtained identity cards or replacements of identity cards within any prescribed period; ( i ) the maximum charges that may be made for, and the conditions which may be imposed in respect of, the taking by any person of photographs for the purposes of this Act; ( j ) the surrender or return of identity cards, whether by the holders of the identity cards or other persons; ( k ) the custody and production of identity cards; ( l ) the times and places for the attendance before a registration officer of applicants and holders of identity cards; ( m ) the publication of information derived from the register; ( n ) the making of corrections to and alterations in the register and identity cards; ( o ) the absolute or conditional exemption of any person or category of persons from the provisions of this Act; ( p ) the prescribing of fees and charges for the purposes of this Act; ( q ) subject to Part 19 of the Criminal Procedure Code 2010 and section 17 of the National Library Board Act 1995, the destruction of identity cards issued, and documents obtained by the Commissioner or registration officers, under this Act; and ( r ) the prescribing of anything that is required or permitted to be prescribed under this Act. [32/2016] (3) The regulations may provide that a contravention of any provision of the regulations shall be an offence punishable with a fine not exceeding $3,000 or with imprisonment for a term not exceeding 2 years or with both. [32/2016] (4) The Minister may authorise the Commissioner to devise and use such forms as the Commissioner considers necessary for the purposes of this Act. [19"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Commissioner",
+      "definition": "“Commissioner” means the Commissioner of National Registration appointed under section 3;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "document",
+      "definition": "“document” means anything in which information of any description is recorded, whether in electronic or other form;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "false identity card",
+      "definition": "“false identity card” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "householder",
+      "definition": "“householder” means the owner, tenant, subtenant or occupier of a house, shophouse, flat, apartment, hut or other dwelling place;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "identity card",
+      "definition": "“identity card” means an identity card issued under this Act, and includes an identity card issued or deemed to be issued under the Registration of Persons Ordinance 1955 (Ordinance 32 of 1955);",
+      "source_provision": "s2"
+    },
+    {
+      "term": "immigration officer",
+      "definition": "“immigration officer” means an immigration officer appointed under section 3 of the Immigration Act 1959;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "personal identifier",
+      "definition": "“personal identifier” means a personal identifier in any form (including digital form) that is specified in the Schedule;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "police officer",
+      "definition": "“police officer” has the meaning given by section 2(1) of the Police Force Act 2004;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public authority",
+      "definition": "“public authority” means a body established or constituted by or under a public Act to perform or discharge a public function;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "register",
+      "definition": "“register” means the register specified in section 5;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "registration officer",
+      "definition": "“registration officer” , in relation to any provision of this Act, means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "“Board” means the Housing and Development Board established under section 3 of the Housing and Development Act 1959;",
+      "source_provision": "s17"
+    },
+    {
+      "term": "disclose",
+      "definition": "“disclose” , in relation to any document or information, includes allowing access to the document or information;",
+      "source_provision": "s17"
+    },
+    {
+      "term": "law enforcement officer",
+      "definition": "“law enforcement officer” means — ( a )",
+      "source_provision": "s17"
+    },
+    {
+      "term": "business address",
+      "definition": "“business address” , in relation to an individual, means the individual’s usual or last known place of business in Singapore;",
+      "source_provision": "s32"
+    },
+    {
+      "term": "email address",
+      "definition": "“email address” , in relation to an individual, means the last email address given by the individual to the person serving the document as the email address for the service of documents under this Act;",
+      "source_provision": "s32"
+    },
+    {
+      "term": "residential address",
+      "definition": "“residential address” , in relation to an individual, means the individual’s usual or last known place of residence in Singapore. [18B [32/2016]",
+      "source_provision": "s32"
+    }
+  ]
+}

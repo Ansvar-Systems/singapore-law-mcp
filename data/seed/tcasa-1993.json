@@ -1,0 +1,488 @@
+{
+  "id": "tcasa-1993",
+  "type": "statute",
+  "title": "Tobacco (Control of Advertisements and Sale) Act 1993",
+  "title_en": "Tobacco (Control of Advertisements and Sale) Act 1993",
+  "short_name": "TCASA1993",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/TCASA1993",
+  "description": "An Act to prohibit advertisements relating to any tobacco product or its use, to control the use of tobacco products by young persons, to control the sale, packaging and trade description of tobacco products and for matters connected therewith.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Tobacco (Control of Advertisements and Sale) Act 1993."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. —(1) In this Act, unless the context otherwise requires — “access” includes — ( a ) access that is subject to a precondition (such as, but not limited to, the use of a password); ( b ) access by way of push technology; or ( c ) access by way of a standing request; “advertisement” includes any notice, circular, pamphlet, brochure, programme, price list, label, wrapper or other document and any announcement, notification or intimation to the public or any section of the public or to any person or persons made — ( a ) orally or in writing; ( b ) by means of any poster, placard, notice or other document affixed, posted up or displayed on any wall, billboard or hoarding or on any other object or thing; ( c ) by means of producing or transmitting sound or light and whether for aural or visual reception or both; ( d ) by means of any writing on any vehicle, ashtray, calendar, cigarette lighter, clock or any other object or thing; or ( e ) in any other manner; “authorised officer” means any officer or person appointed under section 19; “Authority” means the Health Sciences Authority established under the Health Sciences Authority Act 2001; “chewing tobacco” means loose‑leaf tobacco, plug tobacco, twist tobacco or tobacco bits intended for chewing; “Chief Executive” means the person appointed under section 15 of the Health Sciences Authority Act 2001 to be the Chief Executive of the Authority; “cigarette” means any product which consists in whole or in part of cut, shredded or manufactured tobacco, or any tobacco derivative or tobacco substitute, rolled up in paper, tobacco leaf or other material and which is in any form that is capable of immediate use; “conveyance” includes any vessel, train, aircraft, vehicle, trailer or other mode of transport; “emission” means any substance that is produced when a tobacco product is used; “imitation tobacco product” means any of the products mentioned in section 16(1) or (2); “licence” means an import and wholesale licence mentioned in section 18(1) or (2), or a retail licence mentioned in section 18(3); “newspaper” includes any magazine, journal, periodical or any other publication containing news, intelligence, information or reports of occurrences, or any remarks, observations or comments in relation either to such news, intelligence, information or occurrences or to any other matter of interest to the public or any section of the public, issued in any language at regular or irregular intervals; “packaging”, in relation to any product or article, means any container and any other packaging material in which or with which the product or article is supplied, and includes — ( a ) the box, carton, cylinder, packet, pouch, tin or other receptacle which contains the product or article; ( b ) where any such receptacle is or is to be contained in one or more other receptacles, each of the other receptacles; ( c ) wrapper or wrapping of any nature or form; ( d ) any accompanying leaflet, brochure or other written material; and ( e ) any written, printed or graphic representation that appears on or with, or is attached to, the product or article or any part of its packaging; “point of sale” means an immobile cash register or counter at which a sale by retail may be made, and does not include a conveyance or vending machine; “premises” includes any or part of any vacant land, building, conveyance or place in Singapore; “publish”, in relation to an advertisement, includes to distribute, show, exhibit, display or broadcast by any form of communication or in any manner; “retail outlet” means any shop, kiosk or stall in Singapore at which goods are sold or exposed for sale by retail; “sell” includes — ( a ) to barter or exchange; or ( b ) to supply in circumstances in which the supplier derives a direct benefit, pecuniary or otherwise; “Singapore‑connected person” means — ( a ) a citizen or a permanent resident of Singapore; ( b ) an individual in Singapore; ( c ) a company or other body corporate incorporated in, or having its central management and control in, Singapore; or ( d ) an unincorporated body established in Singapore, and includes any person or persons constituting or responsible for the management of a person in paragraph ( c ) or ( d ); “smoking” means inhaling and expelling the smoke of any tobacco product and includes the holding of any tobacco product which is alight or emitting smoke; “tobacco product” means — ( a ) a cigarette or cigar, or any other form of tobacco; ( b ) a tobacco derivative; ( c ) a tobacco substitute; or ( d ) a mixture containing any form of tobacco or a tobacco derivative or tobacco substitute, but does not include a therapeutic product registered under the Health Products Act 2007; “tobacco substitute” means any article, object or thing that contains nicotine, but does not include any of the following: ( a ) a cigarette or cigar, or any other form of tobacco; ( b ) a tobacco derivative; ( c ) a mixture containing any form of tobacco or a tobacco derivative; ( d ) a therapeutic product registered under the Health Products Act 2007; “trade mark” has the meaning given by section 2(1) of the Trade Marks Act 1998; “unauthorised advertisement” means any advertisement described in section 3(1)( a ), ( b ), ( c ) or ( d ), but not — ( a ) a price list mentioned in section 3(2); ( b ) an advertisement the publication of which is approved under section 3(6); or ( c ) an advertisement published, or caused to be published, by a person exempted under section 22 from section 3(1); “under-aged person” means — ( a ) for 12 months after the date prescribed, an individual who is below 19 years of age; ( b ) for 12 months after the end of the period in paragraph ( a ), an individual who is below 20 years of age; and ( c ) at any time after the end of the period in paragraph ( b ), an individual who is below 21 years of age; “use”, in relation to any tobacco product, means smoking, chewing, inhaling, ingesting or otherwise introducing the tobacco product or any of its constituents or emissions into the human body (whether by oral means or otherwise); “writing” includes painting, inscription, printing, lithography, typewriting, photography and other modes of representing or reproducing words or figures in visible form. [9/2016; 46/2017; 9/2019] (2) For the purposes of this Act, a sale or a purchase (as the case may be) that is transacted online is regarded as a sale or a purchase in Singapore if, and only if, the purchaser is physically present in Singapore and the purchased product is intended to be delivered in Singapore. [46/2017]"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART 2 - CONTROL OF ADVERTISEMENTS RELATING",
+      "section": "3",
+      "title": "Prohibition on advertisements relating to tobacco products and imitation tobacco products",
+      "content": "3. —(1) Subject to subsection (2) or (6), a person must not publish, or cause to be published, or take part in the publication, in Singapore, of any advertisement — ( a ) containing any express or implied inducement, suggestion or request to purchase or to use any tobacco product or imitation tobacco product; ( b ) providing a facility for a person accessing the advertisement on the Internet to purchase any tobacco product or imitation tobacco product; ( c ) relating to any tobacco product or imitation tobacco product or its use in terms which are calculated, expressly or impliedly, to lead to, induce, urge, promote or encourage the use of the tobacco product or imitation tobacco product; or ( d ) mentioning, illustrating or depicting — (i) the name or trade name of any person associated or concerned with the manufacture, distribution or marketing of any tobacco product or imitation tobacco product; (ii) a brand name of, or trade mark relating to, any tobacco product or imitation tobacco product; or (iii) any pictorial device commonly associated with a brand name of, or trade mark relating to, any tobacco product or imitation tobacco product. [9/2016] (2) Subsection (1) does not apply to an advertisement comprising only a price list that is of a prescribed description and is published in prescribed circumstances. [9/2016] (3) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction — ( a ) to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both, unless paragraph ( b ) applies; or ( b ) if the person has any previous qualifying conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both. [9/2016] (4) In subsection (3), “qualifying conviction” means — ( a ) a conviction for an offence under subsection (3); or ( b ) a conviction for an offence under section 3(1) as in force immediately before 1 August 2016. [9/2016] (5) In any proceedings against a person for contravening subsection (1), it is not necessary for the prosecution to prove that the person knew or had reason to believe that the advertisement published is of a type described in that subsection. [9/2016] (6) The Minister may approve, for such time and upon such conditions as he or she may think fit, the publication of an advertisement or class of advertisements which mentions or refers to the brand name associated with or the name or trade name of a person associated or concerned with the manufacture, distribution or marketing of a tobacco product or imitation tobacco product for the purpose of promoting or identifying any goods or services unconnected with any tobacco product or imitation tobacco product which are manufactured, distributed, marketed or provided by that person. [9/2016] (7) Subsection (6) does not apply to any advertisement or class of advertisements which, directly or indirectly, leads to, induces, urges, promotes or encourages the use of any tobacco product or imitation tobacco product. [9/2016] (8) Where any person fails to comply with any condition imposed by the Minister under this section, the Minister may cancel the approval in relation to which that condition was imposed. (9) Any application for approval under subsection (6) must be made in such form and with such particulars as may be determined by the Minister. (10) In this section, an advertisement that is published electronically is published in Singapore, if — ( a ) the advertisement originates in Singapore, even if none of the persons capable of having access to the advertisement is physically present in Singapore; or ( b ) all of the following apply in respect of the advertisement: (i) the advertisement did not originate in Singapore, or the advertisement’s origin cannot be determined; (ii) the advertisement is published or caused to be published by a Singapore‑connected person or the Singapore‑connected person takes part in that publication; (iii) the advertisement is accessible by persons physically present in Singapore. [9/2016]"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART 2 - CONTROL OF ADVERTISEMENTS RELATING",
+      "section": "4",
+      "title": "Defences",
+      "content": "4. Where a person is charged with an offence for contravening section 3(1) in relation to an unauthorised advertisement, it is a defence for the person charged to prove, on a balance of probabilities, that — ( a ) the person was acting in the course of a business of delivering, transmitting or broadcasting communications (in whatever form or by whatever means) or making data available, and the nature of the business is such that persons undertaking it have no control over the nature or content of the communications or data; or ( b ) the person did not know and had no reason to believe that the advertisement was of a type described in section 3(1). [9/2016]"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART 2 - CONTROL OF ADVERTISEMENTS RELATING",
+      "section": "5",
+      "title": "Offences by owner and occupier",
+      "content": "5. Any person being the owner or occupier of any premises to which the public or any section of the public has access, on payment or otherwise, who knowingly permits or suffers such premises or any part thereof to be kept or used for the publication of any advertisement in contravention of section 3(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART 2 - CONTROL OF ADVERTISEMENTS RELATING",
+      "section": "6",
+      "title": "Presumption relating to printed documents",
+      "content": "6. Where more than 10 copies of a notice, pamphlet, brochure or other printed document, containing an advertisement described in section 3(1)( a ), ( c ) or ( d ), are found in the possession of or in premises occupied by a person who is associated or concerned with the manufacture, distribution or marketing of any tobacco product or imitation tobacco product associated with or related to the brand name, trade name or trade mark mentioned or depicted in the advertisement, the person is presumed, until the contrary is proved, to have taken part in the publication of the advertisement in contravention of section 3(1). [9/2016]"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART 2 - CONTROL OF ADVERTISEMENTS RELATING",
+      "section": "7",
+      "title": "Advertisements in newspapers published outside Singapore",
+      "content": "7. —(1) This Part does not apply to any advertisement described in section 3(1)( a ), ( c ) or ( d ) (called in this section a relevant advertisement), if the advertisement is contained in a newspaper that — ( a ) is printed or published outside Singapore; ( b ) is brought into Singapore for sale, free distribution or personal use; and ( c ) is not a newspaper of a class or description specified by the Minister by notification in the Gazette . [9/2016] (2) Despite subsection (1), a person must not distribute or supply or cause to be distributed or supplied, whether free of charge or otherwise, any newspaper or printed matter containing any relevant advertisement which is printed or published outside Singapore and is brought into Singapore, if that newspaper or printed matter — ( a ) forms part of, or is supplemental to, any newspaper that is printed or published in Singapore; and ( b ) is supplied or distributed to any purchaser or subscriber of any newspaper that is printed or published in Singapore, whether or not the firstmentioned newspaper or printed matter is supplied or distributed at the same time as, or together with, the newspaper printed or published in Singapore. [9/2016] (3) Any person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART 2 - CONTROL OF ADVERTISEMENTS RELATING",
+      "section": "8",
+      "title": "Advertisements not exempted",
+      "content": "8. Nothing in section 7(1) is to be construed as exempting from the provisions of this Act any unauthorised advertisement contained in any notice, circular, pamphlet, brochure or other printed matter or document which is not a newspaper within the meaning of this Act and which is printed or published outside Singapore and brought into Singapore for distribution solely or mainly for the purpose of announcing or commending the qualities of any brand of tobacco product or imitation tobacco product. [9/2016]"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART 3 - CONTROL OF SALE OF TOBACCO PRODUCTS",
+      "section": "9",
+      "title": "Prohibition on sales promotion of tobacco products",
+      "content": "9. —(1) A person must not sell or offer for sale in Singapore to any person, whether in Singapore or elsewhere — ( a ) any goods or services with any tobacco product as a free gift; ( b ) any tobacco product with any other goods or services as a free gift; or ( c ) any tobacco product packaged or labelled together or otherwise in conjunction with any other goods or services. [9/2016] (2) A person must not — ( a ) distribute or give in Singapore; ( b ) cause in Singapore to be distributed or given; or ( c ) assist in Singapore in the distribution or giving of, any free sample of a tobacco product to the public or any section of the public (whether in Singapore or elsewhere) other than to persons who are associated or concerned with the manufacture, distribution or sale of tobacco products. [9/2016] (3) A person must not offer or give in Singapore any tobacco product as a prize in any lottery, raffle, draw, game or competition, whether held in Singapore or elsewhere. [9/2016] (4) Any person who contravenes subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both."
+    },
+    {
+      "provision_ref": "s9A",
+      "chapter": "PART 3 - CONTROL OF SALE OF TOBACCO PRODUCTS",
+      "section": "9A",
+      "title": "Prohibition on shopper loyalty programmes involving tobacco products",
+      "content": "9A. —(1) A person in Singapore must not implement or conduct a programme — ( a ) under which a gift or other benefit may be obtained by a purchaser of tobacco products on the basis of the amount or type of those products purchased, whether or not the programme extends to the purchase of other goods or services; or ( b ) under which a purchaser of goods or services may be entitled to a gift of any tobacco product, whether or not the purchaser may accept another gift. [9/2016] (2) For the purposes of subsection (1), it does not matter whether the programme is implemented or conducted in Singapore or elsewhere, or whether or not the purchaser is physically present in Singapore. [9/2016] (3) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction — ( a ) to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both; or ( b ) in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both. [9/2016]"
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART 3 - CONTROL OF SALE OF TOBACCO PRODUCTS",
+      "section": "10",
+      "title": "Prohibition on supply to under-aged persons",
+      "content": "10. —(1) Any person who, directly or indirectly, does any of the following in Singapore: ( a ) sells any tobacco product to an under-aged person; ( b ) buys or acquires any tobacco product for the purpose of giving it, whether or not for a consideration, to an under‑aged person; ( c ) gives or furnishes any tobacco product to an under-aged person, shall be guilty of an offence and shall be liable on conviction for — ( d ) an offence under paragraph ( a ) to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000; ( e ) an offence under paragraph ( b ) to a fine not exceeding $2,500 and, in the case of a second or subsequent conviction, to a fine not exceeding $5,000; or ( f ) an offence under paragraph ( c ) to a fine not exceeding $500 and, in the case of a second or subsequent conviction, to a fine not exceeding $1,000. [9/2016; 46/2017] (2) It is a defence to any prosecution for an offence under subsection (1) if a person proves that the person — ( a ) had reasonable grounds to believe and did make reasonable inquiries to ascertain that the person to whom the tobacco product was sold, given or furnished was not an under‑aged person; or ( b ) had received from the person to whom the tobacco product was sold, given or furnished evidence purporting to show that that person was not an under‑aged person, and that it was reasonable to and the firstmentioned person did accept that evidence as correct. [46/2017]"
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART 3 - CONTROL OF SALE OF TOBACCO PRODUCTS",
+      "section": "11",
+      "title": "Control of use of tobacco products by under-aged persons",
+      "content": "11. —(1) A person who, being an under-aged person — ( a ) uses or has in the person’s possession, in a public place or on a road in Singapore, any tobacco product; or ( b ) buys in Singapore any tobacco product, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $300. [9/2016; 46/2017] (2) For the purposes of subsection (1), it does not matter whether the possession or the buying of the tobacco product by the person is for the person’s own use or for someone else to use. [9/2016] (3) Where a police officer or an authorised officer finds in any public place or on a road a person, whom the officer reasonably suspects as being an under-aged person, using or about to use any tobacco product or in possession of any tobacco product, the officer may seize the tobacco product. [9/2016; 46/2017] (4) In this section — “public place” means the premises of a school within the meaning given by the Education Act 1957 or any premises to which members of the public or a section of the public have or ordinarily would have access whether on payment of a fee or otherwise; “road” has the meaning given by the Road Traffic Act 1961."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART 3 - CONTROL OF SALE OF TOBACCO PRODUCTS",
+      "section": "12",
+      "title": "Number of cigarettes in package",
+      "content": "12. —(1) A person must not do any of the following, except in the form of a package containing not less than the prescribed minimum number of cigarettes: ( a ) import, or permit the import, into Singapore of any cigarette for the purpose of sale; ( b ) distribute, or permit the distribution, in Singapore of any cigarette for the purpose of sale; ( c ) sell or offer to sell, or permit the sale of or offer for sale of, any cigarette in Singapore; ( d ) possess in Singapore any cigarette for the purpose of sale in Singapore. [9/2016] (2) Subsection (1) does not apply to the import of cigarettes into Singapore solely for the purpose of taking them out of Singapore, whether on the same conveyance on which they were brought into Singapore or on another conveyance and whether or not they are landed and kept in any place in Singapore pending their being taken out of Singapore. (3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both. (4) In subsection (1) — “cigarette” includes any cigarillo; “cigarillo” means — ( a ) a cigar that weighs less than 1.4 grams or such other weight as the Minister may by notification in the Gazette prescribe; or ( b ) any tobacco product that is labelled, described or promoted as a cigarillo; “package” — ( a ) means any box, carton or other container in which cigarettes are supplied for the purpose of sale; and ( b ) includes, in the case where the package is, or several packages are, contained inside one or more larger packages, the smaller package or each of the smaller packages, as the case may be; “prescribed minimum number of cigarettes” means — ( a ) 20 cigarettes, where no other number of cigarettes is specified under paragraph ( b ); or ( b ) where a number of cigarettes is specified under this paragraph by the Minister for the purposes of this section by notification in the Gazette , the number of cigarettes so specified. [9/2016]"
+    },
+    {
+      "provision_ref": "s12A",
+      "chapter": "PART 3 - CONTROL OF SALE OF TOBACCO PRODUCTS",
+      "section": "12A",
+      "title": "Prohibition on display of tobacco products",
+      "content": "12A. —(1) Except as otherwise provided in subsection (3) or exempted under section 22, a person who distributes, sells or offers for sale any tobacco product by retail on any premises — ( a ) must not display or cause to be displayed any tobacco product on the premises when so distributing, selling or offering for sale; ( b ) must ensure that no customer or member of the public can see the tobacco products from inside or outside the premises; and ( c ) must ensure that paragraph ( b ) is complied with in the prescribed manner. [9/2016] (2) Except as otherwise provided in subsection (3) or exempted under section 22, a person who is the owner or occupier of any premises to which the public or any section of the public in Singapore has access (on payment or otherwise) must not display or cause to be displayed any tobacco product on the premises. [9/2016] (3) This section does not apply to the display of tobacco products on any premises — ( a ) to a customer of the business concerned at the customer’s request; ( b ) by a customer of the business concerned; or ( c ) in such other circumstances as may be prescribed. [9/2016] (4) However, a display of tobacco products referred to in subsection (3) must not consist of a display of the products, or representations of the products, that constitute an advertisement itself as distinct from the display allowed under that subsection. [9/2016] (5) A person who contravenes subsection (1)( a ) or ( b ) or (2) shall be guilty of an offence and shall be liable on conviction — ( a ) to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both; or ( b ) in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both. [9/2016] (6) A person who contravenes subsection (1)( c ) shall be guilty of an offence and shall be liable on conviction — ( a ) to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both; or ( b ) in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both. [9/2016]"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART 3 - CONTROL OF SALE OF TOBACCO PRODUCTS",
+      "section": "13",
+      "title": "Warning notices",
+      "content": "13. —(1) A person who distributes, sells or offers for sale any tobacco product by retail at any retail outlet must display or cause to be displayed at the retail outlet the number of warning notices of the type and at the locations at the retail outlet as the Authority may direct. [9/2016] (2) In relation to the type of warning notice to be displayed, the Authority may give directions about the size, wording or appearance of the warning notice, including requiring the display of any warning notice provided by the Health Promotion Board. [9/2016] (3) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction — ( a ) to a fine not exceeding $5,000; or ( b ) in the case of a second or subsequent conviction, to a fine not exceeding $10,000. [9/2016] (4) In this section, “warning notice” means a notice stating to the effect that the sale of any tobacco product to under‑aged persons is prohibited by law. [9/2016; 46/2017] 14. [ Repealed by Act 9 of 2016 ]"
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART 3 - CONTROL OF SALE OF TOBACCO PRODUCTS",
+      "section": "15",
+      "title": "Prohibition of harmful tobacco products",
+      "content": "15. —(1) Despite anything in this Act but subject to subsection (4), a person must not import into Singapore, or distribute, sell, offer for sale or possess for sale in Singapore — ( a ) any chewing tobacco; ( b ) such other tobacco product, or class of tobacco products, intended, labelled or described as suitable for use other than smoking, as the Minister may by regulations prescribe; ( c ) such tobacco product, or class of tobacco products, as the Minister may by regulations prescribe, where the Minister is of the opinion that that product or class of products has or is capable of having the effect of encouraging or otherwise promoting smoking or other uses of tobacco products; or ( d ) such tobacco product, or class of tobacco products, as the Minister may by regulations prescribe, where the Minister is of the opinion that that product or class of products has or is capable of having, directly or indirectly, an adverse effect on the health of the public or any section of the public. [9/2016; 46/2017] (2) Subject to subsection (4), a person must not import into Singapore, or distribute, sell, offer for sale or possess for sale in Singapore such tobacco product or class of tobacco products as the Minister may by regulations prescribe, being tobacco product — ( a ) that contains; or ( b ) the emissions of which contain, any substance in excess of such maximum amounts as may be prescribed for that substance. [9/2016; 46/2017] (3) A person must not — ( a ) subject to subsection (4), possess in Singapore, other than for the purpose of sale in Singapore; ( b ) purchase in Singapore; or ( c ) use in Singapore, any tobacco product mentioned in subsection (1) or (2). [46/2017] (4) Subsections (1), (2) and (3) do not apply to the import of tobacco products into Singapore solely for the purpose of taking them out of Singapore, whether on the same conveyance on which they were brought into Singapore or on another conveyance and whether or not they are landed and kept in any place in Singapore pending their being taken out of Singapore. [46/2017] (5) For the purposes of subsection (2), the Minister may prescribe different maximum amounts for different substances, in relation to different classes or descriptions of tobacco products. (6) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both. (7) A person who contravenes subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000. [46/2017]"
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART 3 - CONTROL OF SALE OF TOBACCO PRODUCTS",
+      "section": "16",
+      "title": "Prohibition of imitation tobacco products",
+      "content": "16. —(1) A person must not import into Singapore, or distribute, sell, offer for sale or possess for sale in Singapore, any confectionery or other food product, or any toy, device or article — ( a ) that resembles, or is designed to resemble, a tobacco product; ( b ) that is capable of being smoked; ( c ) that may be used in such a way as to mimic the act of smoking; or ( d ) the packaging of which resembles, or is designed to resemble, the packaging commonly associated with tobacco products. [9/2016; 46/2017] (2) A person must not import into Singapore, or distribute, sell, offer for sale or possess for sale in Singapore, any component of a toy, a device or an article referred to in subsection (1). [9/2016; 46/2017] (3) A person must not — ( a ) possess in Singapore, other than for the purpose of sale in Singapore; ( b ) purchase in Singapore; or ( c ) use in Singapore, any item mentioned in subsection (1) or (2). [46/2017] (4) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction — ( a ) to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both, unless paragraph ( b ) applies; or ( b ) if the person has any previous qualifying conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both. [9/2016] (5) In subsection (4), “qualifying conviction” means — ( a ) a conviction for an offence under subsection (4); or ( b ) a conviction for an offence under section 16(2) as in force immediately before 1 August 2016. [9/2016] (6) A person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction — ( a ) to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both; or ( b ) in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both. [9/2016] (7) A person who contravenes subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000. [46/2017] (8) It is not necessary for an item mentioned in subsection (1) or (2) to contain tobacco or a tobacco product or tobacco substitute. [46/2017]"
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART 3 - CONTROL OF SALE OF TOBACCO PRODUCTS",
+      "section": "17",
+      "title": "Appearance of tobacco products, packaging and labelling",
+      "content": "17. —(1) A person must not — ( a ) import into Singapore; or ( b ) distribute, sell, offer for sale or possess for sale in Singapore, a tobacco product which, or the packaging or labelling of which, does not comply with subsection (3). [9/2019] (2) However, subsection (1)( a ) does not apply to the import of tobacco products into Singapore solely for — ( a ) the re-export of the tobacco products from Singapore — (i) whether or not on the same conveyance on which the tobacco products were brought into Singapore; and (ii) whether or not the tobacco products are landed and kept in any place in Singapore before they are taken out of Singapore; or ( b ) the repackaging or relabelling of the tobacco products into packaging or with labelling that complies with subsection (3). [9/2019] (3) A tobacco product, and the packaging or labelling of any tobacco product — ( a ) must comply with every requirement prescribed in relation to the tobacco product or its packaging or labelling (as the case may be), including any requirement as to size, appearance, design, health warnings and other information to be stated; and ( b ) despite any written law or rule of law, must not bear any trade mark, term, descriptor, figurative or other sign, feature, scent or sound — (i) that is prescribed as prohibited in relation to the tobacco product or its packaging or labelling; or (ii) that promotes the tobacco product by any means that is false, misleading, deceptive or likely to create an erroneous impression about the characteristics, health effects, hazards or emissions of the tobacco product, including the misleading impression that the tobacco product is less harmful than other tobacco products. [9/2019] (4) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction — ( a ) to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both, unless paragraph ( b ) applies; or ( b ) if the person has any prior qualifying conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both. [9/2019] (5) In subsection (4), “qualifying conviction” means — ( a ) a conviction for an offence under subsection (4); or ( b ) a conviction for an offence under section 17(2) or 17A(4) as in force immediately before 1 July 2020. [9/2019] 17A. [ Repealed by Act 9 of 2019 ]"
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART 3 - CONTROL OF SALE OF TOBACCO PRODUCTS",
+      "section": "18",
+      "title": "Licence required for dealing with tobacco products",
+      "content": "18. —(1) A person must not import into Singapore any tobacco product, unless the person holds a valid import and wholesale licence. [9/2016] (2) A person must not do any of the following in Singapore except by the authority of and in accordance with a valid import and wholesale licence: ( a ) distribute by wholesale any tobacco product; ( b ) sell or offer for sale by wholesale any tobacco product; ( c ) permit to be sold or offered for sale by wholesale any tobacco product; ( d ) have in the person’s possession for sale by wholesale any tobacco product. [9/2016] (3) A person must not do any of the following in Singapore except by the authority of and in accordance with a valid retail licence: ( a ) distribute by retail any tobacco product; ( b ) sell or offer for sale by retail any tobacco product; ( c ) permit to be sold or offered for sale by retail any tobacco product; ( d ) have in the person’s possession for sale by retail any tobacco product. [9/2016] (4) In particular — ( a ) an import and wholesale licence may authorise the doing of any act in subsection (2) only at premises specified in the licence; and ( b ) the holder of a valid retail licence is authorised to do any act in subsection (3) only at a single point of sale within a retail outlet specified in the licence. [9/2016; 46/2017] (5) A person who contravenes subsection (1), (2), (3) or (4) shall be guilty of an offence and shall be liable on conviction — ( a ) to a fine not exceeding $10,000, unless paragraph ( b ) applies; or ( b ) if the person has any previous qualifying conviction, to a fine not exceeding $20,000. [9/2016; 46/2017; 9/2019] (6) In subsection (5), “qualifying conviction” means — ( a ) a conviction for an offence under subsection (5); or ( b ) a conviction for an offence under section 18(4) as in force immediately before 30 December 2017. [9/2016] (7) An application for a licence must be made to the Authority in writing in such form as the Authority may require. [9/2016] (8) Subject to subsection (9), the Authority may grant a licence on any terms and conditions, if the Authority is satisfied that the prescribed requirements for the grant of a licence are met. [9/2016] (9) No licence may be granted for the sale by wholesale or retail of any tobacco product by way of a vending machine. [9/2016] (10) Any person who is aggrieved by a decision of the Authority refusing to grant or renew a licence to the person, or revoking, suspending or cancelling the person’s licence, may appeal to the Minister — ( a ) within 14 days after receiving notice of the decision; or ( b ) within such extended period as the Minister may allow in any particular case. [9/2016] (11) To avoid doubt, nothing in subsection (1), (2) or (3) authorises any person to import, distribute, sell or offer for sale, permit to be sold or offered for sale, or have in the person’s possession for sale, any tobacco product that is prohibited under section 15. [9/2016]"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART 3 - CONTROL OF SALE OF TOBACCO PRODUCTS",
+      "section": "19",
+      "title": "Appointment of authorised officers",
+      "content": "19. —(1) The Chief Executive may appoint any officer or any person to be an authorised officer for the purposes of this Act. (2) In the exercise of his or her powers and in carrying out his or her duties under this Act, an authorised officer must comply with such general or special directions as may be given to the authorised officer by the Chief Executive. (3) Every authorised officer is deemed to be a public servant within the meaning of the Penal Code 1871."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART 4 - ENFORCEMENT AND MISCELLANEOUS",
+      "section": "20",
+      "title": "Offences by bodies corporate or unincorporate",
+      "content": "20. Where an offence under this Act has been committed by any company or association or body of persons, corporate or unincorporate, any person who at the time of the commission of the offence was a director, manager, secretary or other similar officer thereof or was purporting to act in that capacity shall be guilty of that offence unless the person satisfies the court that the offence, other than an offence under section 3(3), was committed without the person’s knowledge or consent. [9/2016]"
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART 4 - ENFORCEMENT AND MISCELLANEOUS",
+      "section": "21",
+      "title": "Immunity from liability",
+      "content": "21. No liability shall lie against any party to a contract for failing, neglecting or refusing to publish any advertisement relating to any tobacco product or imitation tobacco product, being the subject matter of the contract, where the failure, neglect or refusal is solely attributable to, or occasioned by, the commencement of this Act or any Act amending this Act, but nothing in this section affects the operation of the Frustrated Contracts Act 1959. [9/2016]"
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART 4 - ENFORCEMENT AND MISCELLANEOUS",
+      "section": "22",
+      "title": "Exemption",
+      "content": "22. —(1) The Minister may, either generally or in any particular case, and either permanently or for such period or periods as he or she may think fit, exempt by order in the Gazette any person or class of persons, or any premises or type of premises, or any event or occasion or class of event or occasion, or any object or thing or type of object or thing, from all or any of the provisions of this Act. [9/2016] (2) In granting any exemption under subsection (1), the Minister may impose such conditions as he or she may think fit."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "PART 4 - ENFORCEMENT AND MISCELLANEOUS",
+      "section": "23",
+      "title": "Powers of police and authorised officers",
+      "content": "23. —(1) If a police officer or an authorised officer reasonably suspects that a person has committed or is committing an offence under this Act, the officer may do all or any of the following: ( a ) require the person to furnish evidence of the person’s identity; ( b ) search any bag or thing belonging to or in the possession of the person; ( c ) require the person to reveal the contents of the person’s pockets, if any; ( d ) arrest the person without warrant. [9/2016] (2) Any person arrested under subsection (1)( d ) must be produced before a Magistrate’s Court or a District Court (called in this section a Court) within 48 hours after the person is arrested. [9/2016] (3) Despite any other written law, any police officer or authorised officer who, having effected an arrest in accordance with subsection (1), is satisfied as to the identity, name and place of residence of the person arrested may, instead of producing the person before a Court or to a police station, serve upon the person a notice in the form determined under section 32 requiring the person to attend at the Court, at the time and on the date specified in the notice. (4) A duplicate of the notice served under subsection (3) must be prepared by the police officer or authorised officer (as the case may be) and produced by the police officer or authorised officer to the Court if so required by the Court. (5) Where an accused person appears before a Court in accordance with a notice served under subsection (3), the Court is to take cognizance of the offence alleged and proceed as though the accused person were produced before it under subsection (2). (6) If a person upon whom a notice has been served under subsection (3) fails to appear before a Court in accordance with the notice, the Court may issue a warrant for the arrest of that person. (7) Where a person arrested pursuant to a warrant issued under subsection (6) is produced before a Court, the Court is to proceed as though the person were produced before it under subsection (2). [Act 31 of 2022 wef 01/11/2022] (8) [ Deleted by Act 31 of 2022 wef 01/11/2022 ]"
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "PART 4 - ENFORCEMENT AND MISCELLANEOUS",
+      "section": "24",
+      "title": "Power to examine and secure attendance",
+      "content": "24. —(1) For the purpose of investigating any offence under this Act, the Chief Executive or any authorised officer may — ( a ) examine orally any person who appears to be acquainted with the facts and circumstances of the case (called in this section a relevant person); ( b ) require, by written order, any relevant person to attend before the Chief Executive or an authorised officer to answer any question; or ( c ) require any person — (i) to furnish in writing any information within the person’s knowledge that the Chief Executive or authorised officer may require; or (ii) to produce for inspection any document or record within the person’s possession that the Chief Executive or authorised officer may require. [9/2016] (2) The person mentioned in subsection (1)( a ) or ( b ) is bound to state truly the facts and circumstances with which he or she is acquainted concerning the case except only that he or she may decline to make with regard to any fact or circumstance a statement which would have a tendency to expose him or her to a criminal charge or to penalty or forfeiture. [9/2016] (3) The Chief Executive or any authorised officer may reduce to writing any statement made under subsection (1)( a ) or ( b ) by a relevant person, and that statement must be read over to the relevant person, corrected (if necessary) and signed by the relevant person. [9/2016] (4) Without affecting subsection (5), if any person fails to attend as required by an order under subsection (1)( b ), the Chief Executive or any authorised officer may report that failure to a Magistrate who may then issue a warrant to secure the attendance of that person as required by the order. [9/2016] (5) A person who, without reasonable excuse, fails to comply with any requirement of the Chief Executive or an authorised officer under subsection (1)( b ) or ( c ) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both. [9/2016]"
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "PART 4 - ENFORCEMENT AND MISCELLANEOUS",
+      "section": "25",
+      "title": "Power to require tobacco products for testing or analysis and furnishing of information",
+      "content": "25. —(1) Any person carrying on a trade or business which consists of or includes the manufacture, distribution, import or sale of any tobacco product or imitation tobacco product must — ( a ) supply free of charge to the Chief Executive or an authorised officer samples of any tobacco product or imitation tobacco product as the Chief Executive or authorised officer may require for the purpose of testing, analysis or investigations; and ( b ) furnish to the Chief Executive or authorised officer any information that the Chief Executive or authorised officer may require in respect of those products. (2) Any person involved or concerned with the import, distribution, sale or supply of any newspaper which is printed or published outside Singapore must furnish to the Chief Executive or an authorised officer any information that the Chief Executive or authorised officer may require in respect of the newspapers."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "PART 4 - ENFORCEMENT AND MISCELLANEOUS",
+      "section": "26",
+      "title": "Power to enter premises and inspect and seize advertisements, products, vending machines and documents",
+      "content": "26. —(1) The Chief Executive or an authorised officer may, for an enforcement purpose, do all or any of the following: ( a ) inspect at all reasonable hours any advertisement, tobacco product or imitation tobacco product, vending machine, document, material, article or equipment; ( b ) at any time and without warrant enter and search any premises that the Chief Executive or authorised officer reasonably suspects are being used for or in connection with the commission of an offence under this Act; ( c ) at any time and without warrant stop, board and search any conveyance that the Chief Executive or authorised officer reasonably suspects is being used for or in connection with the commission of an offence under this Act; ( d ) require any person carrying on a trade or business or employed in connection with a trade or business to produce, at a reasonable hour, any book, document or material relating to the trade or business and may take copies of, or of any entry in, any such book, document or material; ( e ) seize any advertisement, tobacco product or imitation tobacco product, vending machine, document, material or article — (i) for the purpose of ascertaining, by testing or otherwise, whether an offence under this Act has been committed; or (ii) which the Chief Executive or authorised officer has reason to believe may be required as evidence in proceedings for the offence; ( f ) for the purposes of paragraph ( e ), require any person having authority to do so to break open any container or open any vending machine and, if that person does not comply with the requirement, the Chief Executive or authorised officer may do so himself or herself. [9/2016] (2) The Chief Executive or an authorised officer may, if he or she has reasonable cause to believe that an offence under section 3(1) has been committed in respect of an unauthorised advertisement — ( a ) require the person reasonably suspected of committing the offence to remove the advertisement from the view of members of the public; and ( b ) if the person fails to do so, cause the advertisement to be so removed. [9/2016] (3) The person mentioned in subsection (2) is liable to pay to the Chief Executive the reasonable costs of removal and disposal of the advertisement which may be recovered as a debt due to the Government. (4) In the exercise of his or her powers under this section, the Chief Executive or an authorised officer must — ( a ) on seizing any advertisement, tobacco product or imitation tobacco product, vending machine, document, material or article, inform the person from whom it was seized of the seizure; and ( b ) in the case of tobacco products seized from a vending machine, inform the person whose name and address are stated on the machine as being the proprietor or, if no name and address are so stated, the occupier of the premises on which the machine stands or to which it is affixed. [9/2016] (5) The Chief Executive or an authorised officer entering any premises by virtue of this section may take with him or her such other persons and such equipment as may appear to him or her necessary. (6) For the purposes of subsection (1), if any document or material required by the Chief Executive or an authorised officer is kept in electronic form — ( a ) the power of the Chief Executive or authorised officer to inspect the document or material includes the power to — (i) access any computer or other equipment (including a mobile telephone) in which the document or material is stored; and (ii) require any person having charge of, or otherwise concerned with the operation of, the computer or equipment to provide assistance in gaining such access; ( b ) the power of the Chief Executive or authorised officer to require the document or material to be produced includes the power to require a copy of the document or material to be produced in legible form; and ( c ) the power of the Chief Executive or authorised officer to seize the document or material includes the power to make copies of the document or material in legible or electronic form, or to transfer the information from the document or material to a disk, tape or other storage device. [9/2016] (7) If the Chief Executive or authorised officer is unable to make copies of the document or material, or transfer the information from the document or material, under subsection (6)( c ), the Chief Executive or authorised officer may — ( a ) seize the computer or other equipment (including a mobile telephone) in which the document or material is stored, as evidence in proceedings for an offence under this Act; and ( b ) require any person having charge of, or otherwise concerned with the operation of, the computer or equipment to disclose any password or access code for gaining access to the document or material held in the computer or equipment. [9/2016] (8) In subsection (1), “enforcement purpose” means — ( a ) ensuring that the provisions of this Act and the conditions imposed on any licence are complied with; or ( b ) investigating any offence under this Act. [9/2016]"
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "PART 4 - ENFORCEMENT AND MISCELLANEOUS",
+      "section": "27",
+      "title": "Obstruction of officers",
+      "content": "27. —(1) Any person who — ( a ) wilfully obstructs, hinders or impedes the Chief Executive or an authorised officer acting pursuant to this Act; ( b ) wilfully fails to comply with any requirement under section 25 or 26 properly made to the person by the Chief Executive or an authorised officer; or ( c ) without reasonable cause, fails to give the Chief Executive or an authorised officer any other assistance or information which the Chief Executive or authorised officer may reasonably require for the purpose of the performance of the Chief Executive’s or authorised officer’s functions under this Act, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both. [9/2016] (2) If any person, in giving any such information as is mentioned in subsection (1), makes any statement which he or she knows to be false, he or she shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "PART 4 - ENFORCEMENT AND MISCELLANEOUS",
+      "section": "28",
+      "title": "Notice of test and intended prosecution",
+      "content": "28. Where any tobacco product or imitation tobacco product seized under this Act is submitted to a test, the Chief Executive must — ( a ) if the product is seized, inform the person mentioned in section 26(4) of the result of the test; ( b ) if the product was purchased and the test leads to the institution of proceedings for an offence under this Act, inform the person from whom the product was purchased or, in the case of a product sold through a vending machine, the person mentioned in section 26(4) of the result of the test; and ( c ) if as a result of the test proceedings for an offence under this Act are instituted against any person, allow the person to have the product tested on the person’s behalf if it is reasonably practicable to do so."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "PART 4 - ENFORCEMENT AND MISCELLANEOUS",
+      "section": "29",
+      "title": "Forfeiture",
+      "content": "29. —(1) Any thing seized in exercise of any power conferred under this Act is liable to forfeiture. [9/2016] (2) An order for the forfeiture or for the release of any thing seized in exercise of any power conferred by this Act must be made by the court before which the prosecution with regard thereto has been held. [9/2016] (3) An order for the forfeiture of the thing seized must be made if it is proved to the satisfaction of the court that — ( a ) an offence under this Act has been committed; and ( b ) the thing seized was the subject matter of or was used in the commission of the offence even though no person may have been convicted of that offence. [9/2016] (4) In the absence of any prosecution with regard to any thing seized in the exercise of any power conferred by this Act, the thing is deemed to be forfeited at the expiry of one month from the date of the seizure unless a claim to the thing is made before then in accordance with subsection (5). [9/2016] (5) A person asserting that the person is the owner of any thing seized and that the thing is not liable to forfeiture may personally, or by the person’s agent authorised in writing, make a claim by giving written notice to the Chief Executive. [9/2016] (6) On receipt of the notice, the Chief Executive may direct that the thing seized be released or may refer the matter to a court for decision. [9/2016] (7) All things forfeited or deemed to be forfeited must be delivered to the Authority or an authorised officer and must be disposed of according to the Chief Executive’s directions. [9/2016] [Act 19 of 2025 wef 05/12/2025]"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "PART 4 - ENFORCEMENT AND MISCELLANEOUS",
+      "section": "30",
+      "title": "Things seized may be delivered to owner or other person",
+      "content": "30. The Minister may, upon written application made to him or her through the Chief Executive, order any thing seized in exercise of the powers conferred by this Act, whether forfeited or taken and deemed to be forfeited, to be delivered to the owner or other person entitled to the thing upon such terms and conditions as the Minister may consider fit. [9/2016]"
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "PART 4 - ENFORCEMENT AND MISCELLANEOUS",
+      "section": "31",
+      "title": "Protection from personal liability",
+      "content": "31. No liability shall lie personally against any of the following individuals who, acting in good faith and with reasonable care, does or omits to do anything in the execution or purported execution of this Act: ( a ) the Chief Executive; ( b ) any police officer; ( c ) any authorised officer; ( d ) any other person acting under the Chief Executive’s direction. [9/2016]"
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "PART 4 - ENFORCEMENT AND MISCELLANEOUS",
+      "section": "32",
+      "title": "Forms",
+      "content": "32. The Chief Executive may design and utilise any forms that he or she thinks fit for any of the purposes of this Act, and may require any person to complete any of the forms for any of those purposes."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "PART 4 - ENFORCEMENT AND MISCELLANEOUS",
+      "section": "33",
+      "title": "Jurisdiction of court",
+      "content": "33. Any offence under this Act may be tried by a District Court or a Magistrate’s Court and that Court has, despite any other written law, jurisdiction to impose the maximum penalty provided for by this Act."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "PART 4 - ENFORCEMENT AND MISCELLANEOUS",
+      "section": "34",
+      "title": "Composition of offences",
+      "content": "34. —(1) Subject to subsection (4), the Chief Executive or any person authorised by the Chief Executive in writing may compound any offence under this Act that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following: ( a ) one half of the amount of the maximum fine that is prescribed for the offence; ( b ) $5,000. [9/2019] (2) On payment of the sum of money, no further proceedings are to be taken against that person in respect of the offence. [9/2019] (3) The Minister may make regulations to prescribe the offences which may be compounded. (4) Where the person reasonably suspected of having committed an offence under this Act was an under‑aged person at the time of the alleged offence (called the under‑aged offender), the offence may be compounded if the under‑aged offender and the parents or guardian of the under‑aged offender first attend counselling at any place that the Chief Executive may specify. [9/2019]"
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "PART 4 - ENFORCEMENT AND MISCELLANEOUS",
+      "section": "35",
+      "title": "Fees, charges, etc., collected by Chief Executive or authorised officer",
+      "content": "35. —(1) Subject to subsection (2), all fees, charges and other moneys recovered or collected by the Chief Executive or an authorised officer under this Act must be paid to the Authority. [46/2017] (2) All composition sums collected by the Chief Executive or an authorised officer under section 34 must be paid into the Consolidated Fund. [46/2017]"
+    },
+    {
+      "provision_ref": "s35A",
+      "chapter": "PART 4 - ENFORCEMENT AND MISCELLANEOUS",
+      "section": "35A",
+      "title": "Public servants",
+      "content": "35A. —(1) Each of the following persons is, in relation to that person’s administration, collection and enforcement of payment of composition sums under section 34, taken to be a public officer for the purposes of the Financial Procedure Act 1966: ( a ) every member, officer and employee of the Authority; ( b ) every person authorised by the Chief Executive in writing to compound offences under section 34. [46/2017] (2) Section 20 of the Financial Procedure Act 1966 applies to each of the persons mentioned in subsection (1) even though that person is not or was not in the employment of the Government. [46/2017]"
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "PART 4 - ENFORCEMENT AND MISCELLANEOUS",
+      "section": "36",
+      "title": "Service of documents",
+      "content": "36. —(1) A document that is permitted or required by or under this Act to be served on a person may be served as described in this section. (2) A document permitted or required by or under this Act to be served on an individual may be served — ( a ) by giving it to the individual personally; ( b ) by sending it by prepaid registered post to the address specified by the individual for the service of documents generally, or specifically for the document, or (if no address is so specified) the individual’s residential address or business address; ( c ) by leaving it at the individual’s residential address with an adult apparently resident there, or at the individual’s business address with an adult apparently employed there; ( d ) by affixing a copy of the document in a conspicuous place at the individual’s residential address or business address; or ( e ) by sending it by email to the individual’s last email address. (3) A document permitted or required by or under this Act to be served on a partnership (other than a limited liability partnership) may be served — ( a ) by giving it to any partner or other similar officer, or an authorised representative, of the partnership; ( b ) by leaving it at, or by sending it by prepaid registered post to, the partnership’s business address; or ( c ) by sending it by email to the partnership’s last email address. (4) A document permitted or required by or under this Act to be served on a body corporate (including a limited liability partnership) or an unincorporated association may be served — ( a ) by giving it to the secretary or other similar officer of the body corporate or unincorporated association, or the limited liability partnership’s manager; ( b ) by leaving it at, or by sending it by prepaid registered post to, the registered office or principal office in Singapore of the body corporate or unincorporated association; or ( c ) by sending it by email to the last email address of the body corporate or unincorporated association. (5) Service of a document under this section takes effect — ( a ) if the document is sent by prepaid registered post, 2 days after the day the document was posted (even if it is returned undelivered); or ( b ) if the document is sent by email, at the time that the email becomes capable of being retrieved by the person to whom it is sent. (6) However, service of any document under this Act on a person by email may be effected only with the person’s prior written consent to service in that way. (7) This section does not apply to documents to be served in proceedings in court. (8) In this section — “authorised representative”, in relation to a partnership (other than a limited liability partnership), means any person authorised to accept service of documents on behalf of the partnership; “business address” means — ( a ) in the case of an individual, the individual’s usual or last known place of business in Singapore; or ( b ) in the case of a partnership (other than a limited liability partnership), the partnership’s principal or last known place of business in Singapore; “document” includes a direction, an order or a notice permitted or required by or under this Act to be served; “last email address” means the last email address given by the addressee concerned to the person giving or serving the document as the email address for the service of documents under this Act; “residential address” means an individual’s usual or last known place of residence in Singapore. [Act 19 of 2025 wef 05/12/2025]"
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "PART 4 - ENFORCEMENT AND MISCELLANEOUS",
+      "section": "37",
+      "title": "Regulations",
+      "content": "37. —(1) The Minister may make such regulations as appear to him or her necessary or expedient for the purpose of carrying out the provisions of this Act. (2) Without limiting subsection (1), the Minister may make regulations for or with respect to any of the following matters: ( a ) the class or classes of licences to be granted under section 18, the form and duration of the licences, the terms and conditions upon which and the circumstances in which the licences may be granted, held, suspended, cancelled, altered, extended, renewed or replaced and the fees payable in respect of the licences; ( b ) a register to be kept of the licences granted, the particulars to be entered in the register and for the publication of the names of licensees; ( c ) requiring such information or security as the Minister considers necessary in relation to the application for the grant or renewal of a licence; ( d ) prescribing the books, records or accounts to be kept by licensees; ( e ) the requirements under this Act for tobacco products and their packaging or labelling, including — (i) the requirements as to size, appearance and design of tobacco products and their packaging or labelling; (ii) the health warnings and other information to be stated on tobacco products and their packaging or labelling; and (iii) the trade marks, terms, descriptors, figurative or other signs, features, scents and sounds that are prohibited in relation to tobacco products and their packaging or labelling. [9/2016; 9/2019] (3) For the purposes of subsection (2)( e ), different requirements or prohibitions may be prescribed for different tobacco products or different types of packaging or labelling of tobacco products. [9/2019] (4) All such regulations must be presented to Parliament as soon as possible after publication in the Gazette ."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "PART 4 - ENFORCEMENT AND MISCELLANEOUS",
+      "section": "38",
+      "title": "Operation of Act not to affect registrability or registration of trade marks",
+      "content": "38. Nothing in, or done in accordance with, this Act or any regulations made for the purpose of section 17 — ( a ) prevents an applicant for registration of a trade mark from stating, for the purpose of section 5(2)( e )(ii) of the Trade Marks Act 1998, that the applicant has a bona fide intention to use the trade mark in the course of trade, by the applicant or with the applicant’s consent, in relation to any goods or services in respect of which the applicant seeks to register the trade mark; ( b ) prevents the registration of a trade mark under the Trade Marks Act 1998; ( c ) prevents a trade mark mentioned in paragraph ( a ) of the definition of “earlier trade mark” in section 2(1) of the Trade Marks Act 1998 from being taken into account, for the purpose of section 8(11) of that Act, in determining the registrability of a later mark; or ( d ) is a ground to revoke the registration of a trade mark under section 22 of the Trade Marks Act 1998, or to declare the registration of a trade mark invalid under section 23 of that Act. [9/2019]"
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "PART 4 - ENFORCEMENT AND MISCELLANEOUS",
+      "section": "39",
+      "title": "Operation of Act not to affect registrability or registration of designs",
+      "content": "39. —(1) Nothing in, or done in accordance with, this Act or any regulations made for the purpose of section 17 — ( a ) prevents the registration of a design under the Registered Designs Act 2000; or ( b ) is a ground to revoke the registration of a registered design under section 27 of the Registered Designs Act 2000. [9/2019] (2) In this section, “design” and “registered design” have the meanings given by section 2(1) of the Registered Designs Act 2000. [9/2019]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "access",
+      "definition": "“access” includes — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "advertisement",
+      "definition": "“advertisement” includes any notice, circular, pamphlet, brochure, programme, price list, label, wrapper or other document and any announcement, notification or intimation to the public or any section of the public or to any person or persons made — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorised officer",
+      "definition": "“authorised officer” means any officer or person appointed under section 19;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Authority",
+      "definition": "“Authority” means the Health Sciences Authority established under the Health Sciences Authority Act 2001;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "chewing tobacco",
+      "definition": "“chewing tobacco” means loose‑leaf tobacco, plug tobacco, twist tobacco or tobacco bits intended for chewing;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chief Executive",
+      "definition": "“Chief Executive” means the person appointed under section 15 of the Health Sciences Authority Act 2001 to be the Chief Executive of the Authority;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cigarette",
+      "definition": "“cigarette” means any product which consists in whole or in part of cut, shredded or manufactured tobacco, or any tobacco derivative or tobacco substitute, rolled up in paper, tobacco leaf or other material and which is in any form that is capable of immediate use;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "conveyance",
+      "definition": "“conveyance” includes any vessel, train, aircraft, vehicle, trailer or other mode of transport;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "emission",
+      "definition": "“emission” means any substance that is produced when a tobacco product is used;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "imitation tobacco product",
+      "definition": "“imitation tobacco product” means any of the products mentioned in section 16(1) or (2);",
+      "source_provision": "s2"
+    },
+    {
+      "term": "licence",
+      "definition": "“licence” means an import and wholesale licence mentioned in section 18(1) or (2), or a retail licence mentioned in section 18(3);",
+      "source_provision": "s2"
+    },
+    {
+      "term": "newspaper",
+      "definition": "“newspaper” includes any magazine, journal, periodical or any other publication containing news, intelligence, information or reports of occurrences, or any remarks, observations or comments in relation either to such news, intelligence, information or occurrences or to any other matter of interest to the public or any section of the public, issued in any language at regular or irregular intervals;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "packaging",
+      "definition": "“packaging” , in relation to any product or article, means any container and any other packaging material in which or with which the product or article is supplied, and includes — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "point of sale",
+      "definition": "“point of sale” means an immobile cash register or counter at which a sale by retail may be made, and does not include a conveyance or vending machine;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "premises",
+      "definition": "“premises” includes any or part of any vacant land, building, conveyance or place in Singapore;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "publish",
+      "definition": "“publish” , in relation to an advertisement, includes to distribute, show, exhibit, display or broadcast by any form of communication or in any manner;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "retail outlet",
+      "definition": "“retail outlet” means any shop, kiosk or stall in Singapore at which goods are sold or exposed for sale by retail;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "sell",
+      "definition": "“sell” includes — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Singapore‑connected person",
+      "definition": "“Singapore‑connected person” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "smoking",
+      "definition": "“smoking” means inhaling and expelling the smoke of any tobacco product and includes the holding of any tobacco product which is alight or emitting smoke;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tobacco product",
+      "definition": "“tobacco product” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "tobacco substitute",
+      "definition": "“tobacco substitute” means any article, object or thing that contains nicotine, but does not include any of the following: ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "trade mark",
+      "definition": "“trade mark” has the meaning given by section 2(1) of the Trade Marks Act 1998;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "unauthorised advertisement",
+      "definition": "“unauthorised advertisement” means any advertisement described in section 3(1)( a ), ( b ), ( c ) or ( d ), but not — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "under-aged person",
+      "definition": "“under-aged person” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "use",
+      "definition": "“use” , in relation to any tobacco product, means smoking, chewing, inhaling, ingesting or otherwise introducing the tobacco product or any of its constituents or emissions into the human body (whether by oral means or otherwise);",
+      "source_provision": "s2"
+    },
+    {
+      "term": "writing",
+      "definition": "“writing” includes painting, inscription, printing, lithography, typewriting, photography and other modes of representing or reproducing words or figures in visible form. [9/2016; 46/2017; 9/2019]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public place",
+      "definition": "“public place” means the premises of a school within the meaning given by the Education Act 1957 or any premises to which members of the public or a section of the public have or ordinarily would have access whether on payment of a fee or otherwise;",
+      "source_provision": "s11"
+    },
+    {
+      "term": "road",
+      "definition": "“road” has the meaning given by the Road Traffic Act 1961.",
+      "source_provision": "s11"
+    },
+    {
+      "term": "cigarillo",
+      "definition": "“cigarillo” means — ( a )",
+      "source_provision": "s12"
+    },
+    {
+      "term": "package",
+      "definition": "“package” — ( a )",
+      "source_provision": "s12"
+    },
+    {
+      "term": "prescribed minimum number of cigarettes",
+      "definition": "“prescribed minimum number of cigarettes” means — ( a )",
+      "source_provision": "s12"
+    },
+    {
+      "term": "authorised representative",
+      "definition": "“authorised representative” , in relation to a partnership (other than a limited liability partnership), means any person authorised to accept service of documents on behalf of the partnership;",
+      "source_provision": "s36"
+    },
+    {
+      "term": "business address",
+      "definition": "“business address” means — ( a )",
+      "source_provision": "s36"
+    },
+    {
+      "term": "document",
+      "definition": "“document” includes a direction, an order or a notice permitted or required by or under this Act to be served;",
+      "source_provision": "s36"
+    },
+    {
+      "term": "last email address",
+      "definition": "“last email address” means the last email address given by the addressee concerned to the person giving or serving the document as the email address for the service of documents under this Act;",
+      "source_provision": "s36"
+    },
+    {
+      "term": "residential address",
+      "definition": "“residential address” means an individual’s usual or last known place of residence in Singapore. [Act 19 of 2025 wef 05/12/2025]",
+      "source_provision": "s36"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "agafa-2014",
+  "type": "statute",
+  "title": "Attorney-General (Additional Functions) Act 2014",
+  "title_en": "Attorney-General (Additional Functions) Act 2014",
+  "short_name": "AGAFA2014",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/AGAFA2014",
+  "description": "An Act to confer on the Attorney‑General certain functions in addition to functions conferred by or under the Constitution of the Republic of Singapore and any other written law.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Attorney-General (Additional Functions) Act 2014."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. In this Act, unless the context otherwise requires — “administrative decision” means a decision of an administrative character which is, is proposed to be, or is required to be, made (whether or not in the exercise of a discretion and whether before, on or after 1 January 2015) under any public Act; “instrument of legislative character” includes an instrument of legislative character made before 1 January 2015 under any public Act; “judicial review” includes proceedings instituted by way of — ( a ) an application in respect of an administrative decision for a Mandatory Order, Prohibiting Order or Quashing Order, or in respect of an instrument of legislative character for a Quashing Order; or ( b ) an application for a declaration or an injunction, or any other suit or action, relating to or arising out of any administrative decision or instrument of legislative character; “relevant statutory board” means any statutory board specified in the Schedule; “statutory board” means a body corporate or unincorporate established by or under any public Act to perform or discharge a public function."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Representing relevant statutory boards in judicial review and related court proceedings",
+      "content": "3. —(1) The Attorney‑General may represent a relevant statutory board in — ( a ) a judicial review instituted by any person in respect of an administrative decision or instrument of legislative character of the relevant statutory board; and ( b ) any proceedings in court (however instituted) for a liquidated sum, damages, equitable relief or restitution if a Mandatory Order, Prohibiting Order, Quashing Order or declaration is made pursuant to the judicial review, if — ( c ) the relevant statutory board makes a request to the Attorney‑General for such representation; ( d ) the Minister charged with the responsibility for the relevant statutory board consents to such representation; ( e ) the Attorney‑General is of the opinion that the Government and the relevant statutory board have no conflicting interests in the matter; and ( f ) the Attorney‑General is of the opinion that such representation is not contrary to the public interest. (2) Any decision made by the Attorney‑General to, or not to, represent a relevant statutory board pursuant to subsection (1) is final and conclusive."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Representing relevant statutory boards in other court proceedings",
+      "content": "4. —(1) The Attorney‑General may represent a relevant statutory board in other proceedings in court (however instituted) not mentioned in section 3(1), if — ( a ) the relevant statutory board makes a request to the Attorney‑General for such representation; ( b ) the Minister charged with the responsibility for the relevant statutory board consents to such representation; ( c ) the Attorney‑General is of the opinion that the Government and the relevant statutory board have no conflicting interests in the matter; and ( d ) the Attorney‑General is of the opinion that the proceedings concern a matter of public importance. (2) Any decision made by the Attorney‑General to, or not to, represent a relevant statutory board pursuant to subsection (1) is final and conclusive."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Fees",
+      "content": "5. The Attorney‑General may require a relevant statutory board to pay a fee of such reasonable amount as the Attorney‑General determines for representing the relevant statutory board in any proceedings in court mentioned in section 3 or 4, and that fee is to be a charge on the funds of that statutory board."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Amendment of Schedule",
+      "content": "6. The President may, by order in the Gazette , amend the Schedule."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "administrative decision",
+      "definition": "“administrative decision” means a decision of an administrative character which is, is proposed to be, or is required to be, made (whether or not in the exercise of a discretion and whether before, on or after 1 January 2015) under any public Act;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "instrument of legislative character",
+      "definition": "“instrument of legislative character” includes an instrument of legislative character made before 1 January 2015 under any public Act;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "judicial review",
+      "definition": "“judicial review” includes proceedings instituted by way of — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "relevant statutory board",
+      "definition": "“relevant statutory board” means any statutory board specified in the Schedule;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "statutory board",
+      "definition": "“statutory board” means a body corporate or unincorporate established by or under any public Act to perform or discharge a public function.",
+      "source_provision": "s2"
+    }
+  ]
+}

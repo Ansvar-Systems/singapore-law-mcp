@@ -1,0 +1,1048 @@
+{
+  "id": "pwa-2024",
+  "type": "statute",
+  "title": "Platform Workers Act 2024",
+  "title_en": "Platform Workers Act 2024",
+  "short_name": "PWA2024",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/PWA2024",
+  "description": "An Act to provide for the rights and obligations of platform operators and platform workers, to register and recognise platform work associations and provide for matters connected therewith, to amend certain Acts to provide for the rights, obligations, protections and representation of platform workers and platform operators under those Acts, and to make consequential and related amendments to certain other Acts.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "1",
+      "title": "Short title and commencement",
+      "content": "1. —(1) This Act is the Platform Workers Act 2024 and comes into operation on a date that the Minister appoints by notification in the Gazette . (2) A notification made under this section may specify that different provisions of the Fourth to Tenth Schedules come into operation on different days."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "2",
+      "title": "General interpretation",
+      "content": "2. In this Act — “authorised officer” means an individual who is appointed under section 80(1)( a ); “civil contravention” means a contravention that is declared to be a civil contravention under section 76; “Commissioner” means the Commissioner for Labour appointed under section 3(1) of the Employment Act 1968; “earnings”, in relation to a platform worker, means all payments payable to the platform worker in relation to the platform worker’s provision of a platform service for a platform operator under a platform work agreement (including any bonus earned by the platform worker from the platform operator), but does not include the following amounts: ( a ) contributions paid by the platform operator towards any pension or provident fund for the platform worker; ( b ) payments to the platform worker to cover any special expenses incurred by the platform worker by reason of the platform worker’s provision of the platform service; “payment” includes a commission; “platform work agreement” means a contract or other agreement (whether written or oral and whether express or implied) between a platform operator and a platform worker, under which the platform worker performs tasks in Singapore in relation to the provision of a platform service to service users for the platform operator, but does not include a contract of service within the meaning given by section 2(1) of the Employment Act 1968; “service user”, in relation to a platform service, means a person who uses the platform service; “task”, in relation to a platform service, means a task — ( a ) for which a request is taken or facilitated by a platform operator; and ( b ) that is performed by a platform worker providing the platform service to one or more service users for the platform operator."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "3",
+      "title": "Meaning of platform service",
+      "content": "3. —(1) In this Act, “platform service” means a service specified in the First Schedule that is provided in Singapore via a digital platform or other platform by a platform operator exercising management control in respect of the provision of that service by one or more platform workers of the platform operator. (2) A platform worker provides a platform service to a service user for a platform operator by performing one or more tasks in relation to the provision of the platform service by the platform operator to the service user."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "4",
+      "title": "Meaning of platform operator",
+      "content": "4. —(1) In this Act, “platform operator” means a person who — ( a ) provides a platform service in Singapore by — (i) entering into a contract or other agreement with one or more service users to provide that platform service to those service users; and (ii) exercising management control in respect of the provision of that platform service by one or more platform workers of the person; and ( b ) satisfies any other requirement that may be prescribed, but excludes any person that the Minister may prescribe by order in the Gazette . (2) A person ( P ) does not cease to be a platform operator by reason only that P has engaged any other person — ( a ) to carry out or operate any part of the provision of a platform service on P ’s behalf, including as a subcontractor; or ( b ) to exercise management control on P ’s behalf in respect of the provision of a platform service by any platform worker for P . (3) In this section, “person” means — ( a ) an individual whether or not a resident or citizen of Singapore and whether physically present in Singapore or outside Singapore; or ( b ) any of the following entities whether formed, constituted or registered in Singapore or outside Singapore: (i) a body corporate (including a limited liability partnership); (ii) an unincorporated association; (iii) a partnership; (iv) a person other than an individual."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "5",
+      "title": "Meaning of platform worker",
+      "content": "5. —(1) In this Act, “platform worker” means an individual who — ( a ) has an agreement (whether written or oral and whether express or implied) with a platform operator to provide a platform service in Singapore to service users for the platform operator; ( b ) is subject to the management control of the platform operator in respect of the individual’s provision of the platform service; ( c ) derives or will derive, under the agreement mentioned in paragraph ( a ), any payment or benefit in kind from the individual’s provision of the platform service for the platform operator; and ( d ) is in Singapore when providing the platform service, but excludes an individual who belongs to a prescribed class of individuals. (2) In subsection (1), “agreement” does not include a contract of service within the meaning given by section 2(1) of the Employment Act 1968."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "6",
+      "title": "Meaning of management control in respect of provision of platform service",
+      "content": "6. —(1) For the purposes of this Act, a person ( A ) exercises management control in respect of the provision of a platform service by an individual ( B ) for A if all of the following are satisfied: ( a ) A uses, for any specified purpose, data relating to — (i) service users and persons who intend to use that platform service; and (ii) individuals (other than employees of A ) who perform or intend to perform tasks in relation to the provision of that platform service for A ; ( b ) A ’s use of the data mentioned in paragraph ( a ) for the specified purpose does not involve human intervention on a regular or routine basis; ( c ) subject to subsection (3), A imposes on B , in relation to B ’s provision of the platform service for A , any requirement, prohibition or restriction specified in the Second Schedule. (2) In subsection (1), “specified purpose” means all or any of the following: ( a ) determining whether B is eligible to provide the platform service for A ; ( b ) allocating one or more tasks to B to perform, or determining the task or tasks that B may choose to perform, in relation to B ’s provision of the platform service for A ; ( c ) determining the payment payable to B , or the benefit in kind to which B is entitled, in relation to the task or tasks B performed in relation to B ’s provision of the platform service for A ; ( d ) any other prescribed purpose. (3) Subsection (1)( c ) does not include any requirement, prohibition or restriction imposed by A on B under or in accordance or in compliance with any written law. (4) Without affecting subsection (1), A is presumed, unless proven otherwise, to exercise management control in respect of B ’s provision of a platform service for A if — ( a ) B provides the platform service for A under a platform work agreement between A and B ; and ( b ) A requires B to access the tasks to be performed by B in relation to B ’s provision of the platform service for A by — (i) using an app provided or specified by A ; or (ii) accessing a website specified or designated by A . (5) In this section — “app” includes a computer program; “data” includes individually‑identifiable information and anonymised or aggregated information; “use” of any data includes the organisation, adaptation, alteration or combination of that data."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "7",
+      "title": "No contracting out of rights of platform worker to join, participate in or organise platform work associations",
+      "content": "7. —(1) Subject to any other written law for the time being in force, every term of an agreement between a platform operator and any platform worker which purports to restrict or exclude, in any way, the right of any platform worker to do any of the following is void: ( a ) to join a registered platform work association; ( b ) to participate in the activities of a registered platform work association, whether as an officer of the registered platform work association or otherwise; ( c ) to associate with any other persons for the purpose of organising a platform work association in accordance with the provisions of Part 3. (2) A platform operator that enters or purports to enter into an agreement with a term mentioned in subsection (1) shall be guilty of an offence and shall be liable on conviction — ( a ) to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both; and ( b ) in the case of a second or subsequent offence — to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both. (3) In this section, “registered platform work association” has the meaning given by section 19."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART 2 - PLATFORM OPERATORS",
+      "section": "8",
+      "title": "Platform operator must notify Commissioner",
+      "content": "8. —(1) A person that satisfies the criteria to be a platform operator under section 4 must notify the Commissioner of that fact — ( a ) within the prescribed time; and ( b ) in the form and manner that the Commissioner requires. (2) A notification under subsection (1) must — ( a ) include the name and particulars of the person notifying and any other particulars prescribed; and ( b ) be accompanied by the prescribed fee, if any. (3) The Commissioner may, in relation to a notification submitted in accordance with subsection (1), require the person notifying to provide any other information or document that the Commissioner requires."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART 2 - PLATFORM OPERATORS",
+      "section": "9",
+      "title": "Notification of cessation as platform operator",
+      "content": "9. A platform operator that ceases to be a platform operator within the meaning of section 4 must notify the Commissioner of that fact within the prescribed time."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART 2 - PLATFORM OPERATORS",
+      "section": "10",
+      "title": "Power of Commissioner to require notification",
+      "content": "10. —(1) The Commissioner may, for the purpose of ascertaining whether any person is a platform operator, do either or both of the following: ( a ) by written notice, require the person to provide any report, document or information in respect of any business activity of the person; ( b ) enter the business premises of the person during normal business hours and carry out any inspection that the Commissioner may think necessary. (2) The Commissioner may determine that a person is a platform operator within the meaning of section 4 and require the person to submit a notification under section 8(1)."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART 2 - PLATFORM OPERATORS",
+      "section": "11",
+      "title": "Compliance with obligations of platform operator",
+      "content": "11. To avoid doubt, where a person is a platform operator within the meaning of section 4, the person’s notification or failure to notify under section 8 or 9 does not affect the person’s obligation to comply with any requirement applicable to a platform operator under this Act or any other written law."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART 2 - PLATFORM OPERATORS",
+      "section": "12",
+      "title": "List of platform operators",
+      "content": "12. The Commissioner may publish a list of platform operators known to the Commissioner in any manner that the Commissioner considers appropriate. Division 2 &#x2014; Obligations of platform operator"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART 2 - PLATFORM OPERATORS",
+      "section": "13",
+      "title": "Platform operator’s obligation — records in respect of platform workers",
+      "content": "13. —(1) A platform operator must make, and keep for the period prescribed (called in this section the record retention period), specified records containing the prescribed particulars for — ( a ) every platform worker who provides a platform service for the platform operator; and ( b ) every individual who has ceased to provide a platform service for the platform operator (called in this section the former platform worker). (2) A platform operator must ensure that a specified record made and kept under subsection (1) is, during the record retention period prescribed for the specified record, readily accessible to the platform worker or former platform worker to which the specified record relates. (3) A platform operator is taken to have failed to comply with subsection (1) if the platform operator makes or keeps a specified record that is incomplete or inaccurate, whether or not the platform operator knew that the specified record is incomplete or inaccurate. (4) Different record retention periods may be prescribed for different classes of platform workers or former platform workers, for different platform services and for different types of specified records. (5) In this section, “specified record”, for a platform worker or former platform worker of a platform operator, means a record of information or particulars about the provision by the platform worker or former platform worker (as the case may be) of a platform service for the platform operator."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART 2 - PLATFORM OPERATORS",
+      "section": "14",
+      "title": "Platform operator’s obligation — earnings slips for platform workers",
+      "content": "14. —(1) A platform operator must give to every platform worker, within the prescribed time, an earnings slip for all earnings paid by the platform operator in respect of each task performed by the platform worker in relation to the platform worker’s provision of a platform service for the platform operator. (2) To avoid doubt, subsection (1) continues to apply where the platform worker, at any time after performing the task mentioned in that subsection, ceases to provide the platform service for the platform operator for any reason. (3) An earnings slip given by a platform operator to a platform worker must be in the form prescribed (if any) and must contain all the information prescribed. (4) The requirement to give an earnings slip to a platform worker under subsection (1) is satisfied if an electronic record containing the information prescribed for the purposes of subsection (3) is provided in a manner that enables the information contained in the electronic record to be accessible and useable by the platform worker for subsequent reference. (5) Where an earnings slip is in respect of 2 or more tasks performed by the platform worker in relation to the platform worker’s provision of a platform service for the platform operator, the platform operator — ( a ) must provide the earnings slip, within the prescribed time, in respect of the earliest task performed by the platform worker that is included in the document or electronic record; and ( b ) must ensure that the earnings slip contains the information prescribed for the purposes of subsection (3) in respect of each task included in the document or electronic record. (6) A platform operator is taken to have failed to comply with subsection (1) if the earnings slip given to a platform worker is incomplete or inaccurate, whether or not the platform operator knew that the earnings slip is incomplete or inaccurate. Division 3 &#x2014; Judicial management, insolvency or\nbankruptcy of platform operator"
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART 2 - PLATFORM OPERATORS",
+      "section": "15",
+      "title": "Judicial management of platform operator",
+      "content": "15. —(1) This section applies where a platform operator that is a company enters judicial management under the Insolvency, Restructuring and Dissolution Act 2018. (2) Where platform workers of the platform operator — ( a ) are creditors, by reason that earnings are payable to them under platform work agreements or any award or agreement regulating conditions under which the platform workers provide a platform service for the platform operator or otherwise; and ( b ) are members of a platform work association that is recognised by the platform operator under the Industrial Relations Act 1960, it is sufficient compliance by the judicial manager with sections 105, 107 and 108 of the Insolvency, Restructuring and Dissolution Act 2018 if the notice, statement of proposals and revised proposals mentioned in those sections are sent to the platform work association representing the platform workers. (3) A platform work association to which subsection (2) applies — ( a ) is entitled to represent any such platform workers at a meeting of creditors summoned under section 107(1) of the Insolvency, Restructuring and Dissolution Act 2018 or, with the permission of the General Division of the High Court, to apply to the General Division of the High Court under section 115 of that Act on their behalf; and ( b ) may make representations to the judicial manager on behalf of those platform workers, in respect of any matter connected with or arising from the continuation or termination of their platform work agreements, or any matter relating to any award made by the Industrial Arbitration Court under the Industrial Relations Act 1960 or any collective agreement certified under that Act that affects those platform workers."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART 2 - PLATFORM OPERATORS",
+      "section": "16",
+      "title": "Priority of specified debts relating to platform workers in winding up of platform operator",
+      "content": "16. —(1) This section applies in relation to a winding up of a platform operator that is a company under the Insolvency, Restructuring and Dissolution Act 2018. (2) The following must be paid in priority over all unsecured debts of the platform operator other than the preferential debts specified in section 203(1)( a ) to ( h ) of the Insolvency, Restructuring and Dissolution Act 2018, and rank in priority after the debts specified in section 203(1)( h ) but before those specified in section 203(1)( i ) of that Act: ( a ) first, all earnings payable to a platform worker, including any amount payable by way of reimbursement under any platform work agreement or any award or agreement regulating the conditions under which any platform worker provides a platform service for the platform operator; ( b ) second, all amounts due in respect of any work injury compensation payable to or for the benefit of a platform worker under the Work Injury Compensation Act 2019 accrued before, on or after the commencement of the winding up; ( c ) third, all amounts due in respect of contributions payable, during a period of 12 consecutive months commencing not earlier than 12 months before and ending not later than 12 months after the commencement of the winding up, by the platform operator, under any written law relating to platform workers’ superannuation or provident funds. (3) The amount payable under subsection (2)( a ) must not exceed any amount that may be prescribed by the Minister by order in the Gazette . (4) The debts in each class specified in subsection (2) rank in the order specified in that subsection but debts of the same class rank equally between themselves, and are to be paid in full, unless the property of the platform operator is insufficient to meet them, in which case the debts of the same class abate in equal proportions between themselves. (5) Where any payment has been made to any platform worker of the platform operator on account of earnings out of money advanced by a person for that purpose, the person by whom the money was advanced, in a winding up — ( a ) has a right of priority in respect of the money so advanced and paid, up to the amount by which the sum in respect of which the platform worker would have been entitled to priority in the winding up has been diminished by reason of the payment; and ( b ) has the same right of priority in respect of that amount as the platform worker would have had if the payment had not been made. (6) So far as the assets of the platform operator available for payment of general creditors are insufficient to meet any preferential debts specified in — ( a ) section 203(1)( a ), ( b ), ( c ), ( d ), ( e ), ( g ) and ( h ) of the Insolvency, Restructuring and Dissolution Act 2018; ( b ) subsection (2)( a ) and ( c ); and ( c ) any amount payable in priority by virtue of subsection (5) or section 203(5) of the Insolvency, Restructuring and Dissolution Act 2018, those debts — ( d ) have priority over the claims of the holders of debentures under any floating charge created by the platform operator (which charge, as created, was a floating charge); and ( e ) must be paid accordingly out of any property comprised in or subject to that charge. (7) Despite anything in subsection (2), paragraph ( b ) of that subsection does not apply in relation to the winding up of a platform operator that is a company in any case where — ( a ) the company is being wound up voluntarily merely for the purpose of reconstruction or amalgamation with another company, and the right to the compensation has on the reconstruction or amalgamation been preserved to the person entitled to that right; or ( b ) the platform operator has entered into a contract with an insurer in respect of any liability under any law relating to work injury compensation."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART 2 - PLATFORM OPERATORS",
+      "section": "17",
+      "title": "Priority of specified debts relating to platform workers where debt repayment scheme applicable to platform operator",
+      "content": "17. —(1) This section applies in relation to a platform operator who is a debtor within the meaning given by section 288(1) of the Insolvency, Restructuring and Dissolution Act 2018. (2) The following must be paid under a debt repayment plan applicable to the platform operator in priority to all other debts proved under the debt repayment scheme to which the plan relates and included in the plan, other than the debts specified in section 296(1)( a ) to ( g ) of the Insolvency, Restructuring and Dissolution Act 2018, and rank in priority after the debts specified in section 296(1)( g ) but before those specified in section 296(1)( h ) of that Act: ( a ) first, all earnings payable to a platform worker, including any amount payable by way of reimbursement under any platform work agreement or any award or agreement regulating the conditions in which any platform worker provides a platform service for the platform operator; ( b ) second, all amounts due in respect of any work injury compensation payable to or for the benefit of a platform worker under the Work Injury Compensation Act 2019 accrued before, on or after the effective date of the scheme; ( c ) third, all amounts due in respect of contributions payable, during a period of 12 consecutive months commencing not earlier than 12 months before and ending not later than 12 months after the effective date of the scheme, by the platform operator, under any written law relating to platform workers’ superannuation or provident funds. (3) The amount payable under subsection (2)( a ) must not exceed any amount that may be prescribed by the Minister by order in the Gazette . (4) The debts in each class specified in subsection (2) rank in the order specified in that subsection but debts of the same class rank equally between themselves, and are to be paid in full, unless the amount standing to the credit of the debtor in the Debt Repayment Schemes Account (within the meaning given by section 28 of the Insolvency, Restructuring and Dissolution Act 2018) is insufficient to meet them, in which case the debts of the same class abate in equal proportions between themselves. (5) Where any payment has been made to any platform worker of the platform operator on account of earnings out of money advanced by a person for that purpose, the person by whom the money was advanced — ( a ) has, under the debt repayment plan, a right of priority in respect of the money so advanced and paid, up to the amount by which the sum in respect of which the platform worker would have been entitled to priority under this section has been diminished by reason of the payment; and ( b ) has the same right of priority in respect of that amount as the platform worker would have had if the payment had not been made."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART 2 - PLATFORM OPERATORS",
+      "section": "18",
+      "title": "Priority of specified debts relating to platform workers in bankruptcy of platform operator",
+      "content": "18. —(1) This section applies in relation to the bankruptcy of a platform operator under the Insolvency, Restructuring and Dissolution Act 2018. (2) In the distribution of the property of the platform operator, the following have priority over all other debts of the platform operator other than the preferential debts specified in section 352(1)( a ) to ( g ) of the Insolvency, Restructuring and Dissolution Act 2018, and rank in priority after the debts specified in section 352(1)( g ) but before those specified in section 352(1)( h ) of that Act: ( a ) first, all earnings payable to a platform worker, including any amount payable by way of reimbursement under any platform work agreement or any award or agreement regulating the conditions in which any platform worker provides a platform service for the platform operator; ( b ) second, all amounts due in respect of any work injury compensation payable to or for the benefit of a platform worker under the Work Injury Compensation Act 2019 accrued before, on or after the date of the bankruptcy order; ( c ) third, all amounts due in respect of contributions payable, during a period of 12 consecutive months commencing not earlier than 12 months before and ending not later than 12 months after the date of the bankruptcy order, by the platform operator, under any written law relating to platform workers’ superannuation or provident funds. (3) The amount payable under subsection (2)( a ) must not exceed any amount that may be prescribed by the Minister by order in the Gazette . (4) The debts in each class specified in subsection (2) rank in the order specified in that subsection but debts of the same class rank equally between themselves, and are to be paid in full, unless the property of the platform operator is insufficient to meet them, in which case the debts of the same class abate in equal proportions between themselves. (5) Where any payment has been made to any platform worker of the platform operator on account of earnings out of money advanced by a person for that purpose, the person by whom the money was advanced, in a bankruptcy — ( a ) has a right of priority in respect of the money so advanced and paid, up to the amount by which the sum in respect of which the platform worker would have been entitled to priority in the bankruptcy has been diminished by reason of the payment; and ( b ) has the same right of priority in respect of that amount as the platform worker would have had if the payment had not been made."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "19",
+      "title": "Interpretation of this Part",
+      "content": "19. In this Part — “delegate”, in relation to a platform work association, means a person who is elected or appointed in accordance with the rules of the platform work association to attend and vote at a meeting of the platform work association on behalf of any number of members of the platform work association; “executive” means the body, by whatever name called, to which the management of the affairs of a platform work association or any branch of a platform work association is entrusted; “industrial action” means the adoption, in furtherance of a work dispute, of any practice, procedure or method in the provision of a platform service which would result in the limitation or restriction in the performance of tasks by platform workers in relation to the provision of that platform service; “lockout” means — ( a ) the suspension or termination by a platform operator of the right or ability of any number of platform workers to obtain tasks assigned or facilitated by the platform operator; or ( b ) the refusal of a platform operator to assign tasks to, or facilitate tasks for, any number of platform workers, in consequence of a work dispute, where the suspension, termination or refusal (as the case may be) is with a view to — ( c ) compelling those platform workers to accept terms or conditions of, or affecting the provision of, any platform service by those platform workers for that platform operator; or ( d ) aiding another platform operator in compelling platform workers of that platform operator to accept terms or conditions of, or affecting the provision of, any platform service by those platform workers for the other platform operator; “officer”, in relation to a platform work association — ( a ) includes any member of the executive of the platform work association and any member of any committee, provision for which is made in the rules of the platform work association; but ( b ) does not include an auditor; “platform work association” means any association or combination of platform workers or platform operators, whether temporary or permanent, whose principal object is to regulate relations between platform workers and platform operators for all or any of the following purposes: ( a ) to promote good industrial relations between platform workers and platform operators; ( b ) to improve the working conditions of platform workers or enhance their economic and social status; ( c ) to achieve the raising of productivity for the benefit of platform workers, platform operators and the economy of Singapore; “Register” means the register of platform work associations kept and maintained by the Registrar under section 21; “registered office” means the office of a platform work association which is registered under this Part as the head office of the platform work association; “registered platform work association” means a platform work association registered under this Part; “Registrar” means the Registrar of Platform Work Associations appointed under section 20(1)( a ) and includes any Assistant Registrar of Platform Work Associations appointed under section 20(1)( b ); “requisite consent”, in relation to a platform work association, means the consent, obtained by secret ballot, of — ( a ) the majority of the members of the platform work association voting on their own behalf on the matter for which consent is sought; or ( b ) where the rules of the platform work association allow or require a decision on that matter to be taken by means of voting by delegates and the decision is taken using that means — two‑thirds of the total number of delegates representing the members; “strike” means — ( a ) the cessation of the provision of a platform service by a body of platform workers providing that platform service acting in combination; or ( b ) a concerted refusal, or a refusal under a common understanding, of any number of platform workers who are or have been providing a platform service for a platform operator to continue to do so or to accept tasks to provide that platform service allocated or facilitated by a platform operator, where the cessation or refusal (as the case may be) is in furtherance of a work dispute; “work dispute” means any dispute between platform workers and one or more platform operators, between platform workers or between platform operators, which is connected with — ( a ) whether a person is engaged or otherwise allowed to provide any platform service for a platform operator; or ( b ) the terms under which or the conditions in which a platform worker provides a platform service."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "20",
+      "title": "Appointment of Registrar, etc.",
+      "content": "20. —(1) The Minister may appoint, from public officers — ( a ) a Registrar of Platform Work Associations; and ( b ) one or more Assistant Registrars of Platform Work Associations. (2) The Registrar is responsible for the administration of this Part, and may exercise all the powers and perform all the duties and functions of the Registrar under this Part, subject to any general or special directions of the Minister. (3) An Assistant Registrar of Platform Work Associations may exercise all the powers and perform all the duties and functions of the Registrar under any provision of this Part, subject to any condition or limitation that the Registrar may specify."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "21",
+      "title": "Register of platform work associations",
+      "content": "21. —(1) The Registrar must keep and maintain a register of platform work associations which must contain the prescribed particulars of each registered platform work association. (2) The Register may be kept, in whole or in part, in an electronic form. (3) The Registrar may require an officer or a member of a registered platform work association to produce any document or provide any information as the Registrar may require for the purposes of maintaining the Register. (4) A certified copy of any entry in the Register is conclusive proof of the facts specified in that entry as on the date of the certified copy. Division 2 &#x2014; Registration of platform work associations"
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "22",
+      "title": "Registration of platform work associations",
+      "content": "22. —(1) Every platform work association must apply to be registered under this Part within a period of one month starting from the date on which it is established. (2) The Registrar may, from time to time, grant an extension of the period mentioned in subsection (1), provided that no such period is, in any particular case, extended so as to exceed a period of 6 months in aggregate. (3) For the purposes of this Part, a platform work association is established on the first date on which any platform workers or platform operators agree to become or create an association or a combination for the furtherance of any one or more of the objects specified in the definition of “platform work association” in section 19. (4) For the purposes of any prosecution of a platform work association which fails to apply for registration in accordance with this section, the following apply: ( a ) the date of establishment of that platform work association, in the absence of proof of the date mentioned in subsection (3), is deemed to be — (i) the date on which any person is proved to have been accepted or admitted as a member of that platform work association; or (ii) the date on which any act is proved to have been done by that platform work association in furtherance of any one or more of the objects specified in the definition of “platform work association” in section 19; ( b ) where proof is available of both the dates mentioned in paragraph ( a )(i) and (ii), the date of establishment of that platform work association is deemed to be the earlier of those dates."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "23",
+      "title": "Application for registration",
+      "content": "23. —(1) Every application for registration as a registered platform work association must be — ( a ) made to the Registrar in the prescribed form; and ( b ) signed by at least 7 members of the platform work association, at least one of whom must be an officer of the platform work association. (2) Every application must be accompanied by — ( a ) the prescribed application fee; ( b ) a copy of the rules of the platform work association; and ( c ) a statement of the prescribed particulars of — (i) the members of the platform work association mentioned in subsection (1)( b ); and (ii) the officers of the platform work association. (3) The Registrar may call for further information for the purpose of satisfying himself or herself that any application for registration complies with this section or that an applicant is entitled to registration as a registered platform work association under this Part."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "24",
+      "title": "Registration",
+      "content": "24. —(1) After consideration of an application for registration as a registered platform work association, the Registrar may — ( a ) subject to section 25, register the applicant as a registered platform work association in the prescribed manner if the Registrar is satisfied as to the matters in subsection (2); or ( b ) refuse to register the applicant as a registered platform work association. (2) The matters mentioned in subsection (1)( a ) are the following: ( a ) the applicant has complied with the provisions of this Part; ( b ) the objects, rules and constitution of the applicant are not unlawful and do not conflict with any provision of this Part; ( c ) the rules and constitution of the applicant are not oppressive or unreasonable; ( d ) the applicant is not likely to be used for unlawful purposes or for purposes inconsistent with its objects and rules; ( e ) where the applicant is an association or a combination of platform workers providing a platform service, it is not likely to be used against the interests of the platform workers providing that platform service; ( f ) where the applicant is an association or a combination of platform workers providing a platform service, there is no existing platform work association registered in respect of that platform service. (3) Despite subsection (1)( a ), if any of the objects of an applicant is unlawful, the registration of a registered platform work association is void. (4) The Registrar, on registering a platform work association under subsection (1)( a ), must issue to the registered platform work association a certificate of registration in the prescribed form. (5) A certificate of registration, unless proved to have been cancelled, is conclusive evidence for all purposes that the platform work association has been duly registered under this Part."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "25",
+      "title": "Power of Registrar to require alteration of name",
+      "content": "25. —(1) If the name under which a platform work association is proposed to be registered — ( a ) is identical with the name by which any other platform work association has been registered; or ( b ) in the Registrar’s opinion, so nearly resembles the name by which any other platform work association has been registered as to be likely to deceive or mislead the public or the members of either platform work association, the Registrar must require an applicant to alter the name of the platform work association stated in the application for registration. (2) The Registrar must not register the applicant until the alteration has been made."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "26",
+      "title": "Cancellation of registration",
+      "content": "26. —(1) The Registrar may cancel the registration of a registered platform work association in any of the following cases: ( a ) at the request of the registered platform work association upon its dissolution to be verified in the manner required by the Registrar; ( b ) if the Registrar is satisfied that — (i) the registration was obtained by fraud or mistake; (ii) any of the objects or rules of the registered platform work association is unlawful; (iii) the constitution of the registered platform work association or of its executive is unlawful; (iv) the registered platform work association is being used for any unlawful purpose or any purpose inconsistent with its objects and rules; (v) the registered platform work association has rescinded any rule providing for any matter for which provision is required under section 48, or has wilfully and after notice from the Registrar — (A) contravened any provision of this Part or allowed any rule to continue in force which is inconsistent with that provision; or (B) allowed any rule to continue in force which is, in the Registrar’s opinion, oppressive or unreasonable; (vi) the funds of the registered platform work association are expended in an unlawful manner or on an unlawful object or on an object not authorised by the rules of the registered platform work association; or (vii) the registered platform work association has ceased to exist; ( c ) in the case of a registered platform work association of platform workers providing a platform service — if the Registrar is satisfied that the registered platform work association is being used, or is likely to be used, against the interests of platform workers providing that platform service; ( d ) in the case of a registered platform work association of platform workers providing a platform service — if the Registrar, having regard to the existence of any other registered platform work association of platform workers providing that platform service, is of the opinion that it is necessary in the interests of the platform workers providing that platform service to cancel the registration of the registered platform work association. (2) Except in a case falling within subsection (1)( a ), the Registrar must give a registered platform work association not less than 2 months’ written notice stating that the Registrar intends to cancel its registration and specifying the ground on which the registration is proposed to be cancelled. (3) A registered platform work association served with a notice under subsection (2) may, within the period of 2 months starting from the date of the notice, make written representations to the Registrar with respect to the proposed cancellation of its registration. (4) The Registrar may cancel the registration of a registered platform work association — ( a ) after consideration of any written representation made to the Registrar pursuant to the notice mentioned in subsection (2); or ( b ) after the time mentioned in subsection (3), where no representation is so made or any written representation made is subsequently withdrawn. (5) An order made by the Registrar under this section cancelling the registration of a registered platform work association must — ( a ) be dated as of the date on which the order was made; ( b ) specify briefly the grounds for the cancellation of the registration; and ( c ) be immediately served on the registered platform work association."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "27",
+      "title": "Power to stop payment of money held by financial institution",
+      "content": "27. —(1) Where the Registrar has given written notice to a registered platform work association under section 26(2), the Minister may, if he or she is satisfied that it is likely that the funds of the registered platform work association may be misused, by written notice direct any financial institution not to pay or cause to be paid any money out of or honour any cheque drawn on the account of the registered platform work association for a specified period not exceeding 3 months, except with the Registrar’s written authorisation. (2) Where an investigation is being conducted by a public authority regarding the improper use or misapplication of the funds of a registered platform work association, the Minister may by written notice direct any financial institution not to pay or cause to be paid any money out of or honour any cheque drawn on the account of the registered platform work association for a specified period not exceeding 3 months, except with the Registrar’s written authorisation. (3) A financial institution which complies with the Minister’s written notice under subsection (1) or (2) is relieved of any liability to any other person in respect of the payment prohibited by the notice. (4) A financial institution which fails to comply with the Minister’s written notice under subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 3 years or to both. (5) Without affecting sections 88 and 89, where a financial institution commits an offence under subsection (4), a person — ( a ) who is — (i) an accountant, a sub‑accountant or any other similar officer of the financial institution; or (ii) a person purporting to act in any such capacity; and ( b ) who — (i) consented or connived, or conspired with others, to effect the commission of the offence; (ii) is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the financial institution; or (iii) knew or ought reasonably to have known that the offence by the financial institution would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence, shall be guilty of that same offence as is the financial institution, and shall be liable on conviction to be punished accordingly. (6) A person mentioned in subsection (5) may rely on a defence that would be available to the financial institution if it were charged with an offence under subsection (4) and, in doing so, the person bears the same burden of proof that the financial institution would bear. (7) In this section — “financial institution” means a bank, a finance company or any co‑operative society carrying on the business of managing and investing funds; “public authority” means the Registrar, an authorised officer, the Commissioner of Police, the Commissioner of Inland Revenue or the Director of the Corrupt Practices Investigation Bureau."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "28",
+      "title": "Consequences of failure to register or cancellation of registration",
+      "content": "28. —(1) This section applies if — ( a ) a platform work association does not apply for registration within the time specified in section 22; ( b ) an application for registration as a platform work association is refused under section 24(1)( b ); or ( c ) the registration of a registered platform work association is cancelled under section 26. (2) The platform work association is dissolved. (3) Subject to subsection (4), the platform work association is deemed to be an unlawful association and ceases to enjoy any of the rights, immunities or privileges of a registered platform work association. (4) Subsection (3) does not affect any liabilities incurred or to be incurred by the platform work association which may be enforced against the platform work association and its assets. (5) The platform work association, and its officers, members or agents on behalf of the platform work association, must not — ( a ) take part in any work dispute or promote, organise or finance any strike or lockout; or ( b ) provide pay or other benefits for the members of the platform work association during a strike or lockout. (6) A person must not — ( a ) take any part in the management or organisation of the platform work association; or ( b ) act or purport to act on behalf of the platform work association or as an officer of the platform work association, except for the purpose of — ( c ) defending proceedings against the platform work association; or ( d ) dissolving the platform work association and disposing of its funds in accordance with the rules of the platform work association."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "29",
+      "title": "Consequences upon dissolution of platform work association",
+      "content": "29. —(1) Upon the dissolution of a platform work association under section 28(2) — ( a ) the property of the platform work association immediately vests in the Official Receiver; and ( b ) the Official Receiver must proceed to wind up the affairs of the platform work association and, after satisfying and providing for all debts and liabilities of the platform work association and the costs of winding up, must pay the surplus assets (if any) of the platform work association — (i) where the Minister so directs — into the Workers’ Fund; or (ii) in the absence of a direction from the Minister — in accordance with the rules of the platform work association. (2) Where — ( a ) no direction is given by the Minister under subsection (1)( b )(i); and ( b ) the surplus assets or part of the surplus assets cannot be distributed in accordance with the rules of the platform work association because the members cannot be found or a meeting of the members is not possible or for any other good and sufficient reason, the surplus assets or part of the surplus assets must be paid into the Workers’ Fund. (3) For the purpose of winding up the affairs of the platform work association — ( a ) the Official Receiver has all the powers vested in the Official Receiver under the Insolvency, Restructuring and Dissolution Act 2018 for the purpose of discovery of the property of a debtor, the realisation of such property and the winding up of a company; and ( b ) the provisions of that Act apply, with the necessary modifications, to the winding up of the affairs of the platform work association under this Part. (4) In this section, “Workers’ Fund” has the meaning given by section 2 of the Work Injury Compensation Act 2019. Division 3 &#x2014; Rights and liabilities of platform work associations"
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "30",
+      "title": "Disabilities of unregistered platform work association",
+      "content": "30. A platform work association does not enjoy any of the rights, immunities or privileges of a registered platform work association until it is registered."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "31",
+      "title": "Immunity from civil suit in certain cases",
+      "content": "31. No suit or other legal proceedings shall be maintainable in any civil court against any registered platform work association, or any officer or member of a registered platform work association, in respect of any act done in contemplation or in furtherance of a work dispute to which a member of the platform work association is a party on the ground only that the act — ( a ) induces some other person to break a platform work agreement; or ( b ) is in interference with — (i) the trade, business or employment of, or the provision of a platform service by, some other person; or (ii) the right of some other person to dispose of that person’s capital or labour as he or she wills."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "32",
+      "title": "Liability in tort",
+      "content": "32. —(1) A suit against a registered platform work association, or any officer or member of a registered platform work association on behalf of himself or herself and all other members of a platform work association, in respect of any tortious act alleged to have been committed by or on behalf of the platform work association is not to be entertained by any court. (2) Nothing in this section affects the liability of a platform work association, or any officer of a platform work association, to be sued in any court touching or concerning the property or rights of a platform work association except in respect of any tortious act committed by or on behalf of the platform work association in contemplation or in furtherance of a work dispute."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "33",
+      "title": "Liability in contract",
+      "content": "33. —(1) Every registered platform work association is liable on any contract entered into by it or by an agent acting on its behalf. (2) Despite subsection (1), a platform work association is not liable on any contract which is void or unenforceable at law."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "34",
+      "title": "Objects in restraint of trade not unlawful in case of registered platform work association",
+      "content": "34. The objects of a registered platform work association are not, by reason only that they are in restraint of trade, deemed to be unlawful so as to render any member of that platform work association liable to criminal prosecution for conspiracy or otherwise, or to render void or voidable any agreement or trust."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "35",
+      "title": "Proceedings by and against platform work association",
+      "content": "35. —(1) A registered platform work association may sue and be sued and be prosecuted under its registered name. (2) An unregistered platform work association may be sued and prosecuted under the name by which it has been operating or is generally known. (3) A platform work association whose registration has been cancelled may be sued and prosecuted under the name by which it was registered. (4) An enforcement order for any money recovered from a platform work association in civil proceedings may issue against any property belonging to or held in trust for the platform work association other than the benevolent fund of a registered platform work association. (5) Any fine ordered to be paid by a platform work association may be recovered by distress and sale of any movable property belonging to or held in trust for the platform work association in accordance with the provisions of the Criminal Procedure Code 2010. (6) In any civil or criminal proceedings in which a registered platform work association is a party, the platform work association may appear in those proceedings by any one of its officers or by an advocate and solicitor."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "36",
+      "title": "Strike or industrial action",
+      "content": "36. —(1) A registered platform work association must not commence, promote, organise or finance any strike or any form of industrial action affecting the whole or any section of its members without obtaining the consent, by secret ballot, of the majority of the members so affected. (2) Any registered platform work association which, and every member of its executive who, contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000. (3) The members of a platform work association who commence, promote, organise, participate or otherwise act in furtherance of any strike or any form of industrial action — ( a ) where the consent of the majority of the members so affected has not been obtained by secret ballot; or ( b ) taken in contravention of the rules or by‑laws of the platform work association, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000. (4) Any person who instigates or incites others to take part in or otherwise acts in furtherance of a strike or any form of industrial action — ( a ) where the consent of the majority of the members of a platform work association so affected has not been obtained by secret ballot; or ( b ) taken in contravention of the rules or by‑laws of the platform work association to which the majority of the persons taking part in the strike or industrial action belongs, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000. (5) In any proceedings for an offence under subsection (2), the onus of proving that the consent of the majority of the members of the registered platform work association so affected has been obtained by secret ballot is on the registered platform work association or the member of its executive, as the case may be. (6) In any proceedings for an offence under subsection (3) or (4), the onus of proving that — ( a ) the consent of the majority of the members of the platform work association so affected has been obtained by secret ballot; or ( b ) the strike or industrial action was not taken in contravention of the rules or by‑laws of the platform work association concerned, is on the member of the platform work association or the accused person, as the case may be. Division 4 &#x2014; Constitution"
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "37",
+      "title": "Membership of minors",
+      "content": "37. —(1) A person above 18 years of age may be a member of a registered platform work association. (2) A member of a registered platform work association who is above 18 years of age, but under 21 years of age, must not be a member of the executive or a trustee of the platform work association unless he or she has obtained the Minister’s written approval."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "38",
+      "title": "Public officers, etc., not to be members of platform work association",
+      "content": "38. —(1) Subject to subsection (2), a person who is a public officer, or an officer or employee of any public authority, must not join or be a member of any platform work association or be accepted as a member by any platform work association. (2) The President may, by notification in the Gazette , exempt any class or description of public officer, or officer or employee of any public authority, from subsection (1), subject to any conditions specified in the notification. (3) In this section, “public authority” means a body established or constituted by or under a public Act to perform or discharge a public function."
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "39",
+      "title": "Officers of platform work association",
+      "content": "39. —(1) A person must not act as an officer of a platform work association or any branch of a platform work association, and is disqualified for election as such officer, if the person — ( a ) is an undischarged bankrupt; or ( b ) has been convicted by any court of criminal breach of trust, extortion or criminal intimidation, or of any offence which, in the Minister’s opinion, renders the person unfit to be an officer of a platform work association. (2) Subsection (1)( b ) does not apply where the Minister is satisfied that the person has reformed and has become fit to be an officer of a platform work association. (3) A person who is not a citizen of Singapore must not act as an officer of a platform work association or any branch of a platform work association unless the prior written approval of the Minister has been obtained. (4) Not less than two-thirds of the total number of the officers of every registered platform work association must be persons actually providing a platform service with which the registered platform work association is connected."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "40",
+      "title": "Authority of officers, etc., to bind platform work association without ratification",
+      "content": "40. —(1) Despite any provision in any rules or resolution of any platform work association — ( a ) the officers of a platform work association and any other persons duly appointed by the platform work association to represent its members in negotiations with a view to a collective agreement have the authority to bargain collectively for and to bind all the members of the platform work association by a collective agreement without the need for ratification by the members; and ( b ) the decisions of those officers or persons on any matter in such negotiations is the decision of all members of the platform work association. (2) Any provision in any rules or resolution of any platform work association that is inconsistent with subsection (1) is void to the extent of that inconsistency."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "41",
+      "title": "Employees of platform work association",
+      "content": "41. —(1) A registered platform work association may, subject to subsections (2) and (4) and the rules of the platform work association, employ and pay such persons as may be necessary for the purposes of the platform work association. (2) A person must not be employed by a registered platform work association under subsection (1) if — ( a ) the person has been convicted by a court of a criminal offence and has not received a free pardon in respect of that offence; and ( b ) in the Minister’s opinion, the conviction renders the person unfit to be employed by a platform work association. (3) Subsection (2) does not apply where the Minister is satisfied that the person so convicted has reformed and has become fit to be employed by a platform work association. (4) A person who is not a citizen of Singapore must not be employed by a registered platform work association under subsection (1) unless the prior written approval of the Minister has been obtained."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "42",
+      "title": "Powers of Minister in relation to sections 39 and 41",
+      "content": "42. Without limiting section 94, the Minister may, by order in the Gazette — ( a ) declare that section 39 or 41 does not apply to any registered platform work association or class of registered platform work associations specified in the order; or ( b ) exempt, subject to any conditions that the Minister considers reasonably necessary, from all or any provision of section 39 or 41, any officer or employee or any proportion or class of officers or employees of any registered platform work association or class of registered platform work associations as may be specified in the order."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "43",
+      "title": "Change of name",
+      "content": "43. A registered platform work association must not change its name except with the requisite consent of its members."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "44",
+      "title": "Amalgamation",
+      "content": "44. —(1) Any 2 or more registered platform work associations may become amalgamated as one platform work association if each of the platform work associations has the requisite consent of its members to the amalgamation. (2) The amalgamation may be undertaken with or without dissolution or division of the funds of the platform work associations or either or any of them."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "45",
+      "title": "Notice of change of name or amalgamation",
+      "content": "45. —(1) Written notice must be given to the Registrar of every change of name and every amalgamation, signed — ( a ) in the case of a change of name, by the secretary and 7 members of the registered platform work association changing its name; or ( b ) in the case of an amalgamation, by the secretary and 7 members of every registered platform work association which is a party to the amalgamation. (2) Subject to subsection (3), if the Registrar is satisfied that the provisions of this Part in respect of change of name have been complied with, the Registrar must register the change of name in the prescribed manner, and the change of name has effect from the date of the registration. (3) The Registrar must refuse to register the change of name if the proposed name — ( a ) is identical with the name by which any other existing platform work association has been registered; or ( b ) in the Registrar’s opinion, so nearly resembles any such name as to be likely to deceive or mislead the public or the members of either platform work association. (4) If the Registrar is satisfied that — ( a ) the provisions of this Part in respect of amalgamation have been complied with; and ( b ) the platform work association formed by amalgamation is entitled to registration under section 24, the Registrar must register the platform work association in the prescribed manner, and the amalgamation has effect from the date of the registration."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "46",
+      "title": "Effect of change of name or amalgamation",
+      "content": "46. —(1) A change in the name of a registered platform work association does not affect any rights or obligations of the platform work association or render defective any legal proceeding by or against the platform work association, and any legal proceeding which might have been continued or commenced by or against it under its former name may be continued or commenced by or against it under its new name. (2) An amalgamation of 2 or more registered platform work associations does not prejudice any right of any such platform work association or any right of a creditor of any such platform work association."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "47",
+      "title": "Registered office",
+      "content": "47. —(1) Every registered platform work association must have a registered office to which all communications and notices may be addressed. (2) Every platform work association must notify the Registrar of the location of its registered office and any change to that location, and the platform work association is deemed not to have complied with the provisions of this Part until such notice has been given. (3) Every platform work association which operates — ( a ) without having a registered office, or without giving notice of the location of its registered office to the Registrar; or ( b ) at any place to which its registered office may have been removed, without having given notice of the change of location to the Registrar, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50 for every day or part of a day during which it is so in operation. (4) Every officer of any platform work association mentioned in subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50 for every day or part of a day during which the platform work association is in operation as described in subsection (3)( a ) or ( b )."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "48",
+      "title": "Rules of registered platform work association",
+      "content": "48. —(1) The rules of every registered platform work association must provide for all matters specified in the Third Schedule and must not be so altered or amended as to cease to contain provision in respect of all such matters. (2) A copy of the rules for the time being in force of any registered platform work association — ( a ) must be prominently exhibited at the registered office of the registered platform work association; and ( b ) must be provided by the secretary of the registered platform work association to any person on demand on payment of the prescribed sum. (3) Where a new rule of a registered platform work association is made or an alteration is made in the rules of a registered platform work association — ( a ) a copy of the new rule or alteration must be sent to the Registrar within 7 days after the making of that rule or alteration; and ( b ) the Registrar must, subject to subsection (4), register that rule or alteration on payment of the prescribed fee. (4) The Registrar may refuse to register any new rule or alteration of any rule if the Registrar is of the opinion that the new rule or altered rule is unlawful or is oppressive or unreasonable. (5) Every new rule or alteration of any rule takes effect from the date of registration by the Registrar unless some later date is specified in the rules of the registered platform work association."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "49",
+      "title": "Secret ballot",
+      "content": "49. —(1) The rules of a registered platform work association relating to the taking of decisions by secret ballot must ensure that — ( a ) every member or delegate (as the case may be) has an equal right, and a reasonable opportunity to record his or her vote freely; ( b ) the results of the voting are correctly ascertained and declared; and ( c ) the secrecy of the ballot is properly secured. (2) The Registrar may, for the purpose of satisfying himself or herself that a secret ballot taken by a registered platform work association has been properly conducted — ( a ) order a person to deliver to the Registrar any ballot papers, envelopes, lists or other documents which have been used in connection with or are relevant to the secret ballot and which are in the possession or under the control of that person; ( b ) take possession of any such ballot papers, envelopes, lists or other documents; and ( c ) inspect those ballot papers, envelopes, lists or other documents and retain them for such period as is necessary for that purpose. (3) Subject to subsection (2) or as may be provided in the rules of the platform work association, no person is allowed to inspect or copy any paper or document relating to a secret ballot. (4) A registered platform work association and every officer of a registered platform work association who is able to do so must, despite anything in the rules of the platform work association, take such steps as are necessary to ensure that all ballot papers, envelopes, lists and other documents used in connection with or relevant to a secret ballot are kept at the registered office of the platform work association for a period of 6 months after the completion of the secret ballot. (5) The secretary of the platform work association must send the results of a secret ballot taken to decide any of the matters specified in paragraph 8 of the Third Schedule to the Registrar within 7 days after the holding of the secret ballot in the form directed by the Registrar."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "50",
+      "title": "Notification of change of officers, etc.",
+      "content": "50. —(1) A registered platform work association must, prominently and in a place that it may be easily read, exhibit — ( a ) at its registered office a notice showing the names and titles of the officers for the time being of the platform work association; and ( b ) at the office of each branch a notice showing the names and titles of the officers for the time being of the branch. (2) Where — ( a ) a person becomes or ceases to be an officer of a registered platform work association or a branch of a platform work association; or ( b ) the title of any officer is changed, the platform work association must notify the Registrar of the appointment or election of the officer, the cessation of the person to be an officer or the change in title (as the case may be) in the prescribed form, together with the prescribed fee, within 7 days after the appointment or election, cessation or change. (3) The Registrar must, on being satisfied that the appointment or election of the officer, the cessation of the person to be an officer or the change in title (as the case may be) is not contrary to the rules of the platform work association or the provisions of this Part, alter the Register accordingly."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "51",
+      "title": "Notification of change of employees",
+      "content": "51. When a person becomes or ceases to be an employee of a registered platform work association or a branch of a registered platform work association, the platform work association must notify the Registrar within 7 days after the appointment or cessation in the form directed by the Registrar."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "52",
+      "title": "Notice of dissolution",
+      "content": "52. —(1) When a registered platform work association is dissolved, notice of the dissolution signed by the secretary and 7 members of the platform work association must be sent to the Registrar within 14 days after the dissolution. (2) The Registrar must, if satisfied that the dissolution has been effected in accordance with the rules of the platform work association, register the dissolution, and the dissolution has effect from the date of the registration."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "53",
+      "title": "Trustees",
+      "content": "53. —(1) The rules of a registered platform work association must provide for the appointment or election of trustees and for the filling of vacancies in the office of trustees so that, as far as may be, there are always at least 3 trustees of the platform work association. (2) A person who is an undischarged bankrupt — ( a ) must not be appointed or elected as a trustee of a platform work association; or ( b ) if so appointed or elected, must not remain as a trustee of a platform work association. (3) Except with the Minister’s approval, a person who has been convicted of an offence involving fraud or dishonesty or any other offence which, in the Minister’s opinion, renders the person unfit to be a trustee of a platform work association — ( a ) must not be appointed or elected as a trustee of a platform work association; or ( b ) if so appointed or elected, must not remain as a trustee of a platform work association. (4) A person who — ( a ) is holding the office of president, chairperson, treasurer, secretary or similar office in a platform work association; or ( b ) is not a citizen of Singapore, must not be appointed or elected as a trustee of the platform work association without the prior written approval of the Minister. (5) When a person is appointed or elected as, or ceases to be, a trustee of a registered platform work association or branch of a registered platform work association, the platform work association must notify the Registrar within 7 days after the appointment or election or cessation in the form required by the Registrar. Division 5 &#x2014; Property"
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "54",
+      "title": "All property vested in trustees",
+      "content": "54. All property, movable or immovable, of a registered platform work association must be vested in its trustees for the use and benefit of the platform work association and its members, and are under the control of the trustees."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "55",
+      "title": "Devolution of property",
+      "content": "55. Upon any change in the office of any trustee, the Supreme Court may, upon an originating application without notice made to it in that behalf, make an order vesting the property of a registered platform work association in the trustees for the time being of the platform work association for the same estate and interest as the former trustee had in that property, and subject to the same trusts, without any transfer, conveyance or assignment."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "56",
+      "title": "Purchase or lease of land or buildings",
+      "content": "56. —(1) Subject to subsection (2) and to any provision in its rules, a registered platform work association may — ( a ) purchase or take a lease of, for the purposes of the platform work association and in the names of its trustees, any land or building; and ( b ) subject to any written law or other law which may be applicable, sell, exchange, charge or lease any land or building purchased or leased by it. (2) A registered platform work association must not purchase or take a lease of any land or building situated outside Singapore without having first obtained the requisite consent of its members. Division 6 &#x2014; Funds and accounts"
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "57",
+      "title": "Application of funds",
+      "content": "57. —(1) The funds of a registered platform work association may, subject to the rules of the platform work association and the provisions of this Act, be expended only for the following objects: ( a ) the payment of salaries, allowances and expenses to officers of the platform work association; ( b ) the payment of expenses for the administration of the platform work association, including audit of the accounts of the funds of the platform work association; ( c ) the prosecution or defence of any legal proceeding to which the platform work association or any member of the platform work association is a party, when the prosecution or defence is undertaken for the purpose of securing or protecting any rights of the platform work association as such or any rights arising out of the relations of any member with a platform operator for whom the member provides a platform service or with a platform worker who provides a platform service for the member, as the case may be; ( d ) the conduct of work disputes on behalf of the platform work association or any member of the platform work association; ( e ) the compensation of members for loss arising out of work disputes; ( f ) allowances to members or their dependants on account of death, old age, sickness or accidents of the members or the inability of the members to provide a platform service with which the platform work association is concerned; ( g ) any other object which the Minister may, by notification in the Gazette , declare to be an object for which such funds may be expended. (2) Any moneys received for a specific purpose by a platform work association from its members, which the members are liable to pay in accordance with its rules, must not be used or applied for any other purpose without the requisite consent of the members of the platform work association. (3) The secretary of the platform work association must, within 7 days from the date the requisite consent mentioned in subsection (2) is obtained, notify the Registrar of the consent and provide to the Registrar any information in respect of the consent as the Registrar may require."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "58",
+      "title": "Prohibition of payment of fines or penalties",
+      "content": "58. The funds of a registered platform work association must not be applied either directly or indirectly in payment of the whole or part of any fine or penalty imposed upon any person by sentence or order of a court of justice."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "59",
+      "title": "Use of funds for political purposes and investment of those funds",
+      "content": "59. —(1) The funds of a registered platform work association must not be applied either directly or indirectly in payment of contributions to a political party or for a political purpose. (2) The funds of a registered platform work association must, subject to the rules of the platform work association and the provisions of this Act, be invested only in — ( a ) investments authorised by law for the investment of trust money; ( b ) interest‑earning deposits in banks or finance companies; ( c ) shares of co‑operative societies established by any registered platform work association or any trade union registered under the Trade Unions Act 1940; or ( d ) any undertaking, enterprise or scheme, the promoter or proprietor of which is the Singapore Labour Foundation or a company formed by or related to the Singapore Labour Foundation, as the Minister may approve for the purposes of this paragraph. (3) In this section, “Singapore Labour Foundation” means the Singapore Labour Foundation established under section 3 of the Singapore Labour Foundation Act 1977. (4) For the purposes of this section, a company is deemed to be related to the Singapore Labour Foundation if it is related to the Singapore Labour Foundation within the meaning of section 6 of the Companies Act 1967."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "60",
+      "title": "Injunction to restrain misuse of funds",
+      "content": "60. An injunction restraining any unauthorised or unlawful expenditure of the funds of a registered platform work association may be granted on the application of any 5 or more persons having sufficient interest in the relief sought, the Registrar or the Attorney‑General."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "61",
+      "title": "Treasurer to render accounts",
+      "content": "61. —(1) Every treasurer of a registered platform work association and every other officer of a registered platform work association who is responsible for the accounts of the platform work association or the collection, disbursement, custody or control of the funds or moneys of the platform work association, must — ( a ) upon resigning or vacating his or her office; ( b ) at least once in every year at the time specified by the rules of the platform work association; and ( c ) at any other time at which he or she may be required to do so by a resolution of the members of the platform work association or by the rules of the platform work association, render to the platform work association and its members a just and true account of — ( d ) all moneys received and paid by him or her during the period which has elapsed since the date of his or her assuming office, or if he or she has previously rendered an account, since the last date upon which he or she rendered such account; ( e ) the balance remaining in his or her hands, at the time of rendering such account; and ( f ) all bonds, securities or other property of the platform work association entrusted to his or her custody or under his or her control. (2) The form of account may be prescribed by regulations. (3) The account must be verified by statutory declaration, and the platform work association must cause the account to be audited by a fit and proper person approved by the Registrar. (4) A platform work association must not cause the accounts to be audited under subsection (3) by the same person for a continuous period of more than 5 years without the prior written approval of the Minister. (5) After the account has been audited, the treasurer or other officer mentioned in subsection (1) must immediately hand over to the trustees of the platform work association, if required by them to do so — ( a ) such balance as appears to be due from him or her; and ( b ) all bonds, securities, effects, books, papers and property of the platform work association in his or her hands or custody, or otherwise under his or her control. (6) The Registrar may by written notice direct the attendance before the Registrar, at the place and time set out in the notice, of any person appointed to audit the accounts of a platform work association for any purpose related to the audit. (7) The Registrar may, if he or she thinks it necessary, by written notice direct any platform work association to — ( a ) cause the accounts to be audited by any person other than the person who first audited the accounts; or ( b ) cause the accounts to be further audited in any manner required by the Registrar. (8) All expenses incurred by a platform work association in complying with the direction of the Registrar must be borne by the platform work association. (9) Any person who fails to comply with the Registrar’s direction under subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both. (10) Any platform work association which fails to comply with the Registrar’s direction under subsection (7) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000."
+    },
+    {
+      "provision_ref": "s62",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "62",
+      "title": "Production of documents, etc., for examination",
+      "content": "62. —(1) Without affecting any other provision of this Act, for the purpose of carrying out the provisions of this Part, the Registrar may by written notice direct any officer or employee of a platform work association to produce for the Registrar’s examination any books, accounts, records and documents and to answer any questions relating to the books, accounts, records or documents as may be necessary. (2) Any person who — ( a ) wilfully refuses or without lawful excuse fails to comply with the Registrar’s direction under subsection (1); or ( b ) wilfully withholds any information, or refuses to answer or wilfully gives a false answer to any question put to the person by the Registrar, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both."
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "63",
+      "title": "Annual returns",
+      "content": "63. —(1) The secretary of every registered platform work association must provide annually to the Registrar on or before the prescribed date in each year a general statement, audited in the prescribed manner, of all receipts and expenditure during the period of 12 months ending on the last day of March last preceding that prescribed date, and of the assets and liabilities of the platform work association as at that day. (2) The general statement mentioned in subsection (1) must be accompanied by a copy of the auditor’s report and must be prepared in such form and comprise such particulars as may be prescribed. (3) The secretary of each registered platform work association must provide to the Registrar, together with the general statement mentioned in subsection (1) — ( a ) a copy of — (i) all alterations or amendments of rules, and all new rules, of the platform work association; and (ii) a list of all changes of officers, made by the platform work association during the period of 12 months preceding the last day of March; and ( b ) a copy of the rules of the platform work association in force on that day. (4) The Registrar may, on application to him or her by a registered platform work association, by written notice, substitute — ( a ) the day on which the financial year of the platform work association ends for the last day of March mentioned in subsections (1) and (3); and ( b ) if necessary, some other date for the date prescribed for the purposes of subsection (1). (5) All the provisions of this section apply accordingly in the case of the registered platform work association mentioned in subsection (4) as though the day and the date so substituted were respectively the last day of March mentioned in subsections (1) and (3) and the prescribed date mentioned in subsection (1). (6) Every member of a registered platform work association is entitled to receive free of charge a copy of the general statement mentioned in subsection (1) and the secretary of each registered platform work association must deliver a copy of that statement to every member of his or her platform work association who applies to him or her for a copy of that statement. (7) Any secretary of a registered platform work association who fails to comply with any requirement of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000. (8) Every person who wilfully makes or orders or causes or procures to be made any false entry in or omission from any of the following documents provided to the Registrar shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both: ( a ) the general statement mentioned in subsection (1); ( b ) the copy of the auditor’s report mentioned in subsection (2); ( c ) any copy mentioned in subsection (3)( a ) or ( b )."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "64",
+      "title": "Inspection of accounts and documents",
+      "content": "64. The account books of a registered platform work association and a list of its members must be open to inspection by any officer or member of the platform work association at the times provided for in the rules of the platform work association, and by the Registrar at any reasonable time. Division 7 &#x2014; Offences and penalties of this Part"
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "65",
+      "title": "Penalty for misuse of money or property of registered platform work association",
+      "content": "65. —(1) Where, on complaint made by a member of a registered platform work association, it is shown to the satisfaction of a District Court or Magistrate’s Court that any officer or member of the registered platform work association — ( a ) has in his or her possession or control any property of the registered platform work association except in accordance with the rules of the registered platform work association; or ( b ) has unlawfully expended or withheld any money of the registered platform work association, the Court, if it considers the justice of the case so requires, is to order that officer or member to deliver that property or pay the money so unlawfully expended or withheld (as the case may be) to the trustees of the registered platform work association. (2) A complaint made under subsection (1) in respect of any property or money of a registered platform work association is not to be entertained unless the District Court or Magistrate’s Court is satisfied that the complainant is, on the date of that complaint, a member of the registered platform work association. (3) Any person bound by an order made under subsection (1) who fails to comply with the terms of and the directions given in that order within a time to be specified in that order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000. (4) An order made under subsection (1) does not affect or prevent a prosecution of, or civil proceedings against, any such officer or member."
+    },
+    {
+      "provision_ref": "s66",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "66",
+      "title": "Supplying false information regarding platform work associations",
+      "content": "66. Any person who, with intent to deceive — ( a ) gives to any member of a registered platform work association, or any person intending or applying to become a member of that platform work association, any document purporting to be a copy of the rules of the platform work association or any alterations to those rules which the person knows, or has reason to believe, is not a correct copy of the rules or alterations that are for the time being in force; or ( b ) gives a copy of any rules of an unregistered platform work association to any person on the pretence that those rules are the rules of a registered platform work association, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both."
+    },
+    {
+      "provision_ref": "s67",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "67",
+      "title": "Failure to submit returns",
+      "content": "67. If default is made on the part of any registered platform work association in doing any act, giving any notice or sending any statement, return or other document as required by this Part — ( a ) every officer or other person bound by the rules of the platform work association or under the provisions of this Part to do that act, give that notice or send that statement, return or document; or ( b ) if there is no such officer or person, every member of the executive of that registered platform work association, shall severally be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000."
+    },
+    {
+      "provision_ref": "s68",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "68",
+      "title": "General penalty",
+      "content": "68. —(1) Every person who, and every platform work association which, contravenes any provision of this Part for which no penalty is expressly provided shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000. (2) Upon conviction of an unregistered platform work association under subsection (1), every person proved to have been a member of the executive of that platform work association shall be deemed severally to be guilty of the offence for which the platform work association was so convicted. (3) The District Court or Magistrate’s Court shall, after necessary inquiry, declare in its finding and order the name of each person to be deemed to be guilty under subsection (2) and shall pass sentence upon the person according to law."
+    },
+    {
+      "provision_ref": "s69",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "69",
+      "title": "Consent of Public Prosecutor",
+      "content": "69. A prosecution under this Part must not be instituted except by or with the consent of the Public Prosecutor. Division 8 &#x2014; Miscellaneous"
+    },
+    {
+      "provision_ref": "s70",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "70",
+      "title": "This Part not to affect certain agreements",
+      "content": "70. This Part does not affect any of the following: ( a ) any agreement between partners as to their own business; ( b ) any agreement between an employer and those employed by that person as to such employment; ( c ) any platform work agreement as to the provision of a platform service by a platform worker; ( d ) any agreement in consideration of the sale of the goodwill of a business or of instruction in any profession, trade or handicraft."
+    },
+    {
+      "provision_ref": "s71",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "71",
+      "title": "Societies Act 1966 not applicable to platform work associations",
+      "content": "71. The Societies Act 1966 does not apply to a platform work association."
+    },
+    {
+      "provision_ref": "s72",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "72",
+      "title": "Service of legal process",
+      "content": "72. Subject to the requirements of any other written law, every originating claim or other legal process may be served on a platform work association by — ( a ) serving it on the president, secretary, treasurer or other officer of the platform work association; or ( b ) leaving it at, or sending it by registered post to, the registered office of the platform work association."
+    },
+    {
+      "provision_ref": "s73",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "73",
+      "title": "",
+      "content": "73. The Registrar must notify in the Gazette the fact that — ( a ) any platform work association has been registered; ( b ) the registration of any platform work association has been cancelled; ( c ) any change of name or amalgamation affecting any registered platform work association has been registered; and ( d ) any registered platform work association has been dissolved."
+    },
+    {
+      "provision_ref": "s74",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "74",
+      "title": "Appeal to Minister",
+      "content": "74. —(1) A person who is aggrieved by — ( a ) the Registrar’s refusal to register a platform work association under section 24(1)( b ); ( b ) the Registrar’s order to cancel the registration of a registered platform work association under section 26; ( c ) the Registrar’s refusal to register a change of the name of a registered platform work association under section 45(3); ( d ) the Registrar’s refusal to register the platform work association formed by the amalgamation of any 2 or more registered platform work associations under section 45(4); or ( e ) the Registrar’s refusal to register a new rule or any alteration of any rule under section 48(4), may appeal to the Minister. (2) An appeal under this section must — ( a ) be in writing; ( b ) specify the grounds on which it is made; and ( c ) be made within the prescribed period starting from the date of the Registrar’s refusal or order. (3) After consideration of an appeal, the Minister may — ( a ) confirm the Registrar’s refusal or order, as the case may be; ( b ) order the registration of any platform work association; ( c ) order the registration of any new rule or alteration of any rule; ( d ) reverse the Registrar’s order; or ( e ) make any order or give any direction that the Minister considers just or necessary. (4) The Minister’s decision is final."
+    },
+    {
+      "provision_ref": "s75",
+      "chapter": "PART 3 - PLATFORM WORK ASSOCIATIONS",
+      "section": "75",
+      "title": "Regulations for this Part",
+      "content": "75. —(1) The Minister may make regulations for the purpose of carrying out or giving effect to this Part. (2) In particular, the Minister may make regulations for any of the following: ( a ) the registers and other records to be kept for the purposes of this Part; ( b ) the form and manner in which platform work associations and the rules of registered platform work associations must be registered and the fees payable on registration; ( c ) the manner in which, and the qualifications of the persons by whom, the accounts of registered platform work associations or any class of registered platform work associations must be audited; ( d ) the conditions subject to which the Register or any document kept by the Registrar may be inspected and an extract from or a copy of an entry in the Register or document may be given, and the fees chargeable for the inspection, extract or copy; ( e ) the form and manner of any applications, forms, notices, requests or returns that must be filed with the Registrar under this Part or any regulations made for the purposes of this Part; ( f ) the due disposal and safe custody of the funds and moneys of a platform work association; ( g ) the creation, administration, protection, control and disposal of the benevolent funds of registered platform work associations and all matters connected with or incidental to such benevolent funds. (3) The Minister may by regulations declare that any regulations made in respect of the matter mentioned in subsection (2)( g ) apply to a specified registered platform work association or a specified class of registered platform work associations only."
+    },
+    {
+      "provision_ref": "s76",
+      "chapter": "PART 4 - ADMINISTRATIVE PENALTIES",
+      "section": "76",
+      "title": "Civil contraventions",
+      "content": "76. The following contraventions are declared to be civil contraventions for the purposes of this Act: ( a ) a failure of a person that satisfies the criteria to be a platform operator under section 4 to notify the Commissioner of that fact in accordance with section 8(1); ( b ) a failure of a person that ceases to be a platform operator within the meaning in section 4 to notify the Commissioner of that fact in accordance with section 9; ( c ) a failure by a platform operator to comply with section 13(1) or 14(1)."
+    },
+    {
+      "provision_ref": "s77",
+      "chapter": "PART 4 - ADMINISTRATIVE PENALTIES",
+      "section": "77",
+      "title": "Payment of administrative penalty",
+      "content": "77. —(1) An authorised officer may issue a contravention notice — ( a ) to a person mentioned in section 76( a ) requiring that person to pay an administrative penalty of the prescribed amount for an alleged failure by the person to notify the Commissioner in accordance with section 8(1); ( b ) to a person mentioned in section 76( b ) requiring that person to pay an administrative penalty of the prescribed amount for an alleged failure by the person to notify the Commissioner in accordance with section 9; or ( c ) to a platform operator requiring the platform operator to pay an administrative penalty of the prescribed amount for each occasion of an alleged failure by the platform operator — (i) to comply with section 13(1) with respect to any one platform worker or former platform worker (within the meaning given by section 13(1)( b )); or (ii) to comply with section 14(1) with respect to any one platform worker. (2) A contravention notice must — ( a ) specify the amount of administrative penalty to be paid; ( b ) specify the date by which the administrative penalty must be paid; and ( c ) set out the brief details of the alleged contravention and any other particulars that may be prescribed. (3) Different amounts of administrative penalty may be prescribed for different civil contraventions or different circumstances in which a civil contravention takes place. (4) Any person or platform operator that is issued a contravention notice under subsection (1) must pay the administrative penalty specified in the contravention notice to the authorised officer within the time, in such mode of payment and at such place as is specified in that notice."
+    },
+    {
+      "provision_ref": "s78",
+      "chapter": "PART 4 - ADMINISTRATIVE PENALTIES",
+      "section": "78",
+      "title": "Appeal, etc., in relation to contravention notice",
+      "content": "78. —(1) Any person or platform operator that is issued a contravention notice by an authorised officer under section 77(1) (called in this section the initial authorised officer) may — ( a ) within the prescribed period and in accordance with the prescribed procedure, request for an internal reconsideration of the contravention notice by another authorised officer (called in this section the reviewing authorised officer); or ( b ) within the prescribed period (and despite not requesting for an internal reconsideration), appeal to the General Division of the High Court which may hear and determine the matter afresh. (2) A reviewing authorised officer reconsidering a contravention notice issued to a person or platform operator must not be subordinate to the initial authorised officer who issued the contravention notice. (3) A reviewing authorised officer may, after reconsidering the issue of a contravention notice by the initial authorised officer — ( a ) confirm the contravention notice issued by the initial authorised officer; or ( b ) cancel the contravention notice. (4) Any person or platform operator that is aggrieved by the reviewing authorised officer’s decision under subsection (3)( a ) may, within the prescribed period, appeal to the General Division of the High Court which may hear and determine the matter afresh. (5) The procedure governing any such appeal to the General Division of the High Court is as provided in the Rules of Court. (6) The enforcement of the payment of any administrative penalty required by a contravention notice to be paid under section 77 is stayed — ( a ) if a request for internal reconsideration under subsection (1)( a ) is made, until after the reconsideration is completed; or ( b ) if an appeal under subsection (1)( b ) or (4) is filed, until after the appeal is completed. (7) In relation to a contravention notice issued to a person or platform operator under section 77(1), where — ( a ) an appeal to the General Division of the High Court has been filed under subsection (1)( b ) or (4) and the appeal is dismissed; ( b ) the prescribed period for requesting an internal reconsideration under subsection (1)( a ) has lapsed without such request made, and the prescribed period for filing an appeal to the General Division of the High Court under subsection (1)( b ) has lapsed and no appeal is filed; or ( c ) the prescribed period for filing an appeal to the General Division of the High Court under subsection (4) has lapsed and no appeal is filed, the contravention notice may, by permission of a District Court, be enforced against the person or platform operator in the same manner as a judgment of the District Court, and where permission is so given, judgment may be entered in terms of that contravention notice. (8) The initial authorised officer may, in any case in which the initial authorised officer thinks fit, waive, remit or refund in whole or in part any administrative penalty paid or required to be paid under section 77."
+    },
+    {
+      "provision_ref": "s79",
+      "chapter": "PART 4 - ADMINISTRATIVE PENALTIES",
+      "section": "79",
+      "title": "Directions in lieu of or in addition to contravention notices",
+      "content": "79. —(1) In lieu of or in addition to giving a platform operator a contravention notice under section 77(1)( c ), an authorised officer may — ( a ) issue any directions to the platform operator that the authorised officer thinks appropriate to bring the civil contravention to an end; and ( b ) where necessary, require the platform operator to take such action as is specified in the direction to remedy, mitigate or eliminate any effects of the civil contravention and to prevent the recurrence of the civil contravention. (2) A platform operator that, without reasonable excuse, fails to comply with a direction given to the platform operator under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both."
+    },
+    {
+      "provision_ref": "s80",
+      "chapter": "PART 5 - ADMINISTRATION AND ENFORCEMENT",
+      "section": "80",
+      "title": "Administration of Act",
+      "content": "80. —(1) The Commissioner may appoint — ( a ) any public officer as an authorised officer; or ( b ) any other individual as an authorised person, to assist the Commissioner in the administration of this Act. (2) The Commissioner may delegate the exercise of all or any of the Commissioner’s powers or duties under this Act (except the power of delegation under this subsection) to any authorised officer or authorised person, subject to any conditions or limitation that the Commissioner may specify. (3) Every authorised person appointed under subsection (1)( b ) is deemed to be a public servant for the purposes of the Penal Code 1871 when exercising any power conferred or performing any duty imposed on the authorised person by or under this Act."
+    },
+    {
+      "provision_ref": "s81",
+      "chapter": "PART 5 - ADMINISTRATION AND ENFORCEMENT",
+      "section": "81",
+      "title": "Powers of Commissioner, authorised officers and authorised persons",
+      "content": "81. —(1) For the purposes of the execution of this Act, the Commissioner and any authorised officer or authorised person has the following powers: ( a ) to enter, inspect and examine at any time any premises; ( b ) to inspect or examine any thing or observe any activity conducted in or on the premises; ( c ) to make a still or moving image or recording of the premises and any thing in or on the premises; ( d ) to inspect any document in or on the premises and take extracts from, or make copies of, any such document; ( e ) to take into or onto the premises any equipment and material that the Commissioner, authorised officer or authorised person requires for the purpose of exercising any power in relation to the premises; ( f ) to operate electronic equipment in or on the premises; ( g ) to take into custody any article in the premises which is relevant to the carrying out of the provisions of this Act. (2) For the purposes of the execution of this Act, the Commissioner or an authorised officer may — ( a ) examine orally any person who appears to be acquainted with any facts and circumstances relevant to the carrying out of the provisions of this Act; ( b ) require any person who appears to be acquainted with any facts and circumstances relevant to the carrying out of the provisions of this Act to attend at the time and place specified in a written notice served on the person; and ( c ) require any person whom the Commissioner or authorised officer has reason to believe has any document or information relevant to the carrying out of the provisions of this Act to produce the document or provide the information, within a reasonable period specified by the Commissioner or authorised officer. (3) The power under subsection (1)( f ) to operate electronic equipment in or on any premises includes the power — ( a ) to use a disk, tape or other storage device that is in or on the premises and can be used with the equipment or in association with the equipment; ( b ) to operate electronic equipment in or on the premises to put the relevant data in documentary form and remove the documents so produced from the premises; and ( c ) to operate electronic equipment in or on the premises to transfer the relevant data to a disk, tape or other storage device that — (i) is brought to the premises for the exercise of the power; or (ii) is in or on the premises and the use of which for that purpose has been agreed in writing by the occupier of the premises, and to remove the disk, tape or other storage device from those premises. (4) The power to require a person to provide a document or information under subsection (2)( c ) includes the power — ( a ) to require that person, or any person who is or was an officer or employee of that person, to provide an explanation of the document or information; ( b ) if the document or information is not provided, to require that person to state, to the best of his or her knowledge and belief, where it is; and ( c ) if the information is recorded otherwise than in legible form, to require the information to be made available to the Commissioner or authorised officer in legible form. (5) A person examined under this section must state truly the facts and circumstances relevant to the carrying out of the provisions of this Act with which the person is acquainted, except only that the person need not say anything that might expose the person to a criminal charge, penalty or forfeiture. (6) A statement made by a person examined under this section must — ( a ) be reduced to writing; ( b ) be read over to the person; ( c ) if the person does not understand English, be interpreted in a language that the person understands; and ( d ) after correction (if necessary), be signed by the person."
+    },
+    {
+      "provision_ref": "s82",
+      "chapter": "PART 5 - ADMINISTRATION AND ENFORCEMENT",
+      "section": "82",
+      "title": "Notice to platform operator by Commissioner, etc., of inspection or visit",
+      "content": "82. On entering any premises occupied by a platform operator under section 81(1)( a ), the Commissioner, authorised officer or authorised person (as the case may be) must notify the platform operator or the platform operator’s representative of his or her presence unless he or she considers that such a notification may be prejudicial to the efficient performance of his or her duties."
+    },
+    {
+      "provision_ref": "s83",
+      "chapter": "PART 5 - ADMINISTRATION AND ENFORCEMENT",
+      "section": "83",
+      "title": "Disposal of documents or thing",
+      "content": "83. —(1) Any document or thing that the Commissioner or an authorised officer or authorised person takes possession of under this Part must — ( a ) where the document or thing is produced in any criminal trial, be dealt with in accordance with section 364 of the Criminal Procedure Code 2010; and ( b ) in any other case — be returned to the owner or reported to a Magistrate. (2) Where the report of any document or thing is made to a Magistrate under subsection (1)( b ), the Magistrate may order the document or thing — ( a ) to be forfeited; or ( b ) to be disposed of in any manner that the Magistrate thinks fit. (3) Nothing in this section is taken to prejudice any right to retain or dispose of property which may exist in law apart from this section."
+    },
+    {
+      "provision_ref": "s84",
+      "chapter": "PART 5 - ADMINISTRATION AND ENFORCEMENT",
+      "section": "84",
+      "title": "Offences of wilfully obstructing or delaying Commissioner, etc.",
+      "content": "84. —(1) A person who — ( a ) wilfully obstructs or delays the Commissioner or an authorised officer or authorised person in the exercise of his or her powers under this Part; ( b ) wilfully withholds any information that the person is required to give under this Act; or ( c ) in providing any document or information required by the Commissioner or an authorised officer under this Act, makes any statement which the person knows or ought reasonably to know that, or is reckless as to whether, it is false or misleading in a material particular, shall be guilty of an offence. (2) A person guilty of an offence under subsection (1) shall be liable on conviction — ( a ) to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both; and ( b ) in the case of a second or subsequent offence — to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both. (3) A platform operator or other person that in any way obstructs any platform worker from appearing before the Commissioner or an authorised officer shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both."
+    },
+    {
+      "provision_ref": "s85",
+      "chapter": "PART 5 - ADMINISTRATION AND ENFORCEMENT",
+      "section": "85",
+      "title": "Persons not to reveal protected information",
+      "content": "85. —(1) If a person exercising any function under this Act obtains protected information about the affairs of another person, the firstmentioned person must not disclose that protected information to any other person unless the disclosure — ( a ) is made with the written consent of the person to whom the information relates; ( b ) is for the purpose of the administration or enforcement of this Act; or ( c ) is in compliance with the requirement of any court, tribunal, authority or person having lawful authority to require the production of documents or the answering of questions. (2) If any person acts in contravention of subsection (1), he or she shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both. (3) For the purpose of this section, the reference to a person disclosing any protected information includes his or her permitting any other person to have any access to any record, document or other thing containing that information which is in his or her possession or under his or her control by virtue of the person being or having been an authorised officer or authorised person. (4) In this section, “protected information” means information the disclosure of which would, or could reasonably be expected to, disclose a trade secret or to adversely affect a person in relation to the lawful business affairs of that person."
+    },
+    {
+      "provision_ref": "s86",
+      "chapter": "PART 6 - MISCELLANEOUS",
+      "section": "86",
+      "title": "Protection from personal liability",
+      "content": "86. No liability shall lie personally against any of the following persons who, acting in good faith and with reasonable care, does or omits to do anything in the execution or purported execution of this Act: ( a ) the Commissioner; ( b ) any authorised officer or authorised person; ( c ) the Registrar of Platform Work Associations or any Assistant Registrar of Platform Work Associations."
+    },
+    {
+      "provision_ref": "s87",
+      "chapter": "PART 6 - MISCELLANEOUS",
+      "section": "87",
+      "title": "Abetment of offences",
+      "content": "87. A person who abets the commission of an offence under this Act shall be guilty of the offence and shall be liable on conviction to be punished with the punishment provided for that offence."
+    },
+    {
+      "provision_ref": "s88",
+      "chapter": "PART 6 - MISCELLANEOUS",
+      "section": "88",
+      "title": "Offences by corporations",
+      "content": "88. —(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of a corporation in relation to a particular conduct, evidence that — ( a ) an officer, employee or agent of the corporation engaged in that conduct within the scope of his or her actual or apparent authority; and ( b ) the officer, employee or agent had that state of mind, is evidence that the corporation had that state of mind. (2) Where a corporation commits an offence under this Act, a person — ( a ) who is — (i) an officer of the corporation; or (ii) an individual involved in the management of the corporation and in a position to influence the conduct of the corporation in relation to the commission of the offence; and ( b ) who — (i) consented or connived, or conspired with others, to effect the commission of the offence; (ii) is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the corporation; or (iii) knew or ought reasonably to have known that the offence by the corporation (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence, shall be guilty of that same offence as is the corporation, and shall be liable on conviction to be punished accordingly. (3) A person mentioned in subsection (2) may rely on a defence that would be available to the corporation if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the corporation would bear. (4) To avoid doubt, this section does not affect the application of — ( a ) Chapters 5 and 5A of the Penal Code 1871; or ( b ) the Evidence Act 1893 or any other law or practice regarding the admissibility of evidence. (5) To avoid doubt, subsection (2) also does not affect the liability of the corporation for an offence under this Act, and applies whether or not the corporation is convicted of the offence. (6) In this section — “corporation” includes a limited liability partnership within the meaning of section 2(1) of the Limited Liability Partnerships Act 2005; “officer”, in relation to a corporation, means any director, partner, chief executive, manager, secretary or other similar officer of the corporation, and includes — ( a ) any person purporting to act in any such capacity; and ( b ) for a corporation whose affairs are managed by its members, any of those members as if the member were a director of the corporation; “state of mind” of a person includes — ( a ) the knowledge, intention, opinion, belief or purpose of the person; and ( b ) the person’s reasons for the intention, opinion, belief or purpose."
+    },
+    {
+      "provision_ref": "s89",
+      "chapter": "PART 6 - MISCELLANEOUS",
+      "section": "89",
+      "title": "Offences by unincorporated associations or partnerships",
+      "content": "89. —(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of an unincorporated association or a partnership in relation to a particular conduct, evidence that — ( a ) an employee or agent of the unincorporated association or partnership engaged in that conduct within the scope of his or her actual or apparent authority; and ( b ) the employee or agent had that state of mind, is evidence that the unincorporated association or partnership had that state of mind. (2) Where an unincorporated association or a partnership commits an offence under this Act, a person — ( a ) who is — (i) an officer of the unincorporated association or a member of its governing body; (ii) a partner in the partnership; or (iii) an individual involved in the management of the unincorporated association or partnership and in a position to influence the conduct of the unincorporated association or partnership (as the case may be) in relation to the commission of the offence; and ( b ) who — (i) consented or connived, or conspired with others, to effect the commission of the offence; (ii) is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the unincorporated association or partnership; or (iii) knew or ought reasonably to have known that the offence by the unincorporated association or partnership (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence, shall be guilty of the same offence as is the unincorporated association or partnership (as the case may be), and shall be liable on conviction to be punished accordingly. (3) A person mentioned in subsection (2) may rely on a defence that would be available to the unincorporated association or partnership if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the unincorporated association or partnership would bear. (4) To avoid doubt, this section does not affect the application of — ( a ) Chapters 5 and 5A of the Penal Code 1871; or ( b ) the Evidence Act 1893 or any other law or practice regarding the admissibility of evidence. (5) To avoid doubt, subsection (2) also does not affect the liability of an unincorporated association or a partnership for an offence under this Act, and applies whether or not the unincorporated association or partnership is convicted of the offence. (6) In this section — “officer”, in relation to an unincorporated association (other than a partnership), means the president, the secretary or any member of the committee of the unincorporated association, and includes — ( a ) any person holding a position analogous to that of president, secretary or member of a committee of the unincorporated association; and ( b ) any person purporting to act in any such capacity; “partner” includes a person purporting to act as a partner; “state of mind” of a person includes — ( a ) the knowledge, intention, opinion, belief or purpose of the person; and ( b ) the person’s reasons for the intention, opinion, belief or purpose."
+    },
+    {
+      "provision_ref": "s90",
+      "chapter": "PART 6 - MISCELLANEOUS",
+      "section": "90",
+      "title": "Composition of offences",
+      "content": "90. —(1) The Commissioner may compound any offence under this Act (except Part 3) that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following: ( a ) one half of the amount of the maximum fine that is prescribed for the offence; ( b ) $5,000. (2) The Commissioner may compound any offence under Part 3 that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $200. (3) On payment of the sum of money, no further proceedings are to be taken against that person in respect of the offence. (4) All sums collected under this section must be paid into the Consolidated Fund."
+    },
+    {
+      "provision_ref": "s91",
+      "chapter": "PART 6 - MISCELLANEOUS",
+      "section": "91",
+      "title": "Jurisdiction of court",
+      "content": "91. Despite the Criminal Procedure Code 2010 — ( a ) a District Court has jurisdiction to try any offence under this Act (except Part 3) and has power to impose the full punishment for any such offence; and ( b ) a District Court or a Magistrate’s Court has jurisdiction to try any offence under Part 3 and has power to impose the full punishment for any such offence."
+    },
+    {
+      "provision_ref": "s92",
+      "chapter": "PART 6 - MISCELLANEOUS",
+      "section": "92",
+      "title": "Service of documents",
+      "content": "92. —(1) A document that is permitted or required by this Act to be served on a person may be served as described in this section. (2) This section does not apply to documents to be served in proceedings in court. (3) A document permitted or required by this Act to be served on an individual may be served — ( a ) by giving it to the individual personally; ( b ) by sending it by prepaid registered post to the address specified by the individual for the service of documents or, if no address is so specified, the individual’s residential address or business address; ( c ) by leaving it at the individual’s residential address with an adult apparently resident there, or at the individual’s business address with an adult apparently employed there; ( d ) by affixing a copy of the document in a conspicuous place at the individual’s residential address or business address; ( e ) by sending it by fax to the fax number last known to the person giving or serving the document as the fax number for the service of documents on the individual; or ( f ) by sending it by email to the individual’s last email address. (4) A document permitted or required by this Act to be served on a partnership (other than a limited liability partnership) may be served — ( a ) by giving it to any partner, secretary or other similar officer of the partnership; ( b ) by leaving it at, or by sending it by prepaid registered post to, the partnership’s business address; ( c ) by sending it by fax to the fax number used at the partnership’s business address; or ( d ) by sending it by email to the partnership’s last email address. (5) A document permitted or required by this Act to be served on a body corporate (including a limited liability partnership) or an unincorporated association may be served — ( a ) by giving it to the secretary or other similar officer of the body corporate or unincorporated association, or the limited liability partnership’s manager; ( b ) by leaving it at, or by sending it by prepaid registered post to, the registered office or principal office in Singapore of the body corporate or unincorporated association; ( c ) by sending it by fax to the fax number used at the registered office or principal office in Singapore of the body corporate or unincorporated association; or ( d ) by sending it by email to the last email address of the body corporate or unincorporated association. (6) Service of a document takes effect — ( a ) if the document is sent by prepaid registered post — 2 days after the day the document was posted (even if it is returned undelivered); ( b ) if the document is sent by fax and a notification of successful transmission is received — on the day of transmission; or ( c ) if the document is sent by email — at the time that the email becomes capable of being retrieved by the person to whom it is sent. (7) However, service of any document under this Act on a person by email may be effected only with the person’s prior written consent to service in that way. (8) In this section — “business address” means — ( a ) in the case of an individual, the individual’s usual or last known place of business in Singapore; or ( b ) in the case of a partnership (other than a limited liability partnership), the partnership’s principal or last known place of business in Singapore; “document” includes a notice permitted or required by this Act to be served; “last email address” means the last email address given by the addressee concerned to the person giving or serving the document as the email address for the service of documents under this Act; “residential address” means an individual’s usual or last known place of residence in Singapore."
+    },
+    {
+      "provision_ref": "s93",
+      "chapter": "PART 6 - MISCELLANEOUS",
+      "section": "93",
+      "title": "Interface with other laws",
+      "content": "93. This Act does not affect any requirement, duty or obligation imposed on a person who is a platform operator or platform worker under any other written law or any rule of law."
+    },
+    {
+      "provision_ref": "s94",
+      "chapter": "PART 6 - MISCELLANEOUS",
+      "section": "94",
+      "title": "General power to exempt",
+      "content": "94. The Minister may, by order in the Gazette , exempt any person or class of persons from all or any of the provisions of this Act, either generally or in a particular case and subject to any conditions that the Minister may impose."
+    },
+    {
+      "provision_ref": "s95",
+      "chapter": "PART 6 - MISCELLANEOUS",
+      "section": "95",
+      "title": "Amendment of Schedules",
+      "content": "95. —(1) The Minister may, by order in the Gazette , amend, add to or vary the First, Second or Third Schedule. (2) The Minister may, in an order made under subsection (1), make provisions of a saving or transitional nature consequent on the enactment of the order that the Minister may consider necessary or expedient. (3) All orders made under subsection (1) must be presented to Parliament as soon as possible after publication in the Gazette ."
+    },
+    {
+      "provision_ref": "s96",
+      "chapter": "PART 6 - MISCELLANEOUS",
+      "section": "96",
+      "title": "Regulations",
+      "content": "96. —(1) The Minister may make regulations necessary or convenient to be prescribed for carrying out or giving effect to this Act. (2) In particular, the Minister may make regulations for all or any of the following matters: ( a ) the records that must be maintained by a platform operator, including the form and contents of the records and the manner in which the records are to be displayed; ( b ) the statistics that must be collected, including the method of collecting the statistics (either in connection with or independently of any other public authority), the staff to be employed in connection with the collection, the duties to be performed and the publications (if any) to be issued; ( c ) the regulation of the conduct of a platform operator towards a platform worker, for the purposes of protecting the platform worker from any practice relating to the provision of a platform service that may adversely affect the platform worker’s wellbeing; ( d ) prescribe the administrative penalties for civil contraventions under Part 4 of an amount not exceeding $1,000 for each occasion of a civil contravention, and $2,000 in the case of a second or subsequent occasion of the civil contravention; ( e ) the manner in which an appeal may be made to the Minister under this Act and the procedure for such appeals; ( f ) any matter that is required or permitted to be prescribed under this Act. (3) Regulations made under this section may provide that any contravention of any provision of the regulations shall be an offence punishable with a fine not exceeding $10,000. (4) All regulations made under this Act must be presented to Parliament as soon as possible after publication in the Gazette ."
+    },
+    {
+      "provision_ref": "s97",
+      "chapter": "PART 7 - AMENDMENTS TO OTHER ACTS",
+      "section": "97",
+      "title": "Amendment of Central Provident Fund Act 1953",
+      "content": "97. The Central Provident Fund Act 1953 is amended in the manner set out in the Fourth Schedule."
+    },
+    {
+      "provision_ref": "s98",
+      "chapter": "PART 7 - AMENDMENTS TO OTHER ACTS",
+      "section": "98",
+      "title": "Amendment of Income Tax Act 1947",
+      "content": "98. The Income Tax Act 1947 is amended in the manner set out in the Fifth Schedule."
+    },
+    {
+      "provision_ref": "s99",
+      "chapter": "PART 7 - AMENDMENTS TO OTHER ACTS",
+      "section": "99",
+      "title": "Amendment of Industrial Relations Act 1960",
+      "content": "99. The Industrial Relations Act 1960 is amended in the manner set out in the Sixth Schedule."
+    },
+    {
+      "provision_ref": "s100",
+      "chapter": "PART 7 - AMENDMENTS TO OTHER ACTS",
+      "section": "100",
+      "title": "Amendment of Trade Disputes Act 1941",
+      "content": "100. The Trade Disputes Act 1941 is amended in the manner set out in the Seventh Schedule."
+    },
+    {
+      "provision_ref": "s101",
+      "chapter": "PART 7 - AMENDMENTS TO OTHER ACTS",
+      "section": "101",
+      "title": "Amendment of Trade Unions Act 1940",
+      "content": "101. The Trade Unions Act 1940 is amended in the manner set out in the Eighth Schedule."
+    },
+    {
+      "provision_ref": "s102",
+      "chapter": "PART 7 - AMENDMENTS TO OTHER ACTS",
+      "section": "102",
+      "title": "Amendment of Work Injury Compensation Act 2019",
+      "content": "102. The Work Injury Compensation Act 2019 is amended in the manner set out in the Ninth Schedule."
+    },
+    {
+      "provision_ref": "s103",
+      "chapter": "PART 7 - AMENDMENTS TO OTHER ACTS",
+      "section": "103",
+      "title": "Amendment of Workplace Safety and Health Act 2006",
+      "content": "103. The Workplace Safety and Health Act 2006 is amended in the manner set out in the Tenth Schedule."
+    },
+    {
+      "provision_ref": "s104",
+      "chapter": "PART 8 - CONSEQUENTIAL AND RELATED AMENDMENTS",
+      "section": "104",
+      "title": "Amendment of Business Names Registration Act 2014",
+      "content": "104. In the Business Names Registration Act 2014, in section 4(1), after paragraph ( j ), insert — “ ( ja ) any platform work association registered under the Platform Workers Act 2024; ”."
+    },
+    {
+      "provision_ref": "s105",
+      "chapter": "PART 8 - CONSEQUENTIAL AND RELATED AMENDMENTS",
+      "section": "105",
+      "title": "Amendment of Child Development Co-Savings Act 2001",
+      "content": "105. In the Child Development Co-Savings Act 2001 — ( a ) in section 2(1), after the definition of “personal representative”, insert — “ “platform operator” has the meaning given by section 4 of the Platform Workers Act 2024; ”; ( b ) in section 2, after subsection (1), insert — “ (1A) To avoid doubt, for the purposes of this Act, a platform worker (within the meaning given by section 5(1) of the Platform Workers Act 2024) is to be regarded as a person who engages in or carries on a trade, business, profession or vocation other than employment under a contract of service and derives income from that trade, business, profession or vocation. ”; ( c ) in the following provisions, after “an employer,”, insert “a platform operator,”: Section 9A(6) Section 12B(20) Section 12F(4) Section 12I(5); ( d ) in section 12A(9), before “a female employee”, insert “an employer, a platform operator,”; ( e ) in section 12AB(4), before “a self‑employed woman”, insert “a platform operator or”; and ( f ) in section 12HA(8), before “a male employee”, insert “an employer, a platform operator,”."
+    },
+    {
+      "provision_ref": "s106",
+      "chapter": "PART 8 - CONSEQUENTIAL AND RELATED AMENDMENTS",
+      "section": "106",
+      "title": "Amendment of Companies Act 1967",
+      "content": "106. In the Companies Act 1967, in section 4(1), in the definition of “corporation” — ( a ) in paragraph ( d ), delete “or” at the end; and ( b ) after paragraph ( d ), insert — “ ( da ) any platform work association registered under the Platform Workers Act 2024; or ”."
+    },
+    {
+      "provision_ref": "s107",
+      "chapter": "PART 8 - CONSEQUENTIAL AND RELATED AMENDMENTS",
+      "section": "107",
+      "title": "Amendment of Co-operative Societies Act 1979",
+      "content": "107. In the Co-operative Societies Act 1979 — ( a ) in section 2(1), in the definition of “institutional member”, replace “or a trade union” with “, a trade union or a platform work association”; ( b ) in section 2(1), after the definition of “permanent share”, insert — “ “platform work association” means a platform work association registered under the Platform Workers Act 2024; ”; ( c ) in section 2(1), replace the definition of “secondary society” with — “ “secondary society” means a society, each of whose registered members is a co‑operative society, a trade union or a platform work association; ”; ( d ) in section 38, replace “or trade union” with “, trade union or platform work association”; ( e ) in section 39(1)( b ), replace “or is a trade union” with “, a trade union or a platform work association”; ( f ) in section 39(2), replace “and trade unions” with “, trade unions and platform work associations”; ( g ) in section 44(2)( b ), replace “or a trade union” with “, another society, a trade union or a platform work association”; and ( h ) in the following provisions, replace “or a trade union” with “, a trade union or a platform work association”: Section 5(2) Section 7(1)( b )(ii) Section 43(3) Section 83(2)( b )(ii)."
+    },
+    {
+      "provision_ref": "s108",
+      "chapter": "PART 8 - CONSEQUENTIAL AND RELATED AMENDMENTS",
+      "section": "108",
+      "title": "Amendment of Enlistment Act 1970",
+      "content": "108. In the Enlistment Act 1970, in section 24 — ( a ) in subsection (1), replace paragraphs ( f ) and ( g ) with — “ ( f ) a platform worker providing a platform service for a platform operator; ( g ) gainfully employed by one or more employers; ( h ) self-employed as well as a platform worker; ( i ) self-employed as well as gainfully employed under a contract of service; ( j ) a platform worker as well as gainfully employed under a contract of service; or ( k ) self-employed, gainfully employed under a contract of service as well as a platform worker, ”; ( b ) in subsection (4), replace paragraph ( b ) with — “ ( b ) where that person — (i) is self-employed as well as gainfully employed under a contract of service; (ii) is a platform worker as well as is gainfully employed under a contract of service; or (iii) is self-employed, a platform worker as well as is gainfully employed under a contract of service, his employer shall only be liable to pay the difference between his civilian remuneration and his service remuneration in the proportion that the civilian remuneration paid by his employer bears to his total civilian remuneration. ”; ( c ) after subsection (6), insert — “ (6A) Where under the Central Provident Fund Act 1953 a platform operator pays contributions in respect of a platform worker who provides a platform service for that platform operator, the platform operator shall continue to pay the same amount of contributions and at the same rate notwithstanding that the platform worker is performing — ( a ) any service under section 14 of this Act or section 118(17) of the Singapore Armed Forces Act 1972; ( b ) any voluntary service in the Singapore Armed Forces; or ( c ) any mobilised service. ”; ( d ) in subsection (7), in the definition of “civilian remuneration”, in paragraph ( a ), replace “or self‑employment” with “, self‑employment or the provision of a platform service for a platform operator”; and ( e ) in subsection (7), after the definition of “mobilised service”, insert — “ “platform operator” has the meaning given by section 4 of the Platform Workers Act 2024; “platform service” has the meaning given by section 3 of the Platform Workers Act 2024; “platform worker” has the meaning given by section 5(1) of the Platform Workers Act 2024; ”."
+    },
+    {
+      "provision_ref": "s109",
+      "chapter": "PART 8 - CONSEQUENTIAL AND RELATED AMENDMENTS",
+      "section": "109",
+      "title": "Amendment of Extradition Act 1968",
+      "content": "109. In the Extradition Act 1968, in the First Schedule, in Part 2, replace item 3 with — “3. Central Provident Fund Act 1953 7(3) Failure of an employer to pay any amount which the employer had recovered from an employee’s monthly wages in accordance with section 7(2) of the Central Provident Fund Act 1953 into the Central Provident Fund within the permitted time 8A(3) Failure of a platform operator to pay any amount which the platform operator had recovered from a platform worker’s platform remuneration in accordance with section 8A(2) of the Central Provident Fund Act 1953 into the Central Provident Fund within the permitted time”."
+    },
+    {
+      "provision_ref": "s110",
+      "chapter": "PART 8 - CONSEQUENTIAL AND RELATED AMENDMENTS",
+      "section": "110",
+      "title": "Amendment of Foreign Interference (Countermeasures) Act 2021",
+      "content": "110. In the Foreign Interference (Countermeasures) Act 2021 — ( a ) in section 3(1), in the definition of “relevant entity”, in paragraph ( c ), replace sub‑paragraphs (ii) and (iii) with — “ (ii) the Societies Act 1966; (iii) the Trade Unions Act 1940; or (iv) the Platform Workers Act 2024; ”; and ( b ) in section 29, in the table, in item 14, in the column “Recipient may be”, replace “or the Trade Unions Act 1940” with “, the Trade Unions Act 1940 or the Platform Workers Act 2024”."
+    },
+    {
+      "provision_ref": "s111",
+      "chapter": "PART 8 - CONSEQUENTIAL AND RELATED AMENDMENTS",
+      "section": "111",
+      "title": "Amendment of Limited Liability Partnerships Act 2005",
+      "content": "111. In the Limited Liability Partnerships Act 2005 — ( a ) in section 2(1), in the definition of “corporation”, replace paragraphs ( d ) and ( e ) with — “ ( d ) any co-operative society; ( e ) any registered trade union; or ( f ) any registered platform work association; ”; ( b ) in section 11(2), after “trade union”, insert “or platform work association”; ( c ) in the Fifth Schedule, in paragraph 76, replace sub‑paragraph (2) with — “ (2) Subject to sub-paragraph (2A), the amount payable under sub‑paragraph (1)( b ) and ( c ) must not exceed the lower of the following amounts for each employee: ( a ) 5 months’ salary (whether for time or piecework) in respect of services rendered by the employee to the limited liability partnership; ( b ) $13,000, or an amount that is 5 times the amount (if any) prescribed by the Minister charged with the responsibility for manpower under section 35( b ) of the Employment Act 1968, whichever is the higher. (2A) Where the amounts in sub-paragraph (2)( a ) and ( b ) are the same, the amount payable for each employee under sub‑paragraph (1)( b ) and ( c ) is equal to either of those amounts. ”; and ( d ) in the Fifth Schedule, after paragraph 76, insert — “ Priority of specified debts relating to platform workers in winding up of platform operator 76A.— (1) This paragraph applies in relation to a winding up of a platform operator that is a limited liability partnership. (2) The following have priority over all unsecured debts of the platform operator, other than the preferential debts specified in paragraph 76(1)( a ) to ( f ), and rank in priority after the debts specified in paragraph 76(1)( f ) but before those specified in paragraph 76(1)( g ): ( a ) first, all earnings payable to a platform worker, including any amount payable by way of reimbursement under any platform work agreement or any award or agreement regulating the conditions under which any platform worker provides a platform service for the platform operator; ( b ) second, all amounts due in respect of any work injury compensation payable to or for the benefit of a platform worker under the Work Injury Compensation Act 2019 accrued before, on or after the commencement of the winding up; ( c ) third, all amounts due in respect of contributions payable, during a period of 12 consecutive months commencing not earlier than 12 months before and ending not later than 12 months after the commencement of the winding up, by the platform operator, under any written law relating to platform workers’ superannuation or provident funds. (3) The amount payable under sub‑paragraph (2)( a ) must not exceed $13,000. (4) The debts in each class specified in sub‑paragraph (2) rank in the order specified in that sub‑paragraph but debts of the same class rank equally between themselves, and are to be paid in full, unless the property of the platform operator is insufficient to meet them, in which case the debts of the same class abate in equal proportions between themselves. (5) Where any payment has been made to any platform worker of the platform operator on account of earnings out of money advanced by a person for that purpose, the person by whom the money was advanced, in a winding up — ( a ) has a right of priority in respect of the money so advanced and paid, up to the amount by which the sum in respect of which the platform worker would have been entitled to priority in the winding up has been diminished by reason of the payment; and ( b ) has the same right of priority in respect of that amount as the platform worker would have had if the payment had not been made. (6) So far as the assets of the platform operator available for payment of general creditors are insufficient to meet any preferential debts specified in — ( a ) paragraph 76(1)( a ), ( b ), ( c ), ( e ) and ( f ); ( b ) sub-paragraph (2)( a ) and ( c ); and ( c ) any amount payable in priority by virtue of sub‑paragraph (5) or paragraph 76(6), those debts — ( d ) have priority over the claims of the holders of debentures under any floating charge created by the platform operator (which charge, as created, was a floating charge); and ( e ) must be paid accordingly out of any property comprised in or subject to that charge. (7) In this paragraph — “earnings” has the meaning given by section 2 of the Platform Workers Act 2024; “platform operator” has the meaning given by section 4 of the Platform Workers Act 2024; “platform work agreement” has the meaning given by section 2 of the Platform Workers Act 2024; “platform worker” has the meaning given by section 5(1) of the Platform Workers Act 2024. ”."
+    },
+    {
+      "provision_ref": "s112",
+      "chapter": "PART 8 - CONSEQUENTIAL AND RELATED AMENDMENTS",
+      "section": "112",
+      "title": "Amendment of Limited Partnerships Act 2008",
+      "content": "112. In the Limited Partnerships Act 2008, in section 2(1), in the definition of “corporation”, replace paragraphs ( d ) and ( e ) with — “ ( d ) any co-operative society; ( e ) any registered trade union; or ( f ) any registered platform work association; ”."
+    },
+    {
+      "provision_ref": "s113",
+      "chapter": "PART 8 - CONSEQUENTIAL AND RELATED AMENDMENTS",
+      "section": "113",
+      "title": "Amendment of Maintenance of Religious Harmony Act 1990",
+      "content": "113. In the Maintenance of Religious Harmony Act 1990, in section 2, in the definition of “entity”, after paragraph ( h ), insert — “ ( i ) a platform work association; ”."
+    },
+    {
+      "provision_ref": "s114",
+      "chapter": "PART 8 - CONSEQUENTIAL AND RELATED AMENDMENTS",
+      "section": "114",
+      "title": "Amendment of Motor Vehicles (Third-Party Risks and Compensation) Act 1960",
+      "content": "114. In the Motor Vehicles (Third-Party Risks and Compensation) Act 1960, in section 4 — ( a ) in subsection (4), replace paragraph ( a ) with — “ ( a ) liability in respect of — (i) the death of or bodily injury sustained by a person ( A ) who is in the employment of a person insured by the policy, where the death or bodily injury arises out of and in the course of A ’s employment; or (ii) the death of or bodily injury sustained by a platform worker ( B ) who provides a platform service for a platform operator insured by the policy, where the death or bodily injury arises out of and in the course of B ’s provision of the platform service for that platform operator; or ”; and ( b ) after subsection (4), insert — “ (4A) In subsection (4) — “platform operator” has the meaning given by section 4 of the Platform Workers Act 2024; “platform service” has the meaning given by section 3 of the Platform Workers Act 2024; “platform worker” has the meaning given by section 5(1) of the Platform Workers Act 2024. ”."
+    },
+    {
+      "provision_ref": "s115",
+      "chapter": "PART 8 - CONSEQUENTIAL AND RELATED AMENDMENTS",
+      "section": "115",
+      "title": "Amendment of Mutual Benefit Organisations Act 1960",
+      "content": "115. In the Mutual Benefit Organisations Act 1960, in section 48(1), replace “or the Trade Unions Act 1940” with “, the Trade Unions Act 1940 or the Platform Workers Act 2024”."
+    },
+    {
+      "provision_ref": "s116",
+      "chapter": "PART 8 - CONSEQUENTIAL AND RELATED AMENDMENTS",
+      "section": "116",
+      "title": "Amendment of Point-to-Point Passenger Transport Industry Act 2019",
+      "content": "116. In the Point-to-Point Passenger Transport Industry Act 2019, in section 4(1), replace the definition of “participating driver agreement” with — “ “participating driver agreement”, in relation to a provider of a ride-hail service, means an agreement or arrangement between the provider of a ride‑hail service and a driver of a bookable vehicle under which — ( a ) the provider agrees to — (i) take or facilitate any booking by or on behalf of a passenger for bookable vehicles made available, or to be made available, in providing on‑demand passenger transport services (whether immediately or at a later time) to the passenger; and (ii) communicate the booking to participating bookable drivers; and ( b ) the driver agrees to carry out the on‑demand passenger transport service in the booking by transporting the passenger for hire or reward, using a bookable vehicle, and it does not matter — ( c ) whether or not — (i) the driver is an employee or agent of the provider of the ride‑hail service; or (ii) where the provider of the ride‑hail service is a platform operator, the driver is a platform worker of the provider; or ( d ) whether the vehicle is hired from that provider; “platform operator” has the meaning given by section 4 of the Platform Workers Act 2024; “platform worker” has the meaning given by section 5(1) of the Platform Workers Act 2024; ”."
+    },
+    {
+      "provision_ref": "s117",
+      "chapter": "PART 8 - CONSEQUENTIAL AND RELATED AMENDMENTS",
+      "section": "117",
+      "title": "Amendment of Public Entertainments Act 1958",
+      "content": "117. In the Public Entertainments Act 1958, in the First Schedule, in paragraph 3( d ), after “registered trade unions,”, insert “registered platform work associations,”."
+    },
+    {
+      "provision_ref": "s118",
+      "chapter": "PART 8 - CONSEQUENTIAL AND RELATED AMENDMENTS",
+      "section": "118",
+      "title": "Amendment of Requisition of Resources Act 1985",
+      "content": "118. In the Requisition of Resources Act 1985, in section 27 — ( a ) in subsection (2)( b ), replace “had not been” with “not been”; ( b ) in subsection (2), after paragraph ( b ), insert — “ ( ba ) is a platform worker — he or she must be paid such remuneration as would have been derived from his or her provision of a platform service for a platform operator had the person’s service not been requisitioned; ”; ( c ) in subsection (4), replace “subsection (2)( a ) or ( b )” with “subsection (2)( a ), ( b ) or ( ba )”; ( d ) in subsection (4), after “self‑employed person”, insert “or platform worker”; and ( e ) replace subsection (6) with — “ (6) In this section — “platform operator” has the meaning given by section 4 of the Platform Workers Act 2024; “platform service” has the meaning given by section 3 of the Platform Workers Act 2024; “platform worker” has the meaning given by section 5(1) of the Platform Workers Act 2024; “service” includes any work carried out or performed for the competent authority. ”."
+    },
+    {
+      "provision_ref": "s119",
+      "chapter": "PART 8 - CONSEQUENTIAL AND RELATED AMENDMENTS",
+      "section": "119",
+      "title": "Amendment of Road Traffic Act 1961",
+      "content": "119. In the Road Traffic Act 1961, in section 110B, replace the definitions of “participating bookable driver” and “participating driver agreement” with — “ “participating bookable driver”, for a designated exempt ride-hail service operator, means a driver who has a participating driver agreement with the operator, and it is immaterial whether — ( a ) the driver is an employee or agent of the designated exempt ride-hail service operator; or ( b ) where the designated exempt ride‑hail service operator is a platform operator, the driver is a platform worker of the operator; “participating driver agreement”, in relation to a designated exempt ride‑hail service operator providing a ride-hail service, means an agreement or arrangement between the designated exempt ride‑hail service operator and a driver of a bookable vehicle under which — ( a ) the designated exempt ride‑hail service operator agrees to — (i) take or facilitate any booking by or on behalf of a passenger for bookable vehicles to be made available in providing on‑demand passenger transport services (whether immediately or at a later time) to the passenger; and (ii) communicate the booking to participating bookable drivers; and ( b ) the driver agrees to carry out the on‑demand passenger transport service in the booking by transporting the passenger for hire or reward, using a bookable vehicle, and it does not matter — ( c ) whether or not — (i) the driver is an employee or agent of the designated exempt ride‑hail service operator; or (ii) where the designated exempt ride‑hail service operator is a platform operator, the driver is a platform worker of that operator; or ( d ) whether the vehicle is hired from that operator; “platform operator” has the meaning given by section 4 of the Platform Workers Act 2024; “platform worker” has the meaning given by section 5(1) of the Platform Workers Act 2024; ”."
+    },
+    {
+      "provision_ref": "s120",
+      "chapter": "PART 8 - CONSEQUENTIAL AND RELATED AMENDMENTS",
+      "section": "120",
+      "title": "Amendment of Singapore Labour Foundation Act 1977",
+      "content": "120. In the Singapore Labour Foundation Act 1977, in section 4 — ( a ) in paragraphs ( a ), ( b ) and ( d ), replace “trade union movement” with “labour movement”; ( b ) in paragraph ( c )(i) and (ii), after “trade unions”, insert “and platform work associations”; ( c ) replace paragraph ( f ) with — “ ( f ) construct and maintain suitable premises for the use of trade unions, platform work associations and co‑operative societies managed by trade unions, platform work associations or both in Singapore; and ”; and ( d ) in paragraph ( g ), replace “trade union” with “labour movement”."
+    },
+    {
+      "provision_ref": "s121",
+      "chapter": "PART 8 - CONSEQUENTIAL AND RELATED AMENDMENTS",
+      "section": "121",
+      "title": "Amendment of Societies Act 1966",
+      "content": "121. In the Societies Act 1966, in section 2, in the definition of “society”, after paragraph ( d ), insert — “ ( da ) any platform work association registered or required to be registered under the Platform Workers Act 2024; ”."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "authorised officer",
+      "definition": "“authorised officer” means an individual who is appointed under section 80(1)( a );",
+      "source_provision": "s2"
+    },
+    {
+      "term": "civil contravention",
+      "definition": "“civil contravention” means a contravention that is declared to be a civil contravention under section 76;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Commissioner",
+      "definition": "“Commissioner” means the Commissioner for Labour appointed under section 3(1) of the Employment Act 1968;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "earnings",
+      "definition": "“earnings” , in relation to a platform worker, means all payments payable to the platform worker in relation to the platform worker’s provision of a platform service for a platform operator under a platform work agreement (including any bonus earned by the platform worker from the platform operator), but does not include the following amounts: ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "payment",
+      "definition": "“payment” includes a commission;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "platform work agreement",
+      "definition": "“platform work agreement” means a contract or other agreement (whether written or oral and whether express or implied) between a platform operator and a platform worker, under which the platform worker performs tasks in Singapore in relation to the provision of a platform service to service users for the platform operator, but does not include a contract of service within the meaning given by section 2(1) of the Employment Act 1968;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "service user",
+      "definition": "“service user” , in relation to a platform service, means a person who uses the platform service;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "task",
+      "definition": "“task” , in relation to a platform service, means a task — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "app",
+      "definition": "“app” includes a computer program;",
+      "source_provision": "s6"
+    },
+    {
+      "term": "data",
+      "definition": "“data” includes individually‑identifiable information and anonymised or aggregated information;",
+      "source_provision": "s6"
+    },
+    {
+      "term": "use",
+      "definition": "“use” of any data includes the organisation, adaptation, alteration or combination of that data.",
+      "source_provision": "s6"
+    },
+    {
+      "term": "delegate",
+      "definition": "“delegate” , in relation to a platform work association, means a person who is elected or appointed in accordance with the rules of the platform work association to attend and vote at a meeting of the platform work association on behalf of any number of members of the platform work association;",
+      "source_provision": "s19"
+    },
+    {
+      "term": "executive",
+      "definition": "“executive” means the body, by whatever name called, to which the management of the affairs of a platform work association or any branch of a platform work association is entrusted;",
+      "source_provision": "s19"
+    },
+    {
+      "term": "industrial action",
+      "definition": "“industrial action” means the adoption, in furtherance of a work dispute, of any practice, procedure or method in the provision of a platform service which would result in the limitation or restriction in the performance of tasks by platform workers in relation to the provision of that platform service;",
+      "source_provision": "s19"
+    },
+    {
+      "term": "lockout",
+      "definition": "“lockout” means — ( a )",
+      "source_provision": "s19"
+    },
+    {
+      "term": "officer",
+      "definition": "“officer” , in relation to an unincorporated association (other than a partnership), means the president, the secretary or any member of the committee of the unincorporated association, and includes — ( a )",
+      "source_provision": "s89"
+    },
+    {
+      "term": "platform work association",
+      "definition": "“platform work association” means any association or combination of platform workers or platform operators, whether temporary or permanent, whose principal object is to regulate relations between platform workers and platform operators for all or any of the following purposes: ( a )",
+      "source_provision": "s19"
+    },
+    {
+      "term": "Register",
+      "definition": "“Register” means the register of platform work associations kept and maintained by the Registrar under section 21;",
+      "source_provision": "s19"
+    },
+    {
+      "term": "registered office",
+      "definition": "“registered office” means the office of a platform work association which is registered under this Part as the head office of the platform work association;",
+      "source_provision": "s19"
+    },
+    {
+      "term": "registered platform work association",
+      "definition": "“registered platform work association” means a platform work association registered under this Part;",
+      "source_provision": "s19"
+    },
+    {
+      "term": "Registrar",
+      "definition": "“Registrar” means the Registrar of Platform Work Associations appointed under section 20(1)( a ) and includes any Assistant Registrar of Platform Work Associations appointed under section 20(1)( b );",
+      "source_provision": "s19"
+    },
+    {
+      "term": "requisite consent",
+      "definition": "“requisite consent” , in relation to a platform work association, means the consent, obtained by secret ballot, of — ( a )",
+      "source_provision": "s19"
+    },
+    {
+      "term": "strike",
+      "definition": "“strike” means — ( a )",
+      "source_provision": "s19"
+    },
+    {
+      "term": "work dispute",
+      "definition": "“work dispute” means any dispute between platform workers and one or more platform operators, between platform workers or between platform operators, which is connected with — ( a )",
+      "source_provision": "s19"
+    },
+    {
+      "term": "financial institution",
+      "definition": "“financial institution” means a bank, a finance company or any co‑operative society carrying on the business of managing and investing funds;",
+      "source_provision": "s27"
+    },
+    {
+      "term": "public authority",
+      "definition": "“public authority” means the Registrar, an authorised officer, the Commissioner of Police, the Commissioner of Inland Revenue or the Director of the Corrupt Practices Investigation Bureau.",
+      "source_provision": "s27"
+    },
+    {
+      "term": "corporation",
+      "definition": "“corporation” includes a limited liability partnership within the meaning of section 2(1) of the Limited Liability Partnerships Act 2005;",
+      "source_provision": "s88"
+    },
+    {
+      "term": "state of mind",
+      "definition": "“state of mind” of a person includes — ( a )",
+      "source_provision": "s88"
+    },
+    {
+      "term": "partner",
+      "definition": "“partner” includes a person purporting to act as a partner;",
+      "source_provision": "s89"
+    },
+    {
+      "term": "business address",
+      "definition": "“business address” means — ( a )",
+      "source_provision": "s92"
+    },
+    {
+      "term": "document",
+      "definition": "“document” includes a notice permitted or required by this Act to be served;",
+      "source_provision": "s92"
+    },
+    {
+      "term": "last email address",
+      "definition": "“last email address” means the last email address given by the addressee concerned to the person giving or serving the document as the email address for the service of documents under this Act;",
+      "source_provision": "s92"
+    },
+    {
+      "term": "residential address",
+      "definition": "“residential address” means an individual’s usual or last known place of residence in Singapore.",
+      "source_provision": "s92"
+    },
+    {
+      "term": "platform operator",
+      "definition": "“platform operator” has the meaning given by section 4 of the Platform Workers Act 2024;",
+      "source_provision": "s111"
+    },
+    {
+      "term": "platform worker",
+      "definition": "“platform worker” has the meaning given by section 5(1) of the Platform Workers Act 2024. ”.",
+      "source_provision": "s111"
+    },
+    {
+      "term": "platform service",
+      "definition": "“platform service” has the meaning given by section 3 of the Platform Workers Act 2024;",
+      "source_provision": "s114"
+    },
+    {
+      "term": "service",
+      "definition": "“service” includes any work carried out or performed for the competent authority. ”.",
+      "source_provision": "s118"
+    }
+  ]
+}

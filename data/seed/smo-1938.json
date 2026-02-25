@@ -1,0 +1,57 @@
+{
+  "id": "smo-1938",
+  "type": "statute",
+  "title": "Scheut Missions Ordinance 1938",
+  "title_en": "Scheut Missions Ordinance 1938",
+  "short_name": "SMO1938",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/SMO1938",
+  "description": "An Ordinance to incorporate the Procureur in the Straits Settlements of the Scheut Missions.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Ordinance may be cited as the Scheut Missions Ordinance 1938."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "The agent or Procureur of the Missions Scheut to be a body corporate",
+      "content": "2. —(1) The Reverend Richard Quintens and his successors for the time being in the office of Procureur of the Missions Scheut duly qualified as hereinafter provided shall be a body corporate, hereinafter called the Corporation, and shall for the purposes of this Ordinance have the name of “the Procureur in the Straits Settlements of the Scheut Missions” and by that name have perpetual succession and shall and may have and use a corporate seal. (2) The said seal may from time to time be broken, changed, altered, and made anew as to the Corporation seems fit."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Powers of the Corporation relating to properties",
+      "content": "3. The Corporation may acquire, purchase, take, hold and enjoy movable and immovable property of every description and may sell, convey and assign, surrender and yield up, mortgage, demise, re‑assign, transfer or otherwise dispose of any movable or immovable property vested in the Corporation upon such terms as to the Corporation seem fit and may sue and be sued by such name of the Procureur in the Straits Settlements of the Scheut Missions in all Courts of Justice."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Vesting clause of properties in Schedules",
+      "content": "4. Subject to section 7 the lands and premises described in the Schedules are hereby vested in the Corporation for the estate and interest for which the same are held."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Qualification of agent before acting",
+      "content": "5. —(1) No person other than the said Richard Quintens shall be deemed to be duly qualified as aforesaid unless and until he has first, with the approval of the Minister signified under his hand and seal, caused the power of attorney or other instrument constituting him Procureur to be duly filed in the Registry of the Supreme Court at Singapore pursuant to section 48 of the Conveyancing and Law of Property Act 1886 and unless and until a notification of such filing has appeared in the Gazette . (2) Such notification shall be sufficient evidence of the appointment and that the person therein named is duly qualified as by this Ordinance is required."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Execution of deeds, etc.",
+      "content": "6. —(1) No deed, document or other instrument sealed with the seal of the Corporation shall be deemed to be duly sealed unless such seal has been affixed in the presence of the said Richard Quintens or his attorney duly authorised by a power of attorney deposited under section 48 of the Conveyancing and Law of Property Act 1886 or in the presence of his successor for the time being in his said office of Procureur and duly qualified as aforesaid and unless such deed, document or other instrument is signed by the said Richard Quintens or his attorney or by his successor or the attorney of such successor as aforesaid. (2) Such signing shall be taken as sufficient evidence of the due sealing of such deed, document or other instrument."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Saving of Government and other rights",
+      "content": "7. Nothing in this Ordinance shall affect the rights of the Government, or of any bodies politic or corporate, or of any other persons except such as are mentioned in this Ordinance, and those claiming by, from or under them. [7/97]"
+    }
+  ],
+  "definitions": []
+}

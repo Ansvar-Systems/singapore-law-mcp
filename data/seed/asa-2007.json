@@ -1,0 +1,159 @@
+{
+  "id": "asa-2007",
+  "type": "statute",
+  "title": "Accounting Standards Act 2007",
+  "title_en": "Accounting Standards Act 2007",
+  "short_name": "ASA2007",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/ASA2007",
+  "description": "An Act to establish the Accounting Standards Committee to issue accounting standards applicable to companies and other incorporated and unincorporated bodies, to provide for accounting standards applicable to statutory bodies with a public function and for matters connected therewith. [Act 36 of 2022 wef 01/04/2023]",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Accounting Standards Act 2007."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. In this Act, unless the context otherwise requires — “accounting standard” means — ( a ) an accounting standard made or formulated by the Committee under Part 3; or [Act 36 of 2022 wef 01/04/2023] ( b ) an accounting standard for statutory bodies established by the Accountant-General under Part 4; [ Deleted by Act 36 of 2022 wef 01/04/2023 ] “Authority” means the Accounting and Corporate Regulatory Authority established under the Accounting and Corporate Regulatory Authority Act 2004; [Act 36 of 2022 wef 01/04/2023] “Chairperson” means the Chairperson of the Committee, and includes any temporary Chairperson of the Committee if so appointed; [Act 36 of 2022 wef 01/04/2023] “Committee” means the Accounting Standards Committee appointed under section 4(1); [Act 36 of 2022 wef 01/04/2023] “company” means any company incorporated under the Companies Act 1967 or any corresponding previous written law, and includes a foreign company registered under Division 2 of Part 11 of that Act in respect of its operations in Singapore; [ Deleted by Act 36 of 2022 wef 01/04/2023 ] “making or formulating”, in relation to any accounting standard, includes amending and revoking the accounting standard; “member”, in relation to the Committee, means a member of the Committee and includes the Chairperson of the Committee; [Act 36 of 2022 wef 01/04/2023] “Minister” means the Minister charged with the responsibility for finance; “statutory body” means a body — ( a ) established or constituted by or under a public Act; ( b ) that has a public function; and ( c ) whose annual report and audited financial statements are required by written law to be presented to Parliament."
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART 2 - ACCOUNTING STANDARDS COMMITTEE",
+      "section": "3",
+      "title": "Functions of Authority relating to accounting standards",
+      "content": "3. The Authority is responsible — ( a ) for making or formulating statements of standard accounting practice (called in this Act accounting standards) applicable to companies for the purpose of the Companies Act 1967; and ( b ) for making or formulating accounting standards applicable to any other entities specified in section 8(1), and must carry out those functions subject to the general or special directions of the Minister. [Act 36 of 2022 wef 01/04/2023]"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART 2 - ACCOUNTING STANDARDS COMMITTEE",
+      "section": "4",
+      "title": "Appointment of Accounting Standards Committee",
+      "content": "4. —(1) For the discharge of its functions under section 3, the Authority may, with the approval of the Minister, appoint from among its members or from among other persons a committee to be known as the Accounting Standards Committee. (2) The Committee consists of the following members: ( a ) the Chairperson; ( b ) at least 10 but not more than 15 other members. (3) A person must not be appointed as a member of the Committee unless the person’s knowledge of, or experience in, business, accounting, law or government or other relevant fields qualifies the person for the appointment. (4) The Committee must carry out the functions and duties conferred on it by this Act in accordance with any general or special directions that the Authority may give to the Committee. (5) The Chairperson and other members of the Committee — ( a ) each holds office for such period and on such terms and conditions as the Authority may, with the approval of the Minister, determine; and ( b ) are eligible for re-appointment. (6) The Authority may, with the approval of the Minister, appoint any member of the Committee to be a temporary Chairperson during the temporary incapacity from illness or otherwise, or during the temporary absence from Singapore, of the Chairperson. (7) The Authority may, with the approval of the Minister, revoke the appointment of the Chairperson or any other member of the Committee if the Authority considers the revocation necessary in the interest of the effective performance of the functions of the Committee under this Act or in the public interest. (8) A member of the Committee may resign from the member’s office at any time by giving at least one month’s notice in writing to the Authority. (9) If any vacancy occurs in the membership of the Committee, the Authority may, with the approval of the Minister and subject to subsections (2) and (3), appoint a person to fill the vacancy. [Act 36 of 2022 wef 01/04/2023]"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART 2 - ACCOUNTING STANDARDS COMMITTEE",
+      "section": "5",
+      "title": "Meetings and proceedings of Committee",
+      "content": "5. —(1) The Committee must meet for the despatch of business at any time and place that the Chairperson may appoint. (2) At every meeting of the Committee, one half of the number of its members constitutes a quorum. (3) The Chairperson presides at all meetings of the Committee, but if the Chairperson is absent from a meeting — ( a ) the temporary Chairperson; or ( b ) if there is no temporary Chairperson, the member that the members present elect, is to preside at that meeting. (4) Subject to the provisions of this Act, the Committee may regulate its own proceedings. [Act 36 of 2022 wef 01/04/2023]"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART 2 - ACCOUNTING STANDARDS COMMITTEE",
+      "section": "6",
+      "title": "Functions and powers of Committee",
+      "content": "6. —(1) The Committee is to assist the Authority in the discharge of the Authority’s functions under section 3. (2) Subject to any general or special direction given by the Authority, the Committee has the power to do anything for the purpose of discharging its functions under this Act, or which is incidental or conducive to the discharge of those functions. [Act 36 of 2022 wef 01/04/2023]"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART 2 - ACCOUNTING STANDARDS COMMITTEE",
+      "section": "7",
+      "title": "Appointment of sub-committees by Committee",
+      "content": "7. —(1) Subject to any general or special direction of the Authority, the Committee may appoint one or more sub-committees for any purpose relating to the Authority’s functions under section 3 which in the opinion of the Committee may be better dealt with or managed by a sub-committee. (2) The chairperson of every sub-committee appointed under subsection (1) must be a member of the Committee. (3) A sub-committee appointed under subsection (1) may include persons who are not members of the Committee. (4) The Committee may, subject to any conditions or restrictions that it thinks fit, delegate — ( a ) to any of its members; or ( b ) to any sub-committee appointed by it under subsection (1), any of the functions or powers of the Committee under this Act, except the power of delegation conferred by this section. (5) Any function or power delegated under subsection (4) to any member or sub-committee may be performed or exercised by that member or sub-committee in the name and on behalf of the Committee. (6) The Committee may continue to exercise any power conferred upon it or perform any function under this Act despite the delegation of the power or function to a sub-committee under this section. [Act 36 of 2022 wef 01/04/2023]"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART 3 - ACCOUNTING STANDARDS FOR",
+      "section": "8",
+      "title": "Accounting standards",
+      "content": "8. —(1) Accounting standards made or formulated by the Committee may be expressed to apply — ( a ) to all companies or specified classes or descriptions of companies; ( b ) to all co-operative societies registered under the Co‑operative Societies Act 1979 or specified classes or descriptions of such co-operative societies; ( c ) to all societies registered under the Societies Act 1966 or specified classes or descriptions of such societies; and ( d ) to all charities registered, and all institutions of a public character approved or deemed approved, under the Charities Act 1994 or specified classes or descriptions of such charities or institutions of a public character. [Act 36 of 2022 wef 01/04/2023] (2) Such accounting standards may be of general or specially limited application, and differ according to differences in time, place or circumstance. (3) The Committee may issue practice directions on the interpretation of the accounting standards made or formulated under this Part and on matters relating to them and their use in Singapore. [Act 36 of 2022 wef 01/04/2023] (4) An accounting standard made or formulated, or deemed to have been made or formulated, by the Accounting Standards Council under Part 3 of this Act as in force immediately before the date of commencement of section 22 of the Accountancy Functions (Consolidation) Act 2022, and which has not been revoked before that date, continues in force after that date as if made or formulated by the Committee under this Part after that date. [Act 36 of 2022 wef 01/04/2023] (5) Any practice direction issued, or deemed to have been issued, by the Accounting Standards Council under Part 3 of this Act as in force immediately before the date of commencement of section 22 of the Accountancy Functions (Consolidation) Act 2022, and which has not been revoked before that date, continues in force after that date as if issued by the Committee under this Part after that date. [Act 36 of 2022 wef 01/04/2023]"
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART 3 - ACCOUNTING STANDARDS FOR",
+      "section": "9",
+      "title": "Manner of making, etc., accounting standards",
+      "content": "9. —(1) In making or formulating accounting standards, the Committee must have the following objects: ( a ) the development of accounting standards that require the provision of financial information that — (i) assists directors of companies and officers of other entities mentioned in section 8(1) to discharge their duties and obligations in relation to financial reporting under the Companies Act 1967 or any other written law; (ii) is relevant to assessing performance, financial position, financing and investment; (iii) is relevant and reliable; (iv) facilitates comparability; and (v) is readily understandable; ( b ) to maintain investor confidence in the Singapore economy (including its capital markets). [Act 36 of 2022 wef 01/04/2023] (2) In making or formulating accounting standards, the Committee — ( a ) must have regard to the suitability of a proposed accounting standard for different types of entities mentioned in section 8(1); ( b ) may apply different accounting requirements to the different types of entities; and ( c ) must ensure that there are appropriate accounting standards for each type of entity that must comply with accounting standards. [Act 36 of 2022 wef 01/04/2023] (3) A failure to comply with this Part in relation to the making or formulation of an accounting standard does not affect the validity of the standard."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART 3 - ACCOUNTING STANDARDS FOR",
+      "section": "10",
+      "title": "Evidence of text of accounting standards",
+      "content": "10. —(1) Where an accounting standard is made or formulated by the Committee under this Part, the Committee must — ( a ) publish a notice of the making or formulation of the accounting standard in such manner as will secure adequate publicity for such making or formulation; ( b ) specify in the notice mentioned in paragraph ( a ) — (i) the date of such making or formulation; (ii) the class or description of company or other entity specified in section 8(1) or otherwise in respect of which the accounting standard is made or formulated; and (iii) the place at and the time during which the accounting standard which is the subject of the notice may be inspected; and ( c ) ensure that, so long as the accounting standard remains in force, copies of that accounting standard, and of all amendments to that accounting standard, are available for inspection by members of the public free of charge, and for purchase by members of the public at a reasonable price. [Act 36 of 2022 wef 01/04/2023] (2) No accounting standard, no amendment to the accounting standard and no revocation of the accounting standard has any force or effect as an accounting standard under this Act or for the purposes of any other written law until the notice relating thereto is published in accordance with subsection (1). (3) Without affecting any other method of proof, in any proceedings under any written law — ( a ) the production of a document purporting to be a copy of a notice published by the Committee under subsection (1)( a ) is proof of such a notice until the contrary is proved; and [Act 36 of 2022 wef 01/04/2023] ( b ) the production of a document purporting to be an accounting standard made or formulated by the Committee as in force at a specified time, or an amendment or a revocation by the Committee of such an accounting standard, and to be the subject of a notice under subsection (1)( a ), and that is certified by the Chairperson under the hand of the Chairperson to be a true copy of or extract from any accounting standard made or formulated, amended or revoked by the Committee, is proof, until the contrary is proved, that — (i) the specified accounting standard or the amendment to the accounting standard was in force at that time or the revoked accounting standard was not in force, as the case may be; and (ii) the text set out in the document is the text of the accounting standard. [Act 36 of 2022 wef 01/04/2023]"
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART 4 - ACCOUNTING STANDARDS FOR STATUTORY BODIES",
+      "section": "11",
+      "title": "Accountant-General to establish accounting standards",
+      "content": "11. —(1) The Accountant-General may establish one or more accounting standards about the following: ( a ) the statements of standard accounting practice applicable to statutory bodies; ( b ) the content of financial statements and annual reports required to be prepared by statutory bodies. (2) Before establishing an accounting standard under subsection (1), the Accountant-General must have regard to relevant accounting standards issued by the Committee under this Act or by any appropriate professional bodies. [Act 36 of 2022 wef 01/04/2023] (3) The Accountant-General may establish an accounting standard under this Part — ( a ) by issuing the text of an accounting standard, which may or may not be an accounting standard made or formulated by the Committee under Part 3; or [Act 36 of 2022 wef 01/04/2023] ( b ) by modifying the text of any accounting standard mentioned in paragraph ( a ) to the extent necessary to take account of the legal or institutional environment for statutory bodies. (4) An accounting standard established under subsection (1) applies to any periods specified in the standard."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART 4 - ACCOUNTING STANDARDS FOR STATUTORY BODIES",
+      "section": "12",
+      "title": "Statutory bodies to comply with accounting standards",
+      "content": "12. The accounts and financial statements of every statutory body specified in the Schedule must be prepared in compliance with the accounting standards that are established under this Part and notified in writing to the statutory body by the Accountant‑General."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART 5 - MISCELLANEOUS",
+      "section": "13",
+      "title": "Amendment of Schedule",
+      "content": "13. —(1) The Minister may, by order in the Gazette , amend the Schedule. (2) Every order made under subsection (1) must be presented to Parliament as soon as possible after publication in the Gazette ."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART 5 - MISCELLANEOUS",
+      "section": "14",
+      "title": "Rules",
+      "content": "14. The Minister may make rules to carry out the purposes and provisions of this Act, including rules for or with respect to the holding of meetings by the Committee, the notice to be given of those meetings and the proceedings at those meetings, the keeping of minutes, and the custody, production and inspection of those minutes. [Act 36 of 2022 wef 01/04/2023]"
+    }
+  ],
+  "definitions": [
+    {
+      "term": "accounting standard",
+      "definition": "“accounting standard” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Authority",
+      "definition": "“Authority” means the Accounting and Corporate Regulatory Authority established under the Accounting and Corporate Regulatory Authority Act 2004; [Act 36 of 2022 wef 01/04/2023]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Chairperson",
+      "definition": "“Chairperson” means the Chairperson of the Committee, and includes any temporary Chairperson of the Committee if so appointed; [Act 36 of 2022 wef 01/04/2023]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Committee",
+      "definition": "“Committee” means the Accounting Standards Committee appointed under section 4(1); [Act 36 of 2022 wef 01/04/2023]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "company",
+      "definition": "“company” means any company incorporated under the Companies Act 1967 or any corresponding previous written law, and includes a foreign company registered under Division 2 of Part 11 of that Act in respect of its operations in Singapore;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "making or formulating",
+      "definition": "“making or formulating” , in relation to any accounting standard, includes amending and revoking the accounting standard;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "“member” , in relation to the Committee, means a member of the Committee and includes the Chairperson of the Committee; [Act 36 of 2022 wef 01/04/2023]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "“Minister” means the Minister charged with the responsibility for finance;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "statutory body",
+      "definition": "“statutory body” means a body — ( a )",
+      "source_provision": "s2"
+    }
+  ]
+}

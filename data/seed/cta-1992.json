@@ -1,0 +1,604 @@
+{
+  "id": "cta-1992",
+  "type": "statute",
+  "title": "Commodity Trading Act 1992",
+  "title_en": "Commodity Trading Act 1992",
+  "short_name": "CTA1992",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/CTA1992",
+  "description": "An Act for the regulation of certain types of commodity trading, and for matters connected therewith. [35/2007]",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Commodity Trading Act 1992. [22/2001]"
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. In this Act, unless the context otherwise requires — “auditor” means a public accountant within the meaning of the Companies Act 1967; “Board” means the Enterprise Singapore Board established by section 3 of the Enterprise Singapore Board Act 2018; “business rules”, in relation to a body corporate that maintains or proposes to maintain a commodity market, means the rules, regulations and by-laws, by whatever name called, governing the activities and conduct of — ( a ) the body corporate and its members; ( b ) its clearing house; and ( c ) other persons in relation to the commodity market, whether those rules, regulations or by-laws are made by the body corporate or are contained in the Memorandum and Articles of Association of the body corporate or altered or supplemented by the Board; “clearing house”, in relation to a commodity market, means a body corporate that — ( a ) clears and settles commodity contracts; and ( b ) makes adjustments to the contractual obligations arising out of those commodity contracts; “commodity” means any produce, item, goods or article that is the subject of any — ( a ) commodity forward contract; ( b ) leveraged commodity trading; ( c ) contract made pursuant to trading in differences; or ( d ) spot commodity trading, and includes an index, a right or an interest in such commodity, and such other index, right or interest of any nature as the Board may, by notification in the Gazette , prescribe to be a commodity; but does not include any produce, item, goods or article that is the subject of a commodity futures contract and any index, right or interest in such produce, item, goods or article; “commodity broker” means a person who (whether as principal or agent) carries on the business of soliciting, or accepting orders, for the purchase or sale of any commodity by way of or relating to any commodity contract, whether or not the business is part of, or is carried on in conjunction with, any other business; “commodity broker’s representative” means a person who acts for, or by arrangement with, a commodity broker (other than a person who is a director of a corporation holding a commodity broker’s licence or is a person who is in the direct employment of a commodity broker) and who performs any of the functions of that commodity broker in connection with trading in commodity forward contracts, or in any leveraged commodity trading, whether the person’s remuneration is by way of commission or otherwise; “commodity contract” means — ( a ) a commodity forward contract; ( b ) any contract made pursuant to trading in differences with respect to a commodity, not being a commodity futures contract; or ( c ) any contract made pursuant to a transaction in leveraged commodity trading; “commodity forward contract” means a contract the effect of which is that one party agrees to deliver a specified commodity, or a specified quantity of a specified commodity, to another party at a specified future time and at a specified price payable at that time, but does not include a commodity futures contract; “commodity futures contract” means — ( a ) a contract the effect of which is that — (i) one party agrees to deliver a specified commodity, or a specified quantity of a specified commodity, to another party at a specified future time and at a specified price payable at that time pursuant to the terms and conditions set out in the business rules of a futures market or pursuant to the business practices of a futures market; or (ii) the parties will discharge their obligations under the contract by settling the difference between the value of a specified quantity of a specified commodity agreed at the time of the making of the contract and at a specified future time, such difference being determined in accordance with the business rules or practices of the futures market at which the contract is made; or ( b ) such other contract or class of contracts as the Board may prescribe, and includes a futures option transaction; “commodity market” means — ( a ) a market, whether in Singapore or elsewhere, at which commodity contracts are regularly made; or ( b ) an electronic system, whether operating in Singapore or elsewhere, through which trading in commodity contracts is carried out, but excludes an electronic facility which merely provides price or other information relating to commodity contracts (whether that facility is part of or carried on in conjunction with the provision of any other information not related to commodity contracts) and which does not permit users of the facility to channel orders for, execute transactions in, or make markets in, commodity contracts; “commodity pool operator” means any person who carries on a business in the nature of a collective investment scheme within the meaning of section 2 of the Securities and Futures Act 2001 and who, in connection therewith, accepts or receives from other persons funds, security or property, either directly or through capital contributions, the sale of shares or other forms of security or otherwise for the purpose of trading in commodity contracts but does not include any person that the Board may prescribe; “commodity pool operator’s representative” means a person in the direct employment of, or acting for, or by arrangement with, a commodity pool operator, who performs for that commodity pool operator any of the functions of a commodity pool operator; “commodity trading adviser” means any person who — ( a ) carries on the business of advising others (directly or indirectly, through publications or writings, or by whatever means or media) on the making of commodity contracts, including the advisability of trading in any commodity contract made or to be made on, or subject to the business rules of, a commodity market; ( b ) as part of a regular business, issues or promulgates analyses or reports concerning the making of commodity contracts; or ( c ) pursuant to a contract or an arrangement with a customer or other person, undertakes on behalf of that customer or other person (whether on a discretionary authority or otherwise granted by the customer or other person) to make any commodity contract for the purposes of managing the client’s funds, but does not include — (i) a bank or merchant bank licensed under the Banking Act 1970; (ii) a commodity broker, commodity broker’s representative, commodity pool operator or commodity pool operator’s representative; (iii) a person who carries on the business of printing or publishing a newspaper and is the holder of a permit issued under the Newspaper and Printing Presses Act 1974 where — (A) insofar as the newspaper is distributed generally to the public it is distributed only to subscribers to, and purchasers of, the newspaper for value; (B) the advice is given or the analyses or reports are issued or promulgated only through that newspaper; and (C) that person receives no commission or other consideration for giving the advice or for issuing or promulgating the analyses or reports; and (iv) any other person that the Board may prescribe, if and only if the carrying on of the business by the abovementioned persons is solely incidental to the carrying on of their business; “commodity trading adviser’s representative” means — ( a ) a person in the direct employment of, or acting for, or by arrangement with, a commodity trading adviser, who performs for that commodity trading adviser any of the functions of a commodity trading adviser (other than work ordinarily performed by accountants, clerks or cashiers) whether his or her remuneration is by way of salary, wages, commission or otherwise; and ( b ) where the commodity trading adviser is a corporation, includes any director, member or officer of the corporation who is not the holder of a commodity trading adviser’s licence and who performs for that corporation any of the functions of a commodity trading adviser (whether or not his or her remuneration is by way of salary, wages, commission or otherwise); “corporation” has the meaning given by the Companies Act 1967; “customer” means a person on whose account a commodity broker carries on trading in commodity contracts; “director” has the meaning given by the Companies Act 1967; “financial year” has the meaning given by the Companies Act 1967; “futures market” and “futures option transaction” have the meanings given to those expressions in the Securities and Futures Act 2001; “leveraged commodity trading” means — ( a ) the act of entering into or offering to enter into, or inducing or attempting to induce a person to enter into or offer to enter into, a contract or an arrangement on a margin basis (other than a commodity futures contract) whereby a person undertakes as determined by the terms and conditions of the contract or arrangement — (i) to make an adjustment between the person and another person according to whether a commodity is worth more or less, at a specified point in time; (ii) to pay an amount of money determined or to be determined by reference to the change in value of a commodity over a specified period of time; or (iii) to deliver to another person at an agreed future time an agreed amount of commodities at an agreed price; ( b ) the provision by any person referred to in paragraph ( a ) of any advance, credit facility or loan, directly or indirectly, to facilitate an act of the description referred to in that paragraph; or ( c ) the act of entering into or offering to enter into, or inducing or attempting to induce a person to enter into, an arrangement with another person (whether on a discretionary basis or otherwise) to enter into any contract to facilitate an act of the description referred to in paragraph ( a ) or ( b ); “member” means a person who holds a membership of any class or description of a commodity market whether or not the person holds any share in the share capital of that commodity market; “officer” has the meaning given by the Companies Act 1967; “spot commodity broker” means a person whether as principal or agent who carries on the business of soliciting or accepting orders, for the purchase or sale of any commodity by way of spot commodity trading, whether or not the business is part of, or is carried on in conjunction with, any other business, but does not include a commodity broker; “spot commodity broker’s representative” means a person who acts for, or by arrangement with, a spot commodity broker (other than a person who is a director of a corporation holding a spot commodity broker’s licence or is a person who is in the direct employment of a spot commodity broker) and who performs any of the functions of that spot commodity broker in connection with spot commodity trading, whether the person’s remuneration is by way of commission or otherwise, but does not include a commodity broker’s representative; “spot commodity pool operator” means any person who carries on a business in the nature of a collective investment scheme within the meaning of section 2 of the Securities and Futures Act 2001 and who, in connection therewith, accepts or receives from other persons funds, security or property, either directly or through capital contributions, the sale of shares or other forms of security or otherwise for the purpose of spot commodity trading, but does not include a commodity pool operator; “spot commodity pool operator’s representative” means a person in the direct employment of, or acting for, or by arrangement with, a spot commodity pool operator, who performs for that spot commodity pool operator any of the functions of a spot commodity pool operator, but does not include a commodity pool operator’s representative; “spot commodity trading” means the purchase or sale of a commodity at its current market or spot price, where it is intended that such transaction results in the physical delivery of the commodity. [10/2018; 1/2020]"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "3",
+      "title": "Application",
+      "content": "3. This Act does not apply to — ( a ) the Singapore Exchange Derivatives Clearing Ltd; ( b ) a person operating a clearing facility within the meaning of the Securities and Futures Act 2001 who — (i) has notified the Monetary Authority of Singapore of the person’s intent to operate the clearing facility under section 49 of that Act; or (ii) is exempted under section 53 of that Act; ( c ) the holder of a capital markets services licence under the Securities and Futures Act 2001 in respect of leveraged foreign exchange trading, when acting lawfully under that Act, but only to the extent that the activities carried out by such person are regulated under the Securities and Futures Act 2001."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART 2 - COMMODITY MARKET AND CLEARING HOUSE",
+      "section": "4",
+      "title": "Establishment of commodities markets",
+      "content": "4. —(1) No person may establish or maintain, assist in establishing or maintaining or hold the person out as providing or maintaining any commodity market unless the commodity market has been approved by the Board under section 5(2). (2) As from 8 October 2018, subsection (1) ceases to apply in relation to any commodity market — ( a ) that is established on or after that date; or ( b ) that was approved under subsection (1) before that date, to the extent that it relates to commodity forward contracts. [4/2017] (3) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 3 years or to both."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART 2 - COMMODITY MARKET AND CLEARING HOUSE",
+      "section": "5",
+      "title": "Power of Board to approve commodity market",
+      "content": "5. —(1) A body corporate may apply to the Board for approval as a commodity market in such form and manner as may be prescribed and the body corporate must, in connection with that application, provide such information as the Board may require. (2) The Board may, in writing, approve a body corporate as a commodity market if it is satisfied that — ( a ) the business rules of the body corporate make satisfactory provision for the matters referred to in section 6; ( b ) the interests of the public will be served by granting the application. (3) The Board must not refuse to approve a body corporate as a commodity market under this section without giving the applicant an opportunity of being heard."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART 2 - COMMODITY MARKET AND CLEARING HOUSE",
+      "section": "6",
+      "title": "Business rules",
+      "content": "6. —(1) The business rules of every body corporate which has applied for approval or which has been approved as a commodity market under section 5 must make satisfactory provision — ( a ) for the exclusion from membership of persons who are not of good character and high business integrity; ( b ) for the expulsion, suspension or disciplining of members for conduct inconsistent with just and equitable principles in the transaction of business, or for a contravention of the business rules of the proposed commodity market; ( c ) with respect to the terms and conditions under which commodity contracts may be made; ( d ) with respect to the clearing and other arrangements made and the financial conditions of the commodity market, its clearing house and its members are such as to provide reasonable assurance that all obligations arising out of any contracts entered into on that commodity market will be met; ( e ) that trading practices are fair and properly supervised; ( f ) that adequate measures have been taken to prevent manipulation and excessive speculation; ( g ) that adequate provision has been made to record and publish details of trading; ( h ) with respect to the establishment of a Compensation Fund, or any other scheme or system accepted by the Board, which would compensate customers who suffer pecuniary loss through the defalcation of a member, or any of its directors or employees, in respect of any money or other property that was entrusted to or received by a member, or a director or an employee, for or on behalf of any person or by reason that the member was trustee of the money or other property; and ( i ) generally for carrying on the business of the proposed commodity market with due regard to the interests and protection of the public. (2) The Board may, with the approval of the Minister, by regulations prescribe the manner, form and procedure for the making of business rules of a commodity market or clearing house and any amendment thereof; and those regulations may make provision for the Board to disallow the whole or part of any rule or any amendment thereto as it thinks fit."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART 2 - COMMODITY MARKET AND CLEARING HOUSE",
+      "section": "7",
+      "title": "Revocation of approval",
+      "content": "7. —(1) The Board may revoke any approval granted under section 5 if — ( a ) the body corporate ceases to operate as a commodity market; ( b ) the body corporate is being wound up; ( c ) the body corporate is operating in a manner detrimental to the public interest; or ( d ) any information provided to the Board under section 5(1) was false or misleading in a material particular. (2) For the purposes of subsection (1)( a ), a body corporate is deemed to have ceased to operate as a commodity market if it has ceased to operate for more than 30 days unless it has obtained the approval of the Board to do so, or unless it has ceased to operate by virtue of any direction issued by the Board under section 34(1)( a )."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART 2 - COMMODITY MARKET AND CLEARING HOUSE",
+      "section": "8",
+      "title": "Establishment of clearing house",
+      "content": "8. —(1) No person may establish, maintain or provide or assist in establishing, maintaining or providing, or hold the person out as maintaining or providing a clearing house for a commodity market unless the person is a body corporate approved as a clearing house under section 9. (2) As from 8 October 2018, subsection (1) ceases to apply in relation to any clearing house — ( a ) that is established on or after that date; or ( b ) that was approved under subsection (1) before that date, to the extent that it relates to commodity forward contracts. [4/2017] (3) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 3 years or to both."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART 2 - COMMODITY MARKET AND CLEARING HOUSE",
+      "section": "9",
+      "title": "Power of Board to approve clearing house",
+      "content": "9. —(1) A body corporate may apply to the Board for approval as a clearing house in such form and manner as may be prescribed and the body corporate must, in connection with that application, provide such information as the Board may require. (2) The Board may in writing approve a body corporate as a clearing house if it is satisfied that — ( a ) the business rules of the body corporate make satisfactory provision relating to the registration of, and guaranteeing to its members of the performance of, commodity contracts made in a commodity market; and ( b ) the interests of the public will be served by granting the application."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART 2 - COMMODITY MARKET AND CLEARING HOUSE",
+      "section": "10",
+      "title": "Appeal to Minister",
+      "content": "10. A person who is aggrieved by the decision of the Board made under section 5, 7 or 9 may, within 30 days of the decision, appeal to the Minister whose decision is final."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART 2 - COMMODITY MARKET AND CLEARING HOUSE",
+      "section": "11",
+      "title": "Liabilities of commodity market and clearing house",
+      "content": "11. —(1) A person, who is aggrieved by the failure of a commodity market or a clearing house or any of the directors or employees of the commodity market or clearing house to enforce its business rules or by the contravention of this Act or any regulations made under this Act in the enforcement of the business rules, has a right of action in damages for the actual amount of damages suffered by that person — ( a ) in any transaction that the person has entered into on or subject to the business rules of a commodity market; and ( b ) that is directly attributable to the failure to enforce the business rules, or the contravention of this Act or any regulations made under this Act in the enforcement of the business rules. (2) No action for damages shall lie against a commodity market or a clearing house, or any of its directors or employees under subsection (1) unless the aggrieved person can show that, in failing to take action or in taking such action as was taken resulting in loss to the aggrieved person, the commodity market or the clearing house, or any of the directors or employees, acted in bad faith. (3) The right of action conferred by this section is the exclusive remedy available to any person who suffers loss as a result of an alleged failure of a commodity market or a clearing house, or any of its directors or employees, to enforce its business rules, or the contravention of this Act or any regulations made under this Act in the enforcement of the business rules."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART 3 - LICENCES",
+      "section": "12",
+      "title": "Commodity broker’s licence",
+      "content": "12. —(1) No person, whether as principal or agent, may — ( a ) carry on business as a commodity broker; or ( b ) hold the person out as carrying on such a business, unless the person — (i) is licensed as a commodity broker under this Act; and (ii) trades in accordance with the business rules and practices of a commodity market on which the trading takes place. (2) As from 8 October 2018, subsection (1) ceases to apply to any person who commences business as a commodity broker on or after that date. [4/2017] (3) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years or to both."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART 3 - LICENCES",
+      "section": "13",
+      "title": "Other licences",
+      "content": "13. —(1) Subject to section 14A, no person may act as, or hold the person out as — ( a ) a commodity broker’s representative; ( b ) a commodity trading adviser; ( c ) a commodity trading adviser’s representative; ( d ) a commodity pool operator; or ( e ) a commodity pool operator’s representative, unless the person is the holder of a licence granted under this Part that authorises the person to act as such. (2) As from 8 October 2018, subsection (1) ceases to apply to any person who — ( a ) in relation to subsection (1)( a ), is a commodity broker’s representative of a commodity broker mentioned in section 12(2) who does not hold a transitional licence; ( b ) in relation to subsection (1)( b ), commences business as a commodity trading adviser on or after that date; ( c ) in relation to subsection (1)( c ), is a commodity trading adviser’s representative of a commodity trading adviser mentioned in paragraph ( b ) who does not hold a transitional licence; ( d ) in relation to subsection (1)( d ), commences business as a commodity pool operator on or after that date; or ( e ) in relation to subsection (1)( e ), is a commodity pool operator’s representative of a commodity pool operator mentioned in paragraph ( d ) who does not hold a transitional licence. [4/2017] (3) A holder of a commodity broker’s licence is not required to hold a commodity trading adviser’s licence. (4) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction — ( a ) for an offence under subsection (1)( b ) or ( d ) to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years or to both; ( b ) for an offence under subsection (1)( a ), ( c ) or ( e ) to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both. (5) In this section, “transitional licence” has the meaning given by section 66. [4/2017]"
+    },
+    {
+      "provision_ref": "s13A",
+      "chapter": "PART 3 - LICENCES",
+      "section": "13A",
+      "title": "Licence for spot commodity trading",
+      "content": "13A. —(1) Subject to section 14A, no person may act as, or hold the person out as — ( a ) a spot commodity broker; ( b ) a spot commodity broker’s representative; ( c ) a spot commodity pool operator; or ( d ) a spot commodity pool operator’s representative, unless the person is the holder of a licence granted under this Part that authorises the person to act as such. (2) The Board may, with the approval of the Minister, make regulations for or with respect to — ( a ) the activities of, and standards to be maintained by, spot commodity brokers, spot commodity broker’s representatives, spot commodity pool operators and spot commodity pool operator’s representatives; ( b ) accounts or other records to be kept by spot commodity brokers and spot commodity pool operators; ( c ) the powers of the Board in examining any accounts or records kept by spot commodity brokers and spot commodity pool operators, including the appointment of an auditor to audit the accounts or records; ( d ) the segregation of customer’s funds by spot commodity brokers; and ( e ) the powers of the Board — (i) to order the production of any books, accounts or records kept by spot commodity brokers and spot commodity pool operators; (ii) to order the provision of any information relating to the business of spot commodity brokers and spot commodity pool operators; (iii) to carry out investigations with respect to any contravention against this Act; and (iv) to issue directions to any spot commodity broker, spot commodity broker’s representative, spot commodity pool operator or spot commodity pool operator’s representative to cease contravention of any provision in this Act. (3) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction — ( a ) for an offence under subsection (1)( a ) or ( c ), to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years or to both; or ( b ) for an offence under subsection (1)( b ) or ( d ), to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART 3 - LICENCES",
+      "section": "14",
+      "title": "Power of Board to grant licences and impose conditions, etc.",
+      "content": "14. The Board may grant or renew a licence under this Part subject to such conditions or restrictions as it thinks fit and for such period as the Board may determine."
+    },
+    {
+      "provision_ref": "s14A",
+      "chapter": "PART 3 - LICENCES",
+      "section": "14A",
+      "title": "Exemption from this Part",
+      "content": "14A. —(1) Subject to such conditions as the Board may impose, the persons specified in the Schedule are exempted, to the extent specified in the Schedule, from any provision of this Part. (2) The Board may, by order in the Gazette , amend the Schedule."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART 3 - LICENCES",
+      "section": "15",
+      "title": "Grounds for refusal to grant or renew licences",
+      "content": "15. —(1) Where an applicant is an individual, the Board may refuse to grant or renew a licence under this Part on the ground that — ( a ) the applicant has not provided the Board with such information relating to him or her or any person employed by or associated with him or her for the purposes of his or her business, and to any circumstances likely to affect his or her method of conducting business, as may be prescribed under this Act; ( b ) the applicant is an undischarged bankrupt or has made a composition or arrangement with his or her creditors; ( c ) it appears to the Board that, by reason of the applicant, or any person employed by or associated with him or her for the purposes of his or her business, having been convicted, whether in Singapore or elsewhere, of an offence the conviction for which involved a finding that he or she acted fraudulently or dishonestly, or having been convicted of an offence under this Act, or having committed a breach of any regulations made under this Act relating to licensed persons, the applicant is not a fit and proper person to be licensed; ( d ) the Board reasonably believes that there may be any circumstance that is likely to lead to the improper conduct of business by, or the reflection of discredit on the method of conducting such business by, the applicant or any person employed by or associated with him or her for the purpose of his or her business; ( e ) the applicant is, in the view of the Board, not a fit and proper person to be licensed; ( f ) the Board is not satisfied that the educational or other qualifications or experience of the applicant would enable him or her to carry out all the duties of a licensee; ( g ) the Board has reason to believe that the applicant will not be able to perform the functions of a licensee in an efficient, honest and fair manner; ( h ) the Board has reason to believe that the applicant may not be able to act in the best interests of his or her customers or subscribers, having regard to his or her reputation, character, financial integrity or reliability; ( i ) the financial standing of the applicant is, in the view of the Board, unsatisfactory; ( j ) the past performance or expertise of the applicant is, in the view of the Board, unsatisfactory; or ( k ) the Board is of the opinion that it is in the public interest to do so. (2) Where an applicant is a corporation, the Board may refuse to grant or renew a licence under this Part on the ground that — ( a ) the applicant has not provided the Board with such information relating to it or any person employed by or associated with it for the purposes of its business, and to any circumstances likely to affect its method of conducting business, as may be prescribed under this Act; ( b ) the applicant has at any time prior to the application entered into any composition or arrangement with its creditors; ( c ) it appears to the Board that, by reason of the applicant, or any of its directors or employees, having been convicted, whether in Singapore or elsewhere, of an offence the conviction for which involved a finding that it or he or she acted fraudulently or dishonestly, or having been convicted of an offence under this Act, or having committed a breach of any regulations made under this Act relating to licensed persons, the applicant is not a fit and proper person to be licensed; ( d ) it appears to the Board that, by reason of any other circumstances which either are likely to lead to the improper conduct of business by, or reflect discredit on the method of conducting the business of, the applicant or any of its directors or employees, the applicant is not a fit and proper person to be licensed; ( e ) the financial standing of the applicant or its substantial shareholder or the manner in which its business is conducted is, in the view of the Board, unsatisfactory; ( f ) the record of past performance or expertise of the applicant is, in the view of the Board, unsatisfactory, having regard to the nature of the business which the applicant may carry on under the licence; ( g ) the Board reasonably believes that there may be any circumstance that is likely to lead to the improper conduct of business by, or the reflection of discredit on the method of conducting such business by, the applicant or its substantial shareholder or any of its directors, officers or employees; or ( h ) the Board is of the opinion that it is in the public interest to do so. (3) Despite anything in this Part, the Board may refuse to grant or renew a licence under this Part where the applicant fails to meet such minimum financial requirements as are prescribed by the Board or provided in such business rules of a commodity market as have been approved by the Board. (4) In subsection (2), “substantial shareholder”, in relation to an applicant which is a body corporate, has the meaning given by the Companies Act 1967."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART 3 - LICENCES",
+      "section": "16",
+      "title": "Regulations relating to licences",
+      "content": "16. The Board may, with the approval of the Minister, make regulations — ( a ) for the form and manner in which an application for a licence or for the renewal of a licence under this Part is to be made; ( b ) prescribing fees payable to the Board in respect of the licences; ( c ) requiring such information as it considers necessary in relation to the application; ( d ) for the imposition of any conditions or restrictions as it thinks fit; ( e ) prescribing the appropriate standards with respect to the qualifications, experience and training of applicants for licences under this Part; ( f ) for establishing and maintaining a register of licensed persons; and ( g ) for requiring the holder of a licence under this Part to notify the Board of such change of particulars and information as may be prescribed."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART 3 - LICENCES",
+      "section": "17",
+      "title": "False statements",
+      "content": "17. A person who, in connection with an application for a licence or for the renewal of a licence, wilfully makes a statement which is false or misleading in a material particular, knowing it to be false or misleading, or wilfully omits to state any matter or thing without which the application is misleading in a material respect, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART 3 - LICENCES",
+      "section": "18",
+      "title": "Revocation of licence",
+      "content": "18. —(1) A licence is deemed to be revoked, in the case of — ( a ) an individual, if the individual dies; ( b ) a corporation, if the corporation is wound up. (2) Where a licensed person is an individual, the Board may revoke a licence — ( a ) on any ground on which the Board may refuse to grant a licence under section 15(1) or (3); ( b ) if an enforcement order in respect of the licensed person has not been satisfied; [Act 25 of 2021 wef 01/04/2022] ( c ) if the licensed person fails or ceases to carry on business for which he or she was licensed; ( d ) if, in the case of a representative, the licence of the commodity broker, commodity trading adviser or commodity pool operator, in relation to whom the licence was granted, is revoked; ( e ) if the Board has reason to believe that the licensed person has not performed his or her duties efficiently, honestly or fairly; or ( f ) if the licensed person contravenes or fails to comply with any of the conditions or restrictions applicable in respect of the licence. (3) Where a licensed person is a corporation, the Board may revoke a licence — ( a ) on any ground on which the Board may refuse to grant a licence under section 15(2) or (3); ( b ) if it is being or will be wound up; ( c ) if an enforcement order in respect of it has not been satisfied; [Act 25 of 2021 wef 01/04/2022] ( d ) if it has entered into any composition or arrangement with its creditors; ( e ) if it fails or ceases to carry on business for which it was licensed; ( f ) if the Board has reason to believe that the licensed person, or any of its directors or employees, has not performed its, his or her duties efficiently, honestly or fairly; or ( g ) if the licensed person contravenes or fails to comply with any of the conditions or restrictions applicable in respect of the licence. (4) The Board may revoke the licence of a person at the request of the person. (5) The Board must not revoke a licence under subsection (2) or (3) without first giving the person an opportunity of being heard."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART 3 - LICENCES",
+      "section": "19",
+      "title": "Powers of Board in cases of misconduct, etc.",
+      "content": "19. —(1) The Board may inquire into any allegation that a licensed person is or has been guilty of any misconduct or is no longer a fit and proper person to continue to remain licensed by reason of any other circumstances which have led, or are likely to lead, to the improper conduct of business by the licensed person or to reflect discredit on the method of conducting the licensed person’s business. (2) If, after inquiring into an allegation under subsection (1) against a licensed person, the Board is of the opinion that the allegation is proved, the Board may if it thinks fit — ( a ) revoke the licence of the person; ( b ) suspend the licence of the person for such period, or until the happening of such event, as the Board may determine; or ( c ) reprimand the person. (3) The Board must, at the hearing of an inquiry into an allegation under subsection (1) against a licensed person, give the person an opportunity of being heard. (4) Where the Board is satisfied, after making an inquiry into an allegation under subsection (1), that the allegation has been made in bad faith or that it is otherwise frivolous or vexatious, it may, by written order, require the person who made the allegation to pay any costs and expenses involved in the inquiry. (5) In this section, “misconduct” means — ( a ) any failure to comply with the requirements of this Act or any regulations made under this Act with respect to licensed persons; and ( b ) any act or omission relating to the conduct of business of a licensed person which is or is likely to be prejudicial to the public interest."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART 3 - LICENCES",
+      "section": "20",
+      "title": "Effect of revocation or suspension of licence",
+      "content": "20. —(1) A person whose licence is revoked under section 18 or revoked or suspended under section 19 is, for the purposes of this Part, deemed not to be licensed from the date that the Board revokes or suspends the licence, as the case may be. (2) A revocation or suspension of a licence of a person does not operate so as to — ( a ) avoid or affect any agreement, transaction or arrangement relating to the trading in commodity contracts entered into by the person, whether the agreement, transaction or arrangement was entered into before or after the revocation or suspension of the licence; or ( b ) affect any right, obligation or liability arising under any such agreement, transaction or arrangement."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART 3 - LICENCES",
+      "section": "21",
+      "title": "Appeal against refusal to license, etc.",
+      "content": "21. Where — ( a ) the Board refuses to grant or renew a licence under section 15; ( b ) the Board revokes a licence under section 18; or ( c ) the licence is revoked or suspended, or a licensed person is reprimanded, under section 19, any person who is aggrieved by the decision of the Board may, within one month after the person is notified of the decision, appeal to the Minister whose decision is final."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART 4 - ACCOUNTS AND AUDIT",
+      "section": "22",
+      "title": "Accounts to be kept by commodity brokers",
+      "content": "22. —(1) The Board may, with the approval of the Minister, make regulations to provide for the keeping by commodity brokers of such accounting and other records as may be prescribed. (2) Without limiting subsection (1), the regulations may in particular provide — ( a ) for the particulars to be shown or recorded in such accounts or records; ( b ) for the keeping of separate or segregated accounts; ( c ) for the period during which the accounts or records are required to be kept; ( d ) for the form and manner in which the accounts or records are to be kept; ( e ) for the appointment of an auditor by every commodity broker and for the duties of the auditor, including the duty to report to the Board any matter adversely affecting the financial position of the broker and such other matters in such circumstances as may be prescribed; ( f ) for the information to be contained in the auditor’s reports; ( g ) for the remuneration of an auditor appointed under this Act and for the costs of an audit carried out under this Act; ( h ) for the lodging of annual accounts and the auditor’s report with the Board in such manner and form and within such time as may be prescribed; and ( i ) that a contravention thereof shall be punishable with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 12 months or with both."
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "PART 4 - ACCOUNTS AND AUDIT",
+      "section": "23",
+      "title": "Power of Board to appoint auditor",
+      "content": "23. —(1) Where — ( a ) a commodity broker fails to lodge an auditor’s report as is required under regulations made pursuant to section 22(2)( h ); or ( b ) the Board receives an auditor’s report on any matter adversely affecting the financial position of the commodity broker or any other matter that the auditor is required to report under regulations made pursuant to section 22(2)( e ), the Board may, without affecting its powers under section 28, if it is satisfied that it is in the interests of the commodity broker, the customers of the commodity broker or the general public to do so, appoint in writing an auditor to examine and audit, either generally or in relation to any particular matter, the books, accounts and records of the commodity broker. (2) Where the Board is of the opinion that the whole or any part of the costs and expenses of an auditor appointed by it under subsection (1) should be borne by the commodity broker, the Board may, by written order, direct the commodity broker to pay a specified amount, being the whole or part of such costs and expenses, within the time and in the manner specified in the order. (3) Where a commodity broker fails to comply with an order under subsection (2), the amount specified in the order may be sued for and recovered by the Board as a debt due to the Board. (4) An auditor appointed under this section must, on the conclusion of the examination and audit, make a report thereon to the Board."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "PART 4 - ACCOUNTS AND AUDIT",
+      "section": "24",
+      "title": "Power of auditors appointed by Board",
+      "content": "24. —(1) An auditor appointed under section 23 to examine and audit the books, accounts and records of a commodity broker may, for the purpose of carrying out the examination and audit — ( a ) examine on oath any of the commodity broker’s directors, employees and agents and any other auditor appointed under this Act in relation to those books, accounts and records; ( b ) require any of the commodity broker’s directors, employees and agents, to produce any books, accounts and records held by or on behalf of the commodity broker relating to the commodity broker’s business and make copies of or take accounts and records for such period as is necessary to enable them to be inspected; ( c ) require an auditor appointed by the commodity broker to produce any books, accounts and records held by the commodity broker relating to the business of the commodity broker; ( d ) require a commodity market or a clearing house to produce any books, accounts and records kept by it relating to the business of the commodity broker; ( e ) require a commodity market or a clearing house to provide any information in its possession relating to the business of the commodity broker; ( f ) employ such persons as the auditor considers necessary to assist the auditor in carrying out the examination and audit; and ( g ) by instrument in writing under the hand of the auditor, authorise any person employed by the auditor to do, in relation to the examination and audit, any act or thing that the auditor could do himself or herself as an auditor, except the examination of any person on oath, under this subsection. (2) A person who, without reasonable excuse, refuses or fails to answer any question put to the person, or fails to comply with any request made to the person, by an auditor appointed under section 23, or a person authorised under subsection (1)( g ), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both. (3) If a commodity market or a clearing house, without reasonable excuse, fails to comply with any request made to it by an auditor appointed under section 28, or a person authorised under subsection (1)( g ), that market or the clearing house shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $30,000."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "PART 4 - ACCOUNTS AND AUDIT",
+      "section": "25",
+      "title": "Offence to destroy, alter, etc., records",
+      "content": "25. —(1) A person who, with intent to prevent, delay or obstruct the carrying out of any examination and audit under this Part — ( a ) destroys, conceals or alters any book, account or record relating to the business of a commodity broker; or ( b ) sends, or conspires with any other person to send, out of Singapore any such book, account or record, or any property of any description belonging to or in the possession or under the control of a commodity broker, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both. (2) If, in a prosecution for an offence under subsection (1), it is proved that the person charged — ( a ) destroyed, concealed or altered any book, account or record mentioned in subsection (1)( a ); or ( b ) sent, or conspired to send, out of Singapore any such book, account or record, or any property mentioned in subsection (1)( b ), the person is presumed until the contrary is proved, that in so doing the person did not act with intent to prevent, delay or obstruct the carrying out of an examination and audit under this Part."
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "PART 4 - ACCOUNTS AND AUDIT",
+      "section": "26",
+      "title": "Restriction on auditor’s and employee’s right to communicate certain matters",
+      "content": "26. Except as may be necessary for the carrying into effect of the provisions of this Act or so far as may be required for the purposes of any legal proceedings, whether civil or criminal, an auditor appointed under section 23 or any regulations made pursuant to section 22 and any employee of such auditor (each called A ) must not divulge any information which may come to A ’s knowledge in the course of performing A ’s duties as such auditor or employee (as the case may be) to any person other than — ( a ) the Board or any person approved or designated by the Board; and ( b ) in the case of an employee, the auditor by whom he or she is employed."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "PART 4 - ACCOUNTS AND AUDIT",
+      "section": "27",
+      "title": "Maintenance of books and records and furnishing accounts, etc., by trading adviser and pool operator",
+      "content": "27. —(1) Every commodity trading adviser and commodity pool operator must cause to be kept such books and records and file such reports, in such form and manner, as may be prescribed by the Board. (2) Every commodity trading adviser and commodity pool operator (each called A ) must make full and complete disclosure to A ’s subscribers, customers or participants of all open commodity market positions taken or held by A on their behalf or if A is a corporation by any director, manager or employee of the corporation, whether directly or indirectly. (3) Every commodity pool operator must furnish — ( a ) statements of account, at such periodic intervals, as the Board may prescribe; and ( b ) an annual report, to each participant in the commodity pool operator’s pool operations. (4) The statements of account and annual report must be in such form and manner as may be prescribed by the Board and must include complete information as to the current status of all trading accounts in which the participant has an interest. (5) A person who, without reasonable excuse, contravenes subsection (1), or who knowingly or recklessly furnishes any information under subsection (2) or (3) which is false or misleading in a material particular, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both. (6) The provisions of this Part in relation to the appointment of an auditor whether by the Board or otherwise, the powers and duties of an auditor and the filing of an auditor’s report apply with the necessary modifications to a commodity market, a clearing house, a commodity trading adviser and a commodity pool operator as they apply to a commodity broker under this Part."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "PART 4 - ACCOUNTS AND AUDIT",
+      "section": "28",
+      "title": "Additional powers of Board in respect of auditors",
+      "content": "28. —(1) Despite the provisions of the Companies Act 1967 or anything contained in this Part, the Board may — ( a ) itself appoint an auditor under this Part; and ( b ) impose all or any of the following duties on an auditor of a commodity market, a clearing house, a commodity broker, a commodity trading adviser or a commodity pool operator, as the case may be: (i) a duty to submit such additional information in relation to the audit as the Board considers necessary; (ii) a duty to enlarge or extend the scope of the audit of the business and affairs of a commodity market, a clearing house, a commodity trading adviser or a commodity pool operator; (iii) a duty to carry out any other examination or establish any procedure in any particular case; (iv) a duty to submit a report on any of the matters referred to in sub-paragraphs (ii) and (iii), and a commodity market, a clearing house, a commodity broker, a commodity trading adviser or a commodity pool operator (as the case may be) must remunerate the auditor in respect of the discharge of all or any of the additional duties. (2) If an auditor in the course of the performance of the auditor’s duties as an auditor of a commodity market, a clearing house, a commodity broker, a commodity trading adviser or a commodity pool operator (as the case may be) is satisfied that — ( a ) there has been a serious breach or non-observance of this Act or any regulations made under this Act, or that otherwise a criminal offence involving fraud or dishonesty has been committed; ( b ) serious irregularities have occurred, including irregularities that jeopardise the funds, securities or property of the customers; or ( c ) the auditor is unable to confirm whether claims of creditors are still covered by the assets, the auditor must immediately report the matter to the Board. (3) An auditor appointed under subsection (1)( a ) has all the powers conferred upon an auditor under section 24. (4) Where the Board is of the opinion that the whole or any part of the costs and expenses of an auditor appointed under subsection (1)( a ) should be borne by a commodity market, a clearing house, a commodity broker, a commodity trading adviser or a commodity pool operator (as the case may be), the Board may by written order direct that the market, clearing house, broker, trading adviser or pool operator (as the case may be) pay a specified amount (being the whole or part of the costs and expenses) within the time and manner specified in the order."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "PART 4 - ACCOUNTS AND AUDIT",
+      "section": "29",
+      "title": "Defamation",
+      "content": "29. —(1) An auditor shall not, in the absence of malice on the auditor’s part, be liable to any action for defamation at the suit of any person in respect of — ( a ) any statement made orally or in writing in the discharge of the auditor’s duties; or ( b ) the sending of any report to the Board under any regulations made pursuant to section 22 or 28. (2) This section does not restrict or affect any right, privilege or immunity that the auditor has, apart from this section, as a defendant in an action for defamation."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "PART 5 - CONDUCT OF COMMODITY TRADING BUSINESS",
+      "section": "30",
+      "title": "Segregation of customer’s funds by broker",
+      "content": "30. —(1) The Board may, with the approval of the Minister, make regulations to provide that every commodity broker must treat and deal with all money, securities or property received by the commodity broker from a customer in such manner and in such separate accounts as may be prescribed. (2) Without limiting subsection (1), the regulations may provide — ( a ) for the circumstances in which funds, securities or property received from a customer may be segregated and deposited in the same account; ( b ) for the circumstances in and purposes for which funds may be withdrawn from separate trust accounts; ( c ) for the exemption by the Board of any commodity broker or class of commodity brokers, or any transaction or class of transactions relating to trading in commodity contracts, from any of the provisions of the regulations; and ( d ) that a contravention thereof shall be punishable with a fine not exceeding $30,000 or with imprisonment for a term not exceeding 3 years or with both. (3) Money, securities or property received from a customer and held by a commodity broker in a separate trust account under any regulations made under subsection (1) — ( a ) is not available for payment of the debts of the commodity broker to a creditor of the commodity broker; or ( b ) is not liable to be attached or taken under or pursuant to an enforcement order or process of any court at the instance of the creditor, unless the creditor is a customer of the commodity broker and the debt owed to the creditor was incurred in connection with trading in any commodity contract. [Act 25 of 2021 wef 01/04/2022] (4) This section does not take away or affect a lawful claim or lien that a commodity broker has against, or on, any money, securities or property held in an account under any regulations made under subsection (1). (5) This Act or any written law does not prevent a commodity market or a clearing house, with the approval of the Board, from using the money, securities or property held in a trust account to meet the obligations of a commodity broker, being a member of the market or the clearing house, who defaults, if — ( a ) the default of the commodity broker is directly attributable to the failure of the commodity broker’s customer to meet the obligations under a commodity contract; and ( b ) the failure to use the money, securities or property held in a trust account may jeopardise the financial integrity of the market or the clearing house. (6) In this section, “customer” means a person on whose account a commodity broker carries on trading in any commodity contract, but does not include directors, employees and representatives and related corporations of the commodity broker."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "PART 5 - CONDUCT OF COMMODITY TRADING BUSINESS",
+      "section": "31",
+      "title": "Nature of pool and segregation of funds by pool operator, etc.",
+      "content": "31. —(1) All money, securities or other property received by a commodity pool operator from existing or prospective pool participants for the purchase of an interest in a pool must be received in the pool’s name. (2) No commodity pool operator may commingle the property of any pool that it operates or intends to operate with the property of any other person. (3) The Board may by regulations provide for the capital, structure, minimum financial requirements, organisation and conduct of a pool operated by a commodity pool operator and for the exemption of certain pools from the requirements of this section."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "PART 5 - CONDUCT OF COMMODITY TRADING BUSINESS",
+      "section": "32",
+      "title": "Risk disclosure",
+      "content": "32. —(1) No commodity broker may open a commodity contract account for a customer unless the commodity broker furnishes the customer with a separate written risk disclosure document which must be in such form and manner as may be prescribed by the Board, and receives from the customer an acknowledgment signed and dated by the customer that the customer has received and understood the nature and contents of the disclosure document. (2) No commodity pool operator may, directly or indirectly, solicit, accept or receive funds, securities or other property from a prospective participant in a pool that the commodity pool operator operates or that the commodity pool operator intends to operate unless, on or before the date it engages in that activity, the commodity pool operator delivers or causes to be delivered to the prospective participant a risk disclosure document which must be in such form and contain such information as the Board may prescribe, and receives from the prospective participant an acknowledgment signed and dated by the prospective participant that the prospective participant has received and understood the nature and contents of the disclosure document. (3) No commodity trading adviser may solicit or enter into an agreement with a prospective client for the purpose of managing the prospective client’s commodity trading account or guiding the prospective client’s commodity trading by means of a systematic programme that recommends specific transactions unless the commodity trading adviser, at or before the time the commodity trading adviser engages in the solicitation or enters into the agreement (whichever is the earlier), delivers or causes to be delivered to the prospective client a risk disclosure document in respect of those purposes which must be in such form and contain such information as the Board may prescribe, and receives from the prospective client an acknowledgment signed and dated by the prospective client that the prospective client has received and understood the nature and contents of the disclosure document. (4) Except as may be provided by any regulations made under this Act, no commodity trading adviser may solicit, accept or secure from an existing or prospective client money, securities or other property in the commodity trading adviser’s name to purchase, margin guarantee or secure any interest of the client in a commodity contract."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "PART 5 - CONDUCT OF COMMODITY TRADING BUSINESS",
+      "section": "33",
+      "title": "Offences",
+      "content": "33. A person who contravenes any of the provisions of this Part shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 3 years or to both."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "PART 6 - POWERS OF BOARD",
+      "section": "34",
+      "title": "Emergency powers",
+      "content": "34. —(1) Whenever the Board has reason to believe that an emergency exists, the Board may direct a commodity market or a clearing house to take such action as it considers necessary to maintain or restore orderly trading in, or liquidation of, any commodity contract or any class of commodity contracts including but not limited to — ( a ) terminating or suspending trading on a commodity market or a clearing house; ( b ) confining trading to liquidation of commodity contracts; ( c ) ordering the liquidation of all positions or part thereof or the reduction in such positions; ( d ) limiting trading to a specific price range; ( e ) modifying trading days or hours; ( f ) altering conditions of delivery; ( g ) fixing the settlement price at which contracts are to be liquidated; ( h ) requiring any person to act in a specified manner in relation to trading in commodity contracts or any class of commodity contracts; ( i ) requiring additional margins for any contracts; and ( j ) modifying or suspending any of the business rules of a commodity market, and the market or clearing house must comply with that direction. (2) Where a commodity market or a clearing house fails to comply with the direction of the Board under subsection (1) within such time as is specified by the Board, the Board may itself take action to set emergency margin levels in any commodity contract or class of commodity contracts, or to fix limits that may apply to market positions acquired in good faith prior to the date of the Board’s action or any other action, including but not limited to those specified in subsection (1), that it thinks are necessary to maintain or restore orderly trading in, or liquidation of, commodity contracts or any class of commodity contracts. (3) In this section, “emergency” includes, in addition to threatened or actual market manipulations and corners, any act of government affecting a commodity or any other major market disturbance which prevents the market from accurately reflecting the forces of supply and demand for such commodity or any other undesirable situations or practices which in the opinion of the Board constitutes an emergency. (4) Without affecting subsection (1) where a commodity market or a clearing house exercises its powers under its rules to take emergency action, the Board may modify such emergency action, including but not limited to the setting aside of that emergency action. (5) A person who is aggrieved by any action taken by the Board, a commodity market or a clearing house under this section may appeal to the Minister whose decision is final. (6) Despite the lodging of an appeal under subsection (5), any emergency action taken by the Board, a commodity market or a clearing house under this section continues to have force and effect until such time as the Minister makes a decision on the appeal."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "PART 6 - POWERS OF BOARD",
+      "section": "35",
+      "title": "Fixing of position and trading limits in contracts",
+      "content": "35. —(1) For the purpose of diminishing, eliminating or preventing excessive speculation in any commodity under a commodity contract, the Board may, by written notice, establish and fix such limits as it considers necessary on the amount of trading which may be done or positions which may be held by any person, generally or specifically, under a commodity contract on or subject to the business rules of a commodity market. (2) In determining whether a person has exceeded such limits, the positions held and trading done by any persons, directly or indirectly, controlled by that person must be included with the positions held and trading done by that person. (3) Such limits upon positions and trading apply to positions held by, and trading done by, 2 or more persons acting pursuant to an express or implied agreement or understanding, as if the positions were held by, or the trading done by, a single person. (4) This section does not apply to transactions or positions which are bona fide hedging transactions or positions as defined by a commodity market in accordance with such regulations as may be prescribed under section 63. [22/2001; 35/2007] (5) No person may, directly or indirectly — ( a ) buy or sell, or agree to buy or sell, a commodity contract or any number of such contracts (on or subject to the regulations of the commodity market which apply to the contract or contracts) in excess of the trading limits fixed for one business day, or other stated period set by the Board or a commodity market with the approval of the Board; or ( b ) hold or control a net buy or sell position under a commodity contract on or subject to the business rules of the commodity market in excess of any position limit fixed by the Board or a commodity market with the approval of the Board with respect to that commodity contract. (6) This section does not preclude the Board from fixing different trading or position limits for different contracts or delivery months or for different days remaining until the last day of trading in a contract or different trading limits for the purposes of subsection (5), or from exempting transactions under this section."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "PART 6 - POWERS OF BOARD",
+      "section": "36",
+      "title": "Production of records",
+      "content": "36. —(1) A commodity market, clearing house, commodity broker or commodity pool operator must — ( a ) produce any books, accounts and records kept by it, him or her in connection with, or for the purposes of, its, his or her business, or in respect of any trading in commodity contracts; ( b ) collect and furnish any returns; and ( c ) provide any information relating to its, his or her business, or any trading in commodity contracts, or any other specified information, as the Board may require. (2) The Board may, on production of any books, accounts or records under subsection (1), take copies of or extracts from them. (3) If any of the persons or bodies mentioned in subsection (1), without reasonable excuse, fails to comply with any requirement under subsection (1), the person or body concerned shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000."
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "PART 6 - POWERS OF BOARD",
+      "section": "37",
+      "title": "Records of transactions on commodity market or clearing house",
+      "content": "37. —(1) Every commodity market and clearing house must keep such records as are necessary for the proper recording of each transaction on the market or clearing house and must supply to any customer of any member of such market or clearing house, upon production of a written confirmation of any transaction with such member, particulars of the approximate time at which the transaction took place and verification or otherwise of the matters set forth in the confirmation. (2) The Board may, at any time, require a commodity market or a clearing house to deliver to it reports of transactions on the market or clearing house in such form as the Board may prescribe."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "PART 6 - POWERS OF BOARD",
+      "section": "38",
+      "title": "Information to be provided by market participants",
+      "content": "38. —(1) Upon a determination by the Board that information concerning accounts may be relevant to determine whether manipulation, corner, squeeze or other market disorders exists in any commodity market, the Board may, by written notice, require such information as it thinks necessary from any person, including a member of a clearing house or a commodity broker or any customer in the commodity market, and the person concerned must provide the required information within such time as may be specified by the Board. (2) If the Board has reason to believe that any person has failed to give the information required in the notice, it may without prejudice to any other penalty that may be imposed inform a commodity market or a clearing house which must, in the event, prohibit the execution of, or acceptance for orders of, trades on the market or a clearing house and in the months or expiration dates specified in the notice unless such trades offset open contracts of that person. 39. [ Repealed by Act 35 of 2007 ]"
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "PART 6 - POWERS OF BOARD",
+      "section": "40",
+      "title": "Investigations by Board",
+      "content": "40. —(1) The Board may conduct such investigations as it considers necessary to determine whether any person has contravened or is contravening any of the provisions of this Act. (2) For the purpose of subsection (1), the Board may, in writing, require any person named therein to testify or to produce any document or other material relating to any matter under investigation, and such person must immediately comply with that requirement. (3) Nothing in this section compels the production by an advocate or solicitor of a document or other material containing a privileged communication made by or to the advocate or solicitor in that capacity or otherwise the taking of any such document or other material which is in his or her possession, but if the advocate or solicitor refuses to produce the document or other material, the advocate or solicitor must nevertheless give the name and address of the person (if the advocate or solicitor knows them) to whom or by or on behalf of whom that communication was made. (4) The Board may by regulations prescribe the practice and procedure to be followed in any investigation under this section. (5) A person who, without reasonable excuse, fails to comply with any requirement under subsection (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "PART 6 - POWERS OF BOARD",
+      "section": "41",
+      "title": "Inspections by Board",
+      "content": "41. —(1) The Board may inspect under conditions of secrecy the books, accounts, documents and transactions of a commodity market, a clearing house, a commodity broker, a commodity pool operator or a commodity trading adviser. (2) The Board may appoint any person to exercise the powers of the Board under subsection (1). (3) For the purpose of an inspection under this section, any of the persons or bodies mentioned in subsection (1) under inspection must give the Board access to, and must produce, its books, accounts and documents, and must give such information and facilities as may be required to conduct the inspection. (4) Any person appointed by the Board has, at all times, the power to copy or take possession of the books, accounts and other documents of the commodity market, clearing house, commodity broker, commodity pool operator or commodity trading adviser. (5) A person who or body which, without reasonable excuse, fails to produce any book, account or document or furnish any information or facilities in accordance with subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "PART 6 - POWERS OF BOARD",
+      "section": "42",
+      "title": "Power to issue directions",
+      "content": "42. —(1) Where it appears to the Board that a commodity market, a clearing house or any person has contravened or is contravening any of the provisions of this Act or any regulations made under this Act, or is restraining trading in commodity contracts, the Board may, after giving the market, clearing house or any such person an opportunity of being heard — ( a ) direct the market, clearing house or person to comply with that provision or to cease contravention of that provision; or ( b ) direct the market, clearing house or person to desist from restraining trading in commodity contracts, and the market, clearing house or person must comply with the direction. (2) A clearing house or any person who, without reasonable excuse, fails to comply with a direction given under subsection (1) that is applicable to that person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both. (3) A commodity market, a clearing house or any person aggrieved by any direction given under subsection (1) may, within one month after being notified of the direction, appeal to the General Division of the High Court. [40/2019] (4) Despite the lodging of an appeal under subsection (3), any direction of the Board given under this section continues to have force and effect until such time as the General Division of the High Court makes a decision on the appeal. [40/2019]"
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "PART 7 - OFFENCES",
+      "section": "43",
+      "title": "False trading",
+      "content": "43. No person may create or cause to be created or do anything that is calculated to create — ( a ) a false or misleading appearance of active trading in a commodity market; or ( b ) a false or misleading appearance with respect to the market for, or the price of trading in, commodity contracts."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "PART 7 - OFFENCES",
+      "section": "44",
+      "title": "Bucketing",
+      "content": "44. No person may knowingly execute, or hold the person out as having executed, an order for the purchase or sale of a commodity contract on a commodity market without having effected a bona fide purchase or sale of the commodity contract in accordance with the business rules and practices of the commodity market."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "PART 7 - OFFENCES",
+      "section": "45",
+      "title": "Dissemination of information about false trading",
+      "content": "45. No person may circulate, disseminate or authorise, or be concerned in the circulation or dissemination of, any statement or information to the effect that the price of trading in any class of commodity contracts will, or is likely to, rise or fall because of the market operations of one or more persons which, to the firstmentioned person’s knowledge, are conducted in contravention of section 43."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "PART 7 - OFFENCES",
+      "section": "46",
+      "title": "Manipulation of price and cornering",
+      "content": "46. No person may, directly or indirectly — ( a ) manipulate, or attempt to manipulate, the price of a commodity contract that may be dealt in on a commodity market; or ( b ) corner, or attempt to corner, any commodity which is the subject of any commodity contract."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "PART 7 - OFFENCES",
+      "section": "47",
+      "title": "Employment of fraudulent or deceptive devices, etc.",
+      "content": "47. No person may, directly or indirectly, in connection with any transaction with any other person involving trading in a commodity contract — ( a ) employ any device, scheme or artifice to defraud that other person; ( b ) engage in any act, practice or course of business which operates as a fraud or deception, or is likely to operate as a fraud or deception, of that other person; or ( c ) make any untrue statement of a material fact or omit to state a material fact necessary in order to make the statements made, in the light of the circumstances under which they were made, not misleading."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "PART 7 - OFFENCES",
+      "section": "48",
+      "title": "Fraudulently inducing trading",
+      "content": "48. No person may, directly or indirectly, for the purposes of inducing or attempting to induce another person to trade in a commodity contract or class of commodity contracts, make or publish — ( a ) any statement which is, at the time and in the light of the circumstances in which it is made, false, misleading or deceptive with respect to any material fact and which the person knows, or has reasonable grounds for believing, is false, misleading or deceptive; or ( b ) any statement which is, by reason of the omission of a material fact, rendered false, misleading or deceptive and which the person knows, or has reasonable grounds for believing, is rendered false, misleading or deceptive by reason of the omission of that fact."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "PART 7 - OFFENCES",
+      "section": "49",
+      "title": "Penalties",
+      "content": "49. A person who contravenes any of the provisions of this Part shall be guilty of an offence and shall be liable on conviction — ( a ) in the case of an individual, to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 7 years or to both; or ( b ) in the case of a body corporate, to a fine not exceeding $500,000. 50. [ Repealed by Act 35 of 2007 ]"
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "PART 8 - MISCELLANEOUS",
+      "section": "51",
+      "title": "Preservation of secrecy",
+      "content": "51. —(1) Every director, officer or employee of a commodity market or a clearing house must preserve, and aid in preserving, secrecy with regard to all matters coming to his or her knowledge in the exercise or performance of his or her duties. (2) Subsection (1) does not apply — ( a ) to the disclosure of any information which is authorised by the Board to be disclosed or furnished; ( b ) to the disclosure of information for the purpose of any legal proceedings brought under this Act or any other written law, or for the purpose of any report of any such proceedings, except that in relation to a customer’s or commodity broker’s position such proceedings may (if the court, of its own motion or on the application of a party to the proceedings, so orders) be held in private in which event the information is secret as between the court and the parties thereto; or [Act 25 of 2021 wef 01/04/2022] ( c ) to the disclosure of information for such other purposes, or in such other circumstances, as the Board may by regulations prescribe. (3) A person who contravenes subsection (1), directly or indirectly, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "PART 8 - MISCELLANEOUS",
+      "section": "52",
+      "title": "Offences by directors or managers",
+      "content": "52. —(1) Any person, being a director or manager of a commodity market, a clearing house, a commodity broker, a commodity trading adviser or a commodity pool operator, who — ( a ) fails to take all reasonable steps to secure compliance with the provisions of this Act; or ( b ) fails to take all reasonable steps to secure the accuracy and correctness of any statement submitted under this Act, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both. (2) In any proceedings against a person under subsection (1), it is a defence to prove that the person had reasonable grounds for believing that another person was charged with the duty of securing compliance with the requirements of this Act, or with the duty of ensuring that those statements were accurate, and that the person was competent, and in a position, to discharge that duty. (3) A person shall not be sentenced to imprisonment for any offence under subsection (1) unless, in the opinion of the court, the person committed the offence wilfully."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "PART 8 - MISCELLANEOUS",
+      "section": "53",
+      "title": "Falsification of records by directors, employees and agents",
+      "content": "53. Any director, manager, trustee, auditor, employee or agent of a commodity market, of a clearing house, of a commodity broker, of a commodity trading adviser or of a commodity pool operator, who — ( a ) wilfully makes, or causes to be made, a false entry in any book or record or in any report, slip, document or statement, assets or accounts of that market, clearing house, broker, trading adviser or pool operator; ( b ) wilfully omits to make an entry in any book or record or in any report, slip, document or statement of the business, affairs, transactions, conditions, assets or accounts of that market, clearing house, broker, trading adviser or pool operator, or wilfully causes any such entry to be omitted; or ( c ) wilfully alters, abstracts, conceals or destroys an entry in any book or record or in any report, slip, document or statement of the business, affairs, transactions, conditions, assets or accounts of that market, clearing house, broker, trading adviser or pool operator, or wilfully causes any such entry to be altered, abstracted, concealed or destroyed, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "PART 8 - MISCELLANEOUS",
+      "section": "54",
+      "title": "False reports",
+      "content": "54. A person who, with intent to deceive, makes or furnishes, or knowingly and wilfully authorises or permits the making or furnishing of, any false or misleading statement or report to the Board, a commodity market, a clearing house or any officers thereof relating to — ( a ) trading in commodity contracts; ( b ) any matter or thing required by the Board for the proper administration of this Act; or ( c ) the enforcement of the business rules of a commodity market or a clearing house, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "PART 8 - MISCELLANEOUS",
+      "section": "55",
+      "title": "Immunity of Board and its employees, etc.",
+      "content": "55. No suit or other legal proceedings shall lie against the Board or any officer or employee of the Board or any person (including a commodity market or a clearing house) acting under the direction of the Board for any act done in good faith in the performance, or intended performance, of any duty, or in the exercise of any power under this Act or any regulations made under this Act, or for any neglect or default in the performance or exercise in good faith of such duty or power."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "PART 8 - MISCELLANEOUS",
+      "section": "56",
+      "title": "Offences by corporations",
+      "content": "56. Where a corporation is guilty of an offence under this Act, any director, manager, secretary or other officer of the corporation who was, in any way, by act or omission, directly or indirectly, knowingly concerned in, or a party to, the commission of the offence is also guilty of that offence."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "PART 8 - MISCELLANEOUS",
+      "section": "57",
+      "title": "Prohibition of use of certain titles",
+      "content": "57. —(1) No person other than a clearing house may — ( a ) take or use the title “clearing house”; or ( b ) take or use, or have attached to or exhibited at any place, any title which resembles the title specified in paragraph ( a ) or so closely resembles the title as to be calculated to deceive. [35/2007] (2) A person who is not a commodity broker, commodity trading adviser or commodity pool operator must not — ( a ) take or use the title or description “commodity broker”, “spot commodity broker”, “commodity trading adviser”, “commodity pool operator” or “spot commodity pool operator”; or ( b ) take or use, or have attached to or exhibited at any place, any title or description that resembles the titles specified in paragraph ( a ) or so closely resembles the titles as to be calculated to deceive. (3) A person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 and, in the case of a continuing offence, to a further fine of $2,000 for every day during which the offence continues after conviction."
+    },
+    {
+      "provision_ref": "s58",
+      "chapter": "PART 8 - MISCELLANEOUS",
+      "section": "58",
+      "title": "Proceedings by whom and when to be taken and power to compound offences",
+      "content": "58. —(1) Proceedings for an offence — ( a ) against any provision in Part 7 may be taken only with the consent of the Public Prosecutor; and ( b ) against any other provision of this Act may be taken by the Board or, with the consent of the Public Prosecutor, by any other person. [15/2010] (2) The Board may, without instituting proceedings against any person for an offence under this Act or any regulations made under this Act, which is punishable only by a fine, demand and receive the amount of such fine or such reduced amount as it thinks fit, from the person, whereupon — ( a ) if the person pays that amount to the Board within 14 days after the demand, no proceedings may be taken against the person in relation to the offence; ( b ) if the person does not pay the amount so demanded, the Board may cause proceedings to be instituted in relation to the offence. (3) The powers conferred upon the Board under subsection (2) may only be exercised where a person admits the offence and agrees in writing to the offence being dealt with under that subsection."
+    },
+    {
+      "provision_ref": "s59",
+      "chapter": "PART 8 - MISCELLANEOUS",
+      "section": "59",
+      "title": "Jurisdiction of courts",
+      "content": "59. Despite anything in any other written law, a District Court has jurisdiction to try any offence under this Act and has power to impose the full penalty prescribed for any such offence."
+    },
+    {
+      "provision_ref": "s60",
+      "chapter": "PART 8 - MISCELLANEOUS",
+      "section": "60",
+      "title": "General penalty",
+      "content": "60. A person, who fails to comply with any of the provisions of this Act for which no penalty is expressly provided, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000."
+    },
+    {
+      "provision_ref": "s61",
+      "chapter": "PART 8 - MISCELLANEOUS",
+      "section": "61",
+      "title": "Exemption",
+      "content": "61. The Board may, with the approval of the Minister, if it considers it to be in the public interest and not inconsistent with the purposes of this Act, exempt any person from all or any of the provisions of this Act and may revoke any such exemption. 62. [ Repealed by Act 35 of 2007 ]"
+    },
+    {
+      "provision_ref": "s63",
+      "chapter": "PART 8 - MISCELLANEOUS",
+      "section": "63",
+      "title": "Regulations",
+      "content": "63. —(1) The Board may, with the approval of the Minister, make regulations for carrying out the purposes and provisions of this Act and for the due administration thereof. (2) Without limiting subsection (1), the Board may, with the approval of the Minister, make regulations for or with respect to — ( a ) the activities of, and standards to be maintained by, commodity brokers, commodity trading advisers and commodity pool operators, including the manner, method and place of soliciting business by them and the conduct of such solicitation; ( b ) prescribing the conditions for the conduct of business on a commodity market; ( c ) providing for the content and distribution of written, printed or visual material and advertisements that may be distributed or used by a person in respect of a commodity contract; ( d ) prescribing the form and content of a confirmation statement of commodity contracts entered into on behalf of customers by a commodity broker; ( e ) prescribing the particulars to be recorded in, or in respect of, accounts kept by commodity trading advisers and commodity pool operators under this Act; ( f ) the design, determination and utilisation by the Board of forms for the purposes of this Act; ( g ) prescribing fees to be paid in respect of any matter or thing required for the purposes of this Act; and ( h ) all matters or things which by this Act are required or permitted to be prescribed or which are necessary or expedient to be prescribed to give effect to this Act. (3) Such regulations may provide that a contravention of specified provisions thereof shall be an offence and may provide penalties not exceeding a fine of $5,000 or imprisonment for a term not exceeding 12 months or both. (4) Any regulations made under this Act may provide that, subject to any terms and conditions prescribed, all or any of the provisions of this Act — ( a ) do not have effect in relation to any specified person or to any person who is a member of a specified class of persons — (i) who is, or may be, a commodity broker, commodity trading adviser or commodity pool operator, by reason only of the person doing anything which is merely incidental to another business; (ii) who does not trade in commodity contracts for or on behalf of any other person; or (iii) who is a commodity broker, commodity trading adviser or commodity pool operator, by reason only of the entering into by the person of any specified transaction or class of transactions; ( b ) do not have effect in relation to the representative of any person referred to in paragraph ( a ); or ( c ) have effect in relation to any person mentioned in paragraph ( a ) or ( b ) to such extent as is prescribed. (5) The Minister may by order in the Gazette amend or repeal any written law which appears to him or her to be unnecessary having regard to the provisions of this Act or to be inconsistent with any provision of this Act."
+    },
+    {
+      "provision_ref": "s64",
+      "chapter": "PART 8 - MISCELLANEOUS",
+      "section": "64",
+      "title": "Directions by Minister",
+      "content": "64. The Minister may give to the Board such directions, not inconsistent with the provisions of this Act, as the Minister thinks fit, as to the exercise and performance by the Board of its powers, duties and functions under this Act, and the Board must give effect to all such directions."
+    },
+    {
+      "provision_ref": "s65",
+      "chapter": "PART 8 - MISCELLANEOUS",
+      "section": "65",
+      "title": "Validation of acts done in anticipation of this Act",
+      "content": "65. All acts and things done by any person in preparation for or in anticipation of this Act and any expenditure incurred in relation thereto are deemed to have been authorised under this Act if the acts and things done are not inconsistent with the general intention and purposes of this Act."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "auditor",
+      "definition": "“auditor” means a public accountant within the meaning of the Companies Act 1967;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "“Board” means the Enterprise Singapore Board established by section 3 of the Enterprise Singapore Board Act 2018;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "business rules",
+      "definition": "“business rules” , in relation to a body corporate that maintains or proposes to maintain a commodity market, means the rules, regulations and by-laws, by whatever name called, governing the activities and conduct of — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "clearing house",
+      "definition": "“clearing house” , in relation to a commodity market, means a body corporate that — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "commodity",
+      "definition": "“commodity” means any produce, item, goods or article that is the subject of any — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "commodity broker",
+      "definition": "“commodity broker” means a person who (whether as principal or agent) carries on the business of soliciting, or accepting orders, for the purchase or sale of any commodity by way of or relating to any commodity contract, whether or not the business is part of, or is carried on in conjunction with, any other business;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "commodity broker’s representative",
+      "definition": "“commodity broker’s representative” means a person who acts for, or by arrangement with, a commodity broker (other than a person who is a director of a corporation holding a commodity broker’s licence or is a person who is in the direct employment of a commodity broker) and who performs any of the functions of that commodity broker in connection with trading in commodity forward contracts, or in any leveraged commodity trading, whether the person’s remuneration is by way of commission or otherwise;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "commodity contract",
+      "definition": "“commodity contract” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "commodity forward contract",
+      "definition": "“commodity forward contract” means a contract the effect of which is that one party agrees to deliver a specified commodity, or a specified quantity of a specified commodity, to another party at a specified future time and at a specified price payable at that time, but does not include a commodity futures contract;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "commodity futures contract",
+      "definition": "“commodity futures contract” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "commodity market",
+      "definition": "“commodity market” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "commodity pool operator",
+      "definition": "“commodity pool operator” means any person who carries on a business in the nature of a collective investment scheme within the meaning of section 2 of the Securities and Futures Act 2001 and who, in connection therewith, accepts or receives from other persons funds, security or property, either directly or through capital contributions, the sale of shares or other forms of security or otherwise for the purpose of trading in commodity contracts but does not include any person that the Board may prescribe;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "commodity pool operator’s representative",
+      "definition": "“commodity pool operator’s representative” means a person in the direct employment of, or acting for, or by arrangement with, a commodity pool operator, who performs for that commodity pool operator any of the functions of a commodity pool operator;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "commodity trading adviser",
+      "definition": "“commodity trading adviser” means any person who — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "commodity trading adviser’s representative",
+      "definition": "“commodity trading adviser’s representative” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "corporation",
+      "definition": "“corporation” has the meaning given by the Companies Act 1967;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "customer",
+      "definition": "“customer” means a person on whose account a commodity broker carries on trading in commodity contracts;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "director",
+      "definition": "“director” has the meaning given by the Companies Act 1967;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "financial year",
+      "definition": "“financial year” has the meaning given by the Companies Act 1967;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "futures market",
+      "definition": "“futures market” and “futures option transaction” have the meanings given to those expressions in the Securities and Futures Act 2001;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "leveraged commodity trading",
+      "definition": "“leveraged commodity trading” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "member",
+      "definition": "“member” means a person who holds a membership of any class or description of a commodity market whether or not the person holds any share in the share capital of that commodity market;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "officer",
+      "definition": "“officer” has the meaning given by the Companies Act 1967;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "spot commodity broker",
+      "definition": "“spot commodity broker” means a person whether as principal or agent who carries on the business of soliciting or accepting orders, for the purchase or sale of any commodity by way of spot commodity trading, whether or not the business is part of, or is carried on in conjunction with, any other business, but does not include a commodity broker;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "spot commodity broker’s representative",
+      "definition": "“spot commodity broker’s representative” means a person who acts for, or by arrangement with, a spot commodity broker (other than a person who is a director of a corporation holding a spot commodity broker’s licence or is a person who is in the direct employment of a spot commodity broker) and who performs any of the functions of that spot commodity broker in connection with spot commodity trading, whether the person’s remuneration is by way of commission or otherwise, but does not include a commodity broker’s representative;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "spot commodity pool operator",
+      "definition": "“spot commodity pool operator” means any person who carries on a business in the nature of a collective investment scheme within the meaning of section 2 of the Securities and Futures Act 2001 and who, in connection therewith, accepts or receives from other persons funds, security or property, either directly or through capital contributions, the sale of shares or other forms of security or otherwise for the purpose of spot commodity trading, but does not include a commodity pool operator;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "spot commodity pool operator’s representative",
+      "definition": "“spot commodity pool operator’s representative” means a person in the direct employment of, or acting for, or by arrangement with, a spot commodity pool operator, who performs for that spot commodity pool operator any of the functions of a spot commodity pool operator, but does not include a commodity pool operator’s representative;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "spot commodity trading",
+      "definition": "“spot commodity trading” means the purchase or sale of a commodity at its current market or spot price, where it is intended that such transaction results in the physical delivery of the commodity. [10/2018; 1/2020]",
+      "source_provision": "s2"
+    }
+  ]
+}

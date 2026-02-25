@@ -1,0 +1,66 @@
+{
+  "id": "cnpia-1953",
+  "type": "statute",
+  "title": "Contributory Negligence and Personal Injuries Act 1953",
+  "title_en": "Contributory Negligence and Personal Injuries Act 1953",
+  "short_name": "CNPIA1953",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/CNPIA1953",
+  "description": "An Act relating to contributory negligence and for purposes connected therewith and to abolish the defence of common employment.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Contributory Negligence and Personal Injuries Act 1953."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. In this Act, unless the context otherwise requires — “court”, in relation to any claim, means the court or arbitrator by or before whom the claim falls to be determined; “damage” includes loss of life and personal injury; “dependant” means any person for whose benefit an action could be brought under section 20 of the Civil Law Act 1909; “fault” means negligence, breach of statutory duty or other act or omission which gives rise to a liability in tort or would, apart from this Act, give rise to the defence of contributory negligence."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Apportionment of liability in case of contributory negligence",
+      "content": "3. —(1) Where any person suffers damage as the result partly of his own fault and partly of the fault of any other person or persons, a claim in respect of that damage shall not be defeated by reason of the fault of the person suffering the damage, but the damages recoverable in respect thereof shall be reduced to such extent as the court thinks just and equitable having regard to the claimant’s share in the responsibility for the damage. (2) Subsection (1) shall not operate to defeat any defence arising under a contract. (3) Where any contract or written law providing for the limitation of liability is applicable to the claim, the amount of damages recoverable by the claimant under subsection (1) shall not exceed the maximum limit so applicable. (4) Where damages are recoverable by any person under subsection (1) subject to such reduction as is therein mentioned, the court shall find and record the total damages which would have been recoverable if the claimant had not been at fault. (5) Where any person dies as the result partly of his own fault and partly of the fault of any other person or persons, and accordingly if an action were brought for the benefit of the estate under section 10 of the Civil Law Act 1909, the damages recoverable would be reduced under subsection (1), any damages recoverable in an action brought for the benefit of — ( a ) the dependants of that person under section 20 of the Civil Law Act 1909; or ( b ) any person under section 21 of the Civil Law Act 1909, shall be reduced to a proportionate extent. (6) Where, in any case to which subsection (1) applies, one of the persons at fault avoids liability to any other such person or his personal representative by pleading the Limitation Act 1959 or any other written law limiting the time within which proceedings may be taken, he shall not be entitled to recover any damages or contributions from that other person or personal representative by virtue of that subsection."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Saving for Maritime Conventions Act 1911",
+      "content": "4. This Act shall not apply to any claims to which section 1 of the Maritime Conventions Act 1911 applies and that Act shall have effect as if this Act had not been passed."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Common employment",
+      "content": "5. —(1) It shall not be a defence to an employer who is sued in respect of personal injuries caused by the negligence of a person employed by him, that that person was at the time the injuries were caused in common employment with the person injured. (2) Any provision in a contract of service or apprenticeship, or in an agreement collateral thereto shall be void insofar as it would have the effect of excluding or limiting any liability of the employer in respect of personal injuries caused to the person employed or apprenticed by the negligence of persons in common employment with him. (3) In this section, “personal injury” includes any disease and any impairment of a person’s physical or mental condition, and “injured” shall be construed accordingly."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "court",
+      "definition": "“court” , in relation to any claim, means the court or arbitrator by or before whom the claim falls to be determined;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "damage",
+      "definition": "“damage” includes loss of life and personal injury;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "dependant",
+      "definition": "“dependant” means any person for whose benefit an action could be brought under section 20 of the Civil Law Act 1909;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "fault",
+      "definition": "“fault” means negligence, breach of statutory duty or other act or omission which gives rise to a liability in tort or would, apart from this Act, give rise to the defence of contributory negligence.",
+      "source_provision": "s2"
+    }
+  ]
+}

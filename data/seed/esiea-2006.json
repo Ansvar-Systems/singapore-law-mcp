@@ -1,0 +1,470 @@
+{
+  "id": "esiea-2006",
+  "type": "statute",
+  "title": "Endangered Species (Import and Export) Act 2006",
+  "title_en": "Endangered Species (Import and Export) Act 2006",
+  "short_name": "ESIEA2006",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/ESIEA2006",
+  "description": "An Act to give effect to the Convention on International Trade in Endangered Species of Wild Fauna and Flora by controlling the import, export, re‑export and introduction from the sea of certain animals and plants, and parts and derivatives of such animals and plants, and for matters connected therewith.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Endangered Species (Import and Export) Act 2006."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. —(1) In this Act, unless the context otherwise requires — “advertise”, in relation to a scheduled species, means to describe, make reference to or allude in any way, by any means or in any form, to that scheduled species — ( a ) whether directly or indirectly; ( b ) whether orally, in writing in any language, diagrammatically, pictorially, by the use of symbols or photographs, or in any combination thereof; and ( c ) whether by the common name or the scientific name of that scheduled species or otherwise; “animal” means any member of the Animal Kingdom, and includes — ( a ) any mammal (other than man), bird, reptile, amphibian, fish, mollusc, arthropod, or other vertebrate or invertebrate, whether alive or dead, and the egg, young or immature form thereof; and ( b ) any readily recognisable part or derivative of an animal; “authorised officer” means — ( a ) any police officer; ( b ) any officer of customs within the meaning of the Customs Act 1960; or ( c ) any person appointed as an authorised officer by the Director‑General under section 3(2); “Board” means the National Parks Board established by the repealed National Parks Act (Cap. 198A, 1991 Revised Edition) as in force before 1 July 1996 and continued by section 3 of the National Parks Board Act 1996; “CITES” means the Convention on International Trade in Endangered Species of Wild Fauna and Flora signed in Washington, D. C., on 3 March 1973, and any amendment to, or substitution of, the Convention that is binding on Singapore; “conveyance” includes any vessel, aircraft, vehicle or mode of transport; “corporation” includes a limited liability partnership within the meaning of section 2(1) of the Limited Liability Partnerships Act 2005; [Act 21 of 2022 wef 01/11/2022] “Director‑General” means the Director‑General, Wildlife Trade Control appointed under section 3(1); “export” means to take or cause to be taken out of Singapore by land, sea or air any scheduled species other than any scheduled species in transit in Singapore, but does not include re‑export; “import” means to bring or cause to be brought into Singapore by land, sea or air any scheduled species other than any scheduled species in transit in Singapore; “information” includes data, text, images, sound, codes, computer programmes, software and databases; “introduction from the sea” means transportation into Singapore of any scheduled species which was taken in the marine environment not under the jurisdiction of any State; “owner” includes any person for the time being in charge of any scheduled species and any person for the time being in occupation of any premises; “permit” means a permit or certificate issued by the Director-General under section 7(3) or deemed (by section 30) to have been issued under this Act; [Act 21 of 2022 wef 01/11/2022] “plant” means any member of the Plant Kingdom, whether live or dead, and any readily recognisable part or derivative of a plant; “premises” includes any house, hut, shed, structure, platform, path, bridge, open space, building or enclosure whether roofed or not; [ Deleted by Act 21 of 2022 wef 01/11/2022 ] [ Deleted by Act 21 of 2022 wef 01/11/2022 ] “readily recognisable part or derivative” — ( a ) for an animal, means any substantially complete animal, or any part or derivative of an animal, in natural form, stuffed, chilled, preserved, dried or otherwise treated or prepared (which may or may not be contained in preparations), and includes — (i) any meat, bone, hide, skin, leather, tusk, horn, antler, gland, feather, hair, tooth, claw, shell, scale or egg of an animal; or (ii) any thing which is claimed by any person, or which appears from any accompanying document, or any packaging, label or mark, or any other circumstances, to contain any part or derivative of an animal, but does not include any urine, faeces or ambergris that has been naturally excreted; and ( b ) for a plant, means any substantially complete plant, or any part or derivative of a plant, in natural form, preserved, dried or otherwise treated or prepared (which may or may not be contained in preparations), and includes — (i) any seed, stem, leaf, bark, root, log, flower, fruit or pod of a plant; or (ii) any thing which is claimed by any person, or which appears from any accompanying document, or any packaging, label or mark, or any other circumstances, to contain any part or derivative of a plant; [Act 21 of 2022 wef 01/11/2022] “recent lineage”, in relation to a hybrid animal, means 4 generations in the lineage of the hybrid animal that immediately precede the hybrid animal; [Act 21 of 2022 wef 01/11/2022] “re‑export” means the export of any scheduled species that has previously been imported; “sale” or “sell” includes barter or exchange; “sample”, in relation to a scheduled species, means the scheduled species or any part thereof; “scheduled species” means — ( a ) any animal specified in the Schedule, including any readily recognisable part or derivative of the animal; ( b ) any hybrid animal that has in its recent lineage any animal specified in Appendix I or II of the Schedule, including any readily recognisable part or derivative of the hybrid animal; or ( c ) any plant specified in the Schedule, including any readily recognisable part or derivative of the plant; [Act 21 of 2022 wef 01/11/2022] “seized item” means any scheduled species, article, conveyance, receptacle, package or other thing seized by an authorised officer under this Act. [Act 21 of 2022 wef 01/11/2022] (2) In this Act, unless the context otherwise requires, a reference to — ( a ) an animal specified in Appendix I of the Schedule includes a reference to a hybrid animal that has the firstmentioned animal in the recent lineage of the hybrid animal; or ( b ) an animal specified in Appendix II of the Schedule includes a reference to a hybrid animal (not being a hybrid animal mentioned in paragraph ( a )) that has the firstmentioned animal in the recent lineage of the hybrid animal. [Act 21 of 2022 wef 01/11/2022]"
+    },
+    {
+      "provision_ref": "s2A",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "2A",
+      "title": "Meaning of transit in Singapore",
+      "content": "2A. For the purposes of this Act, a scheduled species is in transit in Singapore only if — ( a ) the scheduled species is supported by a prescribed document that — (i) is issued on or before, or within 14 days after, the date on which the scheduled species is brought into Singapore; and (ii) specifies a port, an airport or any other place outside Singapore as the destination for the scheduled species; and ( b ) one of the following conditions is satisfied: (i) the scheduled species remains at all times in or on the conveyance in or on which it is brought into Singapore, pending transport of the scheduled species to the port, airport or other place outside Singapore; (ii) the scheduled species is removed from the conveyance in or on which it is brought into Singapore and is either returned to the same conveyance or transferred directly to another conveyance, pending transport of the scheduled species to the port, airport or other place outside Singapore, and is kept under the control of the Director-General or an authorised officer while being so removed, returned or transferred; (iii) the scheduled species is removed from the conveyance in or on which it is brought into Singapore and kept under the control of the Director-General or an authorised officer for a period not exceeding 14 days, or such longer period as the Director-General may approve, pending transport of the scheduled species to the port, airport or other place outside Singapore. [Act 21 of 2022 wef 01/11/2022]"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "3",
+      "title": "Appointment of Director‑General and authorised officers",
+      "content": "3. —(1) The Board is responsible for the administration of this Act, and to that end, the Board must appoint an officer of the Board to be the Director‑General, Wildlife Trade Control. [10/2019] (2) The Director‑General may, subject to the directions of the Board, appoint any of the following persons to be an authorised officer for the purpose of assisting the Director‑General in administering and carrying out the provisions of this Act or any other written law which confers powers on the Director‑General: ( a ) an employee of the Board; ( b ) an employee of another statutory authority; ( c ) a public officer who is not a police officer or an officer of customs within the meaning of the Customs Act 1960; ( d ) an auxiliary police officer appointed under the Police Force Act 2004. [10/2019] (3) The Director‑General may delegate the exercise of all or any of the powers conferred or duties imposed upon the Director‑General by any provision of this Act or any other written law (except the power of delegation conferred by this subsection) to an authorised officer; and any reference in the provision of this Act or any other written law to the Director‑General includes a reference to such an authorised officer. [10/2019] (4) Any delegation under subsection (3) may be general or in a particular case and may be subject to such conditions or limitations as set out in this Act or as the Board may specify. [10/2019] (5) The Director‑General may, for any reason that appears to the Director‑General to be sufficient, at any time revoke a person’s appointment as an authorised officer. [10/2019] (6) A person mentioned in subsection (2)( d ) who is appointed as an authorised officer does not, by virtue only of the appointment, become an employee or agent of the Board. [10/2019]"
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART 2 - CONTROL OF IMPORT, EXPORT, ETC.,",
+      "section": "4",
+      "title": "Restriction on import, export, etc., of scheduled species",
+      "content": "4. —(1) Any person who — ( a ) imports, introduces from the sea, exports or re-exports any scheduled species without a valid permit; ( b ) has in the person’s possession or under the person’s control, or sells, or offers, exposes or advertises for sale, or displays to the public, any scheduled species that is imported, or introduced from the sea, without a valid permit; or ( c ) sells, or offers, exposes or advertises for sale, or displays to the public, any scheduled species that is specified by the Minister by notification in the Gazette , shall be guilty of an offence. (2) Any person (except a person mentioned in section 5A(1) or (2)) who is guilty of an offence under subsection (1)( a ), ( b ) or ( c ) shall be liable on conviction — ( a ) in the case where the offence is committed in respect of one or more specimens of any scheduled species specified in Appendix I of the Schedule — to a fine not exceeding $100,000 for each specimen of that scheduled species (but not exceeding $500,000 for, or the market value (at the material time of the offence) of, all the specimens of that scheduled species comprised in the offence, whichever is higher) or to imprisonment for a term not exceeding 6 years or to both; and ( b ) in the case where the offence is committed in respect of one or more specimens of any scheduled species specified in Appendix II or III of the Schedule — to a fine not exceeding $50,000 for each specimen of that scheduled species (but not exceeding $500,000 for, or the market value (at the material time of the offence) of, all the specimens of that scheduled species comprised in the offence, whichever is higher) or to imprisonment for a term not exceeding 4 years or to both. (3) In this section and sections 5 and 5A — “material time”, for an offence, means the time of commission of the offence; “specimen” means an animal or a plant. [Act 21 of 2022 wef 01/11/2022]"
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART 2 - CONTROL OF IMPORT, EXPORT, ETC.,",
+      "section": "5",
+      "title": "Control of scheduled species in transit",
+      "content": "5. —(1) Every scheduled species in transit in Singapore must be accompanied by — ( a ) a valid CITES permit or certificate, or any other similar document, that is issued by the competent authority of the country of export or re-export of the scheduled species for the export or re-export of the scheduled species, and contains the prescribed information; and ( b ) where required by the country of import or final destination of the scheduled species — a valid CITES permit or certificate, or any other similar document, that is issued by the competent authority of that country or destination for the import of the scheduled species, and contains the prescribed information. (2) Different information may be prescribed under subsection (1)( a ) or ( b ) for different classes of cases. (3) Without limiting the expression “valid” in subsection (1)( a ) or ( b ) — ( a ) any document mentioned in subsection (1)( a ) that is issued or purported to be issued by a competent authority for the export or re-export of any scheduled species after the date of the export or re-export (as the case may be) is not valid for the purposes of that provision unless — (i) the scheduled species is a scheduled species specified in Appendix II or III of the Schedule; and (ii) the circumstances that led to the retrospective issue of the document were not caused or contributed to by the exporter or re-exporter (as the case may be), or the importer, of the scheduled species; and ( b ) any document mentioned in subsection (1)( a ) or ( b ) that is issued or purported to be issued by a competent authority and contains any alteration is not valid for the purposes of that provision unless the alteration is — (i) endorsed with the seal or stamp of the competent authority; and (ii) authenticated by the signature (or signatures) of the person (or persons) who is (or are) authorised to authenticate the alteration for the competent authority. (4) Any owner, importer, exporter or re-exporter of the scheduled species who contravenes subsection (1) shall be guilty of an offence. (5) Any person (except a person mentioned in section 5A(1) or (2)) who is guilty of an offence under subsection (4) shall be liable on conviction — ( a ) in the case where the offence is committed in respect of one or more specimens of any scheduled species specified in Appendix I of the Schedule — to a fine not exceeding $100,000 for each specimen of that scheduled species (but not exceeding $500,000 for, or the market value (at the material time of the offence) of, all the specimens of that scheduled species comprised in the offence, whichever is higher) or to imprisonment for a term not exceeding 6 years or to both; and ( b ) in the case where the offence is committed in respect of one or more specimens of any scheduled species specified in Appendix II or III of the Schedule — to a fine not exceeding $50,000 for each specimen of that scheduled species (but not exceeding $500,000 for, or the market value (at the material time of the offence) of, all the specimens of that scheduled species comprised in the offence, whichever is higher) or to imprisonment for a term not exceeding 4 years or to both. (6) In this section, “alteration”, for a document, includes deletion or erasure of anything in the document. [Act 21 of 2022 wef 01/11/2022]"
+    },
+    {
+      "provision_ref": "s5A",
+      "chapter": "PART 2 - CONTROL OF IMPORT, EXPORT, ETC.,",
+      "section": "5A",
+      "title": "Penalty for corporate offenders, etc., for offence under section 4 or 5",
+      "content": "5A. —(1) Any corporation, unincorporated association or partnership that is guilty of an offence under section 4(1)( a ), ( b ) or ( c ) or 5(4) shall be liable on conviction — ( a ) in the case where the offence is committed in respect of one or more specimens of any scheduled species specified in Appendix I of the Schedule — to a fine not exceeding $200,000 for each specimen of that scheduled species (but not exceeding $1 million for, or the market value (at the material time of the offence) of, all the specimens of that scheduled species comprised in the offence, whichever is higher); and ( b ) in the case where the offence is committed in respect of one or more specimens of any scheduled species specified in Appendix II or III of the Schedule — to a fine not exceeding $100,000 for each specimen of that scheduled species (but not exceeding $1 million for, or the market value (at the material time of the offence) of, all the specimens of that scheduled species comprised in the offence, whichever is higher). (2) Where a person mentioned in section 20(2) or 20A(2) in relation to a corporation, an unincorporated association or a partnership is guilty of the same offence mentioned in subsection (1) as is the corporation, unincorporated association or partnership, the person shall be liable on conviction — ( a ) in the case where the offence is committed in respect of one or more specimens of any scheduled species specified in Appendix I of the Schedule — to a fine not exceeding the amount specified in subsection (1)( a ) or to imprisonment for a term not exceeding 8 years or to both; and ( b ) in the case where the offence is committed in respect of one or more specimens of any scheduled species specified in Appendix II or III of the Schedule — to a fine not exceeding the amount specified in subsection (1)( b ) or to imprisonment for a term not exceeding 6 years or to both. [Act 21 of 2022 wef 01/11/2022]"
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART 2 - CONTROL OF IMPORT, EXPORT, ETC.,",
+      "section": "6",
+      "title": "Defence to offence under section 4 or 5",
+      "content": "6. —(1) Subject to subsection (2), in any proceedings for an offence under section 4 or 5, it is a defence for the person charged to prove — ( a ) that the commission of the offence was due to the act or default of another person or to some other cause beyond the control of the person charged; and ( b ) that the person charged took all reasonable precautions and exercised all due diligence to avoid the commission of such an offence by the person charged or by any person under the control of the person charged. (2) If in any case the defence provided by subsection (1) involves the allegation that the commission of the offence was due to the act or default of another person, the person charged is not, without the permission of the court, entitled to rely on that defence unless, within a period ending 7 clear days before the hearing, the person charged has served on the prosecutor a written notice giving such information as was then in the possession of the person charged identifying or assisting in the identification of that other person. [Act 25 of 2021 wef 01/04/2022]"
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART 2 - CONTROL OF IMPORT, EXPORT, ETC.,",
+      "section": "7",
+      "title": "Permit for import, export, etc., of scheduled species",
+      "content": "7. —(1) Any person who wishes to import, introduce from the sea, export or re-export any scheduled species must apply to the Director-General for a permit. (2) Every application under subsection (1) must — ( a ) be made in the form and manner that the Director-General requires; and ( b ) be supported by the documents and information that the Director-General requires to decide on the application. (3) Subject to subsection (4), the Director-General may do either of the following on an application made in respect of any scheduled species under subsection (1): ( a ) issue to the applicant a permit or certificate to import, introduce from the sea, export or re-export (as the case may be) the scheduled species, subject to any condition or restriction the Director-General thinks fit; ( b ) refuse the application. (4) The Director-General must refuse an application in respect of any scheduled species made under subsection (1) that is accompanied or supported by any CITES permit or certificate, or any other similar document (called in this subsection the document), if — ( a ) the document is issued or purported to be issued by the competent authority of a country for the export or re-export of the scheduled species after the date of the export or re-export (as the case may be) and — (i) the scheduled species is a scheduled species specified in Appendix I of the Schedule; or (ii) the circumstances that led to the retrospective issue of the document were caused by or contributed to by the exporter or re-exporter (as the case may be), or the importer, of the scheduled species; or ( b ) the document is issued or purported to be issued by the competent authority of a country for the import, export or re-export of the scheduled species and contains any alteration, unless the alteration is — (i) endorsed with the seal or stamp of the competent authority; and (ii) authenticated by the signature (or signatures) of the person (or persons) who is (or are) authorised to authenticate the alteration for the competent authority. (5) In this section, “alteration”, for a document, includes deletion or erasure of anything in the document. [Act 21 of 2022 wef 01/11/2022]"
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART 2 - CONTROL OF IMPORT, EXPORT, ETC.,",
+      "section": "8",
+      "title": "Cancellation of permit",
+      "content": "8. —(1) The Director‑General may at any time cancel a permit if — ( a ) any condition or restriction of the permit is contravened; or ( b ) the Director‑General is satisfied that the permit was issued as a result of a misleading statement or a misrepresentation of a material fact. (2) Where the Director‑General cancels a permit under subsection (1), the Director‑General must immediately notify the holder of the permit. (3) Where the Director‑General has notified the holder of a permit under subsection (2) of the cancellation of the holder’s permit, the holder of the permit must immediately surrender the permit to the Director‑General. (4) Any holder of a permit who, without reasonable excuse, contravenes subsection (3) shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART 3 - ENFORCEMENT POWERS AND PROCEEDINGS",
+      "section": "9",
+      "title": "Power of inspection",
+      "content": "9. An authorised officer may, for the purpose of ensuring compliance with this Act, do all or any of the following: ( a ) at any reasonable time enter and inspect any premises or conveyance in which the officer reasonably believes there is any item to which this Act applies or any document relating to the administration of this Act; ( b ) open or cause to be opened any door, window, lock, fastener, compartment, box, container or any other thing that the officer reasonably believes contains any such item or document; ( c ) inspect any such item, and take such item or any sample thereof free of charge; ( d ) inspect or copy, in whole or in part, any such document; ( e ) make such examination or inquiry as may be necessary to ascertain whether the provisions of this Act have been complied with; ( f ) exercise such other powers as may be reasonable and necessary for giving effect to the provisions of this Act."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART 3 - ENFORCEMENT POWERS AND PROCEEDINGS",
+      "section": "10",
+      "title": "Power to investigate and require information",
+      "content": "10. —(1) Where the Director‑General has reason to believe that any person has contravened any provision of this Act, the Director‑General may investigate the matter and, for the purposes of any such investigation, the Director‑General may — ( a ) call upon any authorised officer to make whatever preliminary investigation the Director‑General considers necessary; ( b ) require the production for inspection by the Director‑General or any authorised officer of any book, document or paper which may relate to or be connected with the subject matter of the investigation; ( c ) require any person to give all information in relation to any such book, document or paper which may be reasonably required by the Director‑General or the authorised officer; ( d ) require any person to furnish any other information as the Director‑General or the authorised officer may require; and ( e ) by written order require any person in Singapore whom the Director‑General or authorised officer has reason to believe to be acquainted with any fact or circumstance relevant to that purpose to attend before the Director‑General or authorised officer to answer any question (to the best of that person’s knowledge, information and belief) and to furnish any document or information. [10/2019] (2) If the Director‑General has reason to suspect that any scheduled species found in any premises or conveyance or in the possession of any person has been imported or introduced from the sea, the Director‑General may require any person who has in the person’s possession or custody or under the person’s control the scheduled species — ( a ) to declare its scientific name; and ( b ) to furnish to the Director‑General such other information as the Director‑General may require. (3) The Director‑General or an authorised officer may record any information furnished by any person under subsection (1) or (2) as a statement which is admissible as evidence in any proceedings in connection with any offence under this Act. (4) The person mentioned in subsection (1)( e ) is bound to state truly the facts and circumstances with which the person is acquainted concerning the case except only that the person may decline to make, with regard to any fact or circumstance, a statement which would have a tendency to expose the person to a criminal charge or to penalty or forfeiture. [10/2019] (5) A statement made by any person examined under subsection (1)( e ) must — ( a ) be reduced to writing; ( b ) be read over to the person; ( c ) if the person does not understand English, be interpreted in a language that the person understands; and ( d ) after correction (if necessary), be signed by the person. [10/2019] (6) If any person fails to attend before the Director‑General or an authorised officer as required by an order under subsection (1)( e ), the Director‑General or authorised officer may report the failure to a Magistrate who may issue a warrant to secure the attendance of that person as required by the order. [10/2019]"
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART 3 - ENFORCEMENT POWERS AND PROCEEDINGS",
+      "section": "11",
+      "title": "Power of entry, search and seizure",
+      "content": "11. —(1) An authorised officer may — ( a ) without warrant enter and search any premises and stop, board and search any conveyance in or on which the authorised officer reasonably suspects that there is to be found any scheduled species in contravention of this Act; and [Act 21 of 2022 wef 01/11/2022] ( b ) search any person found in such premises or conveyance. [Act 21 of 2022 wef 01/11/2022] ( c ) [ Deleted by Act 21 of 2022 wef 01/11/2022 ] (2) For the purpose of exercising his or her power under this Act, an authorised officer may, with such assistance as he or she thinks necessary, break open any door, window, lock, fastener, compartment, box, container or any other thing. (3) An authorised officer may seize the following: ( a ) any scheduled species liable to seizure; ( b ) any receptacle or package in which the scheduled species mentioned in paragraph ( a ) is found, and any handling or other device used for or in connection with the scheduled species; ( c ) any thing (including any animal or plant that is not a scheduled species) that is used to conceal the scheduled species mentioned in paragraph ( a ); ( d ) any article or conveyance with which, or by means of which, an offence under section 4 or 5 is reasonably suspected to be, or has been, committed; ( e ) any food or drink which accompanies the scheduled species mentioned in paragraph ( a ); ( f ) any other thing which appears to be or to contain evidence of an offence under section 4 or 5. [Act 21 of 2022 wef 01/11/2022] (3A) Where any thing seized under subsection (3) is perishable, the Director-General or an authorised officer may dispose of it in any manner that the Director-General or authorised officer thinks fit. [Act 21 of 2022 wef 01/11/2022] (4) For the purposes of this section, any animal or plant is liable to seizure if an authorised officer has reason to suspect that it is a scheduled species — ( a ) which is being or has been imported, introduced from the sea, exported or re-exported in contravention of section 4(1)( a ); [Act 21 of 2022 wef 01/11/2022] ( b ) which is possessed by or under the control of or being sold or offered or exposed or advertised for sale, or being displayed in contravention of section 4(1)( b ); [Act 21 of 2022 wef 01/11/2022] ( c ) which is being sold or offered or exposed or advertised for sale, or being displayed in contravention of section 4(1)( c ); or [Act 21 of 2022 wef 01/11/2022] ( d ) which is in transit in Singapore in contravention of section 5(1)."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART 3 - ENFORCEMENT POWERS AND PROCEEDINGS",
+      "section": "12",
+      "title": "Powers ancillary to inspections and searches",
+      "content": "12. —(1) For the purpose of carrying out an inspection under section 9 or a search under section 11, an authorised officer may stop a conveyance or direct that it be moved to a place where the inspection or search may be carried out. (2) Any item (including any sample thereof) taken under section 9, or any animal, plant or item seized under section 11(3), may be kept or stored in the premises or conveyance where it was taken or seized (as the case may be) or may, at the direction of the Director‑General or an authorised officer, be removed to any other place to be kept or stored thereat. [Act 21 of 2022 wef 01/11/2022] (3) The Director‑General or an authorised officer may subject any animal, plant or item referred to in subsection (2) to such examination or analysis as the Director‑General or authorised officer may consider necessary for the purposes of the administration of this Act. (4) No compensation is payable in respect of any animal, plant or item which is damaged or otherwise destroyed by virtue of any examination or analysis under subsection (3), unless the damage or destruction is directly attributable to the negligence or default of the Director‑General or the authorised officer. (5) The Director‑General or an authorised officer may mark, seal or label any animal, plant or item referred to in subsection (2) in any manner that the Director‑General or authorised officer thinks fit and may lock or seal the premises, conveyance or other place in which it is being kept or stored. (6) Any person who, without the authority of the Director‑General or an authorised officer — ( a ) interferes or tampers with, removes, distributes, sells or otherwise disposes of any animal, plant or item referred to in subsection (2); ( b ) opens, breaks or otherwise tampers with the lock or seal placed by the Director‑General or an authorised officer on any premises or conveyance or part thereof under subsection (5); or ( c ) alters, counterfeits, defaces, destroys, erases or removes any mark, seal or label placed by the Director‑General or an authorised officer on any animal, plant or item under subsection (5), shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s12A",
+      "chapter": "PART 3 - ENFORCEMENT POWERS AND PROCEEDINGS",
+      "section": "12A",
+      "title": "Authorised officer’s assistants",
+      "content": "12A. An authorised officer may be accompanied or assisted by persons necessary for the exercise of the authorised officer’s powers under section 9, 11 or 12. [Act 21 of 2022 wef 01/11/2022]"
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART 3 - ENFORCEMENT POWERS AND PROCEEDINGS",
+      "section": "13",
+      "title": "Power to require scheduled species to be marked, etc.",
+      "content": "13. —(1) The Director‑General may require any owner, importer, exporter or re‑exporter of scheduled species to brand, label or otherwise mark the scheduled species to the satisfaction of the Director‑General. (2) Despite subsection (1), the Director‑General may brand, label or mark any such scheduled species. (3) Any person who contravenes any requirement of the Director‑General under subsection (1) shall be guilty of an offence. (4) Any person who alters, counterfeits, defaces, destroys, erases or removes any brand, label or mark referred to in subsection (1) or (2) without the prior approval of the Director‑General shall be guilty of an offence. (5) In this section, a reference to the labelling or marking of scheduled species includes a reference to the following: ( a ) in the case of a plant — (i) the labelling or marking of a container in which the plant is kept or in which the plant is growing; or (ii) the placement of a label or tag on the plant; and ( b ) in the case of an animal — (i) the implantation of a scannable device in the animal; (ii) the placement of a band on any part of the animal; (iii) the placement (whether by piercing or otherwise) of a tag, tattoo or ring on any part of the animal; or (iv) the labelling or marking of a container in which the animal is kept."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART 3 - ENFORCEMENT POWERS AND PROCEEDINGS",
+      "section": "14",
+      "title": "Power of arrest",
+      "content": "14. —(1) The Director‑General or any authorised officer may arrest without warrant any person committing or attempting to commit or whom the Director‑General or authorised officer reasonably suspects of being engaged in committing or attempting to commit any offence under this Act. (2) The Director‑General or any authorised officer making an arrest without warrant must, subject to subsection (3), without unnecessary delay bring the person arrested before a Magistrate’s Court or a District Court. (3) No person who has been arrested by the Director‑General or any authorised officer is to be released, except on the person’s own bond or on bail or on the special order in writing of the Magistrate, the District Judge or the Director‑General."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART 3 - ENFORCEMENT POWERS AND PROCEEDINGS",
+      "section": "15",
+      "title": "Seized items liable or not liable to forfeiture",
+      "content": "15. All seized items are liable to forfeiture under section 15A or 15B, except a conveyance which — ( a ) is of more than 200 tons net; or ( b ) is an aircraft or a train belonging to a person carrying on a regular passenger service to and from Singapore by means of that aircraft or train. [Act 21 of 2022 wef 01/11/2022]"
+    },
+    {
+      "provision_ref": "s15A",
+      "chapter": "PART 3 - ENFORCEMENT POWERS AND PROCEEDINGS",
+      "section": "15A",
+      "title": "Forfeiture, etc., of seized items by court in criminal proceedings",
+      "content": "15A. —(1) A court may, in any criminal proceeding against a person for an offence under this Act, order that a seized item in connection with the offence be forfeited to the Director-General if — ( a ) where the seized item is a conveyance — the person is convicted of the offence and the conveyance is proved to have been used in the commission of the offence; or ( b ) where the seized item is not a conveyance — the court is satisfied that an offence under this Act has been committed and that the seized item was the subject matter, or used (or intended to have been used) in the commission, or constitutes evidence, of the offence. (2) The court may consider the question of forfeiture under subsection (1) on its own motion if no party raises the question in the proceedings before the court. (3) A conveyance mentioned in subsection (1)( a ) must not be forfeited under that provision if its owner establishes that the conveyance was unlawfully in the possession of another person without the consent of the owner. (4) The court may make an order under subsection (1)( b ) for the forfeiture of any seized item even though no person is convicted of an offence. (5) If the court does not order the forfeiture of a seized item under subsection (1), the court may — ( a ) order the release of the seized item to the owner of or the person entitled to the seized item; or ( b ) where the owner of or the person entitled to the seized item cannot be ascertained or found — make any order or give any direction that the court thinks fit in relation to the disposal of the seized item. (6) The court must not order the release of a seized item under subsection (5) if the court is satisfied that the seized item is relevant for the purposes of any investigation or criminal proceeding for an offence under this Act. [Act 21 of 2022 wef 01/11/2022]"
+    },
+    {
+      "provision_ref": "s15B",
+      "chapter": "PART 3 - ENFORCEMENT POWERS AND PROCEEDINGS",
+      "section": "15B",
+      "title": "Forfeiture, etc., of seized items (except conveyance) in other circumstances",
+      "content": "15B. —(1) The Director-General must, in respect of a seized item, give its owner (if known) and the person from whom it was seized a written notice requiring any claim for the seized item to be made in accordance with subsection (2) within the time specified in the notice, if — ( a ) no criminal proceeding is instituted against any person for an offence under this Act in relation to the seized item; and ( b ) the Director-General is satisfied that the seized item is not relevant for the purposes of any investigation under this Act. (2) A person who wishes to claim the seized item (called in this section the claimant) must submit, either personally or through an authorised agent, a written claim (containing the basis of the claimant’s claim) to the Director-General. (3) The seized item is forfeited to the Director-General if — ( a ) no claim is received for the seized item within the period stated in the written notice mentioned in subsection (1); or ( b ) the owner of the seized item consents to its disposal by the Director-General. (4) If the Director-General receives a written claim for the seized item under subsection (2) within the period stated in the written notice mentioned in subsection (1), the Director-General may release the seized item to the claimant or refer the matter to a District Judge or Magistrate for decision. (5) Where the Director-General refers the matter to a District Judge or Magistrate for decision under subsection (4), the District Judge or Magistrate may issue a summons requiring the claimant or any other person to appear before the District Judge or Magistrate to be examined or give evidence on the matter. (6) The District Judge or Magistrate may order that the seized item be forfeited to the Director-General, if the District Judge or Magistrate is satisfied that an offence under this Act has been committed and that the seized item was the subject matter, or used (or intended to have been used) in the commission, or constitutes evidence, of the offence. (7) If the District Judge or Magistrate does not order the forfeiture of a seized item under subsection (6), the District Judge or Magistrate may — ( a ) order the release of the seized item to the owner of or the person entitled to the seized item; or ( b ) where the owner of or the person entitled to the seized item cannot be ascertained or found — make any order or give any direction that the District Judge or Magistrate thinks fit in relation to the disposal of the seized item. (8) In this section and section 15C, “authorised agent”, for a claimant, means a person who is designated in writing by the claimant as the claimant’s authorised agent for the purposes of the applicable section. [Act 21 of 2022 wef 01/11/2022]"
+    },
+    {
+      "provision_ref": "s15C",
+      "chapter": "PART 3 - ENFORCEMENT POWERS AND PROCEEDINGS",
+      "section": "15C",
+      "title": "Release of seized conveyance in other circumstances",
+      "content": "15C. —(1) Where a conveyance is seized under this Act, the Director-General must give its owner (if known) and the person from whom it was seized a written notice requiring any claim for the conveyance to be made in accordance with subsection (2) within the time specified in the notice, if — ( a ) no criminal proceeding is instituted against any person for an offence under this Act in relation to the conveyance; and ( b ) the Director-General is satisfied that the conveyance is not relevant for the purposes of any investigation under this Act. (2) A person who wishes to claim the conveyance (called in this section the claimant) must submit, either personally or through an authorised agent, a written claim (containing the basis of the claimant’s claim) to the Director-General. (3) Subject to subsection (4), if the Director-General receives a written claim for the conveyance under subsection (2) within the period stated in the written notice mentioned in subsection (1), the Director-General must release the conveyance to the claimant. (4) The Director-General may refer the matter to a District Judge or Magistrate for decision if — ( a ) no claim is received for the conveyance within the period stated in the written notice mentioned in subsection (1); or ( b ) the Director-General is unable to ascertain the owner of or the person entitled to the conveyance. (5) Where the Director-General refers the matter to a District Judge or Magistrate for decision under subsection (4), the District Judge or Magistrate may issue a summons requiring the claimant or any other person to appear before the District Judge or Magistrate to be examined or give evidence on the matter. (6) After considering the matter, the District Judge or Magistrate may — ( a ) order the release of the conveyance to the owner of or the person entitled to the conveyance; or ( b ) where the owner of or the person entitled to the conveyance cannot be ascertained or found — make any order or give any direction that the District Judge or Magistrate thinks fit in relation to the disposal of the conveyance. [Act 21 of 2022 wef 01/11/2022]"
+    },
+    {
+      "provision_ref": "s15D",
+      "chapter": "PART 3 - ENFORCEMENT POWERS AND PROCEEDINGS",
+      "section": "15D",
+      "title": "Director-General’s powers after forfeiture",
+      "content": "15D. —(1) Where any item is forfeited to the Director-General under or pursuant to section 15A or 15B, the Director-General may — ( a ) in the case where the item is a scheduled species which was brought into Singapore in or on a conveyance in contravention of this Act — direct the owner of the conveyance to repatriate the scheduled species to the place from which the scheduled species was brought into Singapore or any other place designated by the Director-General; or ( b ) in any case — dispose of the item in any manner that the Director-General thinks fit. (2) The owner of a conveyance who is directed to repatriate any scheduled species under subsection (1)( a ) must, at the owner’s expense, arrange for — ( a ) the repatriation of the scheduled species in accordance with the direction; and ( b ) the proper care and maintenance of the scheduled species during the repatriation. (3) A person is not required to comply with subsection (2) in respect of a direction made under subsection (1)( a ) unless the direction is made within — ( a ) 12 months after the date on which the scheduled species mentioned in the direction was brought into Singapore; or ( b ) 6 months after the date on which criminal proceedings for the offence in connection with the contravention mentioned in subsection (1)( a ) are concluded or the date on which the offence is compounded, whichever is the later. (4) Any person who, without reasonable excuse, contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both. [Act 21 of 2022 wef 01/11/2022]"
+    },
+    {
+      "provision_ref": "s15E",
+      "chapter": "PART 3 - ENFORCEMENT POWERS AND PROCEEDINGS",
+      "section": "15E",
+      "title": "Expenses",
+      "content": "15E. —(1) The following persons are responsible for any expenses incurred by the Director-General or any authorised officer for the seizure, detention, storage, housing, care, maintenance, testing, transport, repatriation or disposal of any seized item: ( a ) in the case where the item is a scheduled species which was brought into Singapore in contravention of this Act — the owner of the scheduled species and the person who brought the scheduled species, or caused the scheduled species to be brought, into Singapore (jointly and severally); ( b ) in the case where the item is a scheduled species which was being exported or re-exported from Singapore in contravention of this Act — the owner, and the exporter or re-exporter (as the case may be), of the scheduled species (jointly and severally); ( c ) in the case where the item is seized in connection with — (i) any scheduled species mentioned in paragraph ( a ) — the persons mentioned in that paragraph, jointly and severally; or (ii) any scheduled species mentioned in paragraph ( b ) — the persons mentioned in that paragraph, jointly and severally; ( d ) in any other case — the owner of the item. (2) If the amount of the expenses mentioned in subsection (1) is not paid by the person responsible for the expenses under that subsection within 14 days after demand, the amount may be reported to a Magistrate’s Court or a District Court and recovered in the same manner as if it were a fine imposed by a Magistrate’s Court or a District Court. [Act 21 of 2022 wef 01/11/2022]"
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART 3 - ENFORCEMENT POWERS AND PROCEEDINGS",
+      "section": "16",
+      "title": "Obstruction",
+      "content": "16. Any person who — ( a ) obstructs or impedes the Director‑General or any authorised officer in the execution of the Director‑General’s or authorised officer’s duty under this Act; or ( b ) without reasonable excuse, refuses or fails to produce or furnish any book, document, paper or information or render all necessary assistance as may be required or directed by the Director‑General or an authorised officer, shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART 3 - ENFORCEMENT POWERS AND PROCEEDINGS",
+      "section": "17",
+      "title": "Penalty for false declarations, etc.",
+      "content": "17. —(1) Any person who, being required by this Act to make or furnish any declaration, statement, representation or information or to produce any document or who, for the purpose of obtaining any permit under this Act — ( a ) makes or furnishes any declaration, statement, representation or information which is false or misleading in a material particular; or [Act 21 of 2022 wef 01/11/2022] ( b ) produces any document which the person knows or has reason to believe — (i) is false or misleading in any material particular; (ii) has not been given by the person by whom it is purported to have been given; or (iii) contains any unauthorised alteration or has been tampered with in any way, [Act 21 of 2022 wef 01/11/2022] shall be guilty of an offence. [Act 21 of 2022 wef 01/11/2022] (2) Any person who — ( a ) without lawful authority alters, forges, mutilates or defaces any permit; or ( b ) knowingly makes use of any permit which has been so altered, forged, mutilated or defaced, shall be guilty of an offence."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART 3 - ENFORCEMENT POWERS AND PROCEEDINGS",
+      "section": "18",
+      "title": "General penalty",
+      "content": "18. Any person guilty of an offence under this Act for which no penalty is expressly provided shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both."
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART 3 - ENFORCEMENT POWERS AND PROCEEDINGS",
+      "section": "19",
+      "title": "Abetment of offences",
+      "content": "19. Any person who abets the commission of, or who attempts to commit, any offence under this Act shall be guilty of an offence and shall be liable on conviction to be punished with the punishment provided for the offence."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART 3 - ENFORCEMENT POWERS AND PROCEEDINGS",
+      "section": "20",
+      "title": "Offences by corporations",
+      "content": "20. —(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of a corporation in relation to a particular conduct, evidence that — ( a ) an officer, employee or agent of the corporation engaged in that conduct within the scope of his or her actual or apparent authority; and ( b ) the officer, employee or agent had that state of mind, is evidence that the corporation had that state of mind. (2) Where a corporation commits an offence under this Act, a person — ( a ) who is — (i) an officer of the corporation; or (ii) an individual involved in the management of the corporation and in a position to influence the conduct of the corporation in relation to the commission of the offence; and ( b ) who — (i) consented or connived, or conspired with others, to effect the commission of the offence; (ii) is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the corporation; or (iii) knew or ought reasonably to have known that the offence by the corporation (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence, shall be guilty of that same offence as is the corporation, and shall be liable on conviction to be punished accordingly. (3) A person mentioned in subsection (2) may rely on a defence that would be available to the corporation if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the corporation would bear. (4) To avoid doubt, this section does not affect the application of — ( a ) Chapters 5 and 5A of the Penal Code 1871; or ( b ) the Evidence Act 1893 or any other law or practice regarding the admissibility of evidence. (5) To avoid doubt, subsection (2) does not affect the liability of the corporation for an offence under this Act, and applies whether or not the corporation is convicted of the offence. (6) In this section — “officer”, in relation to a corporation, means any director, partner, chief executive, manager, secretary or other similar officer of the corporation, and includes — ( a ) any person purporting to act in any such capacity; and ( b ) for a corporation whose affairs are managed by its members, any of those members as if the member were a director of the corporation; “state of mind” of a person includes — ( a ) the knowledge, intention, opinion, belief or purpose of the person; and ( b ) the person’s reasons for the intention, opinion, belief or purpose. (7) The Minister may make rules to provide for the application of any provision of this section, with any modification that the Minister considers appropriate, to any corporation formed or recognised under the law of a territory outside Singapore. [Act 21 of 2022 wef 01/11/2022]"
+    },
+    {
+      "provision_ref": "s20A",
+      "chapter": "PART 3 - ENFORCEMENT POWERS AND PROCEEDINGS",
+      "section": "20A",
+      "title": "Offences by unincorporated associations or partnerships",
+      "content": "20A. —(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of an unincorporated association or a partnership in relation to a particular conduct, evidence that — ( a ) an employee or agent of the unincorporated association or partnership engaged in that conduct within the scope of his or her actual or apparent authority; and ( b ) the employee or agent had that state of mind, is evidence that the unincorporated association or partnership had that state of mind. (2) Where an unincorporated association or a partnership commits an offence under this Act, a person — ( a ) who is — (i) an officer of the unincorporated association or a member of its governing body; (ii) a partner in the partnership; or (iii) an individual involved in the management of the unincorporated association or partnership and in a position to influence the conduct of the unincorporated association or partnership (as the case may be) in relation to the commission of the offence; and ( b ) who — (i) consented or connived, or conspired with others, to effect the commission of the offence; (ii) is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the unincorporated association or partnership; or (iii) knew or ought reasonably to have known that the offence by the unincorporated association or partnership (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence, shall be guilty of that same offence as is the unincorporated association or partnership (as the case may be), and shall be liable on conviction to be punished accordingly. (3) A person mentioned in subsection (2) may rely on a defence that would be available to the unincorporated association or partnership if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof as the unincorporated association or partnership would bear. (4) To avoid doubt, this section does not affect the application of — ( a ) Chapters 5 and 5A of the Penal Code 1871; or ( b ) the Evidence Act 1893 or any other law or practice regarding the admissibility of evidence. (5) To avoid doubt, subsection (2) does not affect the liability of an unincorporated association or a partnership for an offence under this Act, and applies whether or not the unincorporated association or partnership is convicted of the offence. (6) In this section — “officer”, in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, and includes — ( a ) any person holding a position analogous to that of president, secretary or member of a committee of the unincorporated association; and ( b ) any person purporting to act in any such capacity; “partner” includes a person purporting to act as a partner; “state of mind” of a person includes — ( a ) the knowledge, intention, opinion, belief or purpose of the person; and ( b ) the person’s reasons for the intention, opinion, belief or purpose. (7) The Minister may make rules to provide for the application of any provision of this section, with any modification that the Minister considers appropriate, to any unincorporated association or partnership formed or recognised under the law of a territory outside Singapore. [Act 21 of 2022 wef 01/11/2022]"
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART 4 - MISCELLANEOUS",
+      "section": "21",
+      "title": "Advisory Committee",
+      "content": "21. —(1) The Minister may establish an Advisory Committee consisting of such members as the Minister may appoint. (2) The Advisory Committee is to advise the Director‑General upon any question which the Director‑General may refer to it in connection with the administration of this Act."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART 4 - MISCELLANEOUS",
+      "section": "22",
+      "title": "Fees, etc., payable to Board",
+      "content": "22. All fees, charges and moneys collected under this Act or any rules made under this Act (except composition sums) must be paid to the Board. [10/2019]"
+    },
+    {
+      "provision_ref": "s22A",
+      "chapter": "PART 4 - MISCELLANEOUS",
+      "section": "22A",
+      "title": "Evidence",
+      "content": "22A. A document purporting to be under the hand of the Director-General or an authorised officer on any matter or thing in connection with the administration or enforcement of, or any investigation carried out under, this Act is admissible as evidence in any proceedings under this Act and is prima facie evidence of the facts stated in the document. [Act 21 of 2022 wef 01/11/2022]"
+    },
+    {
+      "provision_ref": "s22B",
+      "chapter": "PART 4 - MISCELLANEOUS",
+      "section": "22B",
+      "title": "Protection of informers",
+      "content": "22B. —(1) Except as provided in subsection (3), no witness in any civil or criminal proceedings is obliged or permitted — ( a ) to disclose the name, address or other particulars of an informer who has given information with respect to an offence under this Act, or the substance of the information received from the informer; or ( b ) to answer any question if the answer would lead, or would tend to lead, to the discovery of the name, address or other particulars of the informer. (2) If any document which is in evidence or liable to inspection in any civil or criminal proceedings, contains any entry in which the informer is named or described or which might lead to the discovery of the informer’s identity, the court must cause the entry to be concealed from view or to be obliterated so far only as may be necessary to protect the informer from discovery. (3) If, during any civil or criminal proceedings — ( a ) the court, after full inquiry into the case, believes that the informer wilfully made a material statement which the informer knew or believed to be false or did not believe to be true; or ( b ) the court is of the opinion that justice cannot be fully done in the proceedings without discovery of the identity of the informer, it is lawful for the court to require the production of the original information, in such form as the court may accept, and to permit inquiry and require full disclosure of the informer. (4) In this section, “informer” includes every person who is not called as a witness for the prosecution in a criminal case and who has made any complaint or report or given any information in respect of any offence under this Act alleged to have been committed by any person. [Act 21 of 2022 wef 01/11/2022]"
+    },
+    {
+      "provision_ref": "s22C",
+      "chapter": "PART 4 - MISCELLANEOUS",
+      "section": "22C",
+      "title": "Protection from personal liability",
+      "content": "22C. No liability shall lie against the Director-General or an authorised officer, or any person acting under the direction of the Director-General or an authorised officer, for anything which is done or purported to be done, or omitted to be done, in good faith and with reasonable care in — ( a ) the exercise or purported exercise of any power under this Act; or ( b ) the performance or purported performance of any function under this Act. [Act 21 of 2022 wef 01/11/2022]"
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "PART 4 - MISCELLANEOUS",
+      "section": "23",
+      "title": "Board not liable for damage caused to goods or property as result of search, etc.",
+      "content": "23. Subject to this Act, the Board is not liable to make good any damage caused to or any loss of goods or property (including any animal or plant) as a result of any entry, search, detention or anything which is done under this Act. [10/2019]"
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "PART 4 - MISCELLANEOUS",
+      "section": "24",
+      "title": "Jurisdiction of court, etc.",
+      "content": "24. —(1) Despite any provision to the contrary in the Criminal Procedure Code 2010, a District Court has jurisdiction to try any offence under this Act and has power to impose the full penalty or punishment in respect of the offence. (2) For the purpose of section 151 of the Criminal Procedure Code 2010, on receiving the written complaint signed by the Director‑General or an authorised officer, the Magistrate must proceed to issue a summons or warrant in accordance with section 153 of the Criminal Procedure Code 2010. [15/2010]"
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "PART 4 - MISCELLANEOUS",
+      "section": "25",
+      "title": "Composition of offences",
+      "content": "25. —(1) The Director‑General may compound any offence under this Act that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $5,000. (2) If an offence is compounded under this Act, any seized item (except a conveyance) in connection with the offence is liable to forfeiture under section 15A or 15B. [Act 21 of 2022 wef 01/11/2022] (3) Subject to subsection (2), on payment of the sum of money, no further proceedings may be taken against that person in respect of the offence. (4) All composition sums collected under this section must be paid into the Consolidated Fund. [10/2019]"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "PART 4 - MISCELLANEOUS",
+      "section": "26",
+      "title": "Exemption",
+      "content": "26. —(1) The Minister may, by order in the Gazette , exempt any person or scheduled species or any class or description of persons or scheduled species from all or any of the provisions of this Act, subject to such terms or conditions as may be prescribed. (2) The Director‑General may on the application of any person, by written notice, exempt the person from all or any of the provisions of this Act if the Director‑General considers it appropriate to do so in the circumstances of the case. (3) An exemption under subsection (2) — ( a ) may be granted subject to such terms or conditions as the Director‑General may specify by written notice; ( b ) need not be published in the Gazette ; and ( c ) may be withdrawn at any time by the Director‑General."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "PART 4 - MISCELLANEOUS",
+      "section": "27",
+      "title": "Service of documents",
+      "content": "27. —(1) A document that is permitted or required by this Act to be served on a person may be served as described in this section. (2) A document permitted or required by this Act to be served on an individual may be served — ( a ) by giving it to the individual personally; ( b ) by sending it by prepaid registered post to the address specified by the individual for the service of documents or, if no address is so specified, the individual’s residential address or business address; ( c ) by leaving it at the individual’s residential address with an adult apparently resident there, or at the individual’s business address with an adult apparently employed there; ( d ) by affixing a copy of the document in a conspicuous place at the individual’s residential address or business address; ( e ) by sending it by fax to the fax number last known to the person giving or serving the document as the fax number for the service of documents on the individual; or ( f ) by sending it by email to the individual’s last email address. (3) A document permitted or required by this Act to be served on a partnership (other than a limited liability partnership) may be served — ( a ) by giving it to any partner or other similar officer of the partnership; ( b ) by leaving it at, or by sending it by prepaid registered post to, the partnership’s business address; ( c ) by sending it by fax to the fax number used at the partnership’s business address; or ( d ) by sending it by email to the partnership’s last email address. (4) A document permitted or required by this Act to be served on a body corporate (including a limited liability partnership) or an unincorporated association may be served — ( a ) by giving it to the secretary or other similar officer of the body corporate or unincorporated association, or the limited liability partnership’s manager; ( b ) by leaving it at, or by sending it by prepaid registered post to, the body corporate’s or unincorporated association’s registered office or principal office in Singapore; ( c ) by sending it by fax to the fax number used at the body corporate’s or unincorporated association’s registered office or principal office in Singapore; or ( d ) by sending it by email to the body corporate’s or unincorporated association’s last email address. (5) Service of a document under this section takes effect — ( a ) if the document is sent by fax and a notification of successful transmission is received, on the day of transmission; ( b ) if the document is sent by email, at the time that the email becomes capable of being retrieved by the person to whom it is sent; and ( c ) if the document is sent by prepaid registered post, 2 days after the day the document was posted (even if it is returned undelivered). (6) A document may be served on a person under this Act by email only with that person’s prior written consent. (7) This section does not apply to documents to be served in proceedings in court. (8) In this section — “business address” means — ( a ) in the case of an individual, the individual’s usual or last known place of business in Singapore; or ( b ) in the case of a partnership (other than a limited liability partnership), the partnership’s principal or last known place of business in Singapore; “document” includes a notice permitted or required by this Act to be served; “last email address” means the last email address given by the addressee concerned to the person giving or serving the document as the email address for the service of documents under this Act; “residential address” means an individual’s usual or last known place of residence in Singapore. [Act 21 of 2022 wef 01/11/2022]"
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "PART 4 - MISCELLANEOUS",
+      "section": "28",
+      "title": "Amendment of Schedule",
+      "content": "28. The Minister may, by notification in the Gazette , add to, alter or amend the Schedule."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "PART 4 - MISCELLANEOUS",
+      "section": "29",
+      "title": "Rules",
+      "content": "29. —(1) The Minister may make rules — ( a ) providing for the issue of permits for the import, introduction from the sea, export or re-export of scheduled species; [Act 21 of 2022 wef 01/11/2022] ( b ) prescribing the form, duration, terms, conditions and restrictions of any permit and the fees payable for the permit, and providing for the cancellation and suspension thereof; ( c ) providing for the imposition of a levy on the import, export or re‑export of any scheduled species; ( d ) authorising the sale or possession or control of or other dealing in scheduled species and prescribing the circumstances and conditions under which a person may be in possession or in control of or sell or otherwise deal with any scheduled species; ( e ) relating to the branding, packaging, marking either permanently or temporarily and labelling of scheduled species for the purpose of identification; ( f ) prescribing the fees to be charged in respect of anything done under or by virtue of this Act; ( g ) prescribing any other matter or thing required or permitted to be prescribed or necessary to be prescribed to give effect to this Act. (2) Rules made under this Act — ( a ) may provide that a contravention of any provision of the rules shall be an offence; ( b ) may provide for penalties not exceeding a fine of $50,000 or imprisonment for a term not exceeding 2 years or both for each offence."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "PART 4 - MISCELLANEOUS",
+      "section": "30",
+      "title": "Saving and transitional provision",
+      "content": "30. Any application for a permit, and any permit, approval, notice, order or other document, made, issued or given under the repealed Endangered Species (Import and Export) Act (Cap. 92A, 2000 Revised Edition) is, so far as it is not inconsistent with the provisions of this Act, deemed to have been made, issued or given under this Act."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "advertise",
+      "definition": "“advertise” , in relation to a scheduled species, means to describe, make reference to or allude in any way, by any means or in any form, to that scheduled species — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "animal",
+      "definition": "“animal” means any member of the Animal Kingdom, and includes — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "authorised officer",
+      "definition": "“authorised officer” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Board",
+      "definition": "“Board” means the National Parks Board established by the repealed National Parks Act (Cap. 198A, 1991 Revised Edition) as in force before 1 July 1996 and continued by section 3 of the National Parks Board Act 1996;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "CITES",
+      "definition": "“CITES” means the Convention on International Trade in Endangered Species of Wild Fauna and Flora signed in Washington, D. C., on 3 March 1973, and any amendment to, or substitution of, the Convention that is binding on Singapore;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "conveyance",
+      "definition": "“conveyance” includes any vessel, aircraft, vehicle or mode of transport;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "corporation",
+      "definition": "“corporation” includes a limited liability partnership within the meaning of section 2(1) of the Limited Liability Partnerships Act 2005; [Act 21 of 2022 wef 01/11/2022]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Director‑General",
+      "definition": "“Director‑General” means the Director‑General, Wildlife Trade Control appointed under section 3(1);",
+      "source_provision": "s2"
+    },
+    {
+      "term": "export",
+      "definition": "“export” means to take or cause to be taken out of Singapore by land, sea or air any scheduled species other than any scheduled species in transit in Singapore, but does not include re‑export;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "import",
+      "definition": "“import” means to bring or cause to be brought into Singapore by land, sea or air any scheduled species other than any scheduled species in transit in Singapore;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "information",
+      "definition": "“information” includes data, text, images, sound, codes, computer programmes, software and databases;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "introduction from the sea",
+      "definition": "“introduction from the sea” means transportation into Singapore of any scheduled species which was taken in the marine environment not under the jurisdiction of any State;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "owner",
+      "definition": "“owner” includes any person for the time being in charge of any scheduled species and any person for the time being in occupation of any premises;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "permit",
+      "definition": "“permit” means a permit or certificate issued by the Director-General under section 7(3) or deemed (by section 30) to have been issued under this Act; [Act 21 of 2022 wef 01/11/2022]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "plant",
+      "definition": "“plant” means any member of the Plant Kingdom, whether live or dead, and any readily recognisable part or derivative of a plant;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "premises",
+      "definition": "“premises” includes any house, hut, shed, structure, platform, path, bridge, open space, building or enclosure whether roofed or not;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "readily recognisable part or derivative",
+      "definition": "“readily recognisable part or derivative” — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "recent lineage",
+      "definition": "“recent lineage” , in relation to a hybrid animal, means 4 generations in the lineage of the hybrid animal that immediately precede the hybrid animal; [Act 21 of 2022 wef 01/11/2022]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "re‑export",
+      "definition": "“re‑export” means the export of any scheduled species that has previously been imported;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "sale",
+      "definition": "“sale” or “sell” includes barter or exchange;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "sample",
+      "definition": "“sample” , in relation to a scheduled species, means the scheduled species or any part thereof;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "scheduled species",
+      "definition": "“scheduled species” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "seized item",
+      "definition": "“seized item” means any scheduled species, article, conveyance, receptacle, package or other thing seized by an authorised officer under this Act. [Act 21 of 2022 wef 01/11/2022]",
+      "source_provision": "s2"
+    },
+    {
+      "term": "material time",
+      "definition": "“material time” , for an offence, means the time of commission of the offence;",
+      "source_provision": "s4"
+    },
+    {
+      "term": "specimen",
+      "definition": "“specimen” means an animal or a plant. [Act 21 of 2022 wef 01/11/2022]",
+      "source_provision": "s4"
+    },
+    {
+      "term": "officer",
+      "definition": "“officer” , in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, and includes — ( a )",
+      "source_provision": "s20A"
+    },
+    {
+      "term": "state of mind",
+      "definition": "“state of mind” of a person includes — ( a )",
+      "source_provision": "s20"
+    },
+    {
+      "term": "partner",
+      "definition": "“partner” includes a person purporting to act as a partner;",
+      "source_provision": "s20A"
+    },
+    {
+      "term": "business address",
+      "definition": "“business address” means — ( a )",
+      "source_provision": "s27"
+    },
+    {
+      "term": "document",
+      "definition": "“document” includes a notice permitted or required by this Act to be served;",
+      "source_provision": "s27"
+    },
+    {
+      "term": "last email address",
+      "definition": "“last email address” means the last email address given by the addressee concerned to the person giving or serving the document as the email address for the service of documents under this Act;",
+      "source_provision": "s27"
+    },
+    {
+      "term": "residential address",
+      "definition": "“residential address” means an individual’s usual or last known place of residence in Singapore. [Act 21 of 2022 wef 01/11/2022]",
+      "source_provision": "s27"
+    }
+  ]
+}

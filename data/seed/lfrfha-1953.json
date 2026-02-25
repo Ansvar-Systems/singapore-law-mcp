@@ -1,0 +1,68 @@
+{
+  "id": "lfrfha-1953",
+  "type": "statute",
+  "title": "Local Forces (Relief of Financial Hardship) Act 1953",
+  "title_en": "Local Forces (Relief of Financial Hardship) Act 1953",
+  "short_name": "LFRFHA1953",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/LFRFHA1953",
+  "description": "An Act to enable payments in addition to pay and allowances to be paid to members of local forces or their dependants for the relief of financial hardship arising in consequence of their service with such forces.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Local Forces (Relief of Financial Hardship) Act 1953."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. In this Act, unless the context otherwise requires — “local force” means any force specified in the Schedule; “Minister” means the Minister charged with the responsibility for defence."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Application",
+      "content": "3. —(1) This Act shall apply to any member of a local force who is called out for actual service, active service or full‑time service under the provisions of any written law relating to that force, but only from such date as the Minister may, by notification in the Gazette , appoint. (2) The Minister may appoint different dates in respect of different local forces under subsection (1). (3) The Minister may, by notification in the Gazette , declare that this Act shall cease to apply to members of any local force specified in the declaration from and after such date as may be appointed therein, but the declaration shall be without prejudice to any right of relief arising out of the service of those members before that date."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Payment of relief in cases of hardship arising from service",
+      "content": "4. —(1) Any person to whom this Act applies shall be entitled in accordance with any rules made under section 5 to relief in respect of financial hardship suffered by him or his wife or children or other dependants and arising out of his service. (2) For the purposes of this section, “service” means actual service, active service or full‑time service in a local force on and after the date appointed under section 3(1)."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Power to make rules",
+      "content": "5. —(1) The Minister may make rules regulating the application for the grant and the payment of relief under the provisions of this Act. (2) Without prejudice to the generality of subsection (1), such rules may prescribe — ( a ) the manner in which any application for relief may be made, the form of the application and the person by whom the application may be made; ( b ) the circumstances in which and the conditions under which the relief may be granted; ( c ) the amount of such relief and the principles to be followed in determining the amount; ( d ) the persons or tribunals by whom the applications may be heard and determined; ( e ) the procedure to be followed by those persons or tribunals and all matters relating thereto; and ( f ) such other matters as may be necessary or expedient for carrying this Act into effect. (3) Every such rule shall, as soon as possible after the making thereof, be presented to Parliament and if, at the next sitting of Parliament after the order is presented to it, a resolution is passed annulling the rule or any part thereof, the whole rule or such part thereof, as the case may be, shall thenceforth be void but without prejudice to the validity of anything done thereunder."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Amendment of Schedule",
+      "content": "6. The Minister may, by notification in the Gazette , from time to time as he may think fit add to or delete from the list of local forces specified in the Schedule."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Consultation by Minister",
+      "content": "7. The powers conferred upon the Minister by sections 3, 5 and 6 shall not be exercised so as to affect the Singapore Civil Defence Force raised and maintained under the Civil Defence Act 1986, or any member of that Force, without previous consultation with the Minister charged with the responsibility for civil defence."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "local force",
+      "definition": "“local force” means any force specified in the Schedule;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "“Minister” means the Minister charged with the responsibility for defence.",
+      "source_provision": "s2"
+    }
+  ]
+}

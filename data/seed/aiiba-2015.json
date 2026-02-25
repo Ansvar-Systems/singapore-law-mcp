@@ -1,0 +1,90 @@
+{
+  "id": "aiiba-2015",
+  "type": "statute",
+  "title": "Asian Infrastructure Investment Bank Act 2015",
+  "title_en": "Asian Infrastructure Investment Bank Act 2015",
+  "short_name": "AIIBA2015",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/AIIBA2015",
+  "description": "An Act to implement the International Agreement for the establishment and operation of the Asian Infrastructure Investment Bank, to enable Singapore to become a member of the Bank and for connected purposes.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Short title",
+      "content": "1. This Act is the Asian Infrastructure Investment Bank Act 2015."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. In this Act, unless the context otherwise requires — “Agreement” means the Agreement for the establishment and operation of the international body known as the Asian Infrastructure Investment Bank; “Article” means Article of the Agreement; “Bank” means the Asian Infrastructure Investment Bank established under the Agreement; “Minister” means the Minister responsible for finance."
+    },
+    {
+      "provision_ref": "s3",
+      "section": "3",
+      "title": "Deposit of instrument of ratification",
+      "content": "3. The President may empower a person named in an instrument under the President’s hand to deposit, on behalf of the Government of Singapore, an instrument of ratification of the Agreement with the Government of the People’s Republic of China stating that the Government of Singapore — ( a ) has accepted the Agreement in accordance with the law of Singapore; and ( b ) has taken all steps necessary to enable the Government of Singapore to carry out all its obligations under the Agreement."
+    },
+    {
+      "provision_ref": "s4",
+      "section": "4",
+      "title": "Power to subscribe to shares of Bank",
+      "content": "4. —(1) Subject to subsection (2), the Minister may, on behalf of the Government — ( a ) subscribe to shares of the original authorised capital stock of the Bank in accordance with paragraph 1 of Article 5 to an amount not exceeding US$250 million; ( b ) where the shares of Singapore have been increased at the request of the Government under paragraph 3 of Article 5 — subscribe to the amount of such increase; and ( c ) where the original authorised capital stock of the Bank is increased under paragraph 4 of Article 5 — subscribe to a proportion of the increase of stock as provided in that paragraph. (2) The total subscription to the Bank may not exceed the sum of US$500 million unless increased with the approval of Parliament signified by resolution."
+    },
+    {
+      "provision_ref": "s5",
+      "section": "5",
+      "title": "Sums payable to Bank to be charged on Consolidated Fund",
+      "content": "5. —(1) The following sums are to be charged on the Consolidated Fund: ( a ) all sums payable to the Bank by way of subscription to its paid‑in capital stock under paragraph 1 of Article 6; ( b ) all sums payable to the Bank by way of subscription to its callable capital stock as and when required by the Bank under paragraph 3 of Article 6; ( c ) all sums payable to the Bank by way of increase of the shares of the Bank’s capital stock subscribed by the Government under paragraphs 3 and 4 of Article 5; ( d ) all sums payable to the Bank under any other provisions of the Agreement. (2) All sums charged on the Consolidated Fund under this section may be paid in United States dollars or in such other currency permitted by the Agreement."
+    },
+    {
+      "provision_ref": "s6",
+      "section": "6",
+      "title": "Moneys received by Government to be paid into Consolidated Fund",
+      "content": "6. All sums received by or on behalf of the Government from the Bank are to be paid into the Consolidated Fund."
+    },
+    {
+      "provision_ref": "s7",
+      "section": "7",
+      "title": "Certain provisions of Agreement to have force of law",
+      "content": "7. —(1) Despite anything to the contrary in any other law, the provisions of the Agreement set out in the Schedule have the force of law. (2) Nothing in Article 51 is to be construed as — ( a ) entitling the Bank to import into Singapore goods free of any customs duty without any restriction on their subsequent sale in Singapore; ( b ) conferring on the Bank any exemption from taxes or duties that form part of the price of goods sold or services supplied; or ( c ) conferring on the Bank any exemption from taxes or duties that are in fact no more than charges for services rendered. (3) The Minister may, by notification in the Gazette , amend the Schedule in conformity with any amendments to the provisions of the Agreement set out in the Schedule which may subsequently be made and adopted."
+    },
+    {
+      "provision_ref": "s8",
+      "section": "8",
+      "title": "Companies Act 1967 does not apply to Bank and to issue by Bank of shares, debentures, etc.",
+      "content": "8. The Bank is not to be treated as a corporation within the meaning of the Companies Act 1967, and the provisions of that Act do not accordingly apply to the Bank or to the issue by the Bank of any shares, debentures, bonds, notes or other securities."
+    },
+    {
+      "provision_ref": "s9",
+      "section": "9",
+      "title": "Power to make regulations",
+      "content": "9. —(1) The Minister may make regulations for the purpose of carrying out the provisions of this Act. (2) All such regulations are to be presented to Parliament as soon as possible after publication in the Gazette ."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "Agreement",
+      "definition": "“Agreement” means the Agreement for the establishment and operation of the international body known as the Asian Infrastructure Investment Bank;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Article",
+      "definition": "“Article” means Article of the Agreement;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Bank",
+      "definition": "“Bank” means the Asian Infrastructure Investment Bank established under the Agreement;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Minister",
+      "definition": "“Minister” means the Minister responsible for finance.",
+      "source_provision": "s2"
+    }
+  ]
+}

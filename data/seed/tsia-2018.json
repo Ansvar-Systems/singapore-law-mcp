@@ -1,0 +1,815 @@
+{
+  "id": "tsia-2018",
+  "type": "statute",
+  "title": "Transport Safety Investigations Act 2018",
+  "title_en": "Transport Safety Investigations Act 2018",
+  "short_name": "TSIA2018",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/TSIA2018",
+  "description": "An Act to provide for investigation of transport occurrences and other matters affecting transport safety and for related purposes, and to make consequential and related amendments to certain other Acts.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "1",
+      "title": "Short title and commencement",
+      "content": "1. This Act is the Transport Safety Investigations Act 2018 and comes into operation on a date that the Minister appoints by notification in the Gazette ."
+    },
+    {
+      "provision_ref": "s2",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "2",
+      "title": "Interpretation",
+      "content": "2. In this Act, unless the context otherwise requires — “accident” means an accident associated with the operation of a transport vehicle involving circumstances prescribed; “accident site” means any premises associated with an occurrence involving a transport vehicle, and includes — ( a ) premises containing the transport vehicle or any of its wreckage; ( b ) premises where there is an impact point associated with an accident involving the transport vehicle; ( c ) if the accident involved destruction or serious damage to property (other than the transport vehicle) — premises containing the damaged property or any of its remains or wreckage; and ( d ) such area around those premises as the Director determines to be reasonably necessary to facilitate the investigation of the occurrence and securing the premises for the purposes of the investigation; “accident site premises” means — ( a ) an accident site; or ( b ) premises that it is necessary to enter in order to get to an accident site; “aircraft” means any machine that can derive support from the atmosphere from the reactions of the air otherwise than by the reactions of the air against the surface of the earth, and includes an unmanned aircraft; “appropriate foreign authority” means an authority of a foreign country responsible for transport safety investigations and functions corresponding to investigations that must be carried out by the TSIB, and the functions of the TSIB, under this Act; “aviation occurrence” means — ( a ) any occurrence associated with the operation of an aircraft where the aircraft is — (i) destroyed or damaged; or (ii) missing or completely inaccessible; ( b ) any situation where an individual — (i) dies as a result of an occurrence associated with the operation of an aircraft; or (ii) is injured or incapacitated as a result of an occurrence associated with the operation of an aircraft; ( c ) any situation where any property is damaged as a result of an occurrence associated with the operation of an aircraft; ( d ) any situation where an aircraft is involved in a near‑accident; ( e ) any situation where an aircraft is involved in an occurrence that affected, or could have affected, the safety of the operation of the aircraft; or ( f ) any situation or condition that the Director has reasonable grounds to believe could, if left unattended, induce an occurrence or a situation described in paragraph ( a ), ( b ), ( c ), ( d ) or ( e ); “Civil Aviation Authority of Singapore” or “CAAS” means the Civil Aviation Authority of Singapore reconstituted by section 4 of the Civil Aviation Authority of Singapore Act (Cap. 41); “civil proceedings” means any proceedings before a Singapore court other than criminal proceedings, and includes a coroner’s inquiry; “Commissioner of Police” means a public officer who is appointed under section 6(1) of the Police Force Act (Cap. 235) as the Commissioner of Police, and includes a police officer who is for the time being appointed under that section to execute the duties of that office; “consultant” means a consultant mentioned in section 8(2)( d ); “control area” means an area in a transport vehicle from which essential operational duties or functions in connection with the operation or safety of the transport vehicle are directed or controlled; “cordon”, in relation to an accident site, a transport vehicle or its wreckage, includes — ( a ) a physical barrier around the site, vehicle or its wreckage; or ( b ) a roadblock on any road or barrier in any waterway in, around or in the vicinity of, the site, vehicle or wreckage; “cordoned‑off area” means an area on which a cordon is placed by or under section 31; “criminal proceedings” means proceedings before — ( a ) a Singapore court for an offence punishable under any written law other than a military offence within the meaning given by the Singapore Armed Forces Act (Cap. 295); or ( b ) a subordinate military court or the Military Court of Appeal, or a disciplinary officer or Senior Disciplinary Committee, under the Singapore Armed Forces Act for a military offence or civil offence within the meaning given by that Act; “Director”, in relation to any provision of this Act or the regulations, means the Director of the Transport Safety Investigation Bureau of Singapore appointed under section 11(1), and includes — ( a ) an individual for the time being appointed under section 11(2) to execute the duties of that office; and ( b ) any TSIB staff member delegated under section 11(3) the power of the Director under that provision of this Act or the regulations; “disclose” — ( a ) in relation to information, includes divulge or communicate the information in any way; and ( b ) in relation to information contained in a document or other article, also includes produce the document or other article in whole or part, or make it available (in whole or part) for inspection; “draft report” includes a draft report from an appropriate foreign authority about a transport occurrence; “engage in conduct” means any act or omission, any series of acts or omissions, or both; “evidential material” means anything that may be relevant to an investigation; “exempt transport vehicle” means — ( a ) an aircraft used in the military, customs or police services of a foreign country; ( b ) a ship used in the military, customs or police services of a foreign country; ( c ) a Singapore military aircraft; ( d ) a Singapore military vessel; ( e ) a vessel owned by the Government and used by police officers or officers of the border control or civil defence departments of the Government; or ( f ) a vessel wearing the State Marine Ensign under the authority of the Chief of Navy; “film” means — ( a ) a cinematograph film; ( b ) a video recording, or a slide, disc, tape or solid state recording device containing information by the use of which one or more series of visual images may be produced electronically and shown as a moving picture; or ( c ) any other form of recording from which a moving visual image, including a computer generated image, can be produced and viewed (together with its soundtrack); “foreign country” means a country or territory outside of Singapore; “identification card” means an identification card issued under section 24; “immediately reportable matter” means a transport occurrence that is prescribed to be an immediately reportable matter; “information” includes data, text, maps, images, sound, codes, computer programs, software and databases; “international agreement” means a treaty or other agreement whose parties are Singapore and a foreign country, or Singapore and 2 or more foreign countries; “investigation” means an investigation under this Act; “investigator”, for an investigation, means an individual appointed under section 23 in relation to that investigation; “investigator‑in‑charge”, for an investigation, means an investigator who is designated under section 23 as the investigator‑in‑charge in relation to that investigation; “Land Transport Authority of Singapore” or “LTA” means the Land Transport Authority of Singapore established under the Land Transport Authority of Singapore Act (Cap. 158A); “marine occurrence” means — ( a ) any occurrence associated with the operation of a ship where the ship is — (i) destroyed or damaged; or (ii) abandoned, disabled, stranded or missing in operation; ( b ) any situation where an individual — (i) dies as a result of an occurrence associated with the operation of a ship; or (ii) is injured or incapacitated as a result of an occurrence associated with the operation of a ship; ( c ) any situation where any property is damaged as a result of an occurrence associated with the operation of a ship; ( d ) any situation where a ship is involved in a near‑accident; ( e ) any situation where a ship is involved in an occurrence that affected, or could have affected, the safety of the operation of the ship; or ( f ) any situation or condition that the Director has reasonable grounds to believe could, if left unattended, induce an occurrence or a situation described in paragraph ( a ), ( b ), ( c ), ( d ) or ( e ); “Maritime and Port Authority of Singapore” or “MPA” means the Maritime and Port Authority of Singapore established under section 4 of the Maritime and Port Authority of Singapore Act (Cap. 170A); “nominated official”, in relation to a reportable matter, means a TSIB staff member nominated (by name or office) by the Director in relation to that reportable matter; “occupier”, for any premises, includes a person present at the premises who apparently represents the occupier; “occurrence” includes an accident and a near‑accident; “ordinary reportable matter” means a transport occurrence that — ( a ) is not an immediately reportable matter; and ( b ) is prescribed to be an ordinary reportable matter; “other proceedings” means — ( a ) an arbitration under the Arbitration Act (Cap. 10); ( b ) proceedings before an Inquiry Committee appointed under the Workplace Safety and Health Act (Cap. 354A) relating to any accident, dangerous occurrence or occupational disease that has occurred in a workplace; ( c ) proceedings before any tribunal, authority, person or body that has power by or under any written law to require the production of documents or answering of questions, or constituted and vested by or under any written law to make a decision of an administrative character; or ( d ) proceedings by an employer with a view to disciplining an individual employed or engaged by the employer, including proceedings before — (i) a disciplinary officer relating to a disciplinary or service offence under the Civil Defence Act (Cap. 42) or the Police Force Act; or (ii) the Public Service Commission, the Judicial Service Commission or the Legal Service Commission relating to the misconduct of a public officer or other disciplinary matter, but does not include proceedings in Parliament or a committee of Parliament; [Act 33 of 2021 wef 10/04/2024] “photograph” means a product of photography or of a process similar to photography, other than an article or a thing in which visual images forming part of a cinematograph film have been embodied, and includes a product of xerography, photocopy, and record of an image, whether digitally or in another way; “police officer” includes — ( a ) a member of the Special Constabulary established under the Police Force Act; and ( b ) an auxiliary police officer appointed as such under Part IX of the Police Force Act; “power” includes a function or duty; “preliminary assessment” means a preliminary assessment under section 14; “premises” includes — ( a ) a building, structure or place, whether built on or not and whether situated underground or underwater, or any part of a building, structure or place; or ( b ) any vehicle, vessel or aircraft or part of it; “public authority” means — ( a ) any ministry, department or Organ of State of the Government; or ( b ) any body established by or under any public Act to perform a public function; “public passenger service motor vehicle” means a motor vehicle when used to provide regular route services under a public bus services contract entered into with the LTA; and “regular route service” and “public bus services contract” have the respective meanings given by the Bus Services Industry Act 2015 (Act 30 of 2015); “rail vehicle” means a vehicle that operates on a railway (including a vehicle that does not have wheels) and used or capable of being used — ( a ) as a means of transport of passengers or cargo, or both passengers and cargo; or ( b ) for movement on a railway in order to maintain the railway; Examples ( a ) Any train and rolling stock, coaches, wagons, maintenance or engineering vehicles or other railway equipment that is designed for movement along a line of railway. ( b ) Any locomotive, engine, track car, tender, flanger and railway crane. ( c ) Any tram. “railway” means a system by which vehicles are guided — ( a ) by means"
+    },
+    {
+      "provision_ref": "s3",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "3",
+      "title": "Purpose of Act",
+      "content": "3. The purpose of this Act is to maintain and improve transport safety by providing for — ( a ) the reporting of transport occurrences; ( b ) the conduct of investigations of transport occurrences and other matters affecting transport safety with a view to preventing similar occurrences in the future rather than to ascribe blame to any person; ( c ) the publication of investigation results; and ( d ) the regulation of the disclosure and admissibility of certain information obtained or derived from investigations under this Act into transport occurrences."
+    },
+    {
+      "provision_ref": "s4",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "4",
+      "title": "Act binds Government",
+      "content": "4. —(1) This Act binds the Government. (2) However, nothing in this Act renders the Government liable to prosecution for an offence under this Act. (3) To avoid doubt, no person is immune from prosecution for any offence under this Act by reason only that the person is engaged to provide services to the Government."
+    },
+    {
+      "provision_ref": "s5",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "5",
+      "title": "Application of Act",
+      "content": "5. —(1) Except where provided by this section, this Act applies to any transport occurrence, whenever occurring. (2) This Act applies in respect of aviation occurrences — ( a ) in or over Singapore; or ( b ) in or over any place outside Singapore if — (i) Singapore is requested to investigate, or to participate or assist in the investigation of, the aviation occurrence by an appropriate foreign authority; or (ii) the aviation occurrence — (A) involves an aircraft in respect of which, or that is operated by a person to whom, an aviation safety instrument is or has been issued under the Air Navigation Act; and (B) is in a location which cannot be definitely established as being in the territory of any country and evidential material relating to the aviation occurrence is found in Singapore. (3) This Act applies in respect of marine occurrences — ( a ) in Singapore; or ( b ) in or over any place outside Singapore if — (i) Singapore is requested to investigate, or to participate or assist in the investigation of, the marine occurrence by an appropriate foreign authority; (ii) the marine occurrence involves a Singapore ship or other ship licensed under any written law administered by the MPA; or (iii) a witness to, or a person having information concerning a matter that may have contributed to, the marine occurrence arrives or is found at any place in Singapore. (4) This Act applies in respect of railway occurrences happening on or after the relevant date — ( a ) in Singapore; or ( b ) in any place outside Singapore, if Singapore is requested to investigate, or to participate or assist in the investigation of, the railway occurrence by an appropriate foreign authority. (5) In subsection (4), “relevant date” means a date specified in an order made by the Minister and published in the Gazette for the purposes of that subsection. (6) This Act applies in respect of occurrences happening in Singapore involving the operation of a public passenger service motor vehicle."
+    },
+    {
+      "provision_ref": "s6",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "6",
+      "title": "Application outside Singapore",
+      "content": "6. This Act extends to acts, omissions, matters and things outside Singapore, unless the contrary intention appears."
+    },
+    {
+      "provision_ref": "s7",
+      "chapter": "PART 1 - PRELIMINARY",
+      "section": "7",
+      "title": "Interface with other written laws",
+      "content": "7. —(1) To avoid doubt, nothing in this Act affects a police officer’s powers or duties under the Criminal Procedure Code (Cap. 68) or any other written law. (2) This Act does not affect the powers of the CAAS, the LTA, the MPA or other public authority — ( a ) in regulating any mode of transport under any other written law; or ( b ) in performing their respective functions relating to transport safety or improving transport safety, unless expressly provided otherwise by or under this Act."
+    },
+    {
+      "provision_ref": "s8",
+      "chapter": "PART 2 - TRANSPORT SAFETY INVESTIGATION BUREAU",
+      "section": "8",
+      "title": "Transport Safety Investigation Bureau of Singapore",
+      "content": "8. —(1) A Government department called the Transport Safety Investigation Bureau of Singapore or TSIB is established by this section. (2) The TSIB consists of the following personnel: ( a ) the Director; ( b ) such other public officers as are necessary for the proper functioning of the department; ( c ) every employee of a public authority performing duties in the TSIB under a secondment arrangement making available temporarily to the Government the services of the employee in connection with the performance of the TSIB’s functions; ( d ) every consultant engaged by the Government for the purposes of any investigation into transport occurrences or any TSIB function. (3) When performing services for the TSIB under a secondment arrangement under subsection (2), the employee of the public authority concerned is subject to the directions of the Director."
+    },
+    {
+      "provision_ref": "s9",
+      "chapter": "PART 2 - TRANSPORT SAFETY INVESTIGATION BUREAU",
+      "section": "9",
+      "title": "Functions of TSIB",
+      "content": "9. —(1) The function of the TSIB is to improve transport safety by means that include the following: ( a ) receiving and assessing reports of reportable matters, and other safety information that is prescribed; ( b ) independently investigating transport occurrences; ( c ) reporting publicly on those investigations; ( d ) identifying factors that — (i) contribute, or have contributed, to transport occurrences; or (ii) affect, or might affect, transport safety; ( e ) communicating those factors to relevant sectors of the transport industry and the public in any way, including in any one or more of the following ways: (i) by making safety action statements; (ii) by making safety recommendations; (iii) by issuing safety advisory notices; ( f ) conducting public educational programmes about matters relating to transport safety; ( g ) any other means as appear to the Director to be incidental, advantageous, necessary or convenient for the TSIB to carry on for or in connection with the performance of its functions and the discharge of its duties under this Act. (2) In addition, the TSIB has the following functions: ( a ) cooperating and coordinating with a public authority that has functions or powers relating to transport safety or functions affected by the TSIB’s function of improving transport safety; ( b ) cooperating and coordinating with an appropriate foreign authority, or any other body of a foreign country that has functions or powers relating to transport safety, including taking evidence on their behalf; ( c ) coordinating and directing all investigations mentioned in subsection (1)( b ) and determining which other parties (if any) should be involved in such investigations; ( d ) doing anything incidental, advantageous, necessary or convenient to the TSIB’s function of improving transport safety. (3) However, the following are not functions of the TSIB: ( a ) to apportion blame for any transport occurrence; ( b ) to provide the means to determine the liability of any person in respect of any transport occurrence; ( c ) to assist in court proceedings or other proceedings between parties (except as provided by this Act, whether expressly or impliedly); ( d ) to allow any adverse inference to be drawn from the fact that a person was involved in a transport occurrence, and even though blame or liability may be inferred, or an adverse inference may be made, by a person other than the TSIB, this does not prevent the TSIB or any of its personnel from carrying out its functions under this Act. (4) To avoid doubt, subsection (3) does not prevent the prosecution of any offence under this Act. (5) Nothing in this section imposes on the Director or the TSIB, directly or indirectly, any form of duty or liability enforceable by proceedings before any court to which the Director or the TSIB would not otherwise be subject."
+    },
+    {
+      "provision_ref": "s10",
+      "chapter": "PART 2 - TRANSPORT SAFETY INVESTIGATION BUREAU",
+      "section": "10",
+      "title": "International obligations",
+      "content": "10. —(1) The Director must ensure that his or her powers and any investigator’s powers under this Act are exercised in a manner that is consistent with Singapore’s obligations under international agreements (as in force from time to time) that are identified by the regulations for the purpose of this section. (2) In exercising powers under this Act, the Director must also have regard to any rules, recommendations, guidelines, codes or other instruments (as in force from time to time) that are promulgated by an international organisation which is, and that are, identified by the regulations for the purposes of this section."
+    },
+    {
+      "provision_ref": "s11",
+      "chapter": "PART 2 - TRANSPORT SAFETY INVESTIGATION BUREAU",
+      "section": "11",
+      "title": "Director of TSIB",
+      "content": "11. —(1) There must be a Director of the Transport Safety Investigation Bureau of Singapore, who is an individual the Minister appoints from among the individuals mentioned in section 8(2)( b ). (2) The Minister may appoint an individual from among the individuals mentioned in section 8(2)( b ) or ( c ) to act temporarily as the Director during any period, or during all periods, when the Director is, for any reason, unable to perform the duties of the office. (3) Subject to subsection (4), the Director may delegate the exercise of all or any of the powers conferred or duties imposed upon the Director by any provision in this Act or the regulations to such TSIB staff member as the Director specifies in relation to that provision; and any reference in that provision to the Director includes a reference to such a TSIB staff member. (4) Any delegation under subsection (3) may be general or in a particular case, and may be subject to such conditions or limitations as set out in this Act or as the Director may specify. (5) However, nothing in subsection (3) authorises delegating the power of delegation conferred by that subsection."
+    },
+    {
+      "provision_ref": "s12",
+      "chapter": "PART 3 - REPORTING OF TRANSPORT OCCURRENCES",
+      "section": "12",
+      "title": "Immediately and ordinary reportable matters",
+      "content": "12. —(1) If a responsible person has knowledge of an immediately reportable matter, then the person must report to a nominated official within the time and by the means prescribed — ( a ) the immediately reportable matter; and ( b ) the prescribed particulars about the matter that are known to the responsible person. (2) If a responsible person has knowledge of an ordinary reportable matter, then the person must, if so required by the Director by notice in writing, give a written report of the matter (containing the prescribed particulars about the matter, if prescribed) to a nominated official within the time specified in the notice. (3) Subsections (1) and (2) do not apply if the responsible person knows that another responsible person has, or other responsible persons have, already reported the reportable matter to a nominated official with all the particulars required by that subsection. (4) A responsible person who, without reasonable excuse, contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both."
+    },
+    {
+      "provision_ref": "s13",
+      "chapter": "PART 3 - REPORTING OF TRANSPORT OCCURRENCES",
+      "section": "13",
+      "title": "Director may require report",
+      "content": "13. —(1) Where the Director is satisfied that the responsible person to whom section 12(1) or (2) does apply may have information that was not communicated in a report given by the person under section 12(1) or (2) (as the case may be), the Director may, by notice in writing, require that responsible person to give a written report of the immediately reportable matter or ordinary reportable matter (as the case may be), containing the particulars prescribed for the purposes of that section, to a nominated official within the time specified in the notice. (2) A responsible person who, without reasonable excuse, contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both."
+    },
+    {
+      "provision_ref": "s14",
+      "chapter": "PART 4 - INVESTIGATIONS AND REPORTS",
+      "section": "14",
+      "title": "Preliminary assessment after notification",
+      "content": "14. —(1) Upon receiving a notification under section 12(1) or (2) about a transport occurrence, the Director must determine — ( a ) whether or not a duty to investigate under section 15 arises in respect of that transport occurrence; or ( b ) if no such duty arises, whether or not an investigation in respect of that transport occurrence should be conducted. (2) The Director may exercise any powers conferred on an investigator under this Part for the purposes of making a preliminary assessment under this section."
+    },
+    {
+      "provision_ref": "s15",
+      "chapter": "PART 4 - INVESTIGATIONS AND REPORTS",
+      "section": "15",
+      "title": "Duty to investigate",
+      "content": "15. —(1) Subject to section 16, as soon as an immediately reportable matter has been notified to a nominated official under section 12(1), and if the Director believes that the circumstances of the reportable matter — ( a ) have, or are likely to have, significant implications for transport safety; and ( b ) may allow the TSIB to establish findings or make recommendations which may improve transport safety, an investigation must be carried out into the matter. (2) Subject to section 16, the Director — ( a ) may cause an investigation into any other transport occurrence notified to a nominated official under section 12(1) or (2); and ( b ) must cause an investigation into a transport occurrence (whether or not notified under section 12(1) or (2)) if ordered in writing by the Minister to do so. (3) To avoid doubt, the duty or power to investigate a transport occurrence under subsection (1) or (2) may extend to a transport occurrence that involves — ( a ) a combination of modes of transport vehicles; and ( b ) a combination of military and non‑military transport vehicles. (4) The Director may discontinue an investigation at any time except an investigation into a transport occurrence ordered by the Minister under subsection (2)( b )."
+    },
+    {
+      "provision_ref": "s16",
+      "chapter": "PART 4 - INVESTIGATIONS AND REPORTS",
+      "section": "16",
+      "title": "Restriction on transport occurrence investigated",
+      "content": "16. —(1) A transport occurrence must not be investigated under this Act unless — ( a ) it occurs in Singapore; ( b ) it involves — (i) a Singapore aircraft; (ii) a Singapore ship; (iii) a rail vehicle operating on a railway located wholly or partly in Singapore; or (iv) a public passenger service motor vehicle operating within Singapore and an order is given under section 15(2)( b ) in respect of the occurrence; or ( c ) it occurs outside Singapore and any of the following apply: (i) evidence relating to the transport occurrence is found in Singapore; (ii) an appropriate foreign authority requests the Director or TSIB to conduct, or to participate or assist in, an investigation into the transport occurrence; (iii) the Director considers that it is necessary to conduct, or to participate or assist in, an investigation into the transport occurrence and the agreement of the appropriate foreign authority is obtained for the TSIB to conduct, or to participate in, such an investigation; (iv) Singapore has a right or an obligation, under an international agreement, to participate or assist in an investigation into the transport occurrence. (2) Despite subsection (1), a transport occurrence cannot be investigated under this Act if — ( a ) it involves, or relates to, an exempt transport vehicle; ( b ) it does not involve, or relate to, any other transport vehicle that is not an exempt transport vehicle; and ( c ) it does not involve, or relate to, a civil transport facility unless the occurrence is associated with a flying display and the accident site is outside of military premises. (3) However, subsection (2) does not prevent an investigation of a transport occurrence that involves a Singapore military ship or Singapore military aircraft if an appropriate authority in the Singapore Armed Forces requests the Director or TSIB to conduct an investigation into the matter. (4) Where a transport occurrence involving or relating to — ( a ) a Singapore military aircraft or Singapore military vessel; ( b ) a vessel wearing the State Marine Ensign under the authority of the Chief of Navy; or ( c ) a motor vehicle used by the Singapore Armed Forces for military purposes, is being investigated, the TSIB and the Singapore Armed Forces must take reasonable measures to ensure that investigations are coordinated. (5) In this section — “civil transport facility” means any premises that is designed or used, wholly or mainly, to facilitate the operation or maintenance of a transport vehicle that is not an exempt transport vehicle; “flying display” means a civilian organised event (including any rehearsal for such event) which — ( a ) consists, wholly or partly, of an exhibition of flying of any non‑military or military aircraft; and ( b ) takes place at an aerodrome or premises that is not military premises; “military premises” means premises occupied by the Singapore Armed Forces."
+    },
+    {
+      "provision_ref": "s17",
+      "chapter": "PART 4 - INVESTIGATIONS AND REPORTS",
+      "section": "17",
+      "title": "Reopening of investigation",
+      "content": "17. —(1) Despite section 20, the Director may cause the investigation of a transport occurrence previously concluded to be reopened if — ( a ) new and important evidential material which could not be produced at the previously concluded investigation has been discovered; and ( b ) it appears to the Director that the evidential material may materially affect the analysis and conclusions in the report, or any safety action statements or safety recommendations, published in relation to that concluded investigation. (2) However, the Director may exercise the power under subsection (1) with respect to a previously concluded investigation of a transport occurrence only with the approval of the Minister if the Director was an investigator in that investigation. (3) A reopened investigation must be carried out in accordance with this Act. (4) In this section, a reference to the investigation of a transport occurrence previously concluded includes a reference to an investigation or inquiry into an accident or incident which was completed before the date of commencement of this section — ( a ) under Part IIA of the Air Navigation Act; or ( b ) under Part V of the Merchant Shipping Act by an inspector appointed under section 108 of that Act."
+    },
+    {
+      "provision_ref": "s18",
+      "chapter": "PART 4 - INVESTIGATIONS AND REPORTS",
+      "section": "18",
+      "title": "Recovery of costs and expenses of investigation",
+      "content": "18. The Director may recover from the owner or operator of a transport vehicle or both, as a debt due to the Government — ( a ) a reasonable part of the remuneration of an investigator; and ( b ) all expenses reasonably incurred by an investigator in the exercise of any powers, in relation to conducting, participating or assisting in an investigation into a transport occurrence involving that transport vehicle. Division 2 &#x2014; Investigation reports"
+    },
+    {
+      "provision_ref": "s19",
+      "chapter": "PART 4 - INVESTIGATIONS AND REPORTS",
+      "section": "19",
+      "title": "Draft reports",
+      "content": "19. —(1) The Director may provide a draft report, on a confidential basis, to any person whom the Director considers appropriate, for the purpose of — ( a ) allowing the person to make submissions to the Director about the draft report; or ( b ) giving the person advance notice of the likely form of the published report. (2) A person who receives a draft report under subsection (1) or (4) must not — ( a ) make a copy of the whole or any part of the draft report; or ( b ) disclose any of the contents of the draft report to any other person or to a court. (3) A person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both. (4) Subsection (2) does not apply to any copying or disclosure that is necessary for the purpose of — ( a ) preparing submissions on the draft report; or ( b ) taking steps to remedy safety issues that are identified in the draft report. (5) A person who receives a draft report under subsection (1) or (4) cannot be required to disclose it to a court. (6) A person who receives a draft report under subsection (1) or (4) is not entitled to institute other proceedings against anyone on the basis of information in the report. (7) A draft report provided under subsection (1) must not include the name of an individual."
+    },
+    {
+      "provision_ref": "s20",
+      "chapter": "PART 4 - INVESTIGATIONS AND REPORTS",
+      "section": "20",
+      "title": "Investigation reports, etc., to be published",
+      "content": "20. —(1) The Director must, as soon as practicable after an investigation has been completed, publish, by electronic or other means, a report in relation to the investigation. (2) The Director may, at any time before an investigation has been completed, publish, by electronic or other means, a report in relation to the investigation if the Director considers that the publication of the report is necessary or desirable for the purposes of transport safety. (3) A published report may include submissions that were made by persons to the Director in response to a draft report, safety action statements or safety recommendations. (4) A published report must not include the name of an individual. (5) Despite anything in the National Library Board Act (Cap. 197), the Director and an investigator are not required to hold any documents or information concerning a transport safety matter that is being or has been investigated under this Act beyond such time as is necessary for the completion of the investigation and reports. (6) In this section, “report” means any one or more of the following: ( a ) a report; ( b ) safety action statements; ( c ) safety recommendations."
+    },
+    {
+      "provision_ref": "s21",
+      "chapter": "PART 4 - INVESTIGATIONS AND REPORTS",
+      "section": "21",
+      "title": "Reports inadmissible as evidence",
+      "content": "21. —(1) A report under section 20 is not admissible in evidence in any civil or criminal proceedings or other proceedings. (2) However, subsection (1) does not apply to a coroner’s inquiry. (3) A draft report under section 19 is not admissible in evidence in any civil or criminal proceedings or other proceedings."
+    },
+    {
+      "provision_ref": "s22",
+      "chapter": "PART 4 - INVESTIGATIONS AND REPORTS",
+      "section": "22",
+      "title": "Responses to reports of, or containing, safety recommendations",
+      "content": "22. —(1) This section applies if — ( a ) the Director — (i) publishes a report under section 20 in relation to an investigation; (ii) receives a report from an appropriate foreign authority about a transport occurrence; or (iii) publishes a report in relation to a transport safety matter; and ( b ) the report is, or contains, a recommendation that a person, unincorporated association, or a public authority or public officer, in Singapore take safety actions. (2) The person, unincorporated association, public authority or public officer to whom a recommendation mentioned in subsection (1)( b ) is made must give a written response to the Director within a prescribed time after the report was published, that sets out whether the person, association, authority or officer accepts the recommendation (in whole or part), and — ( a ) if the person, unincorporated association, public authority or public officer accepts the recommendation in whole — details of any action that the person, association, authority or officer proposes to take to give effect to the recommendation; or ( b ) if the person, unincorporated association, public authority or public officer does not accept the recommendation in whole — the reasons why the person, association, authority or officer does not accept the recommendation in whole. (3) A person, unincorporated association, public authority or public officer who, without reasonable excuse, fails to comply with subsection (2) commits an offence. (4) A person, unincorporated association, public authority or public officer who is guilty of an offence under subsection (3) shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both. Division 3 &#x2014; Investigators"
+    },
+    {
+      "provision_ref": "s23",
+      "chapter": "PART 4 - INVESTIGATIONS AND REPORTS",
+      "section": "23",
+      "title": "Investigators",
+      "content": "23. —(1) Where a duty to investigate a transport occurrence under section 15(1) or (2)( b ) arises or section 15(2)( a ) or 17(1) applies, the Director must, without delay, appoint such number of TSIB staff members or consultants as the Director thinks fit as investigators for the purpose of carrying out the investigation. (2) Where more than one investigator is appointed for an investigation of a particular transport occurrence, the Director must also designate one of the investigators as the investigator‑in‑charge for that investigation. (3) Where a single investigator is appointed for an investigation of a transport occurrence, the investigator must be treated as designated under subsection (2) as the investigator‑in‑charge for that investigation. (4) The Director must issue to every investigator a written authorisation specifying which of the powers conferred on an investigator under this Division the investigator may exercise. (5) The powers that an investigator may be authorised under this Act to exercise may be exercised only to the extent authorised by the Director under this section. (6) The written authorisation under subsection (4) for an investigator may do all or any of the following: ( a ) limit the powers conferred on an investigator under this Division that the investigator may exercise; ( b ) limit where in Singapore the investigator may exercise his or her powers under this Act or any of them; ( c ) limit when the investigator may exercise his or her powers under this Act or any of them; ( d ) limit the circumstances in which the investigator may exercise his or her powers under this Act or any of them. (7) An investigator may be accompanied and assisted by police officers or other individuals when exercising powers under this Division if that assistance is necessary and reasonable; and any reference to the investigator in sections 26 to 31 includes a reference to such a police officer or other individual accompanying and assisting the investigator. (8) To avoid doubt, this section does not prevent the Director appointing himself or herself as an investigator for the purpose of carrying out any investigation."
+    },
+    {
+      "provision_ref": "s24",
+      "chapter": "PART 4 - INVESTIGATIONS AND REPORTS",
+      "section": "24",
+      "title": "Identification cards",
+      "content": "24. —(1) The Director must issue to each investigator an identification card. (2) Every investigator must return to the Director any identification card issued to him or her under subsection (1) when — ( a ) for a consultant, his or her appointment as such ceases; and ( b ) for any other investigator, he or she ceases to be a TSIB staff member. (3) An investigator must produce his or her identification card for inspection — ( a ) before exercising a power under this Act; and ( b ) at any time during the exercise of a power under this Act, if asked to do so."
+    },
+    {
+      "provision_ref": "s25",
+      "chapter": "PART 4 - INVESTIGATIONS AND REPORTS",
+      "section": "25",
+      "title": "Public servants",
+      "content": "25. An investigator who, in the course of his or her duty as an investigator, exercises any power under this Division in accordance with the authorisation issued to him or her under section 23(4) is taken to be a public servant for the purposes of the Penal Code (Cap. 224) when exercising that power. Division 4 &#x2014; Powers of investigation"
+    },
+    {
+      "provision_ref": "s26",
+      "chapter": "PART 4 - INVESTIGATIONS AND REPORTS",
+      "section": "26",
+      "title": "Access to accident site premises, transport vehicle wreckage, etc.",
+      "content": "26. —(1) For the purpose of an investigation into a reportable matter, and pursuant to an authorisation under section 23(4), an investigator may without payment of any charge — ( a ) enter any accident site premises relating to the investigation; ( b ) enter any transport vehicle involved in the reportable matter (whether or not at the accident site) or its wreckage; and ( c ) take equipment and material onto those premises or the transport vehicle (or its wreckage), and use it, for any of the purposes in section 27. (2) An investigator — ( a ) is authorised to enter any premises or transport vehicle (or its wreckage) under subsection (1) whether or not the occupier of the premises or person in possession of the transport vehicle (or its wreckage) consents to the entry; and ( b ) is entitled to enter and remain on those premises or the transport vehicle (or its wreckage) without payment. (3) An investigator may use such force, and with such assistance of a police officer, as is reasonably necessary to obtain entry to the accident site premises or the transport vehicle (or its wreckage) mentioned in subsection (1)( a ) or ( b )."
+    },
+    {
+      "provision_ref": "s27",
+      "chapter": "PART 4 - INVESTIGATIONS AND REPORTS",
+      "section": "27",
+      "title": "Powers after entering accident site premises, wreckage, etc.",
+      "content": "27. —(1) After entering an accident site premises or a transport vehicle (or its wreckage) mentioned in section 26(1)( a ) or ( b ), an investigator may, for the purpose of an investigation into a reportable matter involving those premises or that vehicle (as the case may be) and pursuant to an authorisation under section 23(4), do all or any of the following: ( a ) examine or observe any activity conducted in or on the accident site or the transport vehicle (or its wreckage); ( b ) examine, take measurements of, conduct tests on, or take samples of, evidential material in or on the accident site or the transport vehicle (or its wreckage); ( c ) take any photograph or film of the accident site or the transport vehicle (or its wreckage), or any thing in or on the accident site or the transport vehicle (or its wreckage) that is evidential material; ( d ) operate equipment in or on the accident site or the transport vehicle in order to access evidential material; ( e ) in the case of evidential material that is equipment in or on the accident site or the transport vehicle, operate the evidential material; ( f ) search, without payment, the accident site or the transport vehicle (or its wreckage), and any thing in or on the accident site or the transport vehicle (or its wreckage), for evidential material; ( g ) seize any thing which is found in or on the accident site or the transport vehicle (or its wreckage) during the exercise of powers under this section that the investigator reasonably suspects is evidential material; ( h ) exercise such other powers as may be prescribed. (2) The power that an investigator may exercise under subsection (1)( d ) or ( e ) in relation to an accident site or a transport vehicle (or its wreckage) includes the power — ( a ) to use a disc, tape or other storage device that is in or on the accident site or the transport vehicle and can be used with the equipment or in association with the equipment; ( b ) to operate electronic equipment in or on the accident site or the transport vehicle to put the relevant data in documentary form and remove the documents so produced from the site or vehicle; and ( c ) to operate electronic equipment in or on the place to transfer the relevant data to a disc, tape or other storage device that — (i) is brought to the accident site or the transport vehicle for the exercise of the power; or (ii) is in or on the accident site or the transport vehicle and the use of which for that purpose has been agreed in writing by the occupier of the accident site or transport vehicle, as the case may be, and to remove the disc, tape or other storage device from that site or vehicle, as the case may be. (3) The power that an investigator may exercise under subsection (1)( f ) in relation to an accident site or a transport vehicle (or its wreckage) includes — ( a ) opening anything at the accident site or the transport vehicle (or its wreckage), or in the possession of an individual found in or on the site or the transport vehicle, that is locked and to inspect anything in it; ( b ) removing or causing to be removed an obstruction from the accident site or the transport vehicle (or its wreckage); and ( c ) digging up anything at the accident site, removing roofing material, wall or ceiling linings or floors of a building, or panels or other parts of the transport vehicle (or its wreckage). (4) If any thing was seized under subsection (1)( g ), the thing must — ( a ) be returned to the person in whose possession it was when it was seized; or ( b ) if it is not reasonably practicable to return it to that person, be disposed of in such manner as the Director thinks fit, when the thing is no longer required for the purposes of an investigation."
+    },
+    {
+      "provision_ref": "s28",
+      "chapter": "PART 4 - INVESTIGATIONS AND REPORTS",
+      "section": "28",
+      "title": "Power to obtain information",
+      "content": "28. —(1) For the purpose of an investigation into a reportable matter, and pursuant to an authorisation under section 23(4), an investigator may require any person in Singapore whom the investigator has reason to believe to be acquainted with any facts or circumstances relevant to that purpose — ( a ) to attend before the investigator to answer, on oath or affirmation if required by the investigator, any question; and ( b ) to provide any document or information. (2) The power to require a person to provide any document or information under subsection (1) includes the power — ( a ) to require that person, or any individual who is or was an officer or employee of the person, to provide an explanation of the document or information; ( b ) if the document or information is not provided, to require that person or individual in paragraph ( a ), to state, to the best of the knowledge and belief of that person or individual (as the case may be), where the document or information is; and ( c ) if the information is recorded otherwise than in legible form, to require the information to be made available to the investigator in legible form. (3) An investigator is entitled without payment to keep any document or information, or make a copy or an extract of any document or information, provided to the investigator under subsection (1). (4) If any person fails to comply with a requirement under subsection (1) or (2), the court may, on the application of the Director, make such order as the court thinks fit to secure compliance with the requirement, and any such order may provide that all the costs or expenses of and incidental to the application must be borne by such person or by any officer of a company or other association who is responsible for the failure. (5) However, subsection (4) does not apply if the person or individual to whom a requirement is made under subsection (1) or (2) — ( a ) does not possess the document or information required; or ( b ) has taken all reasonable steps available to the person or individual to obtain the document or information required and has been unable to obtain it."
+    },
+    {
+      "provision_ref": "s29",
+      "chapter": "PART 4 - INVESTIGATIONS AND REPORTS",
+      "section": "29",
+      "title": "Power to require medical examination, etc.",
+      "content": "29. —(1) Where an investigator believes on reasonable grounds that the medical examination of an individual who is directly or indirectly involved in the operation of a transport vehicle involved in a transport occurrence is, or may be, relevant to the investigation, the investigator may, by written notice, require the individual to submit to a medical examination with a medical practitioner. (2) Where an investigator believes on reasonable grounds that the performance of an autopsy on the body of a deceased, or the carrying out of other medical examinations of human remains, is, or may be, relevant to the conduct of the investigation, the investigator may cause such an autopsy or a medical examination to be performed. (3) The power of an investigator under subsection (2) to cause such an autopsy or a medical examination to be performed includes the power to require, by written notice — ( a ) the person having custody of the body of the deceased or other human remains to permit the performance of that autopsy or medical examination; and ( b ) the autopsy report or medical examination report to be given to the investigator. (4) However, the requirement under subsection (1) that an individual submit to a medical examination does not extend to a requirement that the individual submit to any procedure involving surgery or the injection into the body of any drug, but includes requiring the individual to undergo a breath‑analyser test or a toxicological examination or to provide blood or urine for a laboratory test."
+    },
+    {
+      "provision_ref": "s30",
+      "chapter": "PART 4 - INVESTIGATIONS AND REPORTS",
+      "section": "30",
+      "title": "Powers to detain transport vehicle",
+      "content": "30. —(1) If the Director believes, on reasonable grounds, that — ( a ) evidential material is in or on a transport vehicle; and ( b ) it is necessary to exercise other powers under this Division in order to prevent the material from being removed from Singapore, or from being interfered with or to prevent its concealment, loss, deterioration or destruction, the Director may, by order, detain the vehicle for the purpose of exercising those other powers. (2) The power of the Director under subsection (1) to detain a transport vehicle includes all or any of the following powers: ( a ) to stop the transport vehicle from leaving Singapore; ( b ) to take control and possession of the transport vehicle; ( c ) to move the transport vehicle, or cause the transport vehicle to be moved, to a place approved by the Director. (3) An order under subsection (1) may be given orally, and if an oral direction is given to a group of individuals, it is deemed to have been given to each member of the group if the oral direction is made in a manner which is likely to be audible to all the members of the group or as many of them as reasonably practicable. (4) The Director may exercise the power under subsection (1) with such assistance of police officers, and by such force, as is necessary and reasonable. (5) However, the Director must not detain a transport vehicle under this section for longer than is necessary and reasonable to exercise any other powers under this Act."
+    },
+    {
+      "provision_ref": "s31",
+      "chapter": "PART 4 - INVESTIGATIONS AND REPORTS",
+      "section": "31",
+      "title": "Power to control accident site, etc.",
+      "content": "31. —(1) An investigator may, for the purpose of an investigation into a transport occurrence, and pursuant to an authorisation under section 23(4), exercise such powers as are necessary to secure either or both of the following against unauthorised disturbance: ( a ) any accident site related to the transport occurrence; ( b ) any transport vehicle involved in the transport occurrence (whether or not at the accident site) or its wreckage. (2) Without limiting subsection (1), the powers that an investigator may exercise under this section in relation to a transport occurrence include — ( a ) placing a cordon around an accident site or a transport vehicle involved in the transport occurrence (whether or not at the accident site) or its wreckage; ( b ) restricting entry to an accident site or a transport vehicle (or its wreckage) to people, animals and vehicles, that are authorised by the investigator or this Act; ( c ) preventing any unauthorised individual, animal or vehicle from disturbing or entering an accident site or a transport vehicle (or its wreckage); ( d ) removing, or ordering the removal of, any unauthorised individual, animal or vehicle from an accident site or a transport vehicle (or its wreckage); ( e ) preventing a transport vehicle (or its wreckage) from being moved; ( f ) preventing any evidential material or thing relevant to the investigation from being concealed or disturbed; ( g ) preventing any individual from removing evidential material from or otherwise interfering with an accident site or a transport vehicle (or its wreckage) or anything in it and, for that purpose, detain and search the individual. (3) The cordoned‑off area on which a cordon is placed under this section must, so far as is reasonably practicable, be indicated by means of any form of physical barrier as appears to the investigator responsible for carrying out the arrangements for applying the cordon to be appropriate. (4) An investigator is authorised to exercise any power under subsection (1) whether or not the occupier of the accident site or person in possession of the transport vehicle (or its wreckage) consents to the exercise of those powers."
+    },
+    {
+      "provision_ref": "s32",
+      "chapter": "PART 4 - INVESTIGATIONS AND REPORTS",
+      "section": "32",
+      "title": "Exception for rescue efforts, etc.",
+      "content": "32. Nothing in this Act prevents or prohibits any person engaging in conduct that is necessary — ( a ) to ensure the safety of persons, animals or property; ( b ) to remove deceased persons or animals, or human or animal remains, from an accident site; ( c ) to move a transport vehicle, or the wreckage of a transport vehicle, to a safe place; ( d ) to protect the environment from significant damage or pollution; or ( e ) to prevent any danger or obstruction to the public or other transport vehicles in the vicinity."
+    },
+    {
+      "provision_ref": "s33",
+      "chapter": "PART 5 - OFFENCES",
+      "section": "33",
+      "title": "Adversely affecting investigations, etc.",
+      "content": "33. —(1) A person commits an offence where — ( a ) the person engages in conduct; ( b ) the person knows that the conduct, or is reckless as to whether the conduct, will adversely affect an investigation or a preliminary assessment that is being conducted at that time or that could be conducted at a later time; ( c ) the conduct has the result of adversely affecting such an investigation or a preliminary assessment (whether or not the investigation or assessment, as the case may be, has started at that time); and ( d ) the conduct is not authorised by section 32, or by the Director or an investigator or any person acting under the authority of the Director or an investigator. (2) A person who is guilty of an offence under subsection (1) shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both."
+    },
+    {
+      "provision_ref": "s34",
+      "chapter": "PART 5 - OFFENCES",
+      "section": "34",
+      "title": "Otherwise hindering investigations, etc.",
+      "content": "34. —(1) A person commits an offence if — ( a ) the person engages in conduct; ( b ) the person knows that the conduct, or is reckless as to whether the conduct, will hinder or delay the Director or an investigator in the exercise of his or her powers under this Act; ( c ) the conduct has the result of hindering or delaying such an investigation or a preliminary assessment, as the case may be; and ( d ) the conduct is not authorised by section 32, or by the Director or an investigator or any person acting under the authority of the Director or an investigator. (2) A person commits an offence if the person — ( a ) knowingly obstructs or prevents, or with intent to delay; or ( b ) attempts to obstruct or prevent, or to delay, another person from complying with a notice under section 29, or an order under section 30 or 31. (3) A person who is guilty of an offence under subsection (1) or (2) shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both."
+    },
+    {
+      "provision_ref": "s35",
+      "chapter": "PART 5 - OFFENCES",
+      "section": "35",
+      "title": "Unauthorised entry to cordoned‑off area, etc.",
+      "content": "35. —(1) An individual commits an offence if — ( a ) the individual enters or remains in the cordoned‑off area; and ( b ) the individual’s entry into, or remaining in, the cordoned‑off area is not authorised by section 32, or by the Director or an investigator or any person acting under the authority of the Director or an investigator. (2) An individual who is guilty of an offence under subsection (1) shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both."
+    },
+    {
+      "provision_ref": "s36",
+      "chapter": "PART 5 - OFFENCES",
+      "section": "36",
+      "title": "Non‑compliance with requirement to answer, etc.",
+      "content": "36. —(1) A person commits an offence if the person, without reasonable excuse — ( a ) refuses to answer a question addressed to the person under section 28; ( b ) refuses to take an oath or make an affirmation when required by an investigator to do so under section 28; ( c ) fails or refuses to do or refrain from doing anything required of the person under section 28 or 29; or ( d ) fails or refuses to do anything required of the person by order under section 30. (2) A person commits an offence if the person — ( a ) intentionally alters, suppresses or destroys any document or information which the person has been required under section 28 or 29 to provide; or ( b ) who, in providing any document or information required under section 28 or 29, makes any statement which the person knows to be false in a material particular, or recklessly makes such a statement. (3) A person who is guilty of an offence under subsection (1) or (2) shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both. Division 2 &#x2014; Defences"
+    },
+    {
+      "provision_ref": "s37",
+      "chapter": "PART 5 - OFFENCES",
+      "section": "37",
+      "title": "Self‑incrimination not defence",
+      "content": "37. —(1) A person is not excused from answering a question or producing evidential material in response to a requirement under this Act on the ground that the answer, or the production of the material, might tend to incriminate the person. (2) Where a person, who is an individual, claims, before answering a question or producing evidential material that he or she is required by an investigator under this Act to give, that the answer or the production of evidential material might tend to incriminate him or her — ( a ) that answer or evidential material; ( b ) the giving of the answer or production of evidential material; and ( c ) any information, document or thing obtained as a direct or an indirect consequence of the giving of the answer or the production of evidential material, are not admissible in evidence against that person in any civil proceedings or any criminal proceedings in a court, other than proceedings for an offence under any written law in respect of the falsity of the answer or evidential material produced."
+    },
+    {
+      "provision_ref": "s38",
+      "chapter": "PART 5 - OFFENCES",
+      "section": "38",
+      "title": "Other defences",
+      "content": "38. —(1) It is not an offence under this Act for any person to refuse to comply with any requirement, notice or order made or given by the Director or any investigator under this Act if the Director or investigator — ( a ) failed to comply with section 24(3) when making the requirement or giving the notice or order; or ( b ) refused to produce his or her identification card on demand being made by that person. (2) It is also not an offence under Part 4 for any person to refuse to comply with any requirement made or given by the Director or any investigator under section 28 or 29 to provide any document or information if the person to whom the requirement is made — ( a ) does not possess the document or information required; or ( b ) has taken all reasonable steps available to the person to obtain the document or information required and has been unable to obtain it. Division 3 &#x2014; General"
+    },
+    {
+      "provision_ref": "s39",
+      "chapter": "PART 5 - OFFENCES",
+      "section": "39",
+      "title": "Offences by corporations",
+      "content": "39. —(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of a corporation in relation to a particular conduct, evidence that — ( a ) an officer, employee or agent of the corporation engaged in that conduct within the scope of his or her actual or apparent authority; and ( b ) the officer, employee or agent had that state of mind, is evidence that the corporation had that state of mind. (2) Where a corporation commits an offence under this Act, a person — ( a ) who is — (i) an officer of the corporation; or (ii) an individual involved in the management of the corporation and in a position to influence the conduct of the corporation in relation to the commission of the offence; and ( b ) who — (i) consented or connived, or conspired with others, to effect the commission of the offence; (ii) is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the corporation; or (iii) knew or ought reasonably to have known that the offence by the corporation (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence, shall be guilty of that same offence as is the corporation, and shall be liable on conviction to be punished accordingly. (3) A person mentioned in subsection (2) may rely on a defence that would be available to the corporation if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the corporation would bear. (4) To avoid doubt, this section does not affect the application of — ( a ) Chapters V and VA of the Penal Code; or ( b ) the Evidence Act (Cap. 97) or any other law or practice regarding the admissibility of evidence. (5) To avoid doubt, subsection (2) also does not affect the liability of the corporation for an offence under this Act, and applies whether or not the corporation is convicted of the offence. (6) In this section — “corporation” includes a limited liability partnership within the meaning of section 2(1) of the Limited Liability Partnerships Act (Cap. 163A); “officer”, in relation to a corporation, means any director, partner, chief executive, manager, secretary or other similar officer of the corporation, and includes — ( a ) any person purporting to act in any such capacity; and ( b ) for a corporation whose affairs are managed by its members, any of those members as if the member were a director of the corporation; “reasonable steps”, in relation to the commission of an offence, includes, but is not limited to, such action (if any) of the following kinds as is reasonable in all the circumstances: ( a ) action towards — (i) assessing the corporation’s compliance with the provision creating the offence; and (ii) ensuring that the corporation arranged regular professional assessments of its compliance with the provision; ( b ) action towards ensuring that the corporation’s employees, agents and contractors are provided with information, training, instruction and supervision appropriate to them to enable them to comply with the provision creating the offence so far as the provision is relevant to them; ( c ) action towards ensuring that — (i) the plant, equipment and other resources; and (ii) the structures, work systems and other processes, relevant to compliance with the provision creating the offence are appropriate in all the circumstances; ( d ) action towards creating and maintaining a corporate culture that does not direct, encourage, tolerate or lead to non‑compliance with the provision creating the offence; “state of mind” of a person includes — ( a ) the knowledge, intention, opinion, belief or purpose of the person; and ( b ) the person’s reasons for the intention, opinion, belief or purpose."
+    },
+    {
+      "provision_ref": "s40",
+      "chapter": "PART 5 - OFFENCES",
+      "section": "40",
+      "title": "Offences by unincorporated associations or partnerships",
+      "content": "40. —(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of an unincorporated association or a partnership in relation to a particular conduct, evidence that — ( a ) an employee or agent of the unincorporated association of the partnership engaged in that conduct within the scope of his or her actual or apparent authority; and ( b ) the employee or agent had that state of mind, is evidence that the unincorporated association or partnership had that state of mind. (2) Where an unincorporated association or a partnership commits an offence under this Act, a person — ( a ) who is — (i) an officer of the unincorporated association or a member of its governing body; (ii) a partner in the partnership; or (iii) an individual involved in the management of the unincorporated association or partnership and in a position to influence the conduct of the unincorporated association or partnership (as the case may be) in relation to the commission of the offence; and ( b ) who — (i) consented or connived, or conspired with others, to effect the commission of the offence; (ii) is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the unincorporated association or partnership; or (iii) knew or ought reasonably to have known that the offence by the unincorporated association or partnership (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence, shall be guilty of the same offence as is the unincorporated association or partnership (as the case may be), and shall be liable on conviction to be punished accordingly. (3) A person mentioned in subsection (2) may rely on a defence that would be available to the unincorporated association or partnership if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the unincorporated association or partnership would bear. (4) To avoid doubt, this section does not affect the application of — ( a ) Chapters V and VA of the Penal Code; or ( b ) the Evidence Act or any other law or practice regarding the admissibility of evidence. (5) To avoid doubt, subsection (2) also does not affect the liability of an unincorporated association or a partnership for an offence under this Act, and applies whether or not the unincorporated association or partnership is convicted of the offence. (6) In this section — “officer”, in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, and includes — ( a ) any person holding a position analogous to that of president, secretary or member of a committee of the unincorporated association; and ( b ) any person purporting to act in any such capacity; “partner” includes a person purporting to act as a partner; “reasonable steps” has the same meaning as in section 39(6); “state of mind” of a person includes — ( a ) the knowledge, intention, opinion, belief or purpose of the person; and ( b ) the person’s reasons for the intention, opinion, belief or purpose."
+    },
+    {
+      "provision_ref": "s41",
+      "chapter": "PART 5 - OFFENCES",
+      "section": "41",
+      "title": "Jurisdiction of courts",
+      "content": "41. Despite the Criminal Procedure Code, a District Court has jurisdiction to try any offence under this Act and has power to impose the full punishment for any such offence."
+    },
+    {
+      "provision_ref": "s42",
+      "chapter": "PART 5 - OFFENCES",
+      "section": "42",
+      "title": "Composition of offences",
+      "content": "42. —(1) The Director, or a TSIB staff member authorised in writing by the Director for the purpose of this provision, may compound any offence under this Act that is prescribed as a compoundable offence. (2) A compoundable offence may be compounded under this section by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following: ( a ) one half of the amount of the maximum fine that is prescribed for the offence; ( b ) $5,000. (3) On payment of such sum of money, no further criminal proceedings are to be taken against that person in respect of the offence. (4) All sums collected under this section must be paid into the Consolidated Fund."
+    },
+    {
+      "provision_ref": "s43",
+      "chapter": "PART 6 - LIMITS ON DISCLOSURE OF INFORMATION",
+      "section": "43",
+      "title": "Restricted information",
+      "content": "43. —(1) Subject to subsection (3), a person commits an offence if — ( a ) the person is, or has been, a Director, a TSIB staff member or a consultant; ( b ) the person — (i) makes a record of information; or (ii) discloses information to another person or to a court; ( c ) the person knew, or is reckless as to whether, when making a record or disclosing information that the information is restricted information; and ( d ) the information is restricted information. (2) Subject to subsection (3), a person commits an offence if — ( a ) the person, being a person other than an individual in subsection (1) — (i) makes a record of information; or (ii) discloses information to another person or to a court; ( b ) the person knew, or is reckless as to whether, when making a record or disclosing information that the information is restricted information; and ( c ) the information is restricted information. (3) However, subsections (1) and (2) do not apply to any of the following: ( a ) anything done by a person in performing functions or exercising powers under, or in connection with, any investigation or section 45; ( b ) disclosure to a court in criminal proceedings for an offence under any provision of this Act; ( c ) disclosure to a court in civil proceedings where the General Division of the High Court makes an order under subsection (4). [Act 40 of 2019 wef 10/01/2025] (4) If the General Division of the High Court is satisfied that any adverse domestic or international impact that a disclosure of restricted information might have on any current or future collection and availability of transport safety related information is outweighed by the public interest in the administration of justice, the General Division of the High Court may order the disclosure of the restricted information. [Act 40 of 2019 wef 10/01/2025] (5) In making an order under subsection (4), the General Division of the High Court may direct that the restricted information, or any information obtained from the restricted information, must not — ( a ) be published or communicated to any person; or ( b ) be published or communicated except — (i) in an anonymised form or as statistics which do not identify any person; or (ii) in such manner, and to such persons, as the General Division of the High Court specifies. [Act 40 of 2019 wef 10/01/2015] (6) A person who is guilty of an offence under subsection (1) or (2) shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both. (7) In this section — “OBR information” means — ( a ) an OBR or any part of an OBR; ( b ) a copy or transcript of the whole or any part of an OBR, including a copy made before the happening of the transport occurrence that caused the recording to become an OBR; or ( c ) any information obtained from an OBR or any part of an OBR; “on‑board recording” or “OBR” means a recording that satisfies all of the following: ( a ) the recording consists of (or consists mainly of) sounds or images, or sounds and images, of persons in the control area of a transport vehicle; ( b ) the recording was made in order to comply with a law in force in any country; ( c ) any part of the recording was made at the time of the occurrence of an immediately reportable matter that involved the transport vehicle, but excludes a recording that is of a kind declared by regulations not to be an OBR for the purposes of this Act; “restricted information”, in relation to a transport occurrence, means any of the following: ( a ) all statements (whether oral or in writing) obtained from persons by an investigator, a TSIB staff member or a consultant in the course of an investigation (including any record of such a statement) of the transport occurrence; ( b ) all information recorded by an investigator, a TSIB staff member or a consultant in the course of an investigation of the transport occurrence; ( c ) all communications with a person involved in the operation of a transport vehicle that is or was the subject of an investigation of the transport occurrence, such as OBR information; ( d ) medical or private information regarding persons (including deceased persons) involved in the transport occurrence that is being or has been investigated; ( e ) in relation to a transport vehicle that is or was the subject of an investigation of the transport occurrence — information recorded for the purposes of monitoring or directing the progress of the vehicle from one place to another or information recorded in relation to the operation of the vehicle; ( f ) records of the analysis of information or evidential material acquired in the course of an investigation of the transport occurrence, including opinions expressed by a person in that analysis; ( g ) any other information that is obtained or derived from investigations of the transport occurrence and prescribed in relation to that transport occurrence."
+    },
+    {
+      "provision_ref": "s44",
+      "chapter": "PART 6 - LIMITS ON DISCLOSURE OF INFORMATION",
+      "section": "44",
+      "title": "Not compellable to give evidence",
+      "content": "44. —(1) If a person is prohibited by section 43 from disclosing any restricted information, then — ( a ) the person cannot be required by any court to disclose the information; and ( b ) any information disclosed by the person in contravention of this section is not admissible in any civil proceedings or other proceedings or any criminal proceedings other than proceedings against the person under section 43. (2) The Director, a TSIB staff member or a consultant who is an investigator is not compellable to give an expert opinion in any civil or criminal proceedings or other proceedings in relation to a matter related to transport safety. (3) However, this section does not apply in relation to coroner’s inquiries."
+    },
+    {
+      "provision_ref": "s45",
+      "chapter": "PART 6 - LIMITS ON DISCLOSURE OF INFORMATION",
+      "section": "45",
+      "title": "Acts of unlawful interference",
+      "content": "45. If, in the course of an investigation of a transport occurrence, it becomes known or is suspected that an act of unlawful interference was associated with or involved in the occurrence, the investigator must, after consulting the Director and the Minister — ( a ) immediately inform the Commissioner of Police; and ( b ) take steps to ensure that the appropriate foreign authorities concerned are informed of the fact."
+    },
+    {
+      "provision_ref": "s46",
+      "chapter": "PART 7 - MISCELLANEOUS",
+      "section": "46",
+      "title": "Protection from liability",
+      "content": "46. No liability shall lie against a person who, acting in good faith and with reasonable care, does or omits to do anything — ( a ) in the execution or purported execution of this Act; ( b ) in complying with an order or a direction given under this Act; or ( c ) when assisting an investigator."
+    },
+    {
+      "provision_ref": "s47",
+      "chapter": "PART 7 - MISCELLANEOUS",
+      "section": "47",
+      "title": "General exemption",
+      "content": "47. The Minister may, by order in the Gazette , exempt any person or class of persons or any transport vehicle or class of transport vehicles from all or any provisions of this Act, either generally or in a particular case and subject to such conditions as may be specified in the order."
+    },
+    {
+      "provision_ref": "s48",
+      "chapter": "PART 7 - MISCELLANEOUS",
+      "section": "48",
+      "title": "Service of documents",
+      "content": "48. —(1) A document that is permitted or required by or under this Act to be served on a person may be served as described in this section. (2) A document permitted or required by this Act to be served on an individual may be served — ( a ) by giving it to the individual personally; ( b ) by sending it by prepaid registered post to the address specified by the individual for the service of documents or, if no address is so specified, the individual’s residential address or business address; ( c ) by leaving it at the individual’s residential address with an adult apparently resident there, or at the individual’s business address with an adult apparently employed there; ( d ) by affixing a copy of the document in a conspicuous place at the individual’s residential address or business address; ( e ) by sending it by fax to the fax number last known to the person giving or serving the document as the fax number for the service of documents on the individual; ( f ) by sending it by email to the individual’s last email address; ( g ) by giving an electronic notice to the individual by the individual’s chosen means of notification, stating that the document is available and how the individual may use the individual’s chosen means of access to access the document’s contents; or ( h ) by any other method authorised by regulations for the service of documents of that kind if the individual consents to service of a document of that kind in that way. (3) A document permitted or required by this Act to be served on a partnership (other than a limited liability partnership) may be served — ( a ) by giving it to any partner or other like officer of the partnership; ( b ) by leaving it at, or by sending it by prepaid registered post to, the partnership’s business address; ( c ) by sending it by fax to the fax number used at the partnership’s business address; ( d ) by sending it by email to the partnership’s last email address; ( e ) by giving an electronic notice to the partnership by the partnership’s chosen means of notification, stating that the document is available and how the partnership may use the partnership’s chosen means of access to access the document’s contents; or ( f ) by any other method authorised by regulations for the service of documents of that kind if the partnership consents to service of a document of that kind in that way. (4) A document permitted or required by this Act to be served on a body corporate (including a limited liability partnership) or an unincorporated association may be served — ( a ) by giving it to the secretary or other like officer of the body corporate or unincorporated association, or the limited liability partnership’s manager; ( b ) by leaving it at, or by sending it by prepaid registered post to, the body corporate’s or unincorporated association’s registered office or principal office in Singapore; ( c ) by sending it by fax to the fax number used at the body corporate’s or unincorporated association’s registered office or principal office in Singapore; ( d ) by sending it by email to the body corporate’s or unincorporated association’s email address; ( e ) by giving an electronic notice to the body corporate or unincorporated association by the body corporate’s or unincorporated association’s chosen means of notification, stating that the document is available and how the body corporate or unincorporated association (as the case may be) may use its chosen means of access to access the document’s contents; or ( f ) by any other method authorised by regulations for the service of documents of that kind if the body corporate or unincorporated association (as the case may be) consents to service of a document of that kind in that way. (5) Service of a document under subsection (1) takes effect — ( a ) if the document is sent by fax and a notification of successful transmission is received, on the day of transmission; ( b ) if the document is sent by email, at the time that the email becomes capable of being retrieved by the person; and ( c ) if the document is sent by prepaid registered post, 2 days after the day the document was posted (even if it is returned undelivered). (6) However, service of any document under this Act on a person by email, or by an electronic notice at the person’s chosen means of notification, may be effected only with the person’s prior consent to service in that way. (7) In this section — “business address” means — ( a ) in the case of an individual, the individual’s usual or last known place of business in Singapore; or ( b ) in the case of a partnership (other than a limited liability partnership), the partnership’s principal or last known place of business in Singapore; “chosen means of access”, for an addressee on whom is or is to be served a document permitted or required by this Act, means an electronic means the addressee agrees with the person giving or serving the document as the means by which the addressee may access that document’s contents; “chosen means of notification”, for an addressee on whom is or is to be served a document permitted or required by this Act, means an electronic means that the addressee nominates to the person giving or serving the document as the means by which the addressee may be notified that such a document has been served on the addressee; “document” includes a notice or order permitted or required by this Act to be served; “last email address” means the last email address given by the addressee concerned to the person giving or serving the document as the email address for the service of documents under this Act, or the last email address of the addressee concerned known to the person giving or serving the document; “residential address” means an individual’s usual or last known place of residence in Singapore. (8) This section does not apply to documents to be served in civil proceedings or criminal proceedings in court or other proceedings."
+    },
+    {
+      "provision_ref": "s49",
+      "chapter": "PART 7 - MISCELLANEOUS",
+      "section": "49",
+      "title": "Regulations",
+      "content": "49. —(1) The Minister may make regulations prescribing matters required or permitted by this Act to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Act. (2) Without limiting subsection (1), the Minister may make regulations for the following matters: ( a ) the appointment of nominated officials for reporting of reportable matters, which may include different nominated officials for different reportable matters; ( b ) the reporting of reportable matters, which may include different periods for reporting for different reportable matters; ( c ) the conduct of investigations into transport occurrences; ( d ) the participation or representation of individuals other than investigators in any investigation as allowed under international agreements, including recovery or reimbursement of reasonable expenses incurred by these individuals by reason of their participation in the investigation from owners or operators of the transport vehicle involved; ( e ) the recovery of costs and expenses incurred in carrying out the investigations; ( f ) the methods of service of documents required or permitted by this Act to be served; ( g ) the offences under this Act that may be compounded; ( h ) the fees to be paid in connection with the administration of this Act, and the waiver, reduction or refund of fees charged. (3) Regulations made under this section may — ( a ) provide that any contravention of any provision of the regulations shall be an offence punishable with a fine not exceeding $100,000 or with imprisonment for a term not exceeding 5 years or with both; and ( b ) provide for such saving, transitional and other consequential, incidental and supplemental provisions as is necessary or expedient."
+    },
+    {
+      "provision_ref": "s50",
+      "chapter": "PART 7 - MISCELLANEOUS",
+      "section": "50",
+      "title": "Presentation to Parliament",
+      "content": "50. All orders and regulations made under sections 5(5), 47 and 49, respectively, must be presented to Parliament as soon as possible after publication in the Gazette ."
+    },
+    {
+      "provision_ref": "s51",
+      "chapter": "PART 8 - AMENDMENTS TO OTHER ACTS",
+      "section": "51",
+      "title": "Amendment of Air Navigation Act",
+      "content": "51. The Air Navigation Act (Cap. 6, 2014 Ed.) is amended — ( a ) by deleting the definitions of “Air Accident Investigation Bureau of Singapore” or “AAIB” and “Inspector of Accidents” or “Inspector” in section 2(1); ( b ) by deleting paragraphs ( a ) to ( d ) of the definition of “excluded information” in section 12 and substituting the following paragraphs: “ ( a ) all statements (whether oral or in writing) obtained from persons by an investigator, or a staff member or consultant of the Transport Safety Investigation Bureau of Singapore in the course of an investigation or a preliminary assessment (including any record of such a statement) under the Transport Safety Investigations Act 2018; ( b ) all information recorded by an investigator, or a staff member or consultant of the Transport Safety Investigation Bureau of Singapore in the course of an investigation or a preliminary assessment under the Transport Safety Investigations Act 2018; ( c ) all communications with a person involved in the operation of an aircraft that is or was the subject of an investigation or a preliminary assessment under the Transport Safety Investigations Act 2018; ( d ) all medical or private information regarding persons (including deceased persons) involved in an accident or incident that is being or has been investigated, or the subject of a preliminary assessment, under the Transport Safety Investigations Act 2018; ( da ) all records of the analysis of information or evidential material acquired in the course of an investigation or a preliminary assessment under the Transport Safety Investigations Act 2018 (such as but not limited to flight recorder information), including any opinion expressed by a person in the analysis of such information or evidential material; ”; ( c ) by deleting the heading of Part IIA and substituting the following heading: “ AIR TRANSPORT UNDERTAKINGS ”; ( d ) by repealing sections 13 to 14E (including the Division 1, 2 and 3 headings); ( e ) by deleting the words “Without prejudice to section 14C, a” in section 29D(1) and substituting the word “A”; ( f ) by inserting the word “or” at the end of section 29D(1)( b ); and ( g ) by deleting paragraph ( c ) of section 29D(1)."
+    },
+    {
+      "provision_ref": "s52",
+      "chapter": "PART 8 - AMENDMENTS TO OTHER ACTS",
+      "section": "52",
+      "title": "Amendment of Civil Aviation Authority of Singapore Act",
+      "content": "52. Section 7(1) of the Civil Aviation Authority of Singapore Act (Cap. 41, 2014 Ed.) is amended by deleting paragraph ( ga ) and substituting the following paragraph: “ ( ga ) to cooperate with the Transport Safety Investigation Bureau of Singapore in relation to investigations under the Transport Safety Investigations Act 2018; ”."
+    },
+    {
+      "provision_ref": "s53",
+      "chapter": "PART 8 - AMENDMENTS TO OTHER ACTS",
+      "section": "53",
+      "title": "Amendment of Land Transport Authority of Singapore Act",
+      "content": "53. Section 7(1) of the Land Transport Authority of Singapore Act (Cap. 158A, 1996 Ed.) is amended by inserting, immediately after paragraph ( l ), the following paragraph: “ ( la ) to cooperate with the Transport Safety Investigation Bureau of Singapore in relation to investigations under the Transport Safety Investigations Act 2018; ”."
+    },
+    {
+      "provision_ref": "s54",
+      "chapter": "PART 8 - AMENDMENTS TO OTHER ACTS",
+      "section": "54",
+      "title": "Amendment of Maritime and Port Authority of Singapore Act",
+      "content": "54. Section 7(1) of the Maritime and Port Authority of Singapore Act (Cap. 170A, 1997 Ed.) is amended by inserting, immediately after paragraph ( l ), the following paragraph: “ ( la ) to cooperate with the Transport Safety Investigation Bureau of Singapore in relation to investigations under the Transport Safety Investigations Act 2018; ”."
+    },
+    {
+      "provision_ref": "s55",
+      "chapter": "PART 8 - AMENDMENTS TO OTHER ACTS",
+      "section": "55",
+      "title": "Amendment of Public Utilities Act",
+      "content": "55. Section 6(1) of the Public Utilities Act (Cap. 261, 2002 Ed.) is amended by deleting the word “and” at the end of paragraph ( ja ), and by inserting immediately thereafter the following paragraph: “ ( jb ) cooperate with the Transport Safety Investigation Bureau of Singapore in relation to investigations under the Transport Safety Investigations Act 2018; and ”."
+    },
+    {
+      "provision_ref": "s56",
+      "chapter": "PART 8 - AMENDMENTS TO OTHER ACTS",
+      "section": "56",
+      "title": "Amendment of Rapid Transit Systems Act",
+      "content": "56. The Rapid Transit Systems Act (Cap. 263A, 2004 Ed.) is amended by deleting paragraph ( e ) of section 45(2) and substituting the following paragraph: “ ( e ) reporting to the Authority of accidents on any part of a railway operated by a licensee, and investigating into such accidents; ”."
+    },
+    {
+      "provision_ref": "s57",
+      "chapter": "PART 8 - AMENDMENTS TO OTHER ACTS",
+      "section": "57",
+      "title": "Saving and transitional",
+      "content": "57. —(1) Every investigation or inquiry into an accident or incident that — ( a ) started before the date of commencement of section 51 — (i) under Part IIA of the Air Navigation Act; or (ii) under Part V of the Merchant Shipping Act by an inspector appointed under section 108 of that Act; and ( b ) remains uncompleted immediately before that date, must continue as if this Act had not been enacted. (2) Despite subsection (1), every investigation or inquiry mentioned in that subsection must be treated as if an investigation under this Act for the purposes of — ( a ) Part 6, and particularly the definition of “restricted information” in section 43; and ( b ) section 12 of the Air Navigation Act as amended by this Act. (3) Every individual who, immediately before the date of commencement of section 23, is appointed — ( a ) an Inspector of Accidents under section 13B(1) of the Air Navigation Act; or ( b ) an inspector under section 108 of the Merchant Shipping Act, continues to hold such office as if he or she were appointed an investigator under this Act. (4) Every report published by the Air Accident Investigation Bureau of Singapore under section 13B(7) of the Air Navigation Act is to be treated as a report published under section 20. (5) For a period of 2 years after the date of commencement of any provision of this Act, the Minister may, by regulations, prescribe such additional provisions of a saving or transitional nature consequent on the enactment of that provision as the Minister may consider necessary or expedient."
+    }
+  ],
+  "definitions": [
+    {
+      "term": "accident",
+      "definition": "“accident” means an accident associated with the operation of a transport vehicle involving circumstances prescribed;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "accident site",
+      "definition": "“accident site” means any premises associated with an occurrence involving a transport vehicle, and includes — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "accident site premises",
+      "definition": "“accident site premises” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aircraft",
+      "definition": "“aircraft” means any machine that can derive support from the atmosphere from the reactions of the air otherwise than by the reactions of the air against the surface of the earth, and includes an unmanned aircraft;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "appropriate foreign authority",
+      "definition": "“appropriate foreign authority” means an authority of a foreign country responsible for transport safety investigations and functions corresponding to investigations that must be carried out by the TSIB, and the functions of the TSIB, under this Act;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "aviation occurrence",
+      "definition": "“aviation occurrence” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Civil Aviation Authority of Singapore",
+      "definition": "“Civil Aviation Authority of Singapore” or “CAAS” means the Civil Aviation Authority of Singapore reconstituted by section 4 of the Civil Aviation Authority of Singapore Act (Cap. 41);",
+      "source_provision": "s2"
+    },
+    {
+      "term": "civil proceedings",
+      "definition": "“civil proceedings” means any proceedings before a Singapore court other than criminal proceedings, and includes a coroner’s inquiry;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Commissioner of Police",
+      "definition": "“Commissioner of Police” means a public officer who is appointed under section 6(1) of the Police Force Act (Cap. 235) as the Commissioner of Police, and includes a police officer who is for the time being appointed under that section to execute the duties of that office;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "consultant",
+      "definition": "“consultant” means a consultant mentioned in section 8(2)( d );",
+      "source_provision": "s2"
+    },
+    {
+      "term": "control area",
+      "definition": "“control area” means an area in a transport vehicle from which essential operational duties or functions in connection with the operation or safety of the transport vehicle are directed or controlled;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cordon",
+      "definition": "“cordon” , in relation to an accident site, a transport vehicle or its wreckage, includes — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "cordoned‑off area",
+      "definition": "“cordoned‑off area” means an area on which a cordon is placed by or under section 31;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "criminal proceedings",
+      "definition": "“criminal proceedings” means proceedings before — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Director",
+      "definition": "“Director” , in relation to any provision of this Act or the regulations, means the Director of the Transport Safety Investigation Bureau of Singapore appointed under section 11(1), and includes — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "disclose",
+      "definition": "“disclose” — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "draft report",
+      "definition": "“draft report” includes a draft report from an appropriate foreign authority about a transport occurrence;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "engage in conduct",
+      "definition": "“engage in conduct” means any act or omission, any series of acts or omissions, or both;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "evidential material",
+      "definition": "“evidential material” means anything that may be relevant to an investigation;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "exempt transport vehicle",
+      "definition": "“exempt transport vehicle” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "film",
+      "definition": "“film” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "foreign country",
+      "definition": "“foreign country” means a country or territory outside of Singapore;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "identification card",
+      "definition": "“identification card” means an identification card issued under section 24;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "immediately reportable matter",
+      "definition": "“immediately reportable matter” means a transport occurrence that is prescribed to be an immediately reportable matter;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "information",
+      "definition": "“information” includes data, text, maps, images, sound, codes, computer programs, software and databases;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "international agreement",
+      "definition": "“international agreement” means a treaty or other agreement whose parties are Singapore and a foreign country, or Singapore and 2 or more foreign countries;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "investigation",
+      "definition": "“investigation” means an investigation under this Act;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "investigator",
+      "definition": "“investigator” , for an investigation, means an individual appointed under section 23 in relation to that investigation;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "investigator‑in‑charge",
+      "definition": "“investigator‑in‑charge” , for an investigation, means an investigator who is designated under section 23 as the investigator‑in‑charge in relation to that investigation;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Land Transport Authority of Singapore",
+      "definition": "“Land Transport Authority of Singapore” or “LTA” means the Land Transport Authority of Singapore established under the Land Transport Authority of Singapore Act (Cap. 158A);",
+      "source_provision": "s2"
+    },
+    {
+      "term": "marine occurrence",
+      "definition": "“marine occurrence” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Maritime and Port Authority of Singapore",
+      "definition": "“Maritime and Port Authority of Singapore” or “MPA” means the Maritime and Port Authority of Singapore established under section 4 of the Maritime and Port Authority of Singapore Act (Cap. 170A);",
+      "source_provision": "s2"
+    },
+    {
+      "term": "nominated official",
+      "definition": "“nominated official” , in relation to a reportable matter, means a TSIB staff member nominated (by name or office) by the Director in relation to that reportable matter;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "occupier",
+      "definition": "“occupier” , for any premises, includes a person present at the premises who apparently represents the occupier;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "occurrence",
+      "definition": "“occurrence” includes an accident and a near‑accident;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ordinary reportable matter",
+      "definition": "“ordinary reportable matter” means a transport occurrence that — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "other proceedings",
+      "definition": "“other proceedings” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "photograph",
+      "definition": "“photograph” means a product of photography or of a process similar to photography, other than an article or a thing in which visual images forming part of a cinematograph film have been embodied, and includes a product of xerography, photocopy, and record of an image, whether digitally or in another way;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "police officer",
+      "definition": "“police officer” includes — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "power",
+      "definition": "“power” includes a function or duty;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "preliminary assessment",
+      "definition": "“preliminary assessment” means a preliminary assessment under section 14;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "premises",
+      "definition": "“premises” includes — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public authority",
+      "definition": "“public authority” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "public passenger service motor vehicle",
+      "definition": "“public passenger service motor vehicle” means a motor vehicle when used to provide regular route services under a public bus services contract entered into with the LTA; and “regular route service” and “public bus services contract” have the respective meanings given by the Bus Services Industry Act 2015 (Act 30 of 2015);",
+      "source_provision": "s2"
+    },
+    {
+      "term": "rail vehicle",
+      "definition": "“rail vehicle” means a vehicle that operates on a railway (including a vehicle that does not have wheels) and used or capable of being used — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "railway",
+      "definition": "“railway” means a system by which vehicles are guided — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "railway occurrence",
+      "definition": "“railway occurrence” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "regulations",
+      "definition": "“regulations” means regulations made under this Act;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "reportable matter",
+      "definition": "“reportable matter” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "responsible person",
+      "definition": "“responsible person” , in relation to a transport occurrence which is a reportable matter, means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "safety action statement",
+      "definition": "“safety action statement” means a statement — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "ship",
+      "definition": "“ship” means any vessel which is used or capable of being used in navigation by water without regard to method or lack of propulsion, and includes — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Singapore aircraft",
+      "definition": "“Singapore aircraft” means an aircraft registered in Singapore under the Air Navigation Act (Cap. 6), or an aircraft owned by the Government;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Singapore military aircraft",
+      "definition": "“Singapore military aircraft” means an aircraft used by the Singapore Armed Forces but does not include an aircraft that is registered under written law or in a foreign country;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Singapore military vessel",
+      "definition": "“Singapore military vessel” means a ship owned by the Government and used by the Singapore Armed Forces;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Singapore ship",
+      "definition": "“Singapore ship” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "transport",
+      "definition": "“transport” means transport by — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "transport occurrence",
+      "definition": "“transport occurrence” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "Transport Safety Investigation Bureau of Singapore",
+      "definition": "“Transport Safety Investigation Bureau of Singapore” or “TSIB” means the Government department of that name established by section 8(1);",
+      "source_provision": "s2"
+    },
+    {
+      "term": "transport vehicle",
+      "definition": "“transport vehicle” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "TSIB staff member",
+      "definition": "“TSIB staff member” means — ( a )",
+      "source_provision": "s2"
+    },
+    {
+      "term": "unmanned aircraft",
+      "definition": "“unmanned aircraft” has the meaning given by section 2(1) of the Air Navigation Act;",
+      "source_provision": "s2"
+    },
+    {
+      "term": "unmanned vessel",
+      "definition": "“unmanned vessel” means a vessel equipped wholly or substantially with an autonomous system (such as an unmanned surface vehicle and a saildrone) and includes a barge drawn by an unmanned vessel.",
+      "source_provision": "s2"
+    },
+    {
+      "term": "civil transport facility",
+      "definition": "“civil transport facility” means any premises that is designed or used, wholly or mainly, to facilitate the operation or maintenance of a transport vehicle that is not an exempt transport vehicle;",
+      "source_provision": "s16"
+    },
+    {
+      "term": "flying display",
+      "definition": "“flying display” means a civilian organised event (including any rehearsal for such event) which — ( a )",
+      "source_provision": "s16"
+    },
+    {
+      "term": "military premises",
+      "definition": "“military premises” means premises occupied by the Singapore Armed Forces.",
+      "source_provision": "s16"
+    },
+    {
+      "term": "corporation",
+      "definition": "“corporation” includes a limited liability partnership within the meaning of section 2(1) of the Limited Liability Partnerships Act (Cap. 163A);",
+      "source_provision": "s39"
+    },
+    {
+      "term": "officer",
+      "definition": "“officer” , in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, and includes — ( a )",
+      "source_provision": "s40"
+    },
+    {
+      "term": "reasonable steps",
+      "definition": "“reasonable steps” , in relation to the commission of an offence, includes, but is not limited to, such action (if any) of the following kinds as is reasonable in all the circumstances: ( a )",
+      "source_provision": "s39"
+    },
+    {
+      "term": "state of mind",
+      "definition": "“state of mind” of a person includes — ( a )",
+      "source_provision": "s39"
+    },
+    {
+      "term": "partner",
+      "definition": "“partner” includes a person purporting to act as a partner;",
+      "source_provision": "s40"
+    },
+    {
+      "term": "OBR information",
+      "definition": "“OBR information” means — ( a )",
+      "source_provision": "s43"
+    },
+    {
+      "term": "on‑board recording",
+      "definition": "“on‑board recording” or “OBR” means a recording that satisfies all of the following: ( a )",
+      "source_provision": "s43"
+    },
+    {
+      "term": "restricted information",
+      "definition": "“restricted information” , in relation to a transport occurrence, means any of the following: ( a )",
+      "source_provision": "s43"
+    },
+    {
+      "term": "business address",
+      "definition": "“business address” means — ( a )",
+      "source_provision": "s48"
+    },
+    {
+      "term": "chosen means of access",
+      "definition": "“chosen means of access” , for an addressee on whom is or is to be served a document permitted or required by this Act, means an electronic means the addressee agrees with the person giving or serving the document as the means by which the addressee may access that document’s contents;",
+      "source_provision": "s48"
+    },
+    {
+      "term": "chosen means of notification",
+      "definition": "“chosen means of notification” , for an addressee on whom is or is to be served a document permitted or required by this Act, means an electronic means that the addressee nominates to the person giving or serving the document as the means by which the addressee may be notified that such a document has been served on the addressee;",
+      "source_provision": "s48"
+    },
+    {
+      "term": "document",
+      "definition": "“document” includes a notice or order permitted or required by this Act to be served;",
+      "source_provision": "s48"
+    },
+    {
+      "term": "last email address",
+      "definition": "“last email address” means the last email address given by the addressee concerned to the person giving or serving the document as the email address for the service of documents under this Act, or the last email address of the addressee concerned known to the person giving or serving the document;",
+      "source_provision": "s48"
+    },
+    {
+      "term": "residential address",
+      "definition": "“residential address” means an individual’s usual or last known place of residence in Singapore.",
+      "source_provision": "s48"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "ssjtwaa-1928",
+  "type": "statute",
+  "title": "Straits Settlements and Johore Territorial Waters (Agreement) Act 1928",
+  "title_en": "Straits Settlements and Johore Territorial Waters (Agreement) Act 1928",
+  "short_name": "SSJTWAA1928",
+  "status": "in_force",
+  "issued_date": "",
+  "in_force_date": "",
+  "url": "https://sso.agc.gov.sg/Act/SSJTWAA1928",
+  "description": "An Act to approve an Agreement concluded between His Majesty and the Sultan of the State and Territory of Johore.",
+  "provisions": [
+    {
+      "provision_ref": "s1",
+      "section": "1",
+      "title": "Approval of Agreement",
+      "content": "1. The approval of Parliament is hereby given to the said Agreement."
+    },
+    {
+      "provision_ref": "s2",
+      "section": "2",
+      "title": "Short title",
+      "content": "2. This Act may be cited as the Straits Settlements and Johore Territorial Waters (Agreement) Act 1928."
+    }
+  ],
+  "definitions": []
+}
