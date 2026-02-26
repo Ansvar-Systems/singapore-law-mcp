@@ -7,8 +7,10 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![GitHub stars](https://img.shields.io/github/stars/Ansvar-Systems/Singapore-law-mcp?style=social)](https://github.com/Ansvar-Systems/Singapore-law-mcp)
 [![CI](https://github.com/Ansvar-Systems/Singapore-law-mcp/actions/workflows/ci.yml/badge.svg)](https://github.com/Ansvar-Systems/Singapore-law-mcp/actions/workflows/ci.yml)
+[![Database](https://img.shields.io/badge/database-pre--built-green)]()
+[![Provisions](https://img.shields.io/badge/provisions-28%2C045-blue)]()
 
-Query **Singapore legislation** -- covering data protection, cybersecurity, corporate law, and more -- directly from Claude, Cursor, or any MCP-compatible client.
+Query **523 Singapore Acts** -- from the Personal Data Protection Act and Cybersecurity Act to the Companies Act, Computer Misuse Act, and more -- directly from Claude, Cursor, or any MCP-compatible client.
 
 If you're building legal tech, compliance tools, or doing Singapore legal research, this is your verified reference database.
 
@@ -18,11 +20,11 @@ Built by [Ansvar Systems](https://ansvar.eu) -- Stockholm, Sweden
 
 ## Why This Exists
 
-Singapore legal research is scattered across official government databases, commercial legal platforms, and institutional archives. Whether you're:
-- A **lawyer** validating citations in a brief or contract
-- A **compliance officer** checking if a statute is still in force
-- A **legal tech developer** building tools on Singapore law
-- A **researcher** tracing legislative history
+Singapore legal research is scattered across Singapore Statutes Online (SSO), the Attorney-General's Chambers, and LawNet. Whether you're:
+- A **lawyer** validating citations in a brief or contract under Singapore law
+- A **compliance officer** checking PDPA obligations for data processing in Singapore
+- A **legal tech developer** building tools on Singapore legislation
+- A **researcher** tracing legislative amendments across the revised edition
 
 ...you shouldn't need dozens of browser tabs and manual PDF cross-referencing. Ask Claude. Get the exact provision. With context.
 
@@ -112,14 +114,14 @@ npx @ansvar/singapore-law-mcp
 
 Once connected, just ask naturally:
 
-- *"What does the Singapore data protection law say about consent?"*
-- *"Search for cybersecurity requirements in Singapore legislation"*
-- *"Is this statute still in force?"*
-- *"Find provisions about personal data in Singapore law"*
-- *"What EU directives does this Singapore law implement?"*
-- *"Which Singapore laws implement the GDPR?"*
+- *"What does the PDPA say about data portability?"*
+- *"Find provisions about cybersecurity in the Cybersecurity Act 2018"*
+- *"Is the Computer Misuse Act still in force?"*
+- *"What does the Companies Act say about directors' duties?"*
+- *"Search for data breach notification requirements under PDPA"*
+- *"What are the penalties under the Spam Control Act?"*
 - *"Validate this legal citation"*
-- *"Build a legal stance on data breach notification requirements"*
+- *"Build a legal stance on electronic transactions in Singapore"*
 
 ---
 
