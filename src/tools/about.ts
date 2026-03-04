@@ -44,7 +44,7 @@ export function getAbout(db: InstanceType<typeof Database>, context: AboutContex
       {
         name: 'Singapore Statutes Online (SSO)',
         url: 'https://sso.agc.gov.sg',
-        authority: 'Attorney-General's Chambers',
+        authority: 'Attorney-General\'s Chambers',
       },
     ],
     freshness: {
