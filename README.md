@@ -39,12 +39,12 @@ This MCP server makes Singapore law **searchable, cross-referenceable, and AI-re
 
 > Connect directly to the hosted version -- zero dependencies, nothing to install.
 
-**Endpoint:** `https://mcp.ansvar.eu/law-singapore-law-mcp/mcp`
+**Endpoint:** `https://mcp.ansvar.eu/law-sg/mcp`
 
 | Client | How to Connect |
 |--------|---------------|
 | **Claude.ai** | Settings > Connectors > Add Integration > paste URL |
-| **Claude Code** | `claude mcp add singaporean-law --transport http https://mcp.ansvar.eu/law-singapore-law-mcp/mcp` |
+| **Claude Code** | `claude mcp add singaporean-law --transport http https://mcp.ansvar.eu/law-sg/mcp` |
 | **Claude Desktop** | Add to config (see below) |
 | **GitHub Copilot** | Add to VS Code settings (see below) |
 
@@ -55,7 +55,7 @@ This MCP server makes Singapore law **searchable, cross-referenceable, and AI-re
   "mcpServers": {
     "singaporean-law": {
       "type": "url",
-      "url": "https://mcp.ansvar.eu/law-singapore-law-mcp/mcp"
+      "url": "https://mcp.ansvar.eu/law-sg/mcp"
     }
   }
 }
@@ -68,7 +68,7 @@ This MCP server makes Singapore law **searchable, cross-referenceable, and AI-re
   "github.copilot.chat.mcp.servers": {
     "singaporean-law": {
       "type": "http",
-      "url": "https://mcp.ansvar.eu/law-singapore-law-mcp/mcp"
+      "url": "https://mcp.ansvar.eu/law-sg/mcp"
     }
   }
 }
